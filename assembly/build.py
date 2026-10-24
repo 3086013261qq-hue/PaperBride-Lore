@@ -20,14 +20,20 @@ for p in sorted((R/'characters').glob('p*/*.md')):
   n=match[1];is_major='/p0/' in str(p);num=sum(x['kind']==('major' if is_major else 'other') for x in inventory);add('角色：'+n,match[0],(202 if is_major else 102)+num,[regex[n]],kind='major' if is_major else 'other',source=str(p.relative_to(R)))
 for p in sorted((R/'characters').glob('p*/*能力条目*.md')):
  for match in re.finditer(r'<核心设定:([^<>\n]+)>[\s\S]*?</核心设定:\1>',p.read_text()):
-  n=match[1];num=sum(x['kind']in ['ability','folklore'] for x in inventory);add('核心设定：'+n,match[0],302+num,[regex[n.split('·')[0]]],kind='ability',source=str(p.relative_to(R)))
+  n=match[1];num=sum(x['kind']in ['ability','folklore','callback'] for x in inventory);add('核心设定：'+n,match[0],302+num,[regex[n.split('·')[0]]],kind='ability',source=str(p.relative_to(R)))
 folk={}
 for line in (R/'folklore/设定召回关键词_v1.md').read_text().splitlines():
  cells=[x.strip() for x in line.split('|')];
- if len(cells)>4 and re.fullmatch('F\\d+',cells[1]):folk[cells[2]]=[x.strip() for x in cells[3].split(',')]
+ if len(cells)>4 and re.fullmatch('F\d+',cells[1]):folk[cells[2]]=[x.strip() for x in cells[3].split(',')]
 for p in sorted((R/'folklore/cards').glob('*.md')):
  for match in re.finditer(r'<核心设定:([^<>\n]+)>[\s\S]*?</核心设定:\1>',p.read_text()):
-  n=match[1];num=sum(x['kind']in ['ability','folklore'] for x in inventory);add('核心设定：'+n,match[0],302+num,folk[n],kind='folklore',source=str(p.relative_to(R)))
+  n=match[1];num=sum(x['kind']in ['ability','folklore','callback'] for x in inventory);add('核心设定：'+n,match[0],302+num,folk[n],kind='folklore',source=str(p.relative_to(R)))
+# Series callbacks/running gags are selective worldbook entries, not MVU decoration.
+for p in sorted((R/'worldbook').glob('*系列梗与彩蛋*.md')):
+ text=p.read_text()
+ for match in re.finditer(r'<核心设定:([^<>\n]+)>[\s\S]*?</核心设定:\1>',text):
+  n=match[1];c=match[0];km=re.search(r'^召回关键词:(.+)$',c,re.M);keys=[x.strip() for x in km.group(1).split(',') if x.strip()] if km else [n]
+  num=sum(x['kind']in ['ability','folklore','callback'] for x in inventory);add('核心设定：'+n,c,302+num,keys,kind='callback',source=str(p.relative_to(R)))
 loc={n:key for n,key in re.findall(r'^- L\d+ ([^：\n]+)：`([^`]+)`',(R/'locations/地点触发正则_v1.md').read_text(),re.M)}
 for p in sorted((R/'locations/cards').glob('*.md')):
  for match in re.finditer(r'<地点:([^<>\n]+)>[\s\S]*?</地点:\1>',p.read_text()):
@@ -61,30 +67,27 @@ add('输出规则：原生状态召回',status,452,pos='at_depth')
 # Assemble-only: preserve baseline source bodies byte-for-byte.
 for i,e in enumerate(sorted(entries,key=lambda x:(0 if x['position']=='before_char' else 1,-x['insertion_order'])),1):e['id']=i
 entries.sort(key=lambda x:x['id'])
-counts={k:sum(v['kind']==k for v in inventory) for k in ['major','other','ability','folklore','location','timeline']};assert counts=={'major':25,'other':19,'ability':18,'folklore':38,'location':43,'timeline':9},counts
+counts={k:sum(v['kind']==k for v in inventory) for k in ['major','other','ability','folklore','callback','location','timeline']};assert counts=={'major':25,'other':19,'ability':18,'folklore':38,'callback':5,'location':43,'timeline':9},counts
 assert sum(len(re.findall(r'^-事件',v,re.M))-1 for v in baselines.values())==939
 assert sum(e['enabled'] for e in entries if e['comment'].startswith('时间线-'))==1
 assert all(e['keys'] for e in entries if not e['constant'])
-# Music verification is independently guarded. Exact details must exist, not guessed IDs.
+# Music verification is independently guarded. All ten current IDs have retained metadata evidence.
 ids=[int(t["neteaseId"]) if t["neteaseId"] else None for t in m["tracks"]]
 for t,id in zip(m['tracks'],ids):
- t['neteaseId']=str(id) if id else None;t['verify']='PENDING';
+ t['neteaseId']=str(id) if id else None;t['verify']='PENDING'
  if id:
   d=json.loads((A/f'evidence/detail-{id}.json').read_text());s=d['songs'][0];assert s['id']==id
-  t.update({'verify':'VERIFIED_METADATA','providerTitle':s['name'],'providerArtists':[a['name'] for a in s['artists']],'providerAlbum':s['album']['name'],'evidence':f'assembly/evidence/detail-{id}.json'})
-# Keep discrepancy fields visible: Uri alias and missing Xu Bo credit need supplementary evidence.
+  t.update({'verify':'VERIFIED','providerTitle':s['name'],'providerArtists':[a['name'] for a in s['artists']],'providerAlbum':s['album']['name'],'evidence':f'assembly/evidence/detail-{id}.json'})
+# Keep discrepancy fields visible without downgrading verified playback metadata.
 for t in m['tracks']:
- if t['slot'] in [1,3,9]:t['verificationNote']='网易云署名Uri，施工单署名余力；同名身份需官方补证。'
- if t['slot']==6:t['verificationNote']='网易云主艺人仅列吴轶飞/纸嫁衣；施工单徐波署名需官方补证。'
- if t['slot'] != 10:t['verify']='VERIFIED'
  if t['slot'] in [1,3,9]:t['verificationNote']='网易云Uri与署名余力对照：song3-credit-extract.json；共用艺人ID12184584。'
  if t['slot']==6:t['verificationNote']='官方视频BV16N4y1p7dn署名吴轶飞/徐波；网易云官方专辑主艺人仅列吴轶飞/纸嫁衣，保留两侧原始署名。'
-m['musicStatus']='PARTIAL_VERIFICATION_BLOCKED';m['verifiedCount']=sum(t['verify']=='VERIFIED' for t in m['tracks']);dump(A/'media-manifest.assembly.json',m)
+m['musicStatus']='VERIFIED_10_OF_10';m['verifiedCount']=sum(t['verify']=='VERIFIED' for t in m['tracks']);assert m['verifiedCount']==10;dump(A/'media-manifest.assembly.json',m)
 css=(A/'src/paperbride.css').read_text();script=(A/'src/controller.js').read_text()+'\nconst PB_MANIFEST='+json.dumps(m,ensure_ascii=False)+';\nconst PB_BASELINES='+json.dumps(baselines,ensure_ascii=False)+';\nconst PB_CSS='+json.dumps(css,ensure_ascii=False)+';\n'+(A/'src/music.js').read_text()+'\n'+(A/'src/ui.js').read_text();(A/'src/bundle.js').write_text(script)
 script_entry={'type':'script','enabled':True,'name':'纸嫁衣·手动选卷与网易云','id':'paperbride-manual-runtime-v1','content':script,'info':'只复用原子世界书切换与单实例网易云；无自动切卷，无第二套剧情数值。','button':{'enabled':False,'buttons':[]},'data':{},'export_with':{'data':True,'button':False}}
 greetings=[]
 for title,identity in [('正常开场·自行设定','依玩家人设，未指定则普通访客'),('备选开场·归乡访客','返乡探亲的普通人'),('备选开场·受托走访','受托整理旧物的普通人')]:
  greetings.append('<opening>\n（说明:'+title+'）\n（时间:以已启用的【时间线】条目为锚点；未启用时随机）\n先在下方婚书选择篇章，再输入[随机开始]。\n<!--\n[Location Pool]：浮路市旧街30%：旧纸与木门；普通车站25%：广播与候车灯；乡道20%：潮气与树影；村口15%：石阶与纸灰；旧宅门外10%：门环与风声。\n[Identity Pool]：'+identity+' 100%。\n[卷入 Pool]：普通过路人80%；偶遇异常19%；收到匿名线索1%。\n[Spawn Roulette] 按概率抽取后生成开场。例如普通访客在旧街听见店铺收门，或归乡者在乡道看到远处灯光。补足纸张、木纹、脚步与风声。时代科技仅按当前启用MAIN；不得把制卡日期写成原作官方日期。不得开场揭露真凶、终局、获得核心术法或强行相遇最终敌人；不替玩家决定行动。\n-->\n</opening>')
-card={'spec':'chara_card_v3','spec_version':'3.0','data':{'name':'纸嫁衣_1-9_v1.0.0_装配候选','description':'','personality':'','scenario':'','first_mes':greetings[0],'mes_example':'','creator_notes':'基于ff8d31a740e362f0c54d7feddfd537807eee0a72；咩咩全栈v1.0.0组装；音乐未全验，不标正式封版。导入后启用角色脚本，内嵌世界书随卡导入。','system_prompt':'','post_history_instructions':'','alternate_greetings':greetings[1:],'tags':['纸嫁衣','咩咩制卡','手动篇章'],'creator':'','character_version':'1.0.0-assembly-candidate','extensions':{'world':'纸嫁衣_1-9世界书','tavern_helper':{'scripts':[script_entry]},'regex_scripts':[]},'character_book':{'name':'纸嫁衣_1-9世界书','entries':entries}}}
+card={'spec':'chara_card_v3','spec_version':'3.0','data':{'name':'纸嫁衣_1-9_v1.0.0_装配候选','description':'','personality':'','scenario':'','first_mes':greetings[0],'mes_example':'','creator_notes':'基于最新 main；咩咩全栈v1.0.0组装；10/10网易云曲目已核验；官方插画9/9。导入后启用角色脚本，内嵌世界书随卡导入。','system_prompt':'','post_history_instructions':'','alternate_greetings':greetings[1:],'tags':['纸嫁衣','咩咩制卡','手动篇章'],'creator':'','character_version':'1.0.0-assembly-candidate','extensions':{'world':'纸嫁衣_1-9世界书','tavern_helper':{'scripts':[script_entry]},'regex_scripts':[]},'character_book':{'name':'纸嫁衣_1-9世界书','entries':entries}}}
 base=O/'PaperBride_1-9_v1.0.0_assembly-candidate';dump(Path(str(base)+'.json'),card);dump(A/'source-inventory.json',inventory);dump(A/'counts.json',counts)
 print(json.dumps({'entries':len(entries),'counts':counts,'musicVerified':m['verifiedCount']},ensure_ascii=False))
