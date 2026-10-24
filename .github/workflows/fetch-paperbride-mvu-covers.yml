@@ -1,0 +1,78 @@
+name: Fetch PaperBride MVU Covers
+
+on:
+  push:
+    paths:
+      - '.github/workflows/fetch-paperbride-mvu-covers.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-covers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch official covers
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p media/mvu/covers
+          curl -fL --retry 3 --retry-delay 2 'https://img-tc.tapimg.com/market/images/8701fc4a532368dc2609702f145ac9ac.png' -o media/mvu/covers/MAIN01_paper-bride-1.png
+          curl -fL --retry 3 --retry-delay 2 'https://img-tc.tapimg.com/market/images/b21509d89a8ba7e6ae58bbcf2e1f0623.jpg' -o media/mvu/covers/MAIN02_zangling-village.jpg
+          curl -fL --retry 3 --retry-delay 2 'https://img-tc.tapimg.com/market/images/742326b93462de25050d2ec6fa414305.jpg' -o media/mvu/covers/MAIN03_mandarin-duck-debt.jpg
+          curl -fL --retry 3 --retry-delay 2 'https://img.tapimg.com/market/images/cfb0ac4d4703a84031e7a45d2495e92c.png' -o media/mvu/covers/MAIN04_red-silk.png
+          curl -fL --retry 3 --retry-delay 2 'https://img-tc.tapimg.com/market/images/ea092c57e4e908ee2d1b6205deb57268.png' -o media/mvu/covers/MAIN05_endless-dream.png
+          curl -fL --retry 3 --retry-delay 2 'https://img-tc.tapimg.com/market/images/a50ccdc0588f679ed248718157d22cf4.png' -o media/mvu/covers/MAIN06_eternal-nightmare.png
+          curl -fL --retry 3 --retry-delay 2 'https://img-tc.tapimg.com/market/images/be4770c96ec4d1a96ad6e137f15440fd.jpg' -o media/mvu/covers/MAIN07_qing-never-betrays.jpg
+          curl -fL --retry 3 --retry-delay 2 'https://img-tc.tapimg.com/market/images/f2f867ec085ab0ca0198c884252d7a4c.jpg' -o media/mvu/covers/MAIN08_thousand-child-tree.jpg
+          curl -fL --retry 3 --retry-delay 2 'https://img-tc.tapimg.com/market/images/b683d5eb3168fd13e36abb76f9f50a81.jpg' -o media/mvu/covers/MAIN09_luofu-dream.jpg
+
+      - name: Validate image files
+        shell: bash
+        run: |
+          set -euo pipefail
+          expected=(
+            media/mvu/covers/MAIN01_paper-bride-1.png
+            media/mvu/covers/MAIN02_zangling-village.jpg
+            media/mvu/covers/MAIN03_mandarin-duck-debt.jpg
+            media/mvu/covers/MAIN04_red-silk.png
+            media/mvu/covers/MAIN05_endless-dream.png
+            media/mvu/covers/MAIN06_eternal-nightmare.png
+            media/mvu/covers/MAIN07_qing-never-betrays.jpg
+            media/mvu/covers/MAIN08_thousand-child-tree.jpg
+            media/mvu/covers/MAIN09_luofu-dream.jpg
+          )
+          for f in "${expected[@]}"; do
+            test -s "$f"
+            bytes=$(wc -c < "$f")
+            test "$bytes" -gt 10000
+            file "$f" | grep -Eiq 'PNG image|JPEG image'
+          done
+          echo "9/9 cover validation PASS"
+
+      - name: Commit covers
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add media/mvu/covers/MAIN01_paper-bride-1.png \
+                  media/mvu/covers/MAIN02_zangling-village.jpg \
+                  media/mvu/covers/MAIN03_mandarin-duck-debt.jpg \
+                  media/mvu/covers/MAIN04_red-silk.png \
+                  media/mvu/covers/MAIN05_endless-dream.png \
+                  media/mvu/covers/MAIN06_eternal-nightmare.png \
+                  media/mvu/covers/MAIN07_qing-never-betrays.jpg \
+                  media/mvu/covers/MAIN08_thousand-child-tree.jpg \
+                  media/mvu/covers/MAIN09_luofu-dream.jpg
+          if git diff --cached --quiet; then
+            echo 'Cover files already current; no commit needed.'
+            exit 0
+          fi
+          git commit -m 'media: ingest nine official MVU covers [skip ci]'
+          git push origin HEAD:main
