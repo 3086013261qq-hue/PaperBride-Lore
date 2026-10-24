@@ -1,0 +1,5300 @@
+{
+  "result": {
+    "songs": [
+      {
+        "no": 3,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1387064,
+          "fid": 0,
+          "size": 21823252,
+          "vd": 16556.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 0,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2722540646,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 65.0,
+        "dt": 125853,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2722540646,
+        "sq": {
+          "br": 622462,
+          "fid": 0,
+          "size": 9794741,
+          "vd": 16556.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1751558400000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 5036205,
+          "vd": 16554.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/lmetTYZgd7JsqNByOU2SlA==/109951171396835442.jpg",
+          "name": "无间梦境|纸嫁衣8千子树",
+          "tns": [],
+          "pic_str": "109951171396835442",
+          "id": 277158656,
+          "pic": 109951171396835442
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2014509,
+          "vd": 20968.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3021741,
+          "vd": 19197.0,
+          "sr": 48000
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [
+          "《纸嫁衣8千子树》BGM"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "余力",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          },
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "半刹鬼仙",
+        "mark": 17716871168
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1235848,
+          "fid": 0,
+          "size": 12102937,
+          "vd": 44652.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2722540645,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 80.0,
+        "dt": 78336,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2722540645,
+        "sq": {
+          "br": 515234,
+          "fid": 0,
+          "size": 5046688,
+          "vd": 44652.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1751558400000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 3135405,
+          "vd": 44650.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/lmetTYZgd7JsqNByOU2SlA==/109951171396835442.jpg",
+          "name": "无间梦境|纸嫁衣8千子树",
+          "tns": [],
+          "pic_str": "109951171396835442",
+          "id": 277158656,
+          "pic": 109951171396835442
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1254189,
+          "vd": 49068.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 1881261,
+          "vd": 47292.0,
+          "sr": 48000
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [
+          "《纸嫁衣8千子树》插曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "吴轶飞",
+            "tns": [],
+            "alias": [
+              "哇哇"
+            ],
+            "id": 12462097,
+            "alia": [
+              "哇哇"
+            ]
+          },
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "摇篮曲",
+        "mark": 17716748288
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2722532188,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 15.0,
+        "dt": 78258,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2722532188,
+        "sq": {
+          "br": 1113560,
+          "fid": 0,
+          "size": 10894690,
+          "vd": 93496.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 3132648,
+          "vd": 93495.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/Q-raDtmlAcfLSxhANgVA6Q==/109951171403432344.jpg",
+          "name": "纸嫁衣8摇篮曲（钢琴）",
+          "tns": [],
+          "pic_str": "109951171403432344",
+          "id": 277186060,
+          "pic": 109951171403432344
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1253085,
+          "vd": 97937.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 1879606,
+          "vd": 96141.0,
+          "sr": 44100
+        },
+        "version": 6,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "一依酱",
+            "tns": [],
+            "alias": [],
+            "id": 60977843
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 40,
+        "name": "纸嫁衣8 摇篮曲（钢琴）",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1490585,
+          "fid": 0,
+          "size": 49261856,
+          "vd": 25096.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2722064669,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 75.0,
+        "dt": 264363,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2722064669,
+        "sq": {
+          "br": 722098,
+          "fid": 0,
+          "size": 23866870,
+          "vd": 25096.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1751558400000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10577325,
+          "vd": 25005.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/lmetTYZgd7JsqNByOU2SlA==/109951171396835442.jpg",
+          "name": "无间梦境|纸嫁衣8千子树",
+          "tns": [],
+          "pic_str": "109951171396835442",
+          "id": 277158656,
+          "pic": 109951171396835442
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4230957,
+          "vd": 29406.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6346413,
+          "vd": 27652.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [
+          "《纸嫁衣8千子树》主题曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "汤汤",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          },
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "落巢",
+        "mark": 17716748288
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1911377814,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 147000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1911377814,
+        "sq": {
+          "br": 1685692,
+          "fid": 0,
+          "size": 30974595,
+          "vd": -25046.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320003,
+          "fid": 0,
+          "size": 5881965,
+          "vd": -25057.0,
+          "sr": 48000
+        },
+        "mv": 14494459,
+        "al": {
+          "picUrl": "http://p2.music.126.net/ZrWgJqLD75XvALUIT7E9TQ==/109951166924195228.jpg",
+          "name": "纸嫁衣3鸳鸯债",
+          "tns": [],
+          "pic_str": "109951166924195228",
+          "id": 138761048,
+          "pic": 109951166924195228
+        },
+        "l": {
+          "br": 128003,
+          "fid": 0,
+          "size": 2352813,
+          "vd": -21196.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192003,
+          "fid": 0,
+          "size": 3529197,
+          "vd": -22539.0,
+          "sr": 48000
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "Uri",
+            "tns": [],
+            "alias": [],
+            "id": 12184584
+          },
+          {
+            "name": "喵☆酱",
+            "tns": [],
+            "alias": [],
+            "id": 12373281
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "鸳鸯债",
+        "mark": 128
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 2743251460,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 221701,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2743251460,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8870182,
+          "vd": -62534.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/Q6Irve5nmtC3F3mzHH7l9Q==/109951171972814815.jpg",
+          "name": "何岸-纸嫁衣8原创同人曲",
+          "tns": [],
+          "pic_str": "109951171972814815",
+          "id": 283954353,
+          "pic": 109951171972814815
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3548099,
+          "vd": -58478.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5322127,
+          "vd": -59996.0,
+          "sr": 44100
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [
+          "纸嫁衣8原创同人曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "颂宵",
+            "tns": [],
+            "alias": [],
+            "id": 34235637
+          },
+          {
+            "name": "五归",
+            "tns": [],
+            "alias": [
+              "音乐仓鼠"
+            ],
+            "id": 31087384,
+            "alia": [
+              "音乐仓鼠"
+            ]
+          },
+          {
+            "name": "言九",
+            "tns": [],
+            "alias": [],
+            "id": 33914381
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "何岸 伴奏版",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1751812,
+          "fid": 0,
+          "size": 48908884,
+          "vd": -47987.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2743250761,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 223333,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2743250761,
+        "sq": {
+          "br": 982655,
+          "fid": 0,
+          "size": 27436562,
+          "vd": -47987.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8935725,
+          "vd": -47990.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/Q6Irve5nmtC3F3mzHH7l9Q==/109951171972814815.jpg",
+          "name": "何岸-纸嫁衣8原创同人曲",
+          "tns": [],
+          "pic_str": "109951171972814815",
+          "id": 283954353,
+          "pic": 109951171972814815
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3574317,
+          "vd": -43724.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5361453,
+          "vd": -45404.0,
+          "sr": 48000
+        },
+        "version": 8,
+        "cp": 0,
+        "alia": [
+          "纸嫁衣8原创同人曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "颂宵",
+            "tns": [],
+            "alias": [],
+            "id": 34235637
+          },
+          {
+            "name": "五归",
+            "tns": [],
+            "alias": [
+              "音乐仓鼠"
+            ],
+            "id": 31087384,
+            "alia": [
+              "音乐仓鼠"
+            ]
+          },
+          {
+            "name": "言九",
+            "tns": [],
+            "alias": [],
+            "id": 33914381
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 42,
+        "name": "何岸",
+        "mark": 536879104
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1866766544,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 182000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1866766544,
+        "sq": {
+          "br": 1145341,
+          "fid": 0,
+          "size": 26056528,
+          "vd": -1842.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7282982,
+          "vd": -1843.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/oLL8dmgfWHek85RbNtdx2Q==/109951166232820702.jpg",
+          "name": "《纸嫁衣2奘铃村》",
+          "tns": [],
+          "pic_str": "109951166232820702",
+          "id": 131124674,
+          "pic": 109951166232820702
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 2913219,
+          "vd": 2607.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4369807,
+          "vd": 801.0,
+          "sr": 44100
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          },
+          {
+            "name": "吴轶飞",
+            "tns": [],
+            "alias": [
+              "哇哇"
+            ],
+            "id": 12462097,
+            "alia": [
+              "哇哇"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "生生世世不分离（民国版）-插曲",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1769439,
+          "fid": 0,
+          "size": 47244043,
+          "vd": -68732.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2065906413,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 213600,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2065906413,
+        "sq": {
+          "br": 999870,
+          "fid": 0,
+          "size": 26696553,
+          "vd": -68752.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8545965,
+          "vd": -68737.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/itXD7Th2vEQAVKObSYDWcw==/109951168753608819.jpg",
+          "name": "纸嫁衣第5部无间梦境",
+          "tns": [],
+          "pic_str": "109951168753608819",
+          "id": 169958827,
+          "pic": 109951168753608819
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3418413,
+          "vd": -64523.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5127597,
+          "vd": -66162.0,
+          "sr": 48000
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          },
+          {
+            "name": "喵☆酱",
+            "tns": [],
+            "alias": [],
+            "id": 12373281
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "来生戏--无间梦境主题曲",
+        "mark": 17716748288
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1851365,
+          "fid": 0,
+          "size": 54781779,
+          "vd": -62321.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2615464956,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 236719,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2615464956,
+        "sq": {
+          "br": 1081999,
+          "fid": 0,
+          "size": 32016294,
+          "vd": -62653.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9471405,
+          "vd": -62291.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/JbfxRCFUtUJNVgdCbRnM5A==/109951169855136379.jpg",
+          "name": "无间梦境|纸嫁衣7卿不负",
+          "tns": [],
+          "pic_str": "109951169855136379",
+          "id": 244403669,
+          "pic": 109951169855136379
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3788589,
+          "vd": -58116.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5682861,
+          "vd": -59741.0,
+          "sr": 48000
+        },
+        "version": 7,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "吴轶飞",
+            "tns": [],
+            "alias": [
+              "哇哇"
+            ],
+            "id": 12462097,
+            "alia": [
+              "哇哇"
+            ]
+          },
+          {
+            "name": "朱剑",
+            "tns": [],
+            "alias": [],
+            "id": 33393756
+          },
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          },
+          {
+            "name": "喵☆酱",
+            "tns": [],
+            "alias": [],
+            "id": 12373281
+          },
+          {
+            "name": "阿秋",
+            "tns": [],
+            "alias": [],
+            "id": 33284971
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "痴情客（《纸嫁衣7卿不负》游戏主题曲）",
+        "mark": 17716748288
+      },
+      {
+        "no": 3,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2722739977,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 250161,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2722739977,
+        "sq": {
+          "br": 1201329,
+          "fid": 0,
+          "size": 37570455,
+          "vd": 54387.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10009121,
+          "vd": 54386.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/MAzdbVeAhWpOoc9Bsp1L7Q==/109951170679367083.jpg",
+          "name": "《纸嫁衣》音乐钢琴合集",
+          "tns": [],
+          "pic_str": "109951170679367083",
+          "id": 267709225,
+          "pic": 109951170679367083
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4003675,
+          "vd": 58828.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6005490,
+          "vd": 57031.0,
+          "sr": 44100
+        },
+        "version": 1,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "声不可测",
+            "tns": [],
+            "alias": [
+              "声叔"
+            ],
+            "id": 61358273,
+            "alia": [
+              "声叔"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 35,
+        "name": "落巢《纸嫁衣8》主题曲（钢琴版）",
+        "mark": 131200
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1622506,
+          "fid": 0,
+          "size": 38787535,
+          "vd": -9575.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3406955304,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 191230,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3406955304,
+        "sq": {
+          "br": 857828,
+          "fid": 0,
+          "size": 20508862,
+          "vd": -9575.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1784131200000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7651245,
+          "vd": -9555.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/c4gPS6T3nC2cee_cTPjuFA==/109951173564245598.jpg",
+          "name": "无间梦境|纸嫁衣9罗浮梦",
+          "tns": [],
+          "pic_str": "109951173564245598",
+          "id": 387200480,
+          "pic": 109951173564245598
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3060525,
+          "vd": -5165.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4590765,
+          "vd": -6946.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [
+          "《纸嫁衣9罗浮梦》主题曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "吴轶飞",
+            "tns": [],
+            "alias": [
+              "哇哇"
+            ],
+            "id": 12462097,
+            "alia": [
+              "哇哇"
+            ]
+          },
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          },
+          {
+            "name": "Uri",
+            "tns": [],
+            "alias": [],
+            "id": 12184584
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "罗浮站台",
+        "mark": 17716748288
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1866766554,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 189361,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1866766554,
+        "sq": {
+          "br": 1354041,
+          "fid": 0,
+          "size": 32050461,
+          "vd": 22844.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7577644,
+          "vd": 22842.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/oLL8dmgfWHek85RbNtdx2Q==/109951166232820702.jpg",
+          "name": "《纸嫁衣2奘铃村》",
+          "tns": [],
+          "pic_str": "109951166232820702",
+          "id": 131124674,
+          "pic": 109951166232820702
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3031084,
+          "vd": 27231.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4546604,
+          "vd": 25481.0,
+          "sr": 44100
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          },
+          {
+            "name": "喵☆酱",
+            "tns": [],
+            "alias": [],
+            "id": 12373281
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "生生世世不分离（现代版）-主题曲",
+        "mark": 128
+      },
+      {
+        "no": 3,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1799785,
+          "fid": 0,
+          "size": 26994643,
+          "vd": -34142.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2616163898,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 80.0,
+        "dt": 119990,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2616163898,
+        "sq": {
+          "br": 1029399,
+          "fid": 0,
+          "size": 15439761,
+          "vd": -34148.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320003,
+          "fid": 0,
+          "size": 4801965,
+          "vd": -34149.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/JbfxRCFUtUJNVgdCbRnM5A==/109951169855136379.jpg",
+          "name": "无间梦境|纸嫁衣7卿不负",
+          "tns": [],
+          "pic_str": "109951169855136379",
+          "id": 244403669,
+          "pic": 109951169855136379
+        },
+        "l": {
+          "br": 128003,
+          "fid": 0,
+          "size": 1920813,
+          "vd": -30001.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192003,
+          "fid": 0,
+          "size": 2881197,
+          "vd": -31584.0,
+          "sr": 48000
+        },
+        "version": 6,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 40,
+        "name": "谛听恶趣（《纸嫁衣7卿不负》游戏BGM)",
+        "mark": 17716879360
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1970855116,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 90.0,
+        "dt": 207700,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1970855116,
+        "sq": {
+          "br": 926137,
+          "fid": 0,
+          "size": 24044928,
+          "vd": -50394.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1660233600000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8311162,
+          "vd": -50406.0,
+          "sr": 44100
+        },
+        "mv": 14556259,
+        "al": {
+          "picUrl": "http://p2.music.126.net/X3xTons6DTbL5reeaI8nlA==/109951167763469363.jpg",
+          "name": "纸嫁衣4红丝缠 (游戏《纸嫁衣4红丝缠》主题曲)",
+          "tns": [],
+          "pic_str": "109951167763469363",
+          "id": 149429991,
+          "pic": 109951167763469363
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3324491,
+          "vd": -46233.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4986715,
+          "vd": -47852.0,
+          "sr": 44100
+        },
+        "version": 9,
+        "cp": 1416618,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          },
+          {
+            "name": "喵☆酱",
+            "tns": [],
+            "alias": [],
+            "id": 12373281
+          },
+          {
+            "name": "朱剑",
+            "tns": [],
+            "alias": [],
+            "id": 33393756
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "道不得经 (游戏《纸嫁衣4红丝缠》主题曲)",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1911370575,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 109183,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1911370575,
+        "sq": {
+          "br": 1332081,
+          "fid": 0,
+          "size": 18180202,
+          "vd": 1729.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 4369965,
+          "vd": 1725.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/ZrWgJqLD75XvALUIT7E9TQ==/109951166924195228.jpg",
+          "name": "纸嫁衣3鸳鸯债",
+          "tns": [],
+          "pic_str": "109951166924195228",
+          "id": 138761048,
+          "pic": 109951166924195228
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1748013,
+          "vd": 6002.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 2621997,
+          "vd": 4355.0,
+          "sr": 48000
+        },
+        "version": 8,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          },
+          {
+            "name": "Uri",
+            "tns": [],
+            "alias": [],
+            "id": 12184584
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 42,
+        "name": "你在哪里",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1670593,
+          "fid": 0,
+          "size": 40992818,
+          "vd": -28656.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3330096402,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 90.0,
+        "dt": 196285,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3330096402,
+        "sq": {
+          "br": 901350,
+          "fid": 0,
+          "size": 22118902,
+          "vd": -28656.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1765987200000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7853805,
+          "vd": -28658.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/G1X7rkha6a6RwmUOpLgchg==/109951172454265206.jpg",
+          "name": "纸嫁衣7卿不负",
+          "tns": [],
+          "pic_str": "109951172454265206",
+          "id": 355200236,
+          "pic": 109951172454265206
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3141549,
+          "vd": -24279.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4712301,
+          "vd": -26028.0,
+          "sr": 48000
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [
+          "《纸嫁衣7卿不负》李逢泽&杜言她专属主题曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "喵☆酱",
+            "tns": [],
+            "alias": [],
+            "id": 12373281
+          },
+          {
+            "name": "Uri",
+            "tns": [],
+            "alias": [],
+            "id": 12184584
+          },
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "以鸩为媒",
+        "mark": 17716748288
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1724704,
+          "fid": 0,
+          "size": 56187638,
+          "vd": -31008.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2613414580,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 260625,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2613414580,
+        "sq": {
+          "br": 955325,
+          "fid": 0,
+          "size": 31122719,
+          "vd": -31517.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1722441600000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10427565,
+          "vd": -30769.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/yc_PbOsNbs58ZrfIoL_pww==/109951169835766563.jpg",
+          "name": "无间梦境|纸嫁衣系列",
+          "tns": [],
+          "pic_str": "109951169835766563",
+          "id": 243712941,
+          "pic": 109951169835766563
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4171053,
+          "vd": -26402.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6256557,
+          "vd": -28142.0,
+          "sr": 48000
+        },
+        "version": 8,
+        "cp": 0,
+        "alia": [
+          "纸嫁衣系列2024推广曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          },
+          {
+            "name": "喵☆酱",
+            "tns": [],
+            "alias": [],
+            "id": 12373281
+          },
+          {
+            "name": "Uri",
+            "tns": [],
+            "alias": [],
+            "id": 12184584
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 42,
+        "name": "相思莫负",
+        "mark": 536879104
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1518134,
+          "fid": 0,
+          "size": 36055686,
+          "vd": -1136.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2117875423,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 190000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2117875423,
+        "sq": {
+          "br": 750311,
+          "fid": 0,
+          "size": 17819894,
+          "vd": -1056.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7602285,
+          "vd": -1138.0,
+          "sr": 48000
+        },
+        "mv": 14690104,
+        "al": {
+          "picUrl": "http://p2.music.126.net/tJnVKcmHRQASBl0NfasK-w==/109951169263809185.jpg",
+          "name": "无间梦境|纸嫁衣6千秋魇",
+          "tns": [],
+          "pic_str": "109951169263809185",
+          "id": 183266251,
+          "pic": 109951169263809185
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3040941,
+          "vd": 3209.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4561389,
+          "vd": 1491.0,
+          "sr": 48000
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "吴轶飞",
+            "tns": [],
+            "alias": [
+              "哇哇"
+            ],
+            "id": 12462097,
+            "alia": [
+              "哇哇"
+            ]
+          },
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
+        "mark": 17716748288
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1629039,
+          "fid": 0,
+          "size": 23631065,
+          "vd": -23728.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3407455574,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 75.0,
+        "dt": 116038,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3407455574,
+        "sq": {
+          "br": 861730,
+          "fid": 0,
+          "size": 12501405,
+          "vd": -23728.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1784131200000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320003,
+          "fid": 0,
+          "size": 4643565,
+          "vd": -23731.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/c4gPS6T3nC2cee_cTPjuFA==/109951173564245598.jpg",
+          "name": "无间梦境|纸嫁衣9罗浮梦",
+          "tns": [],
+          "pic_str": "109951173564245598",
+          "id": 387200480,
+          "pic": 109951173564245598
+        },
+        "l": {
+          "br": 128003,
+          "fid": 0,
+          "size": 1857453,
+          "vd": -19572.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192003,
+          "fid": 0,
+          "size": 2786157,
+          "vd": -21161.0,
+          "sr": 48000
+        },
+        "version": 6,
+        "cp": 0,
+        "alia": [
+          "《纸嫁衣9罗浮梦》最终战BGM"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "阿秋",
+            "tns": [],
+            "alias": [],
+            "id": 33284971
+          },
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          },
+          {
+            "name": "Uri",
+            "tns": [],
+            "alias": [],
+            "id": 12184584
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 40,
+        "name": "六僖天尊两途赐福渡鸳妙经",
+        "mark": 17716879360
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1803789,
+          "fid": 0,
+          "size": 27062781,
+          "vd": -20800.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2117884013,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 80.0,
+        "dt": 120026,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2117884013,
+        "sq": {
+          "br": 1033142,
+          "fid": 0,
+          "size": 15500542,
+          "vd": -23929.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320003,
+          "fid": 0,
+          "size": 4803885,
+          "vd": -20701.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/tJnVKcmHRQASBl0NfasK-w==/109951169263809185.jpg",
+          "name": "无间梦境|纸嫁衣6千秋魇",
+          "tns": [],
+          "pic_str": "109951169263809185",
+          "id": 183266282,
+          "pic": 109951169263809185
+        },
+        "l": {
+          "br": 128003,
+          "fid": 0,
+          "size": 1921581,
+          "vd": -16728.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192003,
+          "fid": 0,
+          "size": 2882349,
+          "vd": -18188.0,
+          "sr": 48000
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "六葬千相--纸嫁衣6千秋魇BGM",
+        "mark": 537002112
+      },
+      {
+        "no": 4,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2724015932,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 72852,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2724015932,
+        "sq": {
+          "br": 1177179,
+          "fid": 0,
+          "size": 10721531,
+          "vd": 47796.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 2916354,
+          "vd": 47795.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/MAzdbVeAhWpOoc9Bsp1L7Q==/109951170679367083.jpg",
+          "name": "《纸嫁衣》音乐钢琴合集",
+          "tns": [],
+          "pic_str": "109951170679367083",
+          "id": 267709225,
+          "pic": 109951170679367083
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1166568,
+          "vd": 52227.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 1749830,
+          "vd": 50440.0,
+          "sr": 44100
+        },
+        "version": 2,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "声不可测",
+            "tns": [],
+            "alias": [
+              "声叔"
+            ],
+            "id": 61358273,
+            "alia": [
+              "声叔"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "摇篮曲 《纸嫁衣8》插曲（钢琴版）",
+        "mark": 131200
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1714957,
+          "fid": 0,
+          "size": 75666334,
+          "vd": -30704.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2740900839,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 80.0,
+        "dt": 352941,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2740900839,
+        "sq": {
+          "br": 945926,
+          "fid": 0,
+          "size": 41738455,
+          "vd": -30704.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1756396800000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 14119725,
+          "vd": -30707.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/d9LLPDomtlo9P588UpdOZw==/109951171943049951.jpg",
+          "name": "无间梦境|纸嫁衣系列",
+          "tns": [],
+          "pic_str": "109951171943049951",
+          "id": 283219439,
+          "pic": 109951171943049951
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 5647917,
+          "vd": -26476.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 8471853,
+          "vd": -28105.0,
+          "sr": 48000
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "吴轶飞",
+            "tns": [],
+            "alias": [
+              "哇哇"
+            ],
+            "id": 12462097,
+            "alia": [
+              "哇哇"
+            ]
+          },
+          {
+            "name": "Uri",
+            "tns": [],
+            "alias": [],
+            "id": 12184584
+          },
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "爱逢琪时",
+        "mark": 17716748288
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1408257,
+          "fid": 0,
+          "size": 32821796,
+          "vd": 9408.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2066996812,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 90.0,
+        "dt": 186453,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2066996812,
+        "sq": {
+          "br": 643044,
+          "fid": 0,
+          "size": 14987226,
+          "vd": 3906.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7460205,
+          "vd": 9387.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/itXD7Th2vEQAVKObSYDWcw==/109951168753608819.jpg",
+          "name": "纸嫁衣第5部无间梦境",
+          "tns": [],
+          "pic_str": "109951168753608819",
+          "id": 169958827,
+          "pic": 109951168753608819
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2984109,
+          "vd": 13826.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4476141,
+          "vd": 12031.0,
+          "sr": 48000
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          },
+          {
+            "name": "吴轶飞",
+            "tns": [],
+            "alias": [
+              "哇哇"
+            ],
+            "id": 12462097,
+            "alia": [
+              "哇哇"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "月缺花残_纸嫁衣第5部《无间梦境》插曲",
+        "mark": 17716748288
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 257,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2723226986,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 264394,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2723226986,
+        "sq": {
+          "br": 878578,
+          "fid": 0,
+          "size": 29041279,
+          "vd": -4304.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10578285,
+          "vd": -4302.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/zhzo8izNYZOztIbmFtF6gA==/109951171414135637.jpg",
+          "name": "落巢《纸嫁衣8·千子树》主题曲",
+          "tns": [],
+          "pic_str": "109951171414135637",
+          "id": 277443418,
+          "pic": 109951171414135637
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "汤汤",
+              "id": 0
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "落巢",
+          "songId": 2722064669,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣8千子树",
+            "id": 277158656
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4231341,
+          "vd": 93.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6346989,
+          "vd": -1668.0,
+          "sr": 48000
+        },
+        "version": 10,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "幽灵",
+            "tns": [],
+            "alias": [
+              "幽灵怨气满满",
+              "幽灵少爷"
+            ],
+            "id": 34536433,
+            "alia": [
+              "幽灵怨气满满",
+              "幽灵少爷"
+            ]
+          },
+          {
+            "name": "予惜y",
+            "tns": [],
+            "alias": [],
+            "id": 31251806
+          },
+          {
+            "name": "若见音社",
+            "tns": [],
+            "alias": [
+              "若见音社原创组",
+              "若见",
+              "人生若只如初见"
+            ],
+            "id": 95598099,
+            "alia": [
+              "若见音社原创组",
+              "若见",
+              "人生若只如初见"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 44,
+        "name": "落巢",
+        "mark": 128
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2708005872,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 123000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2708005872,
+        "sq": {
+          "br": 1004246,
+          "fid": 0,
+          "size": 15442590,
+          "vd": 175719.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320003,
+          "fid": 0,
+          "size": 4922558,
+          "vd": 175718.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/MAzdbVeAhWpOoc9Bsp1L7Q==/109951170679367083.jpg",
+          "name": "《纸嫁衣》音乐钢琴合集",
+          "tns": [],
+          "pic_str": "109951170679367083",
+          "id": 267709225,
+          "pic": 109951170679367083
+        },
+        "l": {
+          "br": 128003,
+          "fid": 0,
+          "size": 1969049,
+          "vd": 180093.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192003,
+          "fid": 0,
+          "size": 2953552,
+          "vd": 178363.0,
+          "sr": 44100
+        },
+        "version": 2,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "声不可测",
+            "tns": [],
+            "alias": [
+              "声叔"
+            ],
+            "id": 61358273,
+            "alia": [
+              "声叔"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "《纸嫁衣8》千子树BGM （钢琴版）",
+        "mark": 131200
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "hr": {
+          "br": 1674738,
+          "fid": 0,
+          "size": 40675822,
+          "vd": -57507.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2723694623,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 15.0,
+        "dt": 194285,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2723694623,
+        "sq": {
+          "br": 908493,
+          "fid": 0,
+          "size": 22066999,
+          "vd": -57507.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1751904000000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7774125,
+          "vd": -57509.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/A9LbOo-FheWcDsA0kN0HGg==/109951171419599044.jpg",
+          "name": "千子树（游戏《纸嫁衣8千子树》同人曲）",
+          "tns": [],
+          "pic_str": "109951171419599044",
+          "id": 277641934,
+          "pic": 109951171419599044
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3109677,
+          "vd": -53462.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4664493,
+          "vd": -54963.0,
+          "sr": 48000
+        },
+        "version": 4,
+        "cp": 1416618,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "沐可儿",
+            "tns": [],
+            "alias": [],
+            "id": 1047208
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "千子树",
+        "mark": 536879104
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1827349,
+          "fid": 0,
+          "size": 54071140,
+          "vd": -36533.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2615474241,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 40.0,
+        "dt": 236719,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2615474241,
+        "sq": {
+          "br": 1059548,
+          "fid": 0,
+          "size": 31351977,
+          "vd": -36712.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9471405,
+          "vd": -36472.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/JbfxRCFUtUJNVgdCbRnM5A==/109951169855136379.jpg",
+          "name": "无间梦境|纸嫁衣7卿不负",
+          "tns": [],
+          "pic_str": "109951169855136379",
+          "id": 244403669,
+          "pic": 109951169855136379
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3788589,
+          "vd": -32342.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5682861,
+          "vd": -33941.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "吴轶飞",
+            "tns": [],
+            "alias": [
+              "哇哇"
+            ],
+            "id": 12462097,
+            "alia": [
+              "哇哇"
+            ]
+          },
+          {
+            "name": "喵☆酱",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          },
+          {
+            "name": "朱剑",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          },
+          {
+            "name": "阿秋",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          },
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "痴情客（《纸嫁衣7卿不负》游戏主题曲） 伴奏",
+        "mark": 17716748288
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1727997,
+          "fid": 0,
+          "size": 46903307,
+          "vd": -43739.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2727044269,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 217126,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2727044269,
+        "sq": {
+          "br": 958316,
+          "fid": 0,
+          "size": 26013524,
+          "vd": -43739.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 8687085,
+          "vd": -43747.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/j6RzNzfMaJ-dTfcl15tpfQ==/109951171479410610.jpg",
+          "name": "阴命书——《纸嫁衣8千子树》原创同人曲",
+          "tns": [],
+          "pic_str": "109951171479410610",
+          "id": 278639904,
+          "pic": 109951171479410610
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3474861,
+          "vd": -39475.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 5212269,
+          "vd": -41161.0,
+          "sr": 48000
+        },
+        "version": 12,
+        "cp": 0,
+        "alia": [
+          "同人曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "炊饭",
+            "tns": [],
+            "alias": [],
+            "id": 12459673
+          },
+          {
+            "name": "车厘子小七",
+            "tns": [
+              "Cherry"
+            ],
+            "alias": [
+              "七酱",
+              "小七",
+              "车车"
+            ],
+            "id": 30134557,
+            "alia": [
+              "七酱",
+              "小七",
+              "车车"
+            ]
+          },
+          {
+            "name": "苍梧谣",
+            "tns": [],
+            "alias": [],
+            "id": 12937034
+          },
+          {
+            "name": "炽艺Each",
+            "tns": [],
+            "alias": [
+              "71"
+            ],
+            "id": 34745170,
+            "alia": [
+              "71"
+            ]
+          },
+          {
+            "name": "包叽",
+            "tns": [],
+            "alias": [
+              "不能吃的包子"
+            ],
+            "id": 12316341,
+            "alia": [
+              "不能吃的包子"
+            ]
+          },
+          {
+            "name": "是个潘呀",
+            "tns": [],
+            "alias": [],
+            "id": 30129496
+          },
+          {
+            "name": "南柯柯",
+            "tns": [],
+            "alias": [],
+            "id": 31369104
+          },
+          {
+            "name": "无终sz",
+            "tns": [],
+            "alias": [],
+            "id": 30962591
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 46,
+        "name": "阴命书——《纸嫁衣8千子树》原创",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 257,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2723533515,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 83046,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2723533515,
+        "sq": {
+          "br": 796217,
+          "fid": 0,
+          "size": 8267016,
+          "vd": 49257.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320004,
+          "fid": 0,
+          "size": 3324525,
+          "vd": 49260.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/1DdlEsI1wJogQpdbs7G1nw==/109951171506913008.jpg",
+          "name": "摇篮曲《纸嫁衣8 · 千子树》插曲",
+          "tns": [],
+          "pic_str": "109951171506913008",
+          "id": 277486878,
+          "pic": 109951171506913008
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "摇篮曲",
+          "songId": 2722540645,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣8千子树",
+            "id": 277158656
+          }
+        },
+        "l": {
+          "br": 128004,
+          "fid": 0,
+          "size": 1329837,
+          "vd": 53606.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192004,
+          "fid": 0,
+          "size": 1994733,
+          "vd": 51885.0,
+          "sr": 48000
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "清殷sain",
+            "tns": [],
+            "alias": [],
+            "id": 35726428
+          },
+          {
+            "name": "予惜y",
+            "tns": [],
+            "alias": [],
+            "id": 31251806
+          },
+          {
+            "name": "若见音社",
+            "tns": [],
+            "alias": [
+              "若见音社原创组",
+              "若见",
+              "人生若只如初见"
+            ],
+            "id": 95598099,
+            "alia": [
+              "若见音社原创组",
+              "若见",
+              "人生若只如初见"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "摇篮曲",
+        "mark": 128
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "hr": {
+          "br": 1629796,
+          "fid": 0,
+          "size": 39584375,
+          "vd": -23611.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2723696511,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 194285,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2723696511,
+        "sq": {
+          "br": 864109,
+          "fid": 0,
+          "size": 20989111,
+          "vd": -23611.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1751904000000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7774125,
+          "vd": -23632.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/A9LbOo-FheWcDsA0kN0HGg==/109951171419599044.jpg",
+          "name": "千子树（游戏《纸嫁衣8千子树》同人曲）",
+          "tns": [],
+          "pic_str": "109951171419599044",
+          "id": 277641934,
+          "pic": 109951171419599044
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3109677,
+          "vd": -19663.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4664493,
+          "vd": -21137.0,
+          "sr": 48000
+        },
+        "version": 4,
+        "cp": 1416618,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "沐可儿",
+            "tns": [],
+            "alias": [],
+            "id": 1047208
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "千子树 (伴奏)",
+        "mark": 537010176
+      },
+      {
+        "no": 5,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2742080114,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 355223,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2742080114,
+        "sq": {
+          "br": 1204442,
+          "fid": 0,
+          "size": 53487354,
+          "vd": 68110.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 14211701,
+          "vd": 68109.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/MAzdbVeAhWpOoc9Bsp1L7Q==/109951170679367083.jpg",
+          "name": "《纸嫁衣》音乐钢琴合集",
+          "tns": [],
+          "pic_str": "109951170679367083",
+          "id": 267709225,
+          "pic": 109951170679367083
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 5684706,
+          "vd": 72543.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 8527038,
+          "vd": 70752.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "声不可测",
+            "tns": [],
+            "alias": [
+              "声叔"
+            ],
+            "id": 61358273,
+            "alia": [
+              "声叔"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "爱逢琪时《纸嫁衣8》主题曲（钢琴版）",
+        "mark": 131200
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2724991873,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 318378,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2724991873,
+        "sq": {
+          "br": 731058,
+          "fid": 0,
+          "size": 29100005,
+          "vd": -5835.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 12737350,
+          "vd": -5838.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/yNtOnU9ChBsxNo2e7PFyXg==/109951171447811737.jpg",
+          "name": "千子树——《纸嫁衣8之千子树》原创同人曲",
+          "tns": [],
+          "pic_str": "109951171447811737",
+          "id": 278046240,
+          "pic": 109951171447811737
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 5094966,
+          "vd": -1508.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 7642427,
+          "vd": -3206.0,
+          "sr": 44100
+        },
+        "version": 8,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "韩穆死活都要娶我（叶韶雪）",
+            "tns": [],
+            "alias": [
+              "叶韶雪",
+              "小九"
+            ],
+            "id": 34335528,
+            "alia": [
+              "叶韶雪",
+              "小九"
+            ]
+          },
+          {
+            "name": "叶韶雪死活要嫁给我（韩穆）",
+            "tns": [],
+            "alias": [
+              "韩穆"
+            ],
+            "id": 48768392,
+            "alia": [
+              "韩穆"
+            ]
+          },
+          {
+            "name": "雀河崽的狗闪亮登场v",
+            "tns": [],
+            "alias": [
+              "加一"
+            ],
+            "id": 34196985,
+            "alia": [
+              "加一"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 42,
+        "name": "千子树——《纸嫁衣8之千子树》原创同人曲 伴奏版",
+        "mark": 8192
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2727044751,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 217143,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2727044751,
+        "sq": {
+          "br": 1538585,
+          "fid": 0,
+          "size": 41765691,
+          "vd": -5206.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8688370,
+          "vd": -5215.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/j6RzNzfMaJ-dTfcl15tpfQ==/109951171479410610.jpg",
+          "name": "阴命书——《纸嫁衣8千子树》原创同人曲",
+          "tns": [],
+          "pic_str": "109951171479410610",
+          "id": 278639904,
+          "pic": 109951171479410610
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3475374,
+          "vd": -1088.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 5213040,
+          "vd": -2645.0,
+          "sr": 44100
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "炊饭",
+            "tns": [],
+            "alias": [],
+            "id": 12459673
+          },
+          {
+            "name": "车厘子小七",
+            "tns": [
+              "Cherry"
+            ],
+            "alias": [
+              "七酱",
+              "小七",
+              "车车"
+            ],
+            "id": 30134557,
+            "alia": [
+              "七酱",
+              "小七",
+              "车车"
+            ]
+          },
+          {
+            "name": "苍梧谣",
+            "tns": [],
+            "alias": [],
+            "id": 12937034
+          },
+          {
+            "name": "炽艺Each",
+            "tns": [],
+            "alias": [
+              "71"
+            ],
+            "id": 34745170,
+            "alia": [
+              "71"
+            ]
+          },
+          {
+            "name": "包叽",
+            "tns": [],
+            "alias": [
+              "不能吃的包子"
+            ],
+            "id": 12316341,
+            "alia": [
+              "不能吃的包子"
+            ]
+          },
+          {
+            "name": "是个潘呀",
+            "tns": [],
+            "alias": [],
+            "id": 30129496
+          },
+          {
+            "name": "南柯柯",
+            "tns": [],
+            "alias": [],
+            "id": 31369104
+          },
+          {
+            "name": "无终sz",
+            "tns": [],
+            "alias": [],
+            "id": 30962591
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "阴命书 伴奏",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2724991575,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 318378,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2724991575,
+        "sq": {
+          "br": 1570073,
+          "fid": 0,
+          "size": 62490559,
+          "vd": -44000.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 12737350,
+          "vd": -44003.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/yNtOnU9ChBsxNo2e7PFyXg==/109951171447811737.jpg",
+          "name": "千子树——《纸嫁衣8之千子树》原创同人曲",
+          "tns": [],
+          "pic_str": "109951171447811737",
+          "id": 278046240,
+          "pic": 109951171447811737
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 5094966,
+          "vd": -39674.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 7642427,
+          "vd": -41382.0,
+          "sr": 44100
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [
+          "同人曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "韩穆死活都要娶我（叶韶雪）",
+            "tns": [],
+            "alias": [
+              "叶韶雪",
+              "小九"
+            ],
+            "id": 34335528,
+            "alia": [
+              "叶韶雪",
+              "小九"
+            ]
+          },
+          {
+            "name": "叶韶雪死活要嫁给我（韩穆）",
+            "tns": [],
+            "alias": [
+              "韩穆"
+            ],
+            "id": 48768392,
+            "alia": [
+              "韩穆"
+            ]
+          },
+          {
+            "name": "雀河崽的狗闪亮登场v",
+            "tns": [],
+            "alias": [
+              "加一"
+            ],
+            "id": 34196985,
+            "alia": [
+              "加一"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "千子树——《纸嫁衣8之千子树》原创",
+        "mark": 8192
+      },
+      {
+        "no": 9,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3352947928,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 293396,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3352947928,
+        "sq": {
+          "br": 405196,
+          "fid": 0,
+          "size": 14865733,
+          "vd": -241.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 11738427,
+          "vd": -240.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/uSs9BOBFt_TYINsI5tF6oA==/109951172773724710.jpg",
+          "name": "芊诚的野望",
+          "tns": [],
+          "pic_str": "109951172773724710",
+          "id": 362835982,
+          "pic": 109951172773724710
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4695397,
+          "vd": 4197.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 7043074,
+          "vd": 2403.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "诺梓芊诚",
+            "tns": [],
+            "alias": [],
+            "id": 121589195
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "双生祭(纸嫁衣8映像曲)",
+        "mark": 128
+      }
+    ],
+    "songCount": 36
+  },
+  "code": 200,
+  "trp": {
+    "rules": [
+      "search_tab_song::2615474241::searchAlg$isGlobalQuality$1",
+      "search_tab_song::1866766544::searchAlg$isGlobalQuality$1",
+      "search_tab_song::1866766554::searchAlg$isGlobalQuality$1",
+      "search_tab_song::2615464956::searchAlg$isGlobalQuality$1",
+      "search_tab_song::2722540645::searchAlg$isGlobalQuality$1",
+      "search_tab_song::2065906413::searchAlg$isGlobalQuality$1",
+      "search_tab_song::1911377814::searchAlg$isGlobalQuality$1",
+      "search_tab_song::3407455574::searchAlg$isGlobalQuality$1",
+      "search_tab_song::2616163898::searchAlg$isGlobalQuality$1",
+      "search_tab_song::2117875423::searchAlg$isGlobalQuality$1",
+      "search_tab_song::1911370575::searchAlg$isGlobalQuality$1",
+      "search_tab_song::1970855116::searchAlg$isGlobalQuality$1",
+      "search_tab_song::2613414580::searchAlg$isGlobalQuality$2",
+      "search_tab_song::2117884013::searchAlg$isGlobalQuality$1"
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "environment": "Headless Chromium + touch/mobile viewport + mocked helper APIs and mocked NetEase iframe. Not Android/SillyTavern real device, not live audio.",
+  "tests": [
+    {
+      "name": "248 nine covers visible",
+      "pass": true
+    },
+    {
+      "name": "248 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "248 all buttons >=44",
+      "pass": true
+    },
+    {
+      "name": "248 no user mount",
+      "pass": true
+    },
+    {
+      "name": "248 current marker",
+      "pass": true
+    },
+    {
+      "name": "278 nine covers visible",
+      "pass": true
+    },
+    {
+      "name": "278 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "278 all buttons >=44",
+      "pass": true
+    },
+    {
+      "name": "278 no user mount",
+      "pass": true
+    },
+    {
+      "name": "278 current marker",
+      "pass": true
+    },
+    {
+      "name": "360 nine covers visible",
+      "pass": true
+    },
+    {
+      "name": "360 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "360 all buttons >=44",
+      "pass": true
+    },
+    {
+      "name": "360 no user mount",
+      "pass": true
+    },
+    {
+      "name": "360 current marker",
+      "pass": true
+    },
+    {
+      "name": "390 nine covers visible",
+      "pass": true
+    },
+    {
+      "name": "390 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "390 all buttons >=44",
+      "pass": true
+    },
+    {
+      "name": "390 no user mount",
+      "pass": true
+    },
+    {
+      "name": "390 current marker",
+      "pass": true
+    },
+    {
+      "name": "preview does not mutate book",
+      "pass": true
+    },
+    {
+      "name": "cancel no writes",
+      "pass": true
+    },
+    {
+      "name": "manual confirmation switches once",
+      "pass": true
+    },
+    {
+      "name": "mobile manual entry MAIN01",
+      "pass": true
+    },
+    {
+      "name": "mobile manual entry MAIN02",
+      "pass": true
+    },
+    {
+      "name": "mobile manual entry MAIN04",
+      "pass": true
+    },
+    {
+      "name": "mobile manual entry MAIN05",
+      "pass": true
+    },
+    {
+      "name": "mobile manual entry MAIN06",
+      "pass": true
+    },
+    {
+      "name": "mobile manual entry MAIN07",
+      "pass": true
+    },
+    {
+      "name": "mobile manual entry MAIN08",
+      "pass": true
+    },
+    {
+      "name": "mobile manual entry MAIN09",
+      "pass": true
+    },
+    {
+      "name": "music opens no player autoplay",
+      "pass": true
+    },
+    {
+      "name": "gesture creates one auto=0 iframe",
+      "pass": true
+    },
+    {
+      "name": "switch music replaces old iframe",
+      "pass": true
+    },
+    {
+      "name": "close destroys player",
+      "pass": true
+    },
+    {
+      "name": "reopen shows chapters",
+      "pass": true
+    },
+    {
+      "name": "dispose removes all owned UI/player",
+      "pass": true
+    },
+    {
+      "name": "560 nine covers visible",
+      "pass": true
+    },
+    {
+      "name": "560 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "560 all buttons >=44",
+      "pass": true
+    },
+    {
+      "name": "560 no user mount",
+      "pass": true
+    },
+    {
+      "name": "560 current marker",
+      "pass": true
+    },
+    {
+      "name": "690 nine covers visible",
+      "pass": true
+    },
+    {
+      "name": "690 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "690 all buttons >=44",
+      "pass": true
+    },
+    {
+      "name": "690 no user mount",
+      "pass": true
+    },
+    {
+      "name": "690 current marker",
+      "pass": true
+    },
+    {
+      "name": "860 nine covers visible",
+      "pass": true
+    },
+    {
+      "name": "860 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "860 all buttons >=44",
+      "pass": true
+    },
+    {
+      "name": "860 no user mount",
+      "pass": true
+    },
+    {
+      "name": "860 current marker",
+      "pass": true
+    },
+    {
+      "name": "failed covers retain nine buttons",
+      "pass": true
+    },
+    {
+      "name": "failed CDN still switches",
+      "pass": true
+    },
+    {
+      "name": "reduced motion disables FX",
+      "pass": true
+    },
+    {
+      "name": "no browser JavaScript errors",
+      "pass": true
+    }
+  ],
+  "errors": []
+}

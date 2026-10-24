@@ -1,0 +1,4426 @@
+{
+  "result": {
+    "songs": [
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1851365,
+          "fid": 0,
+          "size": 54781779,
+          "vd": -62321.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2615464956,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 236719,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2615464956,
+        "sq": {
+          "br": 1081999,
+          "fid": 0,
+          "size": 32016294,
+          "vd": -62653.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9471405,
+          "vd": -62291.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/JbfxRCFUtUJNVgdCbRnM5A==/109951169855136379.jpg",
+          "name": "无间梦境|纸嫁衣7卿不负",
+          "tns": [],
+          "pic_str": "109951169855136379",
+          "id": 244403669,
+          "pic": 109951169855136379
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3788589,
+          "vd": -58116.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5682861,
+          "vd": -59741.0,
+          "sr": 48000
+        },
+        "version": 7,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "吴轶飞",
+            "tns": [],
+            "alias": [
+              "哇哇"
+            ],
+            "id": 12462097,
+            "alia": [
+              "哇哇"
+            ]
+          },
+          {
+            "name": "朱剑",
+            "tns": [],
+            "alias": [],
+            "id": 33393756
+          },
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          },
+          {
+            "name": "喵☆酱",
+            "tns": [],
+            "alias": [],
+            "id": 12373281
+          },
+          {
+            "name": "阿秋",
+            "tns": [],
+            "alias": [],
+            "id": 33284971
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "痴情客（《纸嫁衣7卿不负》游戏主题曲）",
+        "mark": 17716748288
+      },
+      {
+        "no": 9,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2653795986,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 15.0,
+        "dt": 236535,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2653795986,
+        "sq": {
+          "br": 1729525,
+          "fid": 0,
+          "size": 51136652,
+          "vd": -63995.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9463685,
+          "vd": -63989.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/v0QYha879cmqPb4Vvgfj1A==/109951169954510686.jpg",
+          "name": "各唱各合集【余音不绝】",
+          "tns": [],
+          "pic_str": "109951169954510686",
+          "id": 247817669,
+          "pic": 109951169954510686
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "阿秋",
+              "id": 33284971
+            }
+          ],
+          "name": "痴情客（《纸嫁衣7卿不负》游戏主题曲）",
+          "songId": 2615464956,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣7卿不负",
+            "id": 244403669
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3785500,
+          "vd": -59676.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5678228,
+          "vd": -61412.0,
+          "sr": 44100
+        },
+        "version": 15,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "昔染",
+            "tns": [],
+            "alias": [],
+            "id": 13537143
+          },
+          {
+            "name": "盛姝",
+            "tns": [],
+            "alias": [
+              "姝姝，阿盛"
+            ],
+            "id": 34497829,
+            "alia": [
+              "姝姝，阿盛"
+            ]
+          },
+          {
+            "name": "Flc_溯洄",
+            "tns": [],
+            "alias": [
+              "洄洄",
+              "迟迟"
+            ],
+            "id": 1216018,
+            "alia": [
+              "洄洄",
+              "迟迟"
+            ]
+          },
+          {
+            "name": "NJ青木",
+            "tns": [],
+            "alias": [
+              "木总"
+            ],
+            "id": 12288708,
+            "alia": [
+              "木总"
+            ]
+          },
+          {
+            "name": "沈音音",
+            "tns": [],
+            "alias": [],
+            "id": 34319573
+          },
+          {
+            "name": "沈墨璃",
+            "tns": [],
+            "alias": [],
+            "id": 54075515
+          },
+          {
+            "name": "药迟luriki",
+            "tns": [],
+            "alias": [],
+            "id": 32110646
+          },
+          {
+            "name": "浅水梨什",
+            "tns": [],
+            "alias": [],
+            "id": 54073292
+          },
+          {
+            "name": "砚丞",
+            "tns": [],
+            "alias": [
+              "Yumiya ",
+              "临崖"
+            ],
+            "id": 32433550,
+            "alia": [
+              "Yumiya ",
+              "临崖"
+            ]
+          },
+          {
+            "name": "萌比Yfh",
+            "tns": [],
+            "alias": [
+              "萌萌"
+            ],
+            "id": 12406203,
+            "alia": [
+              "萌萌"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 49,
+        "name": "痴情客（各唱各挑战）",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2619382547,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 236871,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2619382547,
+        "sq": {
+          "br": 991160,
+          "fid": 0,
+          "size": 29347251,
+          "vd": -38193.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9477268,
+          "vd": -36584.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/wG42EDLl2g358RaU7xS1eA==/109951169891688177.jpg",
+          "name": "鹅鹅鹅wu！ 痴情客翻唱",
+          "tns": [],
+          "pic_str": "109951169891688177",
+          "id": 245581417,
+          "pic": 109951169891688177
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "阿秋",
+              "id": 33284971
+            }
+          ],
+          "name": "痴情客（《纸嫁衣7卿不负》游戏主题曲）",
+          "songId": 2615464956,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣7卿不负",
+            "id": 244403669
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3790933,
+          "vd": -32331.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5686378,
+          "vd": -34032.0,
+          "sr": 44100
+        },
+        "version": 7,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "寒鹤",
+            "tns": [],
+            "alias": [],
+            "id": 34634768
+          },
+          {
+            "name": "点子",
+            "tns": [],
+            "alias": [
+              "点师傅",
+              "禾包",
+              "点大王"
+            ],
+            "id": 33913096,
+            "alia": [
+              "点师傅",
+              "禾包",
+              "点大王"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "痴情客",
+        "mark": 128
+      },
+      {
+        "no": 3,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1750129,
+          "fid": 0,
+          "size": 48204004,
+          "vd": -49106.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 6,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2048001156,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 220344,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2048001156,
+        "sq": {
+          "br": 985678,
+          "fid": 0,
+          "size": 27148638,
+          "vd": -48976.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8816685,
+          "vd": -49132.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/ebpDrh6KR67PdcqZn7nrNQ==/109951168618232860.jpg",
+          "name": "痴情客",
+          "tns": [],
+          "pic_str": "109951168618232860",
+          "id": 165731121,
+          "pic": 109951168618232860
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3526701,
+          "vd": -44830.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5290029,
+          "vd": -46529.0,
+          "sr": 48000
+        },
+        "version": 7,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "著小生zoki",
+            "tns": [],
+            "alias": [],
+            "id": 12558238
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "痴情客",
+        "mark": 536879168
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1763666,
+          "fid": 0,
+          "size": 48576857,
+          "vd": -55933.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 6,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2048001103,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 20.0,
+        "dt": 220344,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2048001103,
+        "sq": {
+          "br": 994129,
+          "fid": 0,
+          "size": 27381423,
+          "vd": -56120.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8816685,
+          "vd": -55941.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/ebpDrh6KR67PdcqZn7nrNQ==/109951168618232860.jpg",
+          "name": "痴情客",
+          "tns": [],
+          "pic_str": "109951168618232860",
+          "id": 165731121,
+          "pic": 109951168618232860
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3526701,
+          "vd": -51710.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5290029,
+          "vd": -53348.0,
+          "sr": 48000
+        },
+        "version": 14,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "著小生zoki",
+            "tns": [],
+            "alias": [],
+            "id": 12558238
+          },
+          {
+            "name": "洛天依Official",
+            "tns": [],
+            "alias": [],
+            "id": 906118
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 48,
+        "name": "痴情客",
+        "mark": 17716748352
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1827349,
+          "fid": 0,
+          "size": 54071140,
+          "vd": -36533.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2615474241,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 40.0,
+        "dt": 236719,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2615474241,
+        "sq": {
+          "br": 1059548,
+          "fid": 0,
+          "size": 31351977,
+          "vd": -36712.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9471405,
+          "vd": -36472.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/JbfxRCFUtUJNVgdCbRnM5A==/109951169855136379.jpg",
+          "name": "无间梦境|纸嫁衣7卿不负",
+          "tns": [],
+          "pic_str": "109951169855136379",
+          "id": 244403669,
+          "pic": 109951169855136379
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3788589,
+          "vd": -32342.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5682861,
+          "vd": -33941.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "吴轶飞",
+            "tns": [],
+            "alias": [
+              "哇哇"
+            ],
+            "id": 12462097,
+            "alia": [
+              "哇哇"
+            ]
+          },
+          {
+            "name": "喵☆酱",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          },
+          {
+            "name": "朱剑",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          },
+          {
+            "name": "阿秋",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          },
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "痴情客（《纸嫁衣7卿不负》游戏主题曲） 伴奏",
+        "mark": 17716748288
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2624816532,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 236783,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2624816532,
+        "sq": {
+          "br": 1016799,
+          "fid": 0,
+          "size": 30095226,
+          "vd": -56868.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9474133,
+          "vd": -56709.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/I4-nAtkEcZxUJs7OfLse0A==/109951169941160556.jpg",
+          "name": "纸嫁衣7《痴情客》超燃男女合唱",
+          "tns": [],
+          "pic_str": "109951169941160556",
+          "id": 247152534,
+          "pic": 109951169941160556
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "阿秋",
+              "id": 33284971
+            }
+          ],
+          "name": "痴情客（《纸嫁衣7卿不负》游戏主题曲）",
+          "songId": 2615464956,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣7卿不负",
+            "id": 244403669
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3789679,
+          "vd": -52495.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5684497,
+          "vd": -54155.0,
+          "sr": 44100
+        },
+        "version": 7,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "婷婷吖",
+            "tns": [],
+            "alias": [],
+            "id": 29235073
+          },
+          {
+            "name": "大西瓜",
+            "tns": [],
+            "alias": [],
+            "id": 35021282
+          },
+          {
+            "name": "羽先生_89",
+            "tns": [],
+            "alias": [],
+            "id": 34096728
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "痴情客《纸嫁衣7卿不负》",
+        "mark": 128
+      },
+      {
+        "no": 6,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1834100,
+          "fid": 0,
+          "size": 18620563,
+          "vd": -37413.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2621359274,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 81219,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2621359274,
+        "sq": {
+          "br": 1065692,
+          "fid": 0,
+          "size": 10819366,
+          "vd": -37413.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 3251565,
+          "vd": -37426.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/wam96QKMu8PfQmVSUw9Zew==/109951169496683888.jpg",
+          "name": "2024试唱集",
+          "tns": [],
+          "pic_str": "109951169496683888",
+          "id": 192209496,
+          "pic": 109951169496683888
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "阿秋",
+              "id": 33284971
+            }
+          ],
+          "name": "痴情客（《纸嫁衣7卿不负》游戏主题曲）",
+          "songId": 2615464956,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣7卿不负",
+            "id": 244403669
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1300653,
+          "vd": -33343.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 1950957,
+          "vd": -34920.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "羲和",
+            "tns": [],
+            "alias": [],
+            "id": 34637620
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "痴情客",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 6,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 1932078163,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 70.0,
+        "dt": 235728,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1932078163,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9430125,
+          "vd": -11166.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/WmFKFt1dAkVMLrD8vjAqLA==/109951169953631118.jpg",
+          "name": "人间第一曲",
+          "tns": [],
+          "pic_str": "109951169953631118",
+          "id": 135900919,
+          "pic": 109951169953631118
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3772077,
+          "vd": -6740.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5658093,
+          "vd": -8523.0,
+          "sr": 48000
+        },
+        "version": 13,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "飞云ᅠ",
+            "tns": [],
+            "alias": [],
+            "id": 35247682
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 47,
+        "name": "痴情冢(竹箫版)",
+        "mark": 17180008512
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3350260637,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 236769,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3350260637,
+        "sq": {
+          "br": 1670336,
+          "fid": 0,
+          "size": 49440002,
+          "vd": -70646.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9473089,
+          "vd": -70653.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/z0Dc5DHYdkJnmQTFMNx9KQ==/109951172752478109.jpg",
+          "name": "痴情客【羡音阁版】",
+          "tns": [],
+          "pic_str": "109951172752478109",
+          "id": 362308355,
+          "pic": 109951172752478109
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "喵☆酱",
+              "id": 0
+            },
+            {
+              "name": "朱剑",
+              "id": 0
+            },
+            {
+              "name": "阿秋",
+              "id": 0
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "痴情客（《纸嫁衣7卿不负》游戏主题曲） 伴奏",
+          "songId": 2615474241,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣7卿不负",
+            "id": 244403669
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3789262,
+          "vd": -66589.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5683871,
+          "vd": -68207.0,
+          "sr": 44100
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "伯劳_shrike",
+            "tns": [],
+            "alias": [],
+            "id": 122950687
+          },
+          {
+            "name": "风风风风风",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "痴情客",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 2921616,
+          "fid": 0,
+          "size": 85108124,
+          "vd": -23042.0,
+          "sr": 96000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3448296157,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 233032,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3448296157,
+        "sq": {
+          "br": 1033387,
+          "fid": 0,
+          "size": 30105861,
+          "vd": -23041.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 9323565,
+          "vd": -23056.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/4rOtGGAF9yiV0uP6WCtprg==/109951174108533227.jpg",
+          "name": "痴情客（翻唱）",
+          "tns": [],
+          "pic_str": "109951174108533227",
+          "id": 403881031,
+          "pic": 109951174108533227
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "阿秋",
+              "id": 33284971
+            }
+          ],
+          "name": "痴情客（《纸嫁衣7卿不负》游戏主题曲）",
+          "songId": 2615464956,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣7卿不负",
+            "id": 244403669
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3729453,
+          "vd": -18959.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 5594157,
+          "vd": -20505.0,
+          "sr": 48000
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [
+          "纸嫁衣7《卿不负》片尾曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "饶鑫",
+            "tns": [],
+            "alias": [],
+            "id": 121420389
+          },
+          {
+            "name": "钟誉舟",
+            "tns": [],
+            "alias": [],
+            "id": 36340443
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "痴情客（翻唱）",
+        "mark": 536871040
+      },
+      {
+        "no": 11,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2687519214,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 236936,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2687519214,
+        "sq": {
+          "br": 985601,
+          "fid": 0,
+          "size": 29194951,
+          "vd": -57702.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9480403,
+          "vd": -57715.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/GMeY9Ez9xWrzgsOXrK3yJg==/109951169482925616.jpg",
+          "name": "FM0808",
+          "tns": [],
+          "pic_str": "109951169482925616",
+          "id": 191655282,
+          "pic": 109951169482925616
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3792187,
+          "vd": -53446.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5688259,
+          "vd": -55149.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "乃琳Eileen",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          },
+          {
+            "name": "除号好耶",
+            "tns": [],
+            "alias": [],
+            "id": 49193991
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "痴情客",
+        "mark": 128
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1714997,
+          "fid": 0,
+          "size": 47236337,
+          "vd": -44746.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 6,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2048001154,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 220344,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2048001154,
+        "sq": {
+          "br": 946023,
+          "fid": 0,
+          "size": 26056419,
+          "vd": -45345.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8816685,
+          "vd": -44752.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/ebpDrh6KR67PdcqZn7nrNQ==/109951168618232860.jpg",
+          "name": "痴情客",
+          "tns": [],
+          "pic_str": "109951168618232860",
+          "id": 165731121,
+          "pic": 109951168618232860
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3526701,
+          "vd": -40471.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5290029,
+          "vd": -42173.0,
+          "sr": 48000
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "著小生zoki",
+            "tns": [],
+            "alias": [],
+            "id": 12558238
+          },
+          {
+            "name": "洛天依Official",
+            "tns": [],
+            "alias": [],
+            "id": 906118
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "痴情客 伴奏",
+        "mark": 536879168
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1743266,
+          "fid": 0,
+          "size": 32038063,
+          "vd": -38315.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2067597903,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 147025,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2067597903,
+        "sq": {
+          "br": 973688,
+          "fid": 0,
+          "size": 17894622,
+          "vd": -38259.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320003,
+          "fid": 0,
+          "size": 5883885,
+          "vd": -38338.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/aob3jQddBbDaO4rlnNvnkA==/109951168768082847.jpg",
+          "name": "鸳鸯债 | “人间痴情客，盼谁来相和。”",
+          "tns": [],
+          "pic_str": "109951168768082847",
+          "id": 170509312,
+          "pic": 109951168768082847
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "Uri",
+              "id": 12184584
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "鸳鸯债",
+          "songId": 1911377814,
+          "albumMeta": {
+            "name": "纸嫁衣3鸳鸯债",
+            "id": 138761048
+          }
+        },
+        "l": {
+          "br": 128003,
+          "fid": 0,
+          "size": 2353581,
+          "vd": -34623.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192003,
+          "fid": 0,
+          "size": 3530349,
+          "vd": -35865.0,
+          "sr": 48000
+        },
+        "version": 10,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "酥柚Suyoo",
+            "tns": [],
+            "alias": [],
+            "id": 32460797
+          },
+          {
+            "name": "月大书",
+            "tns": [],
+            "alias": [],
+            "id": 28184356
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 44,
+        "name": "鸳鸯债",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 1932106776,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 287280,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1932106776,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 11492205,
+          "vd": -53495.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/WmFKFt1dAkVMLrD8vjAqLA==/109951169953631118.jpg",
+          "name": "人间第一曲",
+          "tns": [],
+          "pic_str": "109951169953631118",
+          "id": 135900919,
+          "pic": 109951169953631118
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4596909,
+          "vd": -49070.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6895341,
+          "vd": -50854.0,
+          "sr": 48000
+        },
+        "version": 12,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "飞云ᅠ",
+            "tns": [],
+            "alias": [],
+            "id": 35247682
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 46,
+        "name": "痴情冢(竹笛版)",
+        "mark": 17180008448
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1861150,
+          "fid": 0,
+          "size": 55082583,
+          "vd": -61132.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2748281343,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 236749,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2748281343,
+        "sq": {
+          "br": 1091411,
+          "fid": 0,
+          "size": 32303191,
+          "vd": -61132.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9472365,
+          "vd": -61147.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/64reXwKltVxAMfmZtsWOEw==/109951172043923769.jpg",
+          "name": "痴情客（8P女声各唱各）",
+          "tns": [],
+          "pic_str": "109951172043923769",
+          "id": 285805856,
+          "pic": 109951172043923769
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "阿秋",
+              "id": 33284971
+            }
+          ],
+          "name": "痴情客（《纸嫁衣7卿不负》游戏主题曲）",
+          "songId": 2615464956,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣7卿不负",
+            "id": 244403669
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3788973,
+          "vd": -56890.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5683437,
+          "vd": -58576.0,
+          "sr": 48000
+        },
+        "version": 15,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "璃弦Lori",
+            "tns": [],
+            "alias": [
+              "昭昭"
+            ],
+            "id": 50483756,
+            "alia": [
+              "昭昭"
+            ]
+          },
+          {
+            "name": "椰椰夜夜",
+            "tns": [],
+            "alias": [
+              "摇落",
+              "烬夜",
+              "松色",
+              "夜夜"
+            ],
+            "id": 34596281,
+            "alia": [
+              "摇落",
+              "烬夜",
+              "松色",
+              "夜夜"
+            ]
+          },
+          {
+            "name": "程玥淺",
+            "tns": [],
+            "alias": [],
+            "id": 34351430
+          },
+          {
+            "name": "橙汁久久c100",
+            "tns": [],
+            "alias": [
+              "橙雕dio",
+              "Stephanie"
+            ],
+            "id": 34319688,
+            "alia": [
+              "橙雕dio",
+              "Stephanie"
+            ]
+          },
+          {
+            "name": "依依得毅",
+            "tns": [],
+            "alias": [],
+            "id": 34501039
+          },
+          {
+            "name": "陈桉瑾",
+            "tns": [],
+            "alias": [],
+            "id": 55419107
+          },
+          {
+            "name": "祝既湘_bing",
+            "tns": [],
+            "alias": [
+              "柒个路人饼"
+            ],
+            "id": 60195274,
+            "alia": [
+              "柒个路人饼"
+            ]
+          },
+          {
+            "name": "孟昔偿",
+            "tns": [],
+            "alias": [],
+            "id": 54764502
+          },
+          {
+            "name": "晏山青",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 49,
+        "name": "痴情客(8p各唱各)",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 1848467595,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 204168,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1848467595,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 8167725,
+          "vd": -5312.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/WmFKFt1dAkVMLrD8vjAqLA==/109951169953631118.jpg",
+          "name": "痴情的爱",
+          "tns": [],
+          "pic_str": "109951169953631118",
+          "id": 128072602,
+          "pic": 109951169953631118
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3267117,
+          "vd": -962.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4900653,
+          "vd": -2688.0,
+          "sr": 48000
+        },
+        "version": 15,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "飞云ᅠ",
+            "tns": [],
+            "alias": [],
+            "id": 35247682
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 49,
+        "name": "痴情的爱(伤感舞曲)",
+        "mark": 139264
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 2169985,
+          "fid": 0,
+          "size": 63213853,
+          "vd": 295.0,
+          "sr": 96000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3448296158,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 233032,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3448296158,
+        "sq": {
+          "br": 667225,
+          "fid": 0,
+          "size": 19439920,
+          "vd": 290.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 9323565,
+          "vd": 286.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/4rOtGGAF9yiV0uP6WCtprg==/109951174108533227.jpg",
+          "name": "痴情客（翻唱）",
+          "tns": [],
+          "pic_str": "109951174108533227",
+          "id": 403881031,
+          "pic": 109951174108533227
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "阿秋",
+              "id": 33284971
+            }
+          ],
+          "name": "痴情客（《纸嫁衣7卿不负》游戏主题曲）",
+          "songId": 2615464956,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣7卿不负",
+            "id": 244403669
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3729453,
+          "vd": 4600.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 5594157,
+          "vd": 2915.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [
+          "纸嫁衣7《卿不负》片尾曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "饶鑫",
+            "tns": [],
+            "alias": [],
+            "id": 121420389
+          },
+          {
+            "name": "钟誉舟",
+            "tns": [],
+            "alias": [],
+            "id": 36340443
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "痴情客（纯人声）",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3410916089,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 236485,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3410916089,
+        "sq": {
+          "br": 1032039,
+          "fid": 0,
+          "size": 30512150,
+          "vd": -44247.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9461805,
+          "vd": -44263.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/Dtm8qCPl36gZnUQHBmgcCw==/109951173630764358.jpg",
+          "name": "【公梓的翻唱】痴情客",
+          "tns": [],
+          "pic_str": "109951173630764358",
+          "id": 388779752,
+          "pic": 109951173630764358
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "阿秋",
+              "id": 33284971
+            }
+          ],
+          "name": "痴情客（《纸嫁衣7卿不负》游戏主题曲）",
+          "songId": 2615464956,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣7卿不负",
+            "id": 244403669
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3784749,
+          "vd": -40179.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5677101,
+          "vd": -41733.0,
+          "sr": 48000
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "苏公梓",
+            "tns": [],
+            "alias": [],
+            "id": 55429952
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "痴情客",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 257,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2025603285,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 292269,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2025603285,
+        "sq": {
+          "br": 812243,
+          "fid": 0,
+          "size": 29674258,
+          "vd": -10671.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 11693497,
+          "vd": -10372.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/WmFKFt1dAkVMLrD8vjAqLA==/109951169953631118.jpg",
+          "name": "痴情的爱",
+          "tns": [],
+          "pic_str": "109951169953631118",
+          "id": 128072602,
+          "pic": 109951169953631118
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "谭晓晨",
+              "id": 33785599
+            }
+          ],
+          "name": "有一种思念叫永远(remix)",
+          "songId": 1429716042,
+          "albumMeta": {
+            "name": "原来如此 (Remix)",
+            "id": 86378718
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4677425,
+          "vd": -6036.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 7016115,
+          "vd": -7763.0,
+          "sr": 44100
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "飞云ᅠ",
+            "tns": [],
+            "alias": [],
+            "id": 35247682
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "有一种思念叫永远",
+        "mark": 131200
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1864430,
+          "fid": 0,
+          "size": 55168386,
+          "vd": -45712.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2617713723,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 15.0,
+        "dt": 236719,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2617713723,
+        "sq": {
+          "br": 1094537,
+          "fid": 0,
+          "size": 32387302,
+          "vd": -45778.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9471405,
+          "vd": -45725.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/5t7g8z6aEXqXgZEWIf3mdA==/109951169875347116.jpg",
+          "name": "无间梦境|纸嫁衣7卿不负",
+          "tns": [],
+          "pic_str": "109951169875347116",
+          "id": 245158167,
+          "pic": 109951169875347116
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "阿秋",
+              "id": 33284971
+            }
+          ],
+          "name": "痴情客（《纸嫁衣7卿不负》游戏主题曲）",
+          "songId": 2615464956,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣7卿不负",
+            "id": 244403669
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3788589,
+          "vd": -41486.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5682861,
+          "vd": -43163.0,
+          "sr": 48000
+        },
+        "version": 7,
+        "cp": 0,
+        "alia": [
+          "主题曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "昕子Xinxi",
+            "tns": [],
+            "alias": [],
+            "id": 46355330
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "痴情客《纸嫁衣7卿不负》游戏",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 1960474734,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 256008,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1960474734,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10241325,
+          "vd": 11496.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/WmFKFt1dAkVMLrD8vjAqLA==/109951169953631118.jpg",
+          "name": "痴情的爱",
+          "tns": [],
+          "pic_str": "109951169953631118",
+          "id": 128072602,
+          "pic": 109951169953631118
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4096557,
+          "vd": 14875.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6144813,
+          "vd": 13861.0,
+          "sr": 48000
+        },
+        "version": 13,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "飞云ᅠ",
+            "tns": [],
+            "alias": [],
+            "id": 35247682
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 47,
+        "name": "如果再回到从前",
+        "mark": 139264
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 1982151858,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 317688,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1982151858,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 12708525,
+          "vd": -13235.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/WmFKFt1dAkVMLrD8vjAqLA==/109951169953631118.jpg",
+          "name": "痴情的爱",
+          "tns": [],
+          "pic_str": "109951169953631118",
+          "id": 128072602,
+          "pic": 109951169953631118
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 5083437,
+          "vd": -8854.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 7625133,
+          "vd": -10597.0,
+          "sr": 48000
+        },
+        "version": 10,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "飞云ᅠ",
+            "tns": [],
+            "alias": [],
+            "id": 35247682
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 44,
+        "name": "王峰-红颜知己（王玉波 remix）",
+        "mark": 131200
+      },
+      {
+        "no": 10,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2153847228,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 214199,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2153847228,
+        "sq": {
+          "br": 799261,
+          "fid": 0,
+          "size": 21400211,
+          "vd": -23464.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8569965,
+          "vd": -23330.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/UcrJFhWOhvW8dmiOf1et2w==/109951169489789948.jpg",
+          "name": "你我不过是人生匆匆过客",
+          "tns": [],
+          "pic_str": "109951169489789948",
+          "id": 191892875,
+          "pic": 109951169489789948
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3428013,
+          "vd": -19045.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5141997,
+          "vd": -20722.0,
+          "sr": 48000
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "二龙",
+            "tns": [],
+            "alias": [],
+            "id": 61257531
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "我也是痴情男子汉MIX 伴奏",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 1980537582,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 15.0,
+        "dt": 267432,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1980537582,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10698285,
+          "vd": 4084.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/WmFKFt1dAkVMLrD8vjAqLA==/109951169953631118.jpg",
+          "name": "痴情的爱",
+          "tns": [],
+          "pic_str": "109951169953631118",
+          "id": 128072602,
+          "pic": 109951169953631118
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4279341,
+          "vd": 8187.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6418989,
+          "vd": 6576.0,
+          "sr": 48000
+        },
+        "version": 10,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "飞云ᅠ",
+            "tns": [],
+            "alias": [],
+            "id": 35247682
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 44,
+        "name": "群星-来生缘(续情版)（王玉波 remix）",
+        "mark": 131200
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2683393063,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 236671,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2683393063,
+        "sq": {
+          "br": 1637713,
+          "fid": 0,
+          "size": 48454402,
+          "vd": -31448.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9469954,
+          "vd": -31461.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/nlE5WsEaLx8KsmcVv9GQCA==/109951170601409612.jpg",
+          "name": "痴情的过客",
+          "tns": [],
+          "pic_str": "109951170601409612",
+          "id": 265459496,
+          "pic": 109951170601409612
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3788008,
+          "vd": -27468.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5681990,
+          "vd": -28928.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 1416990,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "李英",
+            "tns": [],
+            "alias": [],
+            "id": 97544782
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "痴情的过客",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2106571690,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 279847,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2106571690,
+        "sq": {
+          "br": 786166,
+          "fid": 0,
+          "size": 27500813,
+          "vd": -39506.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1702483200000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 11196125,
+          "vd": -39266.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/45vQy4fvruamOXwNcSqbAw==/109951169145222567.jpg",
+          "name": "人间痴情客",
+          "tns": [],
+          "pic_str": "109951169145222567",
+          "id": 180656507,
+          "pic": 109951169145222567
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4478476,
+          "vd": -34942.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6717693,
+          "vd": -36645.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 1416618,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "梁帅",
+            "tns": [],
+            "alias": [],
+            "id": 12270068
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "人间痴情客",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 1956138386,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 201600,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1956138386,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8065005,
+          "vd": -60822.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/WmFKFt1dAkVMLrD8vjAqLA==/109951169953631118.jpg",
+          "name": "痴情的爱",
+          "tns": [],
+          "pic_str": "109951169953631118",
+          "id": 128072602,
+          "pic": 109951169953631118
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3226029,
+          "vd": -56439.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4839021,
+          "vd": -58180.0,
+          "sr": 48000
+        },
+        "version": 14,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "飞云ᅠ",
+            "tns": [],
+            "alias": [],
+            "id": 35247682
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 48,
+        "name": "花心",
+        "mark": 139264
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 6,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 1996654779,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 20.0,
+        "dt": 275784,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1996654779,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 11032365,
+          "vd": -1407.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/WmFKFt1dAkVMLrD8vjAqLA==/109951169953631118.jpg",
+          "name": "痴情的爱",
+          "tns": [],
+          "pic_str": "109951169953631118",
+          "id": 128072602,
+          "pic": 109951169953631118
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4412973,
+          "vd": 2468.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6619437,
+          "vd": 974.0,
+          "sr": 48000
+        },
+        "version": 13,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "飞云ᅠ",
+            "tns": [],
+            "alias": [],
+            "id": 35247682
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 47,
+        "name": "片片相思赋予谁",
+        "mark": 17180008512
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "standard",
+          "subp": 1,
+          "fl": 128000,
+          "fee": 0,
+          "dl": 128000,
+          "plLevel": "standard",
+          "maxBrLevel": "standard",
+          "rightSource": 0,
+          "maxbr": 128000,
+          "id": 2738132218,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 128000,
+          "downloadMaxBrLevel": "standard",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "standard",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 128000,
+          "flLevel": "standard",
+          "pl": 128000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 22918,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2738132218,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 3,
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/9CuH045qYHBcHmHq33wWBQ==/109951171901799151.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951171901799151",
+          "id": 0,
+          "pic": 109951171901799151
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 366594,
+          "vd": -62978.0,
+          "sr": 44100
+        },
+        "version": 1,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "林清弄",
+            "tns": [],
+            "alias": [],
+            "id": 1047014
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 35,
+        "name": "痴情客",
+        "mark": 0
+      }
+    ],
+    "songCount": 98
+  },
+  "code": 200,
+  "trp": {
+    "rules": [
+      "search_tab_song::2615474241::searchAlg$isGlobalQuality$1",
+      "search_tab_song::2615464956::searchAlg$isGlobalQuality$1",
+      "search_tab_song::1932078163::searchAlg$isGlobalQuality$1"
+    ]
+  }
+}

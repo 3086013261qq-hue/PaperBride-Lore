@@ -1,0 +1,1512 @@
+{
+  "result": {
+    "searchQcReminder": null,
+    "songs": [
+      {
+        "name": "爱逢琪时",
+        "id": 2740900839,
+        "pst": 0,
+        "t": 0,
+        "ar": [
+          {
+            "id": 12462097,
+            "name": "吴轶飞",
+            "tns": [],
+            "alias": [
+              "哇哇"
+            ],
+            "alia": [
+              "哇哇"
+            ]
+          },
+          {
+            "id": 12184584,
+            "name": "Uri",
+            "tns": [],
+            "alias": []
+          },
+          {
+            "id": 49103473,
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": []
+          }
+        ],
+        "alia": [],
+        "pop": 80.0,
+        "st": 0,
+        "rt": "",
+        "fee": 8,
+        "v": 38,
+        "crbt": null,
+        "cf": "",
+        "al": {
+          "id": 283219439,
+          "name": "无间梦境|纸嫁衣系列",
+          "picUrl": "http://p1.music.126.net/d9LLPDomtlo9P588UpdOZw==/109951171943049951.jpg",
+          "tns": [],
+          "pic_str": "109951171943049951",
+          "pic": 109951171943049951
+        },
+        "dt": 352941,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 14119725,
+          "vd": -30707.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 8471853,
+          "vd": -28105.0,
+          "sr": 48000
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 5647917,
+          "vd": -26476.0,
+          "sr": 48000
+        },
+        "sq": {
+          "br": 945926,
+          "fid": 0,
+          "size": 41738455,
+          "vd": -30704.0,
+          "sr": 48000
+        },
+        "hr": {
+          "br": 1714957,
+          "fid": 0,
+          "size": 75666334,
+          "vd": -30704.0,
+          "sr": 48000
+        },
+        "a": null,
+        "cd": "01",
+        "no": 1,
+        "rtUrl": null,
+        "ftype": 0,
+        "rtUrls": [],
+        "djId": 0,
+        "copyright": 0,
+        "s_id": 0,
+        "mark": 17716748288,
+        "originCoverType": 0,
+        "originSongSimpleData": null,
+        "tagPicList": null,
+        "resourceState": true,
+        "version": 4,
+        "songJumpInfo": null,
+        "entertainmentTags": null,
+        "single": 0,
+        "noCopyrightRcmd": null,
+        "rtype": 0,
+        "rurl": null,
+        "mst": 9,
+        "cp": 0,
+        "mv": 0,
+        "publishTime": 1756396800000,
+        "privilege": {
+          "id": 2740900839,
+          "fee": 0,
+          "payed": 0,
+          "st": -100,
+          "pl": 0,
+          "dl": 0,
+          "sp": 7,
+          "cp": 1,
+          "subp": 1,
+          "cs": false,
+          "maxbr": 999000,
+          "fl": 0,
+          "toast": false,
+          "flag": 4,
+          "preSell": false,
+          "playMaxbr": 999000,
+          "downloadMaxbr": 999000,
+          "maxBrLevel": "hires",
+          "playMaxBrLevel": "hires",
+          "downloadMaxBrLevel": "hires",
+          "plLevel": "none",
+          "dlLevel": "none",
+          "flLevel": "none",
+          "rscl": 0,
+          "freeTrialPrivilege": {
+            "resConsumable": false,
+            "userConsumable": false,
+            "listenType": null,
+            "cannotListenReason": 1,
+            "playReason": null,
+            "freeLimitTagType": null
+          },
+          "rightSource": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 1
+            }
+          ],
+          "code": 0,
+          "message": null,
+          "plLevels": null,
+          "dlLevels": null,
+          "ignoreCache": null,
+          "bd": null
+        }
+      },
+      {
+        "name": "爱逢琪时 （伴奏）",
+        "id": 2740900840,
+        "pst": 0,
+        "t": 0,
+        "ar": [
+          {
+            "id": 12462097,
+            "name": "吴轶飞",
+            "tns": [],
+            "alias": [
+              "哇哇"
+            ],
+            "alia": [
+              "哇哇"
+            ]
+          },
+          {
+            "id": 12184584,
+            "name": "Uri",
+            "tns": [],
+            "alias": []
+          },
+          {
+            "id": 49103473,
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": []
+          }
+        ],
+        "alia": [],
+        "pop": 20.0,
+        "st": 0,
+        "rt": "",
+        "fee": 8,
+        "v": 38,
+        "crbt": null,
+        "cf": "",
+        "al": {
+          "id": 283219439,
+          "name": "无间梦境|纸嫁衣系列",
+          "picUrl": "http://p1.music.126.net/d9LLPDomtlo9P588UpdOZw==/109951171943049951.jpg",
+          "tns": [],
+          "pic_str": "109951171943049951",
+          "pic": 109951171943049951
+        },
+        "dt": 352941,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 14119725,
+          "vd": 51871.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 8471853,
+          "vd": 54454.0,
+          "sr": 48000
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 5647917,
+          "vd": 56148.0,
+          "sr": 48000
+        },
+        "sq": {
+          "br": 813748,
+          "fid": 0,
+          "size": 35907092,
+          "vd": 51871.0,
+          "sr": 48000
+        },
+        "hr": {
+          "br": 1581248,
+          "fid": 0,
+          "size": 69767403,
+          "vd": 51871.0,
+          "sr": 48000
+        },
+        "a": null,
+        "cd": "01",
+        "no": 2,
+        "rtUrl": null,
+        "ftype": 0,
+        "rtUrls": [],
+        "djId": 0,
+        "copyright": 0,
+        "s_id": 0,
+        "mark": 17716871168,
+        "originCoverType": 0,
+        "originSongSimpleData": null,
+        "tagPicList": null,
+        "resourceState": true,
+        "version": 4,
+        "songJumpInfo": null,
+        "entertainmentTags": null,
+        "single": 0,
+        "noCopyrightRcmd": null,
+        "rtype": 0,
+        "rurl": null,
+        "mst": 9,
+        "cp": 0,
+        "mv": 0,
+        "publishTime": 1756396800000,
+        "privilege": {
+          "id": 2740900840,
+          "fee": 0,
+          "payed": 0,
+          "st": -100,
+          "pl": 0,
+          "dl": 0,
+          "sp": 7,
+          "cp": 1,
+          "subp": 1,
+          "cs": false,
+          "maxbr": 999000,
+          "fl": 0,
+          "toast": false,
+          "flag": 0,
+          "preSell": false,
+          "playMaxbr": 999000,
+          "downloadMaxbr": 999000,
+          "maxBrLevel": "hires",
+          "playMaxBrLevel": "hires",
+          "downloadMaxBrLevel": "hires",
+          "plLevel": "none",
+          "dlLevel": "none",
+          "flLevel": "none",
+          "rscl": 0,
+          "freeTrialPrivilege": {
+            "resConsumable": false,
+            "userConsumable": false,
+            "listenType": null,
+            "cannotListenReason": 1,
+            "playReason": null,
+            "freeLimitTagType": null
+          },
+          "rightSource": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 1
+            }
+          ],
+          "code": 0,
+          "message": null,
+          "plLevels": null,
+          "dlLevels": null,
+          "ignoreCache": null,
+          "bd": null
+        }
+      },
+      {
+        "name": "爱逢琪时",
+        "id": 2736332998,
+        "pst": 0,
+        "t": 0,
+        "ar": [
+          {
+            "id": 99508339,
+            "name": "陈佑飞",
+            "tns": [],
+            "alias": []
+          }
+        ],
+        "alia": [],
+        "pop": 5.0,
+        "st": 0,
+        "rt": "",
+        "fee": 8,
+        "v": 36,
+        "crbt": null,
+        "cf": "",
+        "al": {
+          "id": 281572055,
+          "name": "幸福未来",
+          "picUrl": "http://p1.music.126.net/EAGazau2Lk-8gmn7ThHeKQ==/109951171865974288.jpg",
+          "tns": [],
+          "pic_str": "109951171865974288",
+          "pic": 109951171865974288
+        },
+        "dt": 194640,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7788713,
+          "vd": -56360.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4673245,
+          "vd": -53752.0,
+          "sr": 44100
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3115511,
+          "vd": -52118.0,
+          "sr": 44100
+        },
+        "sq": {
+          "br": 1595469,
+          "fid": 0,
+          "size": 38821349,
+          "vd": -56358.0,
+          "sr": 44100
+        },
+        "hr": null,
+        "a": null,
+        "cd": "01",
+        "no": 44,
+        "rtUrl": null,
+        "ftype": 0,
+        "rtUrls": [],
+        "djId": 0,
+        "copyright": 0,
+        "s_id": 0,
+        "mark": 8192,
+        "originCoverType": 1,
+        "originSongSimpleData": null,
+        "tagPicList": null,
+        "resourceState": true,
+        "version": 2,
+        "songJumpInfo": null,
+        "entertainmentTags": null,
+        "single": 0,
+        "noCopyrightRcmd": null,
+        "rtype": 0,
+        "rurl": null,
+        "mst": 9,
+        "cp": 0,
+        "mv": 0,
+        "publishTime": 1755100800000,
+        "privilege": {
+          "id": 2736332998,
+          "fee": 0,
+          "payed": 0,
+          "st": -100,
+          "pl": 0,
+          "dl": 0,
+          "sp": 7,
+          "cp": 1,
+          "subp": 1,
+          "cs": false,
+          "maxbr": 999000,
+          "fl": 0,
+          "toast": false,
+          "flag": 4,
+          "preSell": false,
+          "playMaxbr": 999000,
+          "downloadMaxbr": 999000,
+          "maxBrLevel": "lossless",
+          "playMaxBrLevel": "lossless",
+          "downloadMaxBrLevel": "lossless",
+          "plLevel": "none",
+          "dlLevel": "none",
+          "flLevel": "none",
+          "rscl": 0,
+          "freeTrialPrivilege": {
+            "resConsumable": false,
+            "userConsumable": false,
+            "listenType": null,
+            "cannotListenReason": 1,
+            "playReason": null,
+            "freeLimitTagType": null
+          },
+          "rightSource": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 1
+            }
+          ],
+          "code": 0,
+          "message": null,
+          "plLevels": null,
+          "dlLevels": null,
+          "ignoreCache": null,
+          "bd": null
+        }
+      },
+      {
+        "name": "爱逢琪时",
+        "id": 2750211231,
+        "pst": 0,
+        "t": 0,
+        "ar": [
+          {
+            "id": 49291974,
+            "name": "鹤沢槿Fox",
+            "tns": [],
+            "alias": []
+          },
+          {
+            "id": 0,
+            "name": "南百靈",
+            "tns": [],
+            "alias": []
+          }
+        ],
+        "alia": [],
+        "pop": 5.0,
+        "st": 0,
+        "rt": "",
+        "fee": 0,
+        "v": 41,
+        "crbt": null,
+        "cf": "",
+        "al": {
+          "id": 286487181,
+          "name": "爱逢琪时",
+          "picUrl": "http://p1.music.126.net/DLF2nylGC7QDr8F6cfAb_g==/109951172069980473.jpg",
+          "tns": [],
+          "pic_str": "109951172069980473",
+          "pic": 109951172069980473
+        },
+        "dt": 352941,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 14119725,
+          "vd": -47677.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 8471853,
+          "vd": -45064.0,
+          "sr": 48000
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 5647917,
+          "vd": -43333.0,
+          "sr": 48000
+        },
+        "sq": {
+          "br": 949395,
+          "fid": 0,
+          "size": 41891507,
+          "vd": -47688.0,
+          "sr": 48000
+        },
+        "hr": {
+          "br": 1718734,
+          "fid": 0,
+          "size": 75832929,
+          "vd": -47688.0,
+          "sr": 48000
+        },
+        "a": null,
+        "cd": "01",
+        "no": 1,
+        "rtUrl": null,
+        "ftype": 0,
+        "rtUrls": [],
+        "djId": 0,
+        "copyright": 0,
+        "s_id": 0,
+        "mark": 536871040,
+        "originCoverType": 2,
+        "originSongSimpleData": {
+          "songId": 2740900839,
+          "name": "爱逢琪时",
+          "artists": [
+            {
+              "id": 12462097,
+              "name": "吴轶飞"
+            },
+            {
+              "id": 12184584,
+              "name": "Uri"
+            },
+            {
+              "id": 49103473,
+              "name": "纸嫁衣"
+            }
+          ],
+          "albumMeta": {
+            "id": 283219439,
+            "name": "无间梦境|纸嫁衣系列"
+          }
+        },
+        "tagPicList": null,
+        "resourceState": true,
+        "version": 7,
+        "songJumpInfo": null,
+        "entertainmentTags": null,
+        "single": 0,
+        "noCopyrightRcmd": null,
+        "rtype": 0,
+        "rurl": null,
+        "mst": 9,
+        "cp": 0,
+        "mv": 0,
+        "publishTime": 0,
+        "privilege": {
+          "id": 2750211231,
+          "fee": 0,
+          "payed": 0,
+          "st": 0,
+          "pl": 320000,
+          "dl": 999000,
+          "sp": 7,
+          "cp": 1,
+          "subp": 1,
+          "cs": false,
+          "maxbr": 999000,
+          "fl": 320000,
+          "toast": false,
+          "flag": 129,
+          "preSell": false,
+          "playMaxbr": 999000,
+          "downloadMaxbr": 999000,
+          "maxBrLevel": "hires",
+          "playMaxBrLevel": "hires",
+          "downloadMaxBrLevel": "hires",
+          "plLevel": "exhigh",
+          "dlLevel": "hires",
+          "flLevel": "exhigh",
+          "rscl": null,
+          "freeTrialPrivilege": {
+            "resConsumable": false,
+            "userConsumable": false,
+            "listenType": null,
+            "cannotListenReason": null,
+            "playReason": null,
+            "freeLimitTagType": null
+          },
+          "rightSource": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 1
+            }
+          ],
+          "code": 0,
+          "message": null,
+          "plLevels": null,
+          "dlLevels": null,
+          "ignoreCache": null,
+          "bd": null
+        }
+      },
+      {
+        "name": "纸嫁衣《爱逢琪时》(钢琴版）",
+        "id": 2741409144,
+        "pst": 0,
+        "t": 0,
+        "ar": [
+          {
+            "id": 60977843,
+            "name": "一依酱",
+            "tns": [],
+            "alias": []
+          }
+        ],
+        "alia": [],
+        "pop": 10.0,
+        "st": 0,
+        "rt": "",
+        "fee": 0,
+        "v": 39,
+        "crbt": null,
+        "cf": "",
+        "al": {
+          "id": 283340488,
+          "name": "纸嫁衣系列《爱逢琪时》钢琴版",
+          "picUrl": "http://p1.music.126.net/nLFBlq-uF0Z-rzhTfD01rg==/109951171949954662.jpg",
+          "tns": [],
+          "pic_str": "109951171949954662",
+          "pic": 109951171949954662
+        },
+        "dt": 164390,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 6577965,
+          "vd": 36136.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3946797,
+          "vd": 38781.0,
+          "sr": 48000
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2631213,
+          "vd": 40568.0,
+          "sr": 48000
+        },
+        "sq": {
+          "br": 556708,
+          "fid": 0,
+          "size": 11442734,
+          "vd": 36137.0,
+          "sr": 48000
+        },
+        "hr": {
+          "br": 1322566,
+          "fid": 0,
+          "size": 27180180,
+          "vd": 36137.0,
+          "sr": 48000
+        },
+        "a": null,
+        "cd": "01",
+        "no": 1,
+        "rtUrl": null,
+        "ftype": 0,
+        "rtUrls": [],
+        "djId": 0,
+        "copyright": 0,
+        "s_id": 0,
+        "mark": 537002112,
+        "originCoverType": 2,
+        "originSongSimpleData": {
+          "songId": 2740900840,
+          "name": "爱逢琪时 （伴奏）",
+          "artists": [
+            {
+              "id": 12462097,
+              "name": "吴轶飞"
+            },
+            {
+              "id": 12184584,
+              "name": "Uri"
+            },
+            {
+              "id": 49103473,
+              "name": "纸嫁衣"
+            }
+          ],
+          "albumMeta": {
+            "id": 283219439,
+            "name": "无间梦境|纸嫁衣系列"
+          }
+        },
+        "tagPicList": null,
+        "resourceState": true,
+        "version": 5,
+        "songJumpInfo": null,
+        "entertainmentTags": null,
+        "single": 0,
+        "noCopyrightRcmd": null,
+        "rtype": 0,
+        "rurl": null,
+        "mst": 9,
+        "cp": 0,
+        "mv": 0,
+        "publishTime": 0,
+        "privilege": {
+          "id": 2741409144,
+          "fee": 0,
+          "payed": 0,
+          "st": 0,
+          "pl": 320000,
+          "dl": 999000,
+          "sp": 7,
+          "cp": 1,
+          "subp": 1,
+          "cs": false,
+          "maxbr": 999000,
+          "fl": 320000,
+          "toast": false,
+          "flag": 129,
+          "preSell": false,
+          "playMaxbr": 999000,
+          "downloadMaxbr": 999000,
+          "maxBrLevel": "hires",
+          "playMaxBrLevel": "hires",
+          "downloadMaxBrLevel": "hires",
+          "plLevel": "exhigh",
+          "dlLevel": "hires",
+          "flLevel": "exhigh",
+          "rscl": null,
+          "freeTrialPrivilege": {
+            "resConsumable": false,
+            "userConsumable": false,
+            "listenType": null,
+            "cannotListenReason": null,
+            "playReason": null,
+            "freeLimitTagType": null
+          },
+          "rightSource": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 1
+            }
+          ],
+          "code": 0,
+          "message": null,
+          "plLevels": null,
+          "dlLevels": null,
+          "ignoreCache": null,
+          "bd": null
+        }
+      },
+      {
+        "name": "爱逢琪时《纸嫁衣8》主题曲（钢琴版）",
+        "id": 2742080114,
+        "pst": 0,
+        "t": 0,
+        "ar": [
+          {
+            "id": 61358273,
+            "name": "声不可测",
+            "tns": [],
+            "alias": [
+              "声叔"
+            ],
+            "alia": [
+              "声叔"
+            ]
+          }
+        ],
+        "alia": [],
+        "pop": 5.0,
+        "st": 0,
+        "rt": "",
+        "fee": 0,
+        "v": 37,
+        "crbt": null,
+        "cf": "",
+        "al": {
+          "id": 267709225,
+          "name": "《纸嫁衣》音乐钢琴合集",
+          "picUrl": "http://p1.music.126.net/MAzdbVeAhWpOoc9Bsp1L7Q==/109951170679367083.jpg",
+          "tns": [],
+          "pic_str": "109951170679367083",
+          "pic": 109951170679367083
+        },
+        "dt": 355223,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 14211701,
+          "vd": 68109.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 8527038,
+          "vd": 70752.0,
+          "sr": 44100
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 5684706,
+          "vd": 72543.0,
+          "sr": 44100
+        },
+        "sq": {
+          "br": 1204442,
+          "fid": 0,
+          "size": 53487354,
+          "vd": 68110.0,
+          "sr": 44100
+        },
+        "hr": null,
+        "a": null,
+        "cd": "01",
+        "no": 5,
+        "rtUrl": null,
+        "ftype": 0,
+        "rtUrls": [],
+        "djId": 0,
+        "copyright": 0,
+        "s_id": 0,
+        "mark": 131200,
+        "originCoverType": 2,
+        "originSongSimpleData": null,
+        "tagPicList": null,
+        "resourceState": true,
+        "version": 3,
+        "songJumpInfo": null,
+        "entertainmentTags": null,
+        "single": 0,
+        "noCopyrightRcmd": null,
+        "rtype": 0,
+        "rurl": null,
+        "mst": 9,
+        "cp": 0,
+        "mv": 0,
+        "publishTime": 0,
+        "privilege": {
+          "id": 2742080114,
+          "fee": 0,
+          "payed": 0,
+          "st": 0,
+          "pl": 320000,
+          "dl": 999000,
+          "sp": 7,
+          "cp": 1,
+          "subp": 1,
+          "cs": false,
+          "maxbr": 999000,
+          "fl": 320000,
+          "toast": false,
+          "flag": 129,
+          "preSell": false,
+          "playMaxbr": 999000,
+          "downloadMaxbr": 999000,
+          "maxBrLevel": "lossless",
+          "playMaxBrLevel": "lossless",
+          "downloadMaxBrLevel": "lossless",
+          "plLevel": "exhigh",
+          "dlLevel": "lossless",
+          "flLevel": "exhigh",
+          "rscl": null,
+          "freeTrialPrivilege": {
+            "resConsumable": false,
+            "userConsumable": false,
+            "listenType": null,
+            "cannotListenReason": null,
+            "playReason": null,
+            "freeLimitTagType": null
+          },
+          "rightSource": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 1
+            }
+          ],
+          "code": 0,
+          "message": null,
+          "plLevels": null,
+          "dlLevels": null,
+          "ignoreCache": null,
+          "bd": null
+        }
+      },
+      {
+        "name": "偏来雨时逢春",
+        "id": 2715117214,
+        "pst": 0,
+        "t": 0,
+        "ar": [
+          {
+            "id": 98690449,
+            "name": "哈哈哈哈11",
+            "tns": [],
+            "alias": []
+          }
+        ],
+        "alia": [],
+        "pop": 5.0,
+        "st": 0,
+        "rt": "",
+        "fee": 8,
+        "v": 36,
+        "crbt": null,
+        "cf": "",
+        "al": {
+          "id": 274036594,
+          "name": "爱凋落",
+          "picUrl": "http://p1.music.126.net/KOF4vTYz753XBysrsfUi7A==/109951171259941697.jpg",
+          "tns": [],
+          "pic_str": "109951171259941697",
+          "pic": 109951171259941697
+        },
+        "dt": 53008,
+        "h": {
+          "br": 320007,
+          "fid": 0,
+          "size": 2123276,
+          "vd": 52504.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192007,
+          "fid": 0,
+          "size": 1273983,
+          "vd": 55143.0,
+          "sr": 44100
+        },
+        "l": {
+          "br": 128007,
+          "fid": 0,
+          "size": 849337,
+          "vd": 56938.0,
+          "sr": 44100
+        },
+        "sq": {
+          "br": 620784,
+          "fid": 0,
+          "size": 4114394,
+          "vd": 52505.0,
+          "sr": 44100
+        },
+        "hr": null,
+        "a": null,
+        "cd": "01",
+        "no": 7,
+        "rtUrl": null,
+        "ftype": 0,
+        "rtUrls": [],
+        "djId": 0,
+        "copyright": 0,
+        "s_id": 0,
+        "mark": 139264,
+        "originCoverType": 0,
+        "originSongSimpleData": null,
+        "tagPicList": null,
+        "resourceState": true,
+        "version": 2,
+        "songJumpInfo": null,
+        "entertainmentTags": null,
+        "single": 0,
+        "noCopyrightRcmd": null,
+        "rtype": 0,
+        "rurl": null,
+        "mst": 9,
+        "cp": 0,
+        "mv": 0,
+        "publishTime": 0,
+        "privilege": {
+          "id": 2715117214,
+          "fee": 8,
+          "payed": 0,
+          "st": 0,
+          "pl": 320000,
+          "dl": 0,
+          "sp": 7,
+          "cp": 1,
+          "subp": 1,
+          "cs": false,
+          "maxbr": 999000,
+          "fl": 320000,
+          "toast": false,
+          "flag": 4,
+          "preSell": false,
+          "playMaxbr": 999000,
+          "downloadMaxbr": 999000,
+          "maxBrLevel": "lossless",
+          "playMaxBrLevel": "lossless",
+          "downloadMaxBrLevel": "lossless",
+          "plLevel": "exhigh",
+          "dlLevel": "none",
+          "flLevel": "exhigh",
+          "rscl": 10,
+          "freeTrialPrivilege": {
+            "resConsumable": false,
+            "userConsumable": false,
+            "listenType": null,
+            "cannotListenReason": null,
+            "playReason": null,
+            "freeLimitTagType": null
+          },
+          "rightSource": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 1
+            }
+          ],
+          "code": 0,
+          "message": null,
+          "plLevels": null,
+          "dlLevels": null,
+          "ignoreCache": null,
+          "bd": null
+        }
+      },
+      {
+        "name": "相逢未爱时",
+        "id": 1354425519,
+        "pst": 0,
+        "t": 0,
+        "ar": [
+          {
+            "id": 13133106,
+            "name": "孙艺琪",
+            "tns": [],
+            "alias": []
+          }
+        ],
+        "alia": [],
+        "pop": 5.0,
+        "st": 0,
+        "rt": null,
+        "fee": 0,
+        "v": 37,
+        "crbt": null,
+        "cf": "",
+        "al": {
+          "id": 78200868,
+          "name": "相逢未爱时",
+          "picUrl": "http://p1.music.126.net/R2dY19pnIZeOdBOlPw2p9Q==/109951163959264733.jpg",
+          "tns": [],
+          "pic_str": "109951163959264733",
+          "pic": 109951163959264733
+        },
+        "dt": 231785,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9274558,
+          "vd": -20300.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5564752,
+          "vd": -17800.0,
+          "sr": 44100
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3709849,
+          "vd": -15800.0,
+          "sr": 44100
+        },
+        "sq": {
+          "br": 921670,
+          "fid": 0,
+          "size": 26703767,
+          "vd": -20300.0,
+          "sr": 44100
+        },
+        "hr": null,
+        "a": null,
+        "cd": "1",
+        "no": 1,
+        "rtUrl": null,
+        "ftype": 0,
+        "rtUrls": [],
+        "djId": 0,
+        "copyright": 0,
+        "s_id": 0,
+        "mark": 65536,
+        "originCoverType": 0,
+        "originSongSimpleData": null,
+        "tagPicList": null,
+        "resourceState": true,
+        "version": 3,
+        "songJumpInfo": null,
+        "entertainmentTags": null,
+        "single": 0,
+        "noCopyrightRcmd": null,
+        "rtype": 0,
+        "rurl": null,
+        "mst": 9,
+        "cp": 0,
+        "mv": 0,
+        "publishTime": 0,
+        "privilege": {
+          "id": 1354425519,
+          "fee": 0,
+          "payed": 0,
+          "st": -200,
+          "pl": 0,
+          "dl": 0,
+          "sp": 0,
+          "cp": 0,
+          "subp": 0,
+          "cs": false,
+          "maxbr": 999000,
+          "fl": 0,
+          "toast": false,
+          "flag": 128,
+          "preSell": false,
+          "playMaxbr": 999000,
+          "downloadMaxbr": 999000,
+          "maxBrLevel": "lossless",
+          "playMaxBrLevel": "lossless",
+          "downloadMaxBrLevel": "lossless",
+          "plLevel": "none",
+          "dlLevel": "none",
+          "flLevel": "none",
+          "rscl": null,
+          "freeTrialPrivilege": {
+            "resConsumable": false,
+            "userConsumable": false,
+            "listenType": null,
+            "cannotListenReason": 1,
+            "playReason": null,
+            "freeLimitTagType": null
+          },
+          "rightSource": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 1
+            }
+          ],
+          "code": 0,
+          "message": null,
+          "plLevels": null,
+          "dlLevels": null,
+          "ignoreCache": null,
+          "bd": null
+        }
+      },
+      {
+        "name": "相逢未爱时 (伴奏)",
+        "id": 1354425518,
+        "pst": 0,
+        "t": 0,
+        "ar": [
+          {
+            "id": 13133106,
+            "name": "孙艺琪",
+            "tns": [],
+            "alias": []
+          }
+        ],
+        "alia": [],
+        "pop": 5.0,
+        "st": 0,
+        "rt": null,
+        "fee": 0,
+        "v": 37,
+        "crbt": null,
+        "cf": "",
+        "al": {
+          "id": 78200868,
+          "name": "相逢未爱时",
+          "picUrl": "http://p1.music.126.net/R2dY19pnIZeOdBOlPw2p9Q==/109951163959264733.jpg",
+          "tns": [],
+          "pic_str": "109951163959264733",
+          "pic": 109951163959264733
+        },
+        "dt": 232185,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9290231,
+          "vd": -2.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5574156,
+          "vd": -2.0,
+          "sr": 44100
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3716119,
+          "vd": -2.0,
+          "sr": 44100
+        },
+        "sq": {
+          "br": 860206,
+          "fid": 0,
+          "size": 24965890,
+          "vd": -2.0,
+          "sr": 44100
+        },
+        "hr": null,
+        "a": null,
+        "cd": "1",
+        "no": 2,
+        "rtUrl": null,
+        "ftype": 0,
+        "rtUrls": [],
+        "djId": 0,
+        "copyright": 0,
+        "s_id": 0,
+        "mark": 196608,
+        "originCoverType": 0,
+        "originSongSimpleData": null,
+        "tagPicList": null,
+        "resourceState": true,
+        "version": 3,
+        "songJumpInfo": null,
+        "entertainmentTags": null,
+        "single": 0,
+        "noCopyrightRcmd": null,
+        "rtype": 0,
+        "rurl": null,
+        "mst": 9,
+        "cp": 0,
+        "mv": 0,
+        "publishTime": 0,
+        "privilege": {
+          "id": 1354425518,
+          "fee": 0,
+          "payed": 0,
+          "st": -200,
+          "pl": 0,
+          "dl": 0,
+          "sp": 0,
+          "cp": 0,
+          "subp": 0,
+          "cs": false,
+          "maxbr": 999000,
+          "fl": 0,
+          "toast": false,
+          "flag": 128,
+          "preSell": false,
+          "playMaxbr": 999000,
+          "downloadMaxbr": 999000,
+          "maxBrLevel": "lossless",
+          "playMaxBrLevel": "lossless",
+          "downloadMaxBrLevel": "lossless",
+          "plLevel": "none",
+          "dlLevel": "none",
+          "flLevel": "none",
+          "rscl": null,
+          "freeTrialPrivilege": {
+            "resConsumable": false,
+            "userConsumable": false,
+            "listenType": null,
+            "cannotListenReason": 1,
+            "playReason": null,
+            "freeLimitTagType": null
+          },
+          "rightSource": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 1
+            }
+          ],
+          "code": 0,
+          "message": null,
+          "plLevels": null,
+          "dlLevels": null,
+          "ignoreCache": null,
+          "bd": null
+        }
+      }
+    ],
+    "songCount": 9
+  },
+  "code": 200
+}

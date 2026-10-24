@@ -1,0 +1,6634 @@
+{
+  "artist": {
+    "img1v1Id": 109951166686146954,
+    "topicPerson": 0,
+    "musicSize": 127,
+    "albumSize": 52,
+    "briefDesc": "一个热爱唱歌、喜欢古风戏曲的仓鼠\n我想我在做一件一直以来想做又不敢做的事，而你付出的每一颗糖，都去了该去的远方。\n希望能将我音乐世界里的感动和快乐分享给大家\n生活比想象的美好，想要的东西有很多",
+    "picId": 109951164614557605,
+    "picUrl": "https://p2.music.126.net/Z_10onewkc222CMbsm58NQ==/109951164614557605.jpg",
+    "img1v1Url": "https://p2.music.126.net/zO5cUoQ2-CpAicw0W8darQ==/109951166686146954.jpg",
+    "followed": false,
+    "trans": "",
+    "alias": [],
+    "name": "三叔说",
+    "id": 34142867,
+    "publishTime": 0,
+    "accountId": 133489263,
+    "picId_str": "109951164614557605",
+    "img1v1Id_str": "109951166686146954",
+    "mvSize": 0
+  },
+  "hotSongs": [
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 153927090,
+        "name": "说谎的乌鸦",
+        "picUrl": "https://p2.music.126.net/Wb-u_51zDtUixzRdyr3KQQ==/109951168005537018.jpg",
+        "pic_str": "109951168005537018",
+        "pic": 109951168005537018
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 218958,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8761005,
+        "vd": -47109.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 949072,
+        "fid": 0,
+        "size": 25975946,
+        "vd": -47100.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1718435,
+        "fid": 0,
+        "size": 47033280,
+        "vd": -47100.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3504429,
+        "vd": -42940.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5256621,
+        "vd": -44543.0,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "说谎的乌鸦",
+      "id": 1993060083,
+      "privilege": {
+        "id": 1993060083,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        },
+        {
+          "id": 12084518,
+          "name": "执素兮"
+        }
+      ],
+      "al": {
+        "id": 157035682,
+        "name": "戏子唱罢",
+        "picUrl": "https://p1.music.126.net/gjv7iDM0UbKkovOO283Dzw==/109951168168732253.jpg",
+        "pic_str": "109951168168732253",
+        "pic": 109951168168732253
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 0,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 154030,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 6163897,
+        "vd": -59607.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1646782,
+        "fid": 0,
+        "size": 31706947,
+        "vd": -59599.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2465585,
+        "vd": -55337.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 3698355,
+        "vd": -57005.0,
+        "sr": 44100
+      },
+      "mark": 17179877376,
+      "name": "戏子唱罢",
+      "id": 2008770285,
+      "privilege": {
+        "id": 2008770285,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 153546287,
+        "name": "落伤",
+        "picUrl": "https://p1.music.126.net/GdaGhh8TBxCNTRUzf-bXHQ==/109951167983817550.jpg",
+        "pic_str": "109951167983817550",
+        "pic": 109951167983817550
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 163800,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6554689,
+        "vd": -56281.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1599151,
+        "fid": 0,
+        "size": 32742800,
+        "vd": -56278.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2621902,
+        "vd": -51971.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3932831,
+        "vd": -53682.0,
+        "sr": 44100
+      },
+      "mark": 17179877376,
+      "name": "落伤",
+      "id": 1991042797,
+      "privilege": {
+        "id": 1991042797,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 169500279,
+        "name": "李白的月光",
+        "picUrl": "https://p2.music.126.net/Egl_2vZGM_uvuir1WXS3pg==/109951168735057610.jpg",
+        "pic_str": "109951168735057610",
+        "pic": 109951168735057610
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 185195,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7410285,
+        "vd": -69809.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1034791,
+        "fid": 0,
+        "size": 23954862,
+        "vd": -69846.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1804489,
+        "fid": 0,
+        "size": 41772973,
+        "vd": -69796.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2964141,
+        "vd": -65594.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4446189,
+        "vd": -67242.0,
+        "sr": 48000
+      },
+      "mark": 17716740096,
+      "name": "李白的月光",
+      "id": 2063437833,
+      "privilege": {
+        "id": 2063437833,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 0,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 136494689,
+        "name": "无定骨",
+        "picUrl": "https://p2.music.126.net/mk5I8UpObpzHIeig3sodOA==/109951166650496254.jpg",
+        "pic_str": "109951166650496254",
+        "pic": 109951166650496254
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 12,
+      "dt": 173058,
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 6924582,
+        "vd": -70297.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1685784,
+        "fid": 0,
+        "size": 36467489,
+        "vd": -70291.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2769859,
+        "vd": -66142.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4154767,
+        "vd": -67727.0,
+        "sr": 44100
+      },
+      "mark": 17179877376,
+      "name": "无定骨",
+      "id": 1897350765,
+      "privilege": {
+        "id": 1897350765,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        },
+        {
+          "id": 35243745,
+          "name": "云汐"
+        }
+      ],
+      "al": {
+        "id": 143914726,
+        "name": "人鱼说",
+        "picUrl": "https://p1.music.126.net/ajvvph-EF4f1VLEypUG2dw==/109951173694665648.jpg",
+        "pic_str": "109951173694665648",
+        "pic": 109951173694665648
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 13,
+      "dt": 188442,
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7540027,
+        "vd": -24239.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 870028,
+        "fid": 0,
+        "size": 20493772,
+        "vd": -24741.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3016037,
+        "vd": -19942.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4524034,
+        "vd": -21656.0,
+        "sr": 44100
+      },
+      "mark": 17179877376,
+      "name": "人鱼说",
+      "id": 1940953270,
+      "privilege": {
+        "id": 1940953270,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 153554362,
+        "name": "下坠",
+        "picUrl": "https://p1.music.126.net/nsz0B4xx5f9U7Dc6SMdG1Q==/109951167984315012.jpg",
+        "pic_str": "109951167984315012",
+        "pic": 109951167984315012
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 192746,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7712436,
+        "vd": -54785.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1615815,
+        "fid": 0,
+        "size": 38930438,
+        "vd": -54783.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3085000,
+        "vd": -50559.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4627479,
+        "vd": -52214.0,
+        "sr": 44100
+      },
+      "mark": 17179877376,
+      "name": "下坠",
+      "id": 1991083743,
+      "privilege": {
+        "id": 1991083743,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 94130072,
+        "name": "可能我",
+        "picUrl": "https://p1.music.126.net/oOQjwkVUAkxSyD6qEBC8oQ==/109951165246582712.jpg",
+        "pic_str": "109951165246582712",
+        "pic": 109951165246582712
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 263705,
+      "mst": 9,
+      "cp": 1416914,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10550378,
+        "vd": -45503.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1591563,
+        "fid": 0,
+        "size": 52463079,
+        "vd": -45499.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4220177,
+        "vd": -41249.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 85.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6330244,
+        "vd": -42901.0,
+        "sr": 44100
+      },
+      "mark": 17179942912,
+      "name": "可能我",
+      "id": 1472028208,
+      "privilege": {
+        "id": 1472028208,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13282198,
+          "name": "闻人听書_"
+        },
+        {
+          "id": 46396295,
+          "name": "倪浩毅"
+        },
+        {
+          "id": 47467835,
+          "name": "祥嘞嘞"
+        },
+        {
+          "id": 1158016,
+          "name": "洛劫"
+        },
+        {
+          "id": 12285433,
+          "name": "锦nii"
+        },
+        {
+          "id": 36030189,
+          "name": "鱼多余"
+        },
+        {
+          "id": 47534712,
+          "name": "橘猫烧鲷鱼",
+          "tns": [
+            "叶子"
+          ]
+        },
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        },
+        {
+          "id": 34618954,
+          "name": "景长凌"
+        },
+        {
+          "id": 32856695,
+          "name": "平生不晚"
+        }
+      ],
+      "al": {
+        "id": 158544623,
+        "name": "貳零貳叁·山河此处",
+        "picUrl": "https://p1.music.126.net/E-SMF_W29uZwVhqS_jldvA==/109951168249371041.jpg",
+        "pic_str": "109951168249371041",
+        "pic": 109951168249371041
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 3,
+      "dt": 219393,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8778285,
+        "vd": -58226.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1056526,
+        "fid": 0,
+        "size": 28974435,
+        "vd": -58259.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1826861,
+        "fid": 0,
+        "size": 50100302,
+        "vd": -58140.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3511341,
+        "vd": -54098.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5266989,
+        "vd": -55652.0,
+        "sr": 48000
+      },
+      "mark": 536871040,
+      "name": "山河此处",
+      "id": 2016087100,
+      "privilege": {
+        "id": 2016087100,
+        "fee": 0,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 999000,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 257,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "hires",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 130784463,
+        "name": "寻少年",
+        "picUrl": "https://p1.music.126.net/LUDRgHOA6RQaHm1Y9A-p2w==/109951166205977203.jpg",
+        "pic_str": "109951166205977203",
+        "pic": 109951166205977203
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 14,
+      "dt": 196970,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7881645,
+        "vd": -54617.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 951181,
+        "fid": 0,
+        "size": 23419360,
+        "vd": -54612.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1716020,
+        "fid": 0,
+        "size": 42250710,
+        "vd": -54608.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3152685,
+        "vd": -50355.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4729005,
+        "vd": -52011.0,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "寻少年",
+      "id": 1863437384,
+      "privilege": {
+        "id": 1863437384,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 147202332,
+        "name": "羽翼",
+        "picUrl": "https://p1.music.126.net/33unWiCnFWPTb3BMLBviLA==/109951167598910303.jpg",
+        "pic_str": "109951167598910303",
+        "pic": 109951167598910303
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 195683,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7828419,
+        "vd": -56972.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1617468,
+        "fid": 0,
+        "size": 39554491,
+        "vd": -56963.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3131394,
+        "vd": -52692.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4697069,
+        "vd": -54355.0,
+        "sr": 44100
+      },
+      "mark": 8192,
+      "name": "羽翼",
+      "id": 1959639972,
+      "privilege": {
+        "id": 1959639972,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        },
+        {
+          "id": 54953981,
+          "name": "biu"
+        },
+        {
+          "id": 34595172,
+          "name": "派美眉"
+        },
+        {
+          "id": 46396295,
+          "name": "倪浩毅"
+        },
+        {
+          "id": 12304040,
+          "name": "Ciyo"
+        },
+        {
+          "id": 33804582,
+          "name": "大图钉official"
+        }
+      ],
+      "al": {
+        "id": 158056369,
+        "name": "爆竹送福到",
+        "picUrl": "https://p1.music.126.net/n-owxwuIFlJ1_OOEslJUug==/109951168235893369.jpg",
+        "pic_str": "109951168235893369",
+        "pic": 109951168235893369
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 0,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 8,
+      "dt": 167715,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6711405,
+        "vd": -69324.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 991425,
+        "fid": 0,
+        "size": 20784715,
+        "vd": -69463.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1743932,
+        "fid": 0,
+        "size": 36560630,
+        "vd": -69291.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2684589,
+        "vd": -65075.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4026861,
+        "vd": -66776.0,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "爆竹送福到",
+      "id": 2013759491,
+      "privilege": {
+        "id": 2013759491,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12111209,
+          "name": "千月兔"
+        },
+        {
+          "id": 12060031,
+          "name": "洛少爷"
+        },
+        {
+          "id": 32980337,
+          "name": "旺仔小乔"
+        },
+        {
+          "id": 1043310,
+          "name": "千界",
+          "alia": [
+            "色色"
+          ]
+        },
+        {
+          "id": 975714,
+          "name": "叶洛洛"
+        },
+        {
+          "id": 33267282,
+          "name": "一之濑asuka"
+        },
+        {
+          "id": 1158016,
+          "name": "洛劫"
+        },
+        {
+          "id": 13282198,
+          "name": "闻人听書_"
+        },
+        {
+          "id": 31004642,
+          "name": "麦吉_Maggie"
+        },
+        {
+          "id": 12084352,
+          "name": "漆柚"
+        },
+        {
+          "id": 12172529,
+          "name": "封茗囧菌"
+        },
+        {
+          "id": 12025552,
+          "name": "双笙（陈元汐）"
+        },
+        {
+          "id": 12274072,
+          "name": "山新"
+        },
+        {
+          "id": 12140348,
+          "name": "倪莫问"
+        },
+        {
+          "id": 12039128,
+          "name": "肥皂菌丨珉珉的猫咪丨"
+        },
+        {
+          "id": 188558,
+          "name": "Aki阿杰"
+        },
+        {
+          "id": 1047248,
+          "name": "少年霜"
+        },
+        {
+          "id": 12093063,
+          "name": "云雀Cream"
+        },
+        {
+          "id": 12158180,
+          "name": "小吴太太"
+        },
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        },
+        {
+          "id": 189577,
+          "name": "祈Inory"
+        },
+        {
+          "id": 32042995,
+          "name": "糯米Nomi"
+        },
+        {
+          "id": 10142,
+          "name": "玄觞"
+        }
+      ],
+      "al": {
+        "id": 158616280,
+        "name": "2023～一梦一歌～",
+        "picUrl": "https://p1.music.126.net/A5KDjY1XkLHZXRYYmMPfwg==/109951168250803276.jpg",
+        "pic_str": "109951168250803276",
+        "pic": 109951168250803276
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 270000,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320001,
+        "fid": 0,
+        "size": 10801965,
+        "vd": -38673.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1041183,
+        "fid": 0,
+        "size": 35139949,
+        "vd": -38754.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1805259,
+        "fid": 0,
+        "size": 60927519,
+        "vd": -38541.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128001,
+        "fid": 0,
+        "size": 4320813,
+        "vd": -34610.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192001,
+        "fid": 0,
+        "size": 6481197,
+        "vd": -36213.0,
+        "sr": 48000
+      },
+      "mark": 536871104,
+      "name": "【23人】2023～一梦一歌～",
+      "id": 2016225125,
+      "privilege": {
+        "id": 2016225125,
+        "fee": 0,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 999000,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 259,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "hires",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 93387391,
+        "name": "三",
+        "picUrl": "https://p1.music.126.net/jBTqWxjMB8lFIESxQj8XDA==/109951165202153990.jpg",
+        "pic_str": "109951165202153990",
+        "pic": 109951165202153990
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 278146,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320001,
+        "fid": 0,
+        "size": 11128207,
+        "vd": -55055.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1756470,
+        "fid": 0,
+        "size": 61069551,
+        "vd": -55034.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128001,
+        "fid": 0,
+        "size": 4451309,
+        "vd": -50921.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 70.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192001,
+        "fid": 0,
+        "size": 6676942,
+        "vd": -52530.0,
+        "sr": 44100
+      },
+      "mark": 17179877376,
+      "name": "十年人间",
+      "id": 1834206595,
+      "privilege": {
+        "id": 1834206595,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 142281808,
+        "name": "生煎",
+        "picUrl": "https://p1.music.126.net/wrKLF5aTk1wg7fV0DV7wyQ==/109951167184775023.jpg",
+        "pic_str": "109951167184775023",
+        "pic": 109951167184775023
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 16,
+      "dt": 198904,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7958445,
+        "vd": -34200.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 919016,
+        "fid": 0,
+        "size": 22849523,
+        "vd": -35322.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1687529,
+        "fid": 0,
+        "size": 41957065,
+        "vd": -34186.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3183405,
+        "vd": -29871.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 65.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4775085,
+        "vd": -31590.0,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "生煎",
+      "id": 1930893384,
+      "privilege": {
+        "id": 1930893384,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 180243920,
+        "name": "洛希极限",
+        "picUrl": "https://p2.music.126.net/Hiu3fR3o64GRrw0CMXSfWA==/109951169125119762.jpg",
+        "pic_str": "109951169125119762",
+        "pic": 109951169125119762
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 195500,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7822125,
+        "vd": -45257.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 902301,
+        "fid": 0,
+        "size": 22050003,
+        "vd": -46210.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1670435,
+        "fid": 0,
+        "size": 40821272,
+        "vd": -45251.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3128877,
+        "vd": -41012.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 60.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4693293,
+        "vd": -42659.0,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "洛希极限",
+      "id": 2104751755,
+      "privilege": {
+        "id": 2104751755,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 393955933,
+        "name": "山河嫁",
+        "picUrl": "https://p1.music.126.net/Hnf3CpGfuifKVQHbNzEK_g==/109951173799824156.jpg",
+        "pic_str": "109951173799824156",
+        "pic": 109951173799824156
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 3,
+      "dt": 217115,
+      "mst": 9,
+      "cp": 1416318,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 8687085,
+        "vd": -77474.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1050015,
+        "fid": 0,
+        "size": 28500869,
+        "vd": -77466.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1819547,
+        "fid": 0,
+        "size": 49385556,
+        "vd": -77466.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3474861,
+        "vd": -73183.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 35.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 5212269,
+        "vd": -74875.0,
+        "sr": 48000
+      },
+      "mark": 536879104,
+      "name": "山河嫁",
+      "id": 3424318853,
+      "privilege": {
+        "id": 3424318853,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 276193249,
+        "name": "他不会",
+        "picUrl": "https://p1.music.126.net/yKrYrCwd9qRY5Q94mho53g==/109951171353774837.jpg",
+        "pic_str": "109951171353774837",
+        "pic": 109951171353774837
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 230634,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9227565,
+        "vd": -51908.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 967152,
+        "fid": 0,
+        "size": 27886516,
+        "vd": -51896.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1733513,
+        "fid": 0,
+        "size": 49980139,
+        "vd": -51896.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3691053,
+        "vd": -47704.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 35.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5536557,
+        "vd": -49329.0,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "他不会",
+      "id": 2718930664,
+      "privilege": {
+        "id": 2718930664,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 392614744,
+        "name": "我辈当再造明月光",
+        "picUrl": "https://p1.music.126.net/5PvuiO4C18OHr8Vd1OizaQ==/109951173752835690.jpg",
+        "pic_str": "109951173752835690",
+        "pic": 109951173752835690
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 226153,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9049005,
+        "vd": -58143.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1048446,
+        "fid": 0,
+        "size": 29642929,
+        "vd": -58131.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1818994,
+        "fid": 0,
+        "size": 51425736,
+        "vd": -58131.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3619629,
+        "vd": -54005.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 30.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5429421,
+        "vd": -55590.0,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "我辈当再造明月光",
+      "id": 3421341647,
+      "privilege": {
+        "id": 3421341647,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 134781603,
+        "name": "万物情深",
+        "picUrl": "https://p2.music.126.net/42DAr0KiehNrut9UDX33Fw==/109951166518077334.jpg",
+        "pic_str": "109951166518077334",
+        "pic": 109951166518077334
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 8,
+      "dt": 181719,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7271489,
+        "vd": -36142.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1548756,
+        "fid": 0,
+        "size": 35179926,
+        "vd": -36139.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2908622,
+        "vd": -31885.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 25.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4362911,
+        "vd": -33534.0,
+        "sr": 44100
+      },
+      "mark": 17179877376,
+      "name": "万物情深",
+      "id": 1886964367,
+      "privilege": {
+        "id": 1886964367,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 258645697,
+        "name": "梦境之森",
+        "picUrl": "https://p1.music.126.net/tJr8trG2rv16n-gy7t8y2w==/109951170344962409.jpg",
+        "pic_str": "109951170344962409",
+        "pic": 109951170344962409
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 3,
+      "dt": 229176,
+      "mst": 9,
+      "cp": 4583652,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9169965,
+        "vd": -51585.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 933508,
+        "fid": 0,
+        "size": 26742247,
+        "vd": -51648.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1698860,
+        "fid": 0,
+        "size": 48667317,
+        "vd": -51538.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3668013,
+        "vd": -47459.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 25.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5501997,
+        "vd": -49010.0,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "梦境之森",
+      "id": 2662642354,
+      "privilege": {
+        "id": 2662642354,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 93387391,
+        "name": "三",
+        "picUrl": "https://p1.music.126.net/jBTqWxjMB8lFIESxQj8XDA==/109951165202153990.jpg",
+        "pic_str": "109951165202153990",
+        "pic": 109951165202153990
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 239346,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9576533,
+        "vd": -62160.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1737169,
+        "fid": 0,
+        "size": 51973224,
+        "vd": -62141.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3830639,
+        "vd": -58167.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 25.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5745937,
+        "vd": -59651.0,
+        "sr": 44100
+      },
+      "mark": 128,
+      "name": "牵丝戏",
+      "id": 1480474511,
+      "privilege": {
+        "id": 1480474511,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 257,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 258646276,
+        "name": "停摆的钟",
+        "picUrl": "https://p1.music.126.net/lN3CT9itKDW-cs92375t9Q==/109951170344959835.jpg",
+        "pic_str": "109951170344959835",
+        "pic": 109951170344959835
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 3,
+      "dt": 226341,
+      "mst": 9,
+      "cp": 4583652,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9055725,
+        "vd": -58609.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 974121,
+        "fid": 0,
+        "size": 27560513,
+        "vd": -58885.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1744539,
+        "fid": 0,
+        "size": 49357693,
+        "vd": -58527.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3622317,
+        "vd": -54460.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 25.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5433453,
+        "vd": -56020.0,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "停摆的钟",
+      "id": 2662635122,
+      "privilege": {
+        "id": 2662635122,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 147202311,
+        "name": "信徒",
+        "picUrl": "https://p1.music.126.net/SmNaxBk4fFtIyNaDiN5KDA==/109951167598912206.jpg",
+        "pic_str": "109951167598912206",
+        "pic": 109951167598912206
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 223896,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8956845,
+        "vd": -58449.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 948653,
+        "fid": 0,
+        "size": 26547123,
+        "vd": -58457.0,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3582765,
+        "vd": -54166.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 25.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5374125,
+        "vd": -55859.0,
+        "sr": 48000
+      },
+      "mark": 17179877376,
+      "name": "信徒",
+      "id": 1959639955,
+      "privilege": {
+        "id": 1959639955,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 46961650,
+          "name": "小蓝背心"
+        },
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 280797357,
+        "name": "永恒和刹那",
+        "picUrl": "https://p2.music.126.net/nSmironcyTWDvbgq1AZTGg==/109951171798335236.jpg",
+        "pic_str": "109951171798335236",
+        "pic": 109951171798335236
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 170000,
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 6802605,
+        "vd": -54648.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1059650,
+        "fid": 0,
+        "size": 22520707,
+        "vd": -54633.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1829811,
+        "fid": 0,
+        "size": 38886625,
+        "vd": -54633.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2721069,
+        "vd": -50466.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 20.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4081581,
+        "vd": -52098.0,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "永恒和刹那",
+      "id": 2734045065,
+      "privilege": {
+        "id": 2734045065,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 159978590,
+        "name": "离人天涯",
+        "picUrl": "https://p1.music.126.net/o0nulTgyEjURY2Lr93p_qA==/109951168308897317.jpg",
+        "pic_str": "109951168308897317",
+        "pic": 109951168308897317
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 197044,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 7884525,
+        "vd": -38455.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 913477,
+        "fid": 0,
+        "size": 22499430,
+        "vd": -38344.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1682844,
+        "fid": 0,
+        "size": 41449319,
+        "vd": -38421.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3153837,
+        "vd": -34259.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 20.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4730733,
+        "vd": -35871.0,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "离人天涯",
+      "id": 2022131494,
+      "privilege": {
+        "id": 2022131494,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 95103710,
+        "name": "回天术",
+        "picUrl": "https://p1.music.126.net/SLaimauUlteF7j5spwXE4A==/109951165303144033.jpg",
+        "pic_str": "109951165303144033",
+        "pic": 109951165303144033
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 9,
+      "dt": 247321,
+      "mst": 9,
+      "cp": 1418040,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9895725,
+        "vd": -43923.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 976324,
+        "fid": 0,
+        "size": 30183248,
+        "vd": -43416.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1745554,
+        "fid": 0,
+        "size": 53964136,
+        "vd": -43894.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3958317,
+        "vd": -39676.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 20.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5937453,
+        "vd": -41327.0,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "回天术",
+      "id": 1477547341,
+      "privilege": {
+        "id": 1477547341,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 121485581,
+        "name": "住进我梦中",
+        "picUrl": "https://p1.music.126.net/2Grv0W3cBokIo2R6uAmMTA==/109951165621666017.jpg",
+        "pic_str": "109951165621666017",
+        "pic": 109951165621666017
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 223153,
+      "mst": 9,
+      "cp": 1421045,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 8928697,
+        "vd": -42226.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1517781,
+        "fid": 0,
+        "size": 42337332,
+        "vd": -42219.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3571505,
+        "vd": -37955.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 20.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5357235,
+        "vd": -39617.0,
+        "sr": 44100
+      },
+      "mark": 17179877376,
+      "name": "住进我梦中",
+      "id": 1811174259,
+      "privilege": {
+        "id": 1811174259,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 136496678,
+        "name": "时光不语",
+        "picUrl": "https://p1.music.126.net/XgdXR7m_XUB20MnRSYX7bg==/109951166650695626.jpg",
+        "pic_str": "109951166650695626",
+        "pic": 109951166650695626
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 10,
+      "dt": 180000,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 7201965,
+        "vd": -37804.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 899929,
+        "fid": 0,
+        "size": 20248406,
+        "vd": -37811.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1663803,
+        "fid": 0,
+        "size": 37435583,
+        "vd": -37800.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2880813,
+        "vd": -33464.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 15.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4321197,
+        "vd": -35186.0,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "时光不语",
+      "id": 1897365402,
+      "privilege": {
+        "id": 1897365402,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 163433930,
+        "name": "落泪成冰",
+        "picUrl": "https://p1.music.126.net/VBoHXJ0CnwppBhe3P5gxKQ==/109951168537672603.jpg",
+        "pic_str": "109951168537672603",
+        "pic": 109951168537672603
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 211525,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8463405,
+        "vd": -50691.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 894143,
+        "fid": 0,
+        "size": 23641771,
+        "vd": -50717.0,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3385389,
+        "vd": -46457.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 15.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5078061,
+        "vd": -48109.0,
+        "sr": 48000
+      },
+      "mark": 17179877376,
+      "name": "落泪成冰",
+      "id": 2038148852,
+      "privilege": {
+        "id": 2038148852,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        },
+        {
+          "id": 12565296,
+          "name": "指尖笑"
+        }
+      ],
+      "al": {
+        "id": 157708139,
+        "name": "奇迹",
+        "picUrl": "https://p1.music.126.net/qsmLU45lqf1Bwi6449PMuA==/109951168218133112.jpg",
+        "pic_str": "109951168218133112",
+        "pic": 109951168218133112
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 0,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 170078,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 6805485,
+        "vd": -57682.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1023647,
+        "fid": 0,
+        "size": 21762585,
+        "vd": -57663.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1770731,
+        "fid": 0,
+        "size": 37645484,
+        "vd": -57660.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2722221,
+        "vd": -53647.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 15.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4083309,
+        "vd": -55192.0,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "奇迹",
+      "id": 2012159808,
+      "privilege": {
+        "id": 2012159808,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 146140677,
+        "name": "花满朝",
+        "picUrl": "https://p2.music.126.net/75vvrXtG0uiKMe01qVUXEw==/109951167523475521.jpg",
+        "pic_str": "109951167523475521",
+        "pic": 109951167523475521
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 183958,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7360365,
+        "vd": -23036.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 850667,
+        "fid": 0,
+        "size": 19560892,
+        "vd": -23032.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1619859,
+        "fid": 0,
+        "size": 37248275,
+        "vd": -23032.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2944173,
+        "vd": -18718.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 15.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4416237,
+        "vd": -20427.0,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "花满朝",
+      "id": 1954107207,
+      "privilege": {
+        "id": 1954107207,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 140258996,
+        "name": "失格",
+        "picUrl": "https://p1.music.126.net/8ffNoY9IHrtsFA94gSS03Q==/109951167039347679.jpg",
+        "pic_str": "109951167039347679",
+        "pic": 109951167039347679
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 11,
+      "dt": 232380,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9297546,
+        "vd": -46092.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1002684,
+        "fid": 0,
+        "size": 29125614,
+        "vd": -46069.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3719044,
+        "vd": -42045.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 15.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5578545,
+        "vd": -43579.0,
+        "sr": 44100
+      },
+      "mark": 17179877376,
+      "name": "失格",
+      "id": 1919508519,
+      "privilege": {
+        "id": 1919508519,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 373580993,
+        "name": "矛盾体",
+        "picUrl": "https://p1.music.126.net/M8HznKcXvoyqkfTg2d79qg==/109951173141876591.jpg",
+        "pic_str": "109951173141876591",
+        "pic": 109951173141876591
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 242076,
+      "mst": 9,
+      "cp": 1416618,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 9685485,
+        "vd": -37030.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 890379,
+        "fid": 0,
+        "size": 26946990,
+        "vd": -37026.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1656728,
+        "fid": 0,
+        "size": 50136413,
+        "vd": -37026.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3874221,
+        "vd": -32719.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 15.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 5811309,
+        "vd": -34423.0,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "矛盾体",
+      "id": 3376173986,
+      "privilege": {
+        "id": 3376173986,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 93387391,
+        "name": "三",
+        "picUrl": "https://p1.music.126.net/jBTqWxjMB8lFIESxQj8XDA==/109951165202153990.jpg",
+        "pic_str": "109951165202153990",
+        "pic": 109951165202153990
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 84662,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 3387603,
+        "vd": -26355.0,
+        "sr": 44100
+      },
+      "sq": null,
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1355067,
+        "vd": -22020.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 2032579,
+        "vd": -23766.0,
+        "sr": 44100
+      },
+      "mark": 128,
+      "name": "长安忆",
+      "id": 1814415008,
+      "privilege": {
+        "id": 1814415008,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 0,
+        "toast": false,
+        "flag": 257,
+        "preSell": false,
+        "playMaxbr": 320000,
+        "downloadMaxbr": 320000,
+        "maxBrLevel": "exhigh",
+        "playMaxBrLevel": "exhigh",
+        "downloadMaxBrLevel": "exhigh",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 84997779,
+        "name": "着迷",
+        "picUrl": "https://p2.music.126.net/7Pyshom8sv_H5XkL71UZWA==/109951164629480127.jpg",
+        "pic_str": "109951164629480127",
+        "pic": 109951164629480127
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 14,
+      "dt": 273134,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10927725,
+        "vd": -34642.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 2304000,
+        "fid": 0,
+        "size": 51880239,
+        "vd": -34641.0,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4371117,
+        "vd": -30354.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6556653,
+        "vd": -32044.0,
+        "sr": 48000
+      },
+      "mark": 17179877440,
+      "name": "着迷 伴奏",
+      "id": 1416975235,
+      "privilege": {
+        "id": 1416975235,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 262,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 148346309,
+        "name": "缘字锁",
+        "picUrl": "https://p2.music.126.net/r4aF1d6_TiGh83EkN6X1vA==/109951167693457558.jpg",
+        "pic_str": "109951167693457558",
+        "pic": 109951167693457558
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 198840,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7955897,
+        "vd": -18511.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 882077,
+        "fid": 0,
+        "size": 21924067,
+        "vd": -18503.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3182385,
+        "vd": -14262.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4773555,
+        "vd": -15932.0,
+        "sr": 44100
+      },
+      "mark": 17179877376,
+      "name": "缘字锁",
+      "id": 1965351122,
+      "privilege": {
+        "id": 1965351122,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 154982542,
+        "name": "世间有你",
+        "picUrl": "https://p1.music.126.net/1iOMIOp06ZZJ7x0PV6xo3Q==/109951168063124168.jpg",
+        "pic_str": "109951168063124168",
+        "pic": 109951168063124168
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 210253,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8412525,
+        "vd": -27204.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 877831,
+        "fid": 0,
+        "size": 23070863,
+        "vd": -27025.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1645108,
+        "fid": 0,
+        "size": 43236167,
+        "vd": -27210.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3365037,
+        "vd": -22922.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5047533,
+        "vd": -24595.0,
+        "sr": 48000
+      },
+      "mark": 536879104,
+      "name": "世间与你（伴奏）",
+      "id": 1998722533,
+      "privilege": {
+        "id": 1998722533,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 147201631,
+        "name": "帮凶",
+        "picUrl": "https://p1.music.126.net/ix9ovfLs87ahk00LzOWAvA==/109951167598908657.jpg",
+        "pic_str": "109951167598908657",
+        "pic": 109951167598908657
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 216600,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8665005,
+        "vd": -19461.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 831803,
+        "fid": 0,
+        "size": 22518581,
+        "vd": -19605.0,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3466029,
+        "vd": -15083.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5199021,
+        "vd": -16840.0,
+        "sr": 48000
+      },
+      "mark": 8192,
+      "name": "帮凶",
+      "id": 1959640786,
+      "privilege": {
+        "id": 1959640786,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 195794289,
+        "name": "金鱼",
+        "picUrl": "https://p2.music.126.net/bb69XAenhjGzOxlWihfO1A==/109951169588666583.jpg",
+        "pic_str": "109951169588666583",
+        "pic": 109951169588666583
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 3,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 8,
+      "dt": 197000,
+      "mst": 9,
+      "cp": 7001,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 7882605,
+        "vd": -5042.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 906224,
+        "fid": 0,
+        "size": 22319402,
+        "vd": -5029.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1675514,
+        "fid": 0,
+        "size": 41263178,
+        "vd": -5029.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3153069,
+        "vd": -908.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4729581,
+        "vd": -2464.0,
+        "sr": 48000
+      },
+      "mark": 537010176,
+      "name": "金鱼 (和声伴奏)",
+      "id": 2155731268,
+      "privilege": {
+        "id": 2155731268,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 153729851,
+        "name": "传太医",
+        "picUrl": "https://p1.music.126.net/OHcuHvXycBjC7ktyi5BOxA==/109951167997618594.jpg",
+        "pic_str": "109951167997618594",
+        "pic": 109951167997618594
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 178279,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7133562,
+        "vd": -47394.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 952119,
+        "fid": 0,
+        "size": 21217910,
+        "vd": -47383.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2853451,
+        "vd": -43289.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4280155,
+        "vd": -44836.0,
+        "sr": 44100
+      },
+      "mark": 17179877376,
+      "name": "传太医",
+      "id": 1992131081,
+      "privilege": {
+        "id": 1992131081,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 258645789,
+        "name": "问月光",
+        "picUrl": "https://p2.music.126.net/bIfgXBuuVBUcZmgjxGKVvg==/109951170344970693.jpg",
+        "pic_str": "109951170344970693",
+        "pic": 109951170344970693
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 271363,
+      "mst": 9,
+      "cp": 4583652,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10856685,
+        "vd": -25066.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 895541,
+        "fid": 0,
+        "size": 30377162,
+        "vd": -26724.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1664220,
+        "fid": 0,
+        "size": 56451120,
+        "vd": -25047.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4342701,
+        "vd": -20790.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6514029,
+        "vd": -22450.0,
+        "sr": 48000
+      },
+      "mark": 536879104,
+      "name": "问月光",
+      "id": 2662642440,
+      "privilege": {
+        "id": 2662642440,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 258650902,
+        "name": "余热",
+        "picUrl": "https://p2.music.126.net/9jQIVxE7g6NLQhwzjnX_dw==/109951170345109766.jpg",
+        "pic_str": "109951170345109766",
+        "pic": 109951170345109766
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 168700,
+      "mst": 9,
+      "cp": 4583652,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6750765,
+        "vd": -51325.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 903329,
+        "fid": 0,
+        "size": 19048989,
+        "vd": -50524.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1657603,
+        "fid": 0,
+        "size": 34954741,
+        "vd": -51289.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2700333,
+        "vd": -47064.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4050477,
+        "vd": -48753.0,
+        "sr": 48000
+      },
+      "mark": 536879104,
+      "name": "余热",
+      "id": 2662651970,
+      "privilege": {
+        "id": 2662651970,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34142867,
+          "name": "三叔说"
+        }
+      ],
+      "al": {
+        "id": 276183987,
+        "name": "咚",
+        "picUrl": "https://p2.music.126.net/IbPmlkct20j6Zs5weqBOug==/109951171353668773.jpg",
+        "pic_str": "109951171353668773",
+        "pic": 109951171353668773
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 204103,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 8166966,
+        "vd": -39286.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1505741,
+        "fid": 0,
+        "size": 38419641,
+        "vd": -39284.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3266813,
+        "vd": -34890.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5.0,
+      "rt": "",
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4900197,
+        "vd": -36660.0,
+        "sr": 44100
+      },
+      "mark": 8192,
+      "name": "咚",
+      "id": 2718898481,
+      "privilege": {
+        "id": 2718898481,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    }
+  ],
+  "more": false,
+  "code": 200
+}

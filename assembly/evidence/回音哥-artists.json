@@ -1,0 +1,47 @@
+{
+  "result": {
+    "artistCount": 2,
+    "artists": [
+      {
+        "id": 3348,
+        "name": "回音哥",
+        "picUrl": "https://p1.music.126.net/lYAOC0-wvhSYJIYZA54eNQ==/3426078235156344.jpg",
+        "alias": [],
+        "albumSize": 32,
+        "musicSize": 114,
+        "picId": 3426078235156344,
+        "fansGroup": null,
+        "recommendText": null,
+        "appendRecText": null,
+        "fansSize": null,
+        "img1v1Url": "https://p1.music.126.net/JJb9lXQYP01pW_t97QADgA==/2946691166870934.jpg",
+        "accountId": 80406064,
+        "img1v1": 2946691166870934,
+        "mvSize": 7,
+        "followed": false,
+        "trans": null
+      },
+      {
+        "id": 1146106,
+        "name": "苏琛",
+        "picUrl": "https://p1.music.126.net/0lgl9tGL3v4nDJtsRhqTIg==/109951165478121786.jpg",
+        "alias": [],
+        "albumSize": 97,
+        "musicSize": 182,
+        "picId": 109951165478121786,
+        "fansGroup": null,
+        "recommendText": null,
+        "appendRecText": null,
+        "fansSize": null,
+        "img1v1Url": "https://p1.music.126.net/1LN4kUj86oDedGRiIAu3EA==/109951173676003995.jpg",
+        "accountId": 90555315,
+        "img1v1": 109951173676003995,
+        "mvSize": 0,
+        "followed": false,
+        "trans": null
+      }
+    ],
+    "searchQcReminder": null
+  },
+  "code": 200
+}

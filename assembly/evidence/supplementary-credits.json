@@ -1,0 +1,29 @@
+{
+  "song6": {
+    "url": "https://www.bilibili.com/video/BV16N4y1p7dn/",
+    "author": "纸嫁衣官方",
+    "creditedPerformers": [
+      "吴轶飞",
+      "徐波"
+    ],
+    "evidence": "网页检索返回官方说明：主题曲由吴轶飞和徐波演唱。直接页面请求412，未听音频。"
+  },
+  "song1": {
+    "url": "https://www.bilibili.com/video/BV1CphQz7ECS/",
+    "role": "宁子服&聂莫琪专属主题曲",
+    "creditedPerformers": [
+      "吴轶飞",
+      "余力"
+    ]
+  },
+  "neteaseAlbumAccess": {
+    "status": "BLOCKED_PHONE_BINDING_REQUIRED",
+    "code": -462,
+    "albums": [
+      139325949,
+      10078,
+      2437651
+    ]
+  },
+  "audioPlayback": "NOT_TESTED"
+}

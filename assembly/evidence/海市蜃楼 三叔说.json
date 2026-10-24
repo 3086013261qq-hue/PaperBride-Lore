@@ -1,0 +1,5039 @@
+{
+  "result": {
+    "songs": [
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3419472473,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 108510,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3419472473,
+        "sq": {
+          "br": 1513580,
+          "fid": 0,
+          "size": 20531995,
+          "vd": 11989.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 4342640,
+          "vd": 11985.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/oIKCpaIZXyxjKE0c0lEAVA==/109951173728867004.jpg",
+          "name": "海市蜃楼",
+          "tns": [],
+          "pic_str": "109951173728867004",
+          "id": 391830704,
+          "pic": 109951173728867004
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1737082,
+          "vd": 16166.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 2605601,
+          "vd": 14559.0,
+          "sr": 44100
+        },
+        "version": 7,
+        "cp": 0,
+        "alia": [
+          "海市蜃楼多像个童话DJ"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "DJ冷冰冰",
+            "tns": [],
+            "alias": [],
+            "id": 62020225
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "海市蜃楼",
+        "mark": 17179877376
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1474290,
+          "fid": 0,
+          "size": 22260363,
+          "vd": 2007.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 0,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3323811073,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 90.0,
+        "dt": 120779,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3323811073,
+        "sq": {
+          "br": 710998,
+          "fid": 0,
+          "size": 10736554,
+          "vd": 2007.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1764518400000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 4833645,
+          "vd": 2008.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/WNpdtlcslA7bDbMbNJs-Rw==/109951172372104735.jpg",
+          "name": "海市蜃楼",
+          "tns": [],
+          "pic_str": "109951172372104735",
+          "id": 352721807,
+          "pic": 109951172372104735
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1933485,
+          "vd": 6411.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 2900205,
+          "vd": 4648.0,
+          "sr": 48000
+        },
+        "version": 1,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "乐乐",
+            "tns": [],
+            "alias": [],
+            "id": 60685574
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 35,
+        "name": "海市蜃楼 三叔说",
+        "tns": [
+          "离别的馈赠"
+        ],
+        "mark": 536870912
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 2,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1920107784,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 50.0,
+        "dt": 161358,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1920107784,
+        "sq": {
+          "br": 850214,
+          "fid": 0,
+          "size": 17148638,
+          "vd": -19206.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1644681600000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 6456468,
+          "vd": -19210.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/L82ja_aUYUNac583hHHExQ==/109951167047191447.jpg",
+          "name": "【羽生结弦の治愈向纯乐辑】在最寒冷的冰场映照万千温柔目光 海市蜃楼一颗狼星_许篮心/三叔说 抖音dj",
+          "tns": [],
+          "pic_str": "109951167047191447",
+          "id": 140347717,
+          "pic": 109951167047191447
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2582613,
+          "vd": -14845.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3873898,
+          "vd": -16596.0,
+          "sr": 44100
+        },
+        "version": 17,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "邓壬鑫",
+            "tns": [],
+            "alias": [
+              "Leon不太冷"
+            ],
+            "id": 12306430,
+            "alia": [
+              "Leon不太冷"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 51,
+        "name": "【羽生结弦治愈系】《海市蜃楼如雾里探花（蜃しん気霧の花）》雾中寻梦冰里曼舞 Ver.Remix",
+        "mark": 131136
+      },
+      {
+        "no": 1,
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 256,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1307025093,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 177209,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1307025093,
+        "sq": {
+          "br": 529627,
+          "fid": 0,
+          "size": 11731883,
+          "vd": -20229.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1535817600000,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7090721,
+          "vd": -20227.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/kQvPvB6CL7FmGDSNMSJ4_w==/109951167042532419.jpg",
+          "name": "治愈纯乐辑-抖音治愈系 我一抬头就能仰望到的 海市蜃楼一颗狼星_许篮心/三叔说 抖音dj",
+          "tns": [],
+          "pic_str": "109951167042532419",
+          "id": 72792121,
+          "pic": 109951167042532419
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2836315,
+          "vd": -15785.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4254450,
+          "vd": -17584.0,
+          "sr": 44100
+        },
+        "version": 21,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "邓壬鑫",
+            "tns": [],
+            "alias": [
+              "Leon不太冷"
+            ],
+            "id": 12306430,
+            "alia": [
+              "Leon不太冷"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 55,
+        "name": "雨滴（《Raindrops》经典配乐改编）",
+        "mark": 131072
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 2,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1920106772,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 197897,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1920106772,
+        "sq": {
+          "br": 854877,
+          "fid": 0,
+          "size": 21147299,
+          "vd": -30410.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1644681600000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7918280,
+          "vd": -30419.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/L82ja_aUYUNac583hHHExQ==/109951167047191447.jpg",
+          "name": "【羽生结弦の治愈向纯乐辑】在最寒冷的冰场映照万千温柔目光 海市蜃楼一颗狼星_许篮心/三叔说 抖音dj",
+          "tns": [],
+          "pic_str": "109951167047191447",
+          "id": 140347717,
+          "pic": 109951167047191447
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3167338,
+          "vd": -26054.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4750986,
+          "vd": -27796.0,
+          "sr": 44100
+        },
+        "version": 20,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "邓壬鑫",
+            "tns": [],
+            "alias": [
+              "Leon不太冷"
+            ],
+            "id": 12306430,
+            "alia": [
+              "Leon不太冷"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 54,
+        "name": "【羽生结弦】（治愈《平昌冬奥·肖邦第一叙事曲》光抓不住，雾总要散，冰舞起雾，海市蜃楼）",
+        "mark": 131136
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "higher",
+          "rightSource": 0,
+          "maxbr": 192000,
+          "id": 3401029466,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 192000,
+          "downloadMaxBrLevel": "higher",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "higher",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 192000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 20.0,
+        "dt": 103200,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3401029466,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/cGAP5pod2x-_1ee1plEvkw==/109951173497817976.jpg",
+          "name": "律动歌曲366",
+          "tns": [],
+          "pic_str": "109951173497817976",
+          "id": 385007155,
+          "pic": 109951173497817976
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "乐乐",
+              "id": 60685574
+            }
+          ],
+          "name": "海市蜃楼 三叔说",
+          "songId": 3323811073,
+          "albumMeta": {
+            "name": "海市蜃楼",
+            "id": 352721807
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1651629,
+          "vd": -1930.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 2477421,
+          "vd": -3934.0,
+          "sr": 48000
+        },
+        "version": 2,
+        "cp": 2713520,
+        "alia": [
+          "Beat"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "Type Beat超市",
+            "tns": [],
+            "alias": [],
+            "id": 122098069
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "海市蜃楼 三叔说",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1528134,
+          "fid": 0,
+          "size": 33960348,
+          "vd": -14249.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3362134827,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 65.0,
+        "dt": 177769,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3362134827,
+        "sq": {
+          "br": 760857,
+          "fid": 0,
+          "size": 16910487,
+          "vd": -14249.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7113645,
+          "vd": -14250.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/t2jDxvnjzgnB9v_qNzg-xg==/109951172930483045.jpg",
+          "name": "海市蜃楼",
+          "tns": [],
+          "pic_str": "109951172930483045",
+          "id": 367484293,
+          "pic": 109951172930483045
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2845485,
+          "vd": -9880.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4268205,
+          "vd": -11614.0,
+          "sr": 48000
+        },
+        "version": 4,
+        "cp": 7390407,
+        "alia": [
+          "氛围版"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "雷米克斯",
+            "tns": [],
+            "alias": [],
+            "id": 60109153
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "海市蜃楼",
+        "mark": 536879104
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3384394271,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 268491,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3384394271,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1773619202000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10743685,
+          "vd": 34234.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/NITIdYEDg6Bx_zOKRA5zLA==/109951173254103138.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173254103138",
+          "id": 0,
+          "pic": 109951173254103138
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4297500,
+          "vd": 38198.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6446228,
+          "vd": 36794.0,
+          "sr": 44100
+        },
+        "version": 2,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "溺水小猫",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "海市蜃楼 (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 3,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "higher",
+          "rightSource": 0,
+          "maxbr": 192000,
+          "id": 3401029494,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 192000,
+          "downloadMaxBrLevel": "higher",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "higher",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 192000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 179832,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3401029494,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/ZOwHVa98gFJSrkyRX1IWwA==/109951173497825799.jpg",
+          "name": "好听的歌曲集362",
+          "tns": [],
+          "pic_str": "109951173497825799",
+          "id": 385007550,
+          "pic": 109951173497825799
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "乐乐",
+              "id": 60685574
+            }
+          ],
+          "name": "海市蜃楼 三叔说",
+          "songId": 3323811073,
+          "albumMeta": {
+            "name": "海市蜃楼",
+            "id": 352721807
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2877741,
+          "vd": 5670.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4316589,
+          "vd": 3738.0,
+          "sr": 48000
+        },
+        "version": 2,
+        "cp": 2713520,
+        "alia": [
+          "DJ Synthwave"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "霓虹驾驶员",
+            "tns": [],
+            "alias": [],
+            "id": 122118562
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "海市蜃楼 三叔说",
+        "mark": 8192
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3372849737,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 264219,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3372849737,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1775174402000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10572321,
+          "vd": 31160.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/pXqy6axcuJV3XmqTBOWpIg==/109951173097930274.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173097930274",
+          "id": 0,
+          "pic": 109951173097930274
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4228955,
+          "vd": 35418.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6343410,
+          "vd": 33748.0,
+          "sr": 44100
+        },
+        "version": 2,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "蓝天太阳下白云",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "海市蜃楼 (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 0,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3323803681,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 198406,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3323803681,
+        "sq": {
+          "br": 901086,
+          "fid": 0,
+          "size": 22351279,
+          "vd": -23634.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7938285,
+          "vd": -23644.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/MVEt7NbwaHAs9E_f_0YbKA==/109951172371897922.jpg",
+          "name": "海市蜃楼",
+          "tns": [],
+          "pic_str": "109951172371897922",
+          "id": 352718214,
+          "pic": 109951172371897922
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3175341,
+          "vd": -19474.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4762989,
+          "vd": -21073.0,
+          "sr": 48000
+        },
+        "version": 3,
+        "cp": 4583610,
+        "alia": [
+          "合唱版"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "烟火客",
+            "tns": [],
+            "alias": [],
+            "id": 99934676
+          },
+          {
+            "name": "渡川",
+            "tns": [],
+            "alias": [],
+            "id": 121772127
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼",
+        "mark": 17179869184
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3376106637,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 220983,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3376106637,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1775865602000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 8843015,
+          "vd": 37201.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/iz0q9EcBpgWEx_J_pUKVKA==/109951173141389184.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173141389184",
+          "id": 0,
+          "pic": 109951173141389184
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3537232,
+          "vd": 41464.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 5305826,
+          "vd": 39808.0,
+          "sr": 44100
+        },
+        "version": 2,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "娘们吖",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "海市蜃楼 (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 4,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 259,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1918326296,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 15.0,
+        "dt": 217065,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1918326296,
+        "sq": {
+          "br": 1034665,
+          "fid": 0,
+          "size": 28073833,
+          "vd": -40137.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 8685165,
+          "vd": -40156.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/x0NZRqFmUCXLXqcEUQSTYQ==/109951167025174065.jpg",
+          "name": "抖音唯美治愈纯乐辑Ⅱ 你是我的天下无双是我最后的念念不忘 海市蜃楼一颗狼星_许篮心/三叔说 抖音dj",
+          "tns": [],
+          "pic_str": "109951167025174065",
+          "id": 140035387,
+          "pic": 109951167025174065
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3474093,
+          "vd": -35900.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 5211117,
+          "vd": -37574.0,
+          "sr": 48000
+        },
+        "version": 13,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "邓壬鑫",
+            "tns": [],
+            "alias": [
+              "Leon不太冷"
+            ],
+            "id": 12306430,
+            "alia": [
+              "Leon不太冷"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 47,
+        "name": "Faded（古风治愈版 纯音乐 Ver.eyfm）",
+        "mark": 131264
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3386933427,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 229180,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3386933427,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1779840002000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9172158,
+          "vd": 2775.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/Ro3MuIVEN6wZAE1ubyVZTg==/109951173289058873.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173289058873",
+          "id": 0,
+          "pic": 109951173289058873
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3668889,
+          "vd": 7049.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5503312,
+          "vd": 5380.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 1,
+        "ar": [
+          {
+            "name": "遇见",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼 (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3395691875,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 90.0,
+        "dt": 152122,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3395691875,
+        "sq": {
+          "br": 615673,
+          "fid": 0,
+          "size": 11710072,
+          "vd": 8987.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1781654402000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 6087619,
+          "vd": 8984.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/gYhTkyLj0wzxvfyhEVTl2A==/109951173423810161.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173423810161",
+          "id": 0,
+          "pic": 109951173423810161
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 2435074,
+          "vd": 13382.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 3652589,
+          "vd": 11614.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 1,
+        "ar": [
+          {
+            "name": "晚风吻音阶",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼 (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3393707343,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 70.0,
+        "dt": 224745,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3393707343,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1776729602000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8993480,
+          "vd": -3844.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/p-jOS-hW3_0KqL-Ys71uog==/109951173384413146.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173384413146",
+          "id": 0,
+          "pic": 109951173384413146
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3597418,
+          "vd": 600.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5396106,
+          "vd": -1201.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 1,
+        "ar": [
+          {
+            "name": "违禁品",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼 (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3374107573,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 224768,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3374107573,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1776729602000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8994525,
+          "vd": -4082.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/09wnOsotik_37wdTi8UZUg==/109951173112586031.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173112586031",
+          "id": 0,
+          "pic": 109951173112586031
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3597836,
+          "vd": 336.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5396733,
+          "vd": -1440.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 1,
+        "ar": [
+          {
+            "name": "keep.",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼 (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2063167619,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 269467,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2063167619,
+        "sq": {
+          "br": 1396117,
+          "fid": 0,
+          "size": 47030977,
+          "vd": -50665.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1666627200000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10781301,
+          "vd": -50663.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/Q0yLt9G9N4zPbSMH3vNryw==/109951168733085658.jpg",
+          "name": "海市蜃楼 (0.8x)",
+          "tns": [],
+          "pic_str": "109951168733085658",
+          "id": 169423511,
+          "pic": 109951168733085658
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4312546,
+          "vd": -46276.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6468798,
+          "vd": -48026.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "三叔说",
+            "tns": [],
+            "alias": [],
+            "id": 34142867
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼 (0.8x)",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3403944872,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 90.0,
+        "dt": 161250,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3403944872,
+        "sq": {
+          "br": 614552,
+          "fid": 0,
+          "size": 12390070,
+          "vd": 9148.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1782864002000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 6452289,
+          "vd": 9145.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/CeWv1hI2jux9RAIGKdR2jg==/109951173529903994.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173529903994",
+          "id": 0,
+          "pic": 109951173529903994
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2580942,
+          "vd": 13525.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3871391,
+          "vd": 11786.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 1,
+        "ar": [
+          {
+            "name": "袖拂",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼 (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3401825238,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 90.0,
+        "dt": 259027,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3401825238,
+        "sq": {
+          "br": 716050,
+          "fid": 0,
+          "size": 23189366,
+          "vd": -47229.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1783036802000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320001,
+          "fid": 0,
+          "size": 10363342,
+          "vd": -47228.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/l2Vu940Gpxp8aRNqM9hWyA==/109951173508856281.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173508856281",
+          "id": 0,
+          "pic": 109951173508856281
+        },
+        "l": {
+          "br": 128001,
+          "fid": 0,
+          "size": 4145363,
+          "vd": -42852.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192001,
+          "fid": 0,
+          "size": 6218022,
+          "vd": -44592.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "沐沐慕",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼 (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3386477475,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 35.0,
+        "dt": 224118,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3386477475,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1779753602000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8969448,
+          "vd": 3211.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/B2oybkAfD63c2TLOKHK4jw==/109951173284070126.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173284070126",
+          "id": 0,
+          "pic": 109951173284070126
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3587805,
+          "vd": 7466.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5381686,
+          "vd": 5807.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 1,
+        "ar": [
+          {
+            "name": "Yuguo",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼 (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3386933294,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 226556,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3386933294,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1779840002000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9066623,
+          "vd": 9858.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/L_XGhyq-hIM8285eL6k3JQ==/109951173289059410.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173289059410",
+          "id": 0,
+          "pic": 109951173289059410
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3626675,
+          "vd": 14120.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5439991,
+          "vd": 12456.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 1,
+        "ar": [
+          {
+            "name": "微光明亮",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼 (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3387311386,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 224954,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3387311386,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1779926402000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 9002885,
+          "vd": 6901.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/SxBB5IdVdWaF3mPp9r17bw==/109951173294245218.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173294245218",
+          "id": 0,
+          "pic": 109951173294245218
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3601180,
+          "vd": 11195.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 5401748,
+          "vd": 9520.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 1,
+        "ar": [
+          {
+            "name": "Yuguoai",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼 (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3386933607,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 15.0,
+        "dt": 219939,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3386933607,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1779840002000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 8802264,
+          "vd": 1724.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/bpg8u6SPAnY__TZDD2d65w==/109951173289068106.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173289068106",
+          "id": 0,
+          "pic": 109951173289068106
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3520932,
+          "vd": 5986.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 5281376,
+          "vd": 4325.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 1,
+        "ar": [
+          {
+            "name": "写给遇见",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼 (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3386470978,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 65.0,
+        "dt": 226115,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3386470978,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1779753602000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9048860,
+          "vd": -969.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/QAWEocCk0JuJls-Sn1WU_w==/109951173284020586.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173284020586",
+          "id": 0,
+          "pic": 109951173284020586
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3619570,
+          "vd": 3236.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5429333,
+          "vd": 1618.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 1,
+        "ar": [
+          {
+            "name": "不不不投降",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼 (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3411119540,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 20.0,
+        "dt": 160533,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3411119540,
+        "sq": {
+          "br": 391371,
+          "fid": 0,
+          "size": 7856506,
+          "vd": -70458.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1784851202000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 6424076,
+          "vd": -70459.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/OnLFoZ0OY1EZmqNgQ9oT7Q==/109951173632949924.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173632949924",
+          "id": 0,
+          "pic": 109951173632949924
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2569657,
+          "vd": -66011.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3854463,
+          "vd": -67814.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 1,
+        "ar": [
+          {
+            "name": "兰荷佛心",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼 (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1914636298,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 232000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1914636298,
+        "sq": {
+          "br": 846368,
+          "fid": 0,
+          "size": 24544673,
+          "vd": -42782.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1638374400000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 9282917,
+          "vd": -42694.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/ERIE___rYsZBjYkKHawXhA==/109951166973919305.jpg",
+          "name": "海市蜃楼",
+          "tns": [],
+          "pic_str": "109951166973919305",
+          "id": 139325949,
+          "pic": 109951166973919305
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3713193,
+          "vd": -38401.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 5569768,
+          "vd": -40092.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 0,
+        "ar": [
+          {
+            "name": "三叔说",
+            "tns": [],
+            "alias": [],
+            "id": 34142867
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼 (伴奏)",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3381525803,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 244459,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3381525803,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1775836800000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9782378,
+          "vd": 38096.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/cCMyhsCorLP1rdn5PeZovg==/109951173214602318.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173214602318",
+          "id": 0,
+          "pic": 109951173214602318
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3912977,
+          "vd": 40536.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5869444,
+          "vd": 40348.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "空白心",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼 (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3371265473,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 30.0,
+        "dt": 233917,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3371265473,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1775174402000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9360240,
+          "vd": 17496.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/Qq-DMKGKK7EqtO3lpHp99A==/109951173073495789.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173073495789",
+          "id": 0,
+          "pic": 109951173073495789
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3744122,
+          "vd": 21454.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5616161,
+          "vd": 20022.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "放虎归山",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼（Cover 三叔说）",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3390385140,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 208793,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3390385140,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1780531202000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8356093,
+          "vd": -4217.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/0sboTQdQWGBQdg8pwtRT1Q==/109951173335125274.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173335125274",
+          "id": 0,
+          "pic": 109951173335125274
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3342463,
+          "vd": 44.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5013673,
+          "vd": -1619.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "果粒橙",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼 (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 4,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1342576,
+          "fid": 0,
+          "size": 27080386,
+          "vd": 68881.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2072563834,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 161363,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2072563834,
+        "sq": {
+          "br": 590350,
+          "fid": 0,
+          "size": 11907639,
+          "vd": 64513.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 6457005,
+          "vd": 68864.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/Xaa86gJP7BMreCy2kgkgnw==/109951168843024979.jpg",
+          "name": "翻唱",
+          "tns": [],
+          "pic_str": "109951168843024979",
+          "id": 172095086,
+          "pic": 109951168843024979
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "皓缘",
+              "id": 32588224
+            }
+          ],
+          "name": "海市",
+          "songId": 1397680908,
+          "albumMeta": {
+            "name": "海市",
+            "id": 82461961
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2582829,
+          "vd": 73250.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3874221,
+          "vd": 71498.0,
+          "sr": 48000
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "冰雨茶",
+            "tns": [],
+            "alias": [
+              "平安喜乐"
+            ],
+            "id": 34399613,
+            "alia": [
+              "平安喜乐"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "海市蜃楼 。（翻自三叔说）",
+        "mark": 536870912
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3387284356,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 35.0,
+        "dt": 219683,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3387284356,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1779926402000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8791815,
+          "vd": -1851.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/qjhIt6LfpAs9B5fiUTMuGA==/109951173293999871.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173293999871",
+          "id": 0,
+          "pic": 109951173293999871
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3516752,
+          "vd": 2383.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5275106,
+          "vd": 750.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "多多",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼 (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3387986184,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 70.0,
+        "dt": 246526,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3387986184,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1778112002000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9865970,
+          "vd": 2413.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/0n7oFV38s3btvq7ITzL_-w==/109951173303536936.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173303536936",
+          "id": 0,
+          "pic": 109951173303536936
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3946414,
+          "vd": 6459.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5919600,
+          "vd": 4941.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "黄宁",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼dj (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 4,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1914636300,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 255435,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1914636300,
+        "sq": {
+          "br": 1062134,
+          "fid": 0,
+          "size": 33913366,
+          "vd": -66351.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1638374400000,
+        "cf": "",
+        "originCoverType": 0,
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/ERIE___rYsZBjYkKHawXhA==/109951166973919305.jpg",
+          "name": "海市蜃楼",
+          "tns": [],
+          "pic_str": "109951166973919305",
+          "id": 139325949,
+          "pic": 109951166973919305
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4088102,
+          "vd": -62249.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "三叔说",
+            "tns": [],
+            "alias": [],
+            "id": 34142867
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼 (DJ德朋版伴奏)",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "standard",
+          "rightSource": 0,
+          "maxbr": 128000,
+          "id": 2600288285,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 128000,
+          "downloadMaxBrLevel": "standard",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "standard",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 128000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 320110,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2600288285,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/X6XnbrrLHJ0kSyEUkKPTxA==/109951169701411672.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951169701411672",
+          "id": 0,
+          "pic": 109951169701411672
+        },
+        "l": {
+          "br": 128001,
+          "fid": 0,
+          "size": 5121715,
+          "vd": -66869.0,
+          "sr": 44100
+        },
+        "version": 1,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "三叔说",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 35,
+        "name": "海市蜃楼 (慢摇版)",
+        "mark": 0
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2133672936,
+          "sp": 0,
+          "payed": 0,
+          "rscl": 10,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 35.0,
+        "dt": 271975,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2133672936,
+        "sq": {
+          "br": 860523,
+          "fid": 0,
+          "size": 29255150,
+          "vd": -36945.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10881611,
+          "vd": -36382.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/Ra-egM5IuCbYna8eKFMLcw==/109951168716940302.jpg",
+          "name": "海市蜃楼",
+          "tns": [],
+          "pic_str": "109951168716940302",
+          "id": 168866245,
+          "pic": 109951168716940302
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4352671,
+          "vd": -32067.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6528984,
+          "vd": -33769.0,
+          "sr": 44100
+        },
+        "version": 8,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "Mr Luo",
+            "tns": [],
+            "alias": [
+              "Mr Luo"
+            ],
+            "id": 56992505,
+            "alia": [
+              "Mr Luo"
+            ]
+          },
+          {
+            "name": "三叔说",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 42,
+        "name": "海市蜃楼（伴奏）0.8x",
+        "mark": 128
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3386933712,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 40.0,
+        "dt": 219753,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3386933712,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1779840002000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8794950,
+          "vd": 6646.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/ddhbO0cXfGxAn-IDwdnCjw==/109951173289061886.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173289061886",
+          "id": 0,
+          "pic": 109951173289061886
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3518006,
+          "vd": 10835.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5276987,
+          "vd": 9227.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "爱德华",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "海市蜃楼 (Cover 三叔说)",
+        "mark": 0
+      },
+      {
+        "no": 4,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1422620,
+          "fid": 0,
+          "size": 28694912,
+          "vd": 15044.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2087420337,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 161363,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2087420337,
+        "sq": {
+          "br": 664578,
+          "fid": 0,
+          "size": 13404852,
+          "vd": 15044.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 6457005,
+          "vd": 15042.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/tTjcZfQD7ZAYdrk8ZNUX9g==/109951168947222109.jpg",
+          "name": "翻唱",
+          "tns": [],
+          "pic_str": "109951168947222109",
+          "id": 175684563,
+          "pic": 109951168947222109
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2582829,
+          "vd": 19427.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3874221,
+          "vd": 17680.0,
+          "sr": 48000
+        },
+        "version": 7,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "冰雨茶",
+            "tns": [],
+            "alias": [
+              "平安喜乐"
+            ],
+            "id": 34399613,
+            "alia": [
+              "平安喜乐"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "海市蜃楼 （翻自三叔说）",
+        "mark": 537133056
+      },
+      {
+        "no": 6,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 130,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1918328594,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 35.0,
+        "dt": 247484,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1918328594,
+        "sq": {
+          "br": 865307,
+          "fid": 0,
+          "size": 26768820,
+          "vd": -20682.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9901485,
+          "vd": -20695.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/x0NZRqFmUCXLXqcEUQSTYQ==/109951167025174065.jpg",
+          "name": "抖音唯美治愈纯乐辑Ⅱ 你是我的天下无双是我最后的念念不忘 海市蜃楼一颗狼星_许篮心/三叔说 抖音dj",
+          "tns": [],
+          "pic_str": "109951167025174065",
+          "id": 140035387,
+          "pic": 109951167025174065
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3960621,
+          "vd": -16435.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5940909,
+          "vd": -18090.0,
+          "sr": 48000
+        },
+        "version": 13,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "邓壬鑫",
+            "tns": [],
+            "alias": [
+              "Leon不太冷"
+            ],
+            "id": 12306430,
+            "alia": [
+              "Leon不太冷"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 47,
+        "name": "【治愈】你是我触碰不到的风醒不来的梦（《グドラマ》Ver.醒不来的梦 DJ 抖音 回小仙 原唱）",
+        "mark": 131136
+      },
+      {
+        "no": 5,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 130,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1918326525,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 65.0,
+        "dt": 84368,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1918326525,
+        "sq": {
+          "br": 865786,
+          "fid": 0,
+          "size": 9130628,
+          "vd": -19395.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 3377325,
+          "vd": -19400.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/x0NZRqFmUCXLXqcEUQSTYQ==/109951167025174065.jpg",
+          "name": "抖音唯美治愈纯乐辑Ⅱ 你是我的天下无双是我最后的念念不忘 海市蜃楼一颗狼星_许篮心/三叔说 抖音dj",
+          "tns": [],
+          "pic_str": "109951167025174065",
+          "id": 140035387,
+          "pic": 109951167025174065
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1350957,
+          "vd": -14988.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 2026413,
+          "vd": -16768.0,
+          "sr": 48000
+        },
+        "version": 16,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "邓壬鑫",
+            "tns": [],
+            "alias": [
+              "Leon不太冷"
+            ],
+            "id": 12306430,
+            "alia": [
+              "Leon不太冷"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 50,
+        "name": "【治愈】白月光在照耀你才想起她的好（《輝く白い月》治愈版-白月光与朱砂痣大籽 抖音）",
+        "mark": 131136
+      }
+    ],
+    "songCount": 40
+  },
+  "code": 200,
+  "trp": {
+    "rules": [
+      "search_tab_song::3374107573::searchAlg$isGlobalQuality$1",
+      "search_tab_song::3419472473::searchAlg$isGlobalQuality$1"
+    ]
+  }
+}

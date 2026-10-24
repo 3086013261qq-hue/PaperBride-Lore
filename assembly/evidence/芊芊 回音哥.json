@@ -1,0 +1,6379 @@
+{
+  "result": {
+    "songs": [
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "standard",
+          "rightSource": 0,
+          "maxbr": 128000,
+          "id": 3401131393,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 128000,
+          "downloadMaxBrLevel": "standard",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "standard",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 128000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 90.0,
+        "dt": 101799,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3401131393,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/JkNfI3Irc0-AhoMFdsVpDw==/109951173498972636.jpg",
+          "name": "芊芊",
+          "tns": [],
+          "pic_str": "109951173498972636",
+          "id": 385056601,
+          "pic": 109951173498972636
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1629666,
+          "vd": 13716.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [
+          "落雨声嘀嗒嘀嘀"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "小雪",
+            "tns": [],
+            "alias": [],
+            "id": 99383667
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "芊芊",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3394084286,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 20.0,
+        "dt": 100362,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3394084286,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 4015587,
+          "vd": -75282.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/TuWrC6JMjKYNEf07qpSn4A==/109951173390682932.jpg",
+          "name": "芊芊",
+          "tns": [],
+          "pic_str": "109951173390682932",
+          "id": 381846677,
+          "pic": 109951173390682932
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1606261,
+          "vd": -70900.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 2409369,
+          "vd": -72654.0,
+          "sr": 44100
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [
+          "落雨声 滴答滴滴"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "Jade杰德",
+            "tns": [],
+            "alias": [],
+            "id": 121297844
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "芊芊",
+        "mark": 8192
+      },
+      {
+        "no": 4,
+        "rt": "",
+        "copyright": 1,
+        "fee": 1,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 27694144,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 1
+            },
+            {
+              "rate": 192000,
+              "chargeType": 1
+            },
+            {
+              "rate": 320000,
+              "chargeType": 1
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": true,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 80.0,
+        "dt": 256052,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 27694144,
+        "sq": {
+          "br": 1686682,
+          "fid": 0,
+          "size": 53984855,
+          "vd": -47973.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1378310400007,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320001,
+          "fid": 0,
+          "size": 10244223,
+          "vd": -47980.0,
+          "sr": 44100
+        },
+        "mv": 193017,
+        "al": {
+          "picUrl": "http://p1.music.126.net/JL5hqYyx7siWenM6-xEcQQ==/109951166118699451.jpg",
+          "name": "重定义",
+          "tns": [],
+          "pic_str": "109951166118699451",
+          "id": 2659173,
+          "pic": 109951166118699451
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "蔡淳佳",
+              "id": 7221
+            }
+          ],
+          "name": "陪我看日出",
+          "songId": 2081851252,
+          "albumMeta": {
+            "name": "等一个晴天(新歌+精选) (内地版)",
+            "id": 174691844
+          }
+        },
+        "l": {
+          "br": 128001,
+          "fid": 0,
+          "size": 4097715,
+          "vd": -43646.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192001,
+          "fid": 0,
+          "size": 6146551,
+          "vd": -45372.0,
+          "sr": 44100
+        },
+        "version": 27,
+        "cp": 22036,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 3348
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 61,
+        "name": "陪我看日出",
+        "mark": 17179877376
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3377228973,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 40.0,
+        "dt": 210047,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3377228973,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1776643202000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 8405203,
+          "vd": -6710.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/gIPqOZqbewyzgsloeKvskA==/109951173156260984.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173156260984",
+          "id": 0,
+          "pic": 109951173156260984
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3362107,
+          "vd": -2523.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 5043139,
+          "vd": -4149.0,
+          "sr": 44100
+        },
+        "version": 2,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "kk",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "芊芊 (kk Remix)",
+        "mark": 0
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2093312916,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 157500,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2093312916,
+        "sq": {
+          "br": 1460133,
+          "fid": 0,
+          "size": 28746377,
+          "vd": -27626.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1698076800000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 6302868,
+          "vd": -27343.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/59tt4BMSXmTHstWcJsV9hA==/109951169005767288.jpg",
+          "name": "回不去的懵懂",
+          "tns": [],
+          "pic_str": "109951169005767288",
+          "id": 177484952,
+          "pic": 109951169005767288
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2521173,
+          "vd": -22920.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3781738,
+          "vd": -24708.0,
+          "sr": 44100
+        },
+        "version": 12,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 3348
+          },
+          {
+            "name": "Zy",
+            "tns": [],
+            "alias": [],
+            "id": 37123911
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 46,
+        "name": "回不去的懵懂",
+        "tns": [
+          "正式授权"
+        ],
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3373531563,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 252960,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3373531563,
+        "sq": {
+          "br": 965215,
+          "fid": 0,
+          "size": 30524731,
+          "vd": -754.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1776787200000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10120365,
+          "vd": -767.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/sn4mLsRjamBlVv4ZM1qucA==/109951173104457458.jpg",
+          "name": "芊芊",
+          "tns": [],
+          "pic_str": "109951173104457458",
+          "id": 372489313,
+          "pic": 109951173104457458
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4048173,
+          "vd": 3536.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6072237,
+          "vd": 1833.0,
+          "sr": 48000
+        },
+        "version": 8,
+        "cp": 4588631,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "余书瑶",
+            "tns": [],
+            "alias": [],
+            "id": 124651376
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 42,
+        "name": "芊芊",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3370502085,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 80.0,
+        "dt": 126071,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3370502085,
+        "sq": {
+          "br": 1682765,
+          "fid": 0,
+          "size": 26520939,
+          "vd": -34903.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320003,
+          "fid": 0,
+          "size": 5045856,
+          "vd": -34914.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/RzdruV90s47GL-pw_bOfNw==/109951173053315616.jpg",
+          "name": "芊芊",
+          "tns": [],
+          "pic_str": "109951173053315616",
+          "id": 371181228,
+          "pic": 109951173053315616
+        },
+        "l": {
+          "br": 128003,
+          "fid": 0,
+          "size": 2018368,
+          "vd": -30764.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192003,
+          "fid": 0,
+          "size": 3027531,
+          "vd": -32364.0,
+          "sr": 44100
+        },
+        "version": 7,
+        "cp": 7394406,
+        "alia": [
+          "落雨声 嘀嗒嘀嘀"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "陆锦舟",
+            "tns": [],
+            "alias": [],
+            "id": 122396456
+          },
+          {
+            "name": "谢步若",
+            "tns": [],
+            "alias": [],
+            "id": 123105647
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "芊芊",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3400729217,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 30.0,
+        "dt": 239224,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3400729217,
+        "sq": {
+          "br": 927958,
+          "fid": 0,
+          "size": 27753183,
+          "vd": -4075.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1782921600000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9571245,
+          "vd": -4081.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/QQOBHpW6jLgh1cG2XxxVJA==/109951173493447580.jpg",
+          "name": "芊芊（抖音热播）",
+          "tns": [],
+          "pic_str": "109951173493497627",
+          "id": 384869160,
+          "pic": 109951173493497627
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3828525,
+          "vd": 146.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5742765,
+          "vd": -1486.0,
+          "sr": 48000
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [
+          "每一篇如青涩般浮现"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "王有有",
+            "tns": [],
+            "alias": [],
+            "id": 96449461
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "芊芊",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3403960082,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 210535,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3403960082,
+        "sq": {
+          "br": 850999,
+          "fid": 0,
+          "size": 22399553,
+          "vd": -8274.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8424045,
+          "vd": -8278.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/6AMSqEs8NypLPLQMY6gjsQ==/109951173529995217.jpg",
+          "name": "芊芊",
+          "tns": [],
+          "pic_str": "109951173529995217",
+          "id": 385976591,
+          "pic": 109951173529995217
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3369645,
+          "vd": -3920.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5054445,
+          "vd": -5665.0,
+          "sr": 48000
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "Z.H.J MO",
+            "tns": [],
+            "alias": [],
+            "id": 96534505
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "芊芊",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3369718853,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 238050,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3369718853,
+        "sq": {
+          "br": 862804,
+          "fid": 0,
+          "size": 25678319,
+          "vd": 349.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 9524289,
+          "vd": 341.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/kDhRXPRkeMQO7yXFhnf-1A==/109951173043576396.jpg",
+          "name": "芊芊",
+          "tns": [],
+          "pic_str": "109951173043576396",
+          "id": 370780304,
+          "pic": 109951173043576396
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3809742,
+          "vd": 4613.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 5714591,
+          "vd": 2926.0,
+          "sr": 44100
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [
+          "暧昧耳语版"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "梦境里的算法",
+            "tns": [],
+            "alias": [],
+            "id": 121656065
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "芊芊",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1497818,
+          "fid": 0,
+          "size": 38679620,
+          "vd": 6846.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2733486654,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 45.0,
+        "dt": 206571,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2733486654,
+        "sq": {
+          "br": 730771,
+          "fid": 0,
+          "size": 18873360,
+          "vd": 6846.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8265645,
+          "vd": 6847.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/XT1AS_0E0oxSChA4VOpKAA==/109951171761217204.jpg",
+          "name": "请你参与我的春天",
+          "tns": [],
+          "pic_str": "109951171761217204",
+          "id": 280542843,
+          "pic": 109951171761217204
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3306285,
+          "vd": 11281.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4959405,
+          "vd": 9486.0,
+          "sr": 48000
+        },
+        "version": 6,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "福合埕在逃牛肉丸",
+            "tns": [],
+            "alias": [],
+            "id": 33002266
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 40,
+        "name": "芊芊",
+        "mark": 17716879360
+      },
+      {
+        "no": 1,
+        "copyright": 2,
+        "fee": 0,
+        "privilege": {
+          "flag": 256,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 29378276,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 212000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 29378276,
+        "sq": {
+          "br": 1029754,
+          "fid": 0,
+          "size": 27288506,
+          "vd": -67050.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1410364800007,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8482585,
+          "vd": -67066.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/vt2BM_d2tvkFTA1yTrcFHQ==/6638851209049390.jpg",
+          "name": "我不是你的狗",
+          "tns": [],
+          "id": 3017065,
+          "pic": 6638851209049390
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3393096,
+          "vd": -62383.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5089593,
+          "vd": -64502.0,
+          "sr": 44100
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 3348
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "我不是你的狗",
+        "mark": 0
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3449247915,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 20.0,
+        "dt": 184398,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3449247915,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7377023,
+          "vd": -24759.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/YGAIQ2ABG-b4njdYFEKarw==/109951174117819210.jpg",
+          "name": "芊芊",
+          "tns": [],
+          "pic_str": "109951174117819210",
+          "id": 404301520,
+          "pic": 109951174117819210
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2950835,
+          "vd": -20915.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4426231,
+          "vd": -22264.0,
+          "sr": 44100
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [
+          "滴答滴滴"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "DJ大大怪",
+            "tns": [],
+            "alias": [],
+            "id": 122581382
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "芊芊",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1549084,
+          "fid": 0,
+          "size": 33992765,
+          "vd": -1439.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 5,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3452541247,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 175533,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3452541247,
+        "sq": {
+          "br": 783307,
+          "fid": 0,
+          "size": 17190328,
+          "vd": -1439.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7023405,
+          "vd": -1445.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/_Y5KRzFfjFuik7vAGfXn5w==/109951172952450632.jpg",
+          "name": "芊芊",
+          "tns": [],
+          "pic_str": "109951172952450632",
+          "id": 405440802,
+          "pic": 109951172952450632
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2809389,
+          "vd": 2901.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4214061,
+          "vd": 1179.0,
+          "sr": 48000
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "用户1602595698",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "芊芊",
+        "mark": 536879232
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1553888,
+          "fid": 0,
+          "size": 37377204,
+          "vd": 5706.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 5,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3452543583,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 192413,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3452543583,
+        "sq": {
+          "br": 787551,
+          "fid": 0,
+          "size": 18945500,
+          "vd": 5706.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7699245,
+          "vd": 5700.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/iQEXrhrEfjXNoq16fWuZUQ==/109951172952449762.jpg",
+          "name": "芊芊",
+          "tns": [],
+          "pic_str": "109951172952449762",
+          "id": 405441718,
+          "pic": 109951172952449762
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3079725,
+          "vd": 10050.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4619565,
+          "vd": 8307.0,
+          "sr": 48000
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "用户1602595698",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "芊芊",
+        "mark": 536879232
+      },
+      {
+        "no": 9,
+        "copyright": 2,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 459684999,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 239862,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 459684999,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1486958158970,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9604746,
+          "vd": -46239.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/alyeRHGZTHW_-YK4mgah3Q==/109951162859736615.jpg",
+          "name": "泠风の聆风阁",
+          "tns": [],
+          "pic_str": "109951162859736615",
+          "id": 35180807,
+          "pic": 109951162859736615
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3841924,
+          "vd": -41968.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5762865,
+          "vd": -43655.0,
+          "sr": 44100
+        },
+        "version": 24,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "Kylen",
+            "tns": [],
+            "alias": [],
+            "id": 12284020
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 58,
+        "name": "【神荼】如你（词：春山十六）（Cover 回音哥《芊芊》）",
+        "mark": 0
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "hr": {
+          "br": 1637333,
+          "fid": 0,
+          "size": 47677835,
+          "vd": -59168.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1443050965,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 85.0,
+        "dt": 232953,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1443050965,
+        "sq": {
+          "br": 868814,
+          "fid": 0,
+          "size": 25299169,
+          "vd": -59130.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1587744000000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9320685,
+          "vd": -58929.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/SSWKEMdIpCtG25dUKAS3pg==/109951164934317426.jpg",
+          "name": "对不起我还爱你2",
+          "tns": [],
+          "pic_str": "109951164934317426",
+          "id": 88468941,
+          "pic": 109951164934317426
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3728301,
+          "vd": -54602.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5592429,
+          "vd": -56311.0,
+          "sr": 48000
+        },
+        "version": 19,
+        "cp": 1372818,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 3348
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 53,
+        "name": "对不起我还爱你2",
+        "mark": 17716748288
+      },
+      {
+        "no": 1,
+        "copyright": 2,
+        "fee": 8,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 445844310,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 218552,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 445844310,
+        "sq": {
+          "br": 938949,
+          "fid": 0,
+          "size": 25651188,
+          "vd": -67187.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1481472000007,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8744795,
+          "vd": -67191.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/sVFAcijb1Vy99AZTfItDhw==/18826937603963602.jpg",
+          "name": "A.I",
+          "tns": [],
+          "pic_str": "18826937603963602",
+          "id": 35044080,
+          "pic": 18826937603963602
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3497944,
+          "vd": -63102.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5246894,
+          "vd": -64632.0,
+          "sr": 44100
+        },
+        "version": 24,
+        "cp": 4587620,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 3348
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 58,
+        "name": "A.I",
+        "mark": 17179877376
+      },
+      {
+        "no": 7,
+        "copyright": 0,
+        "fee": 1,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 31546893,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 1
+            },
+            {
+              "rate": 192000,
+              "chargeType": 1
+            },
+            {
+              "rate": 320000,
+              "chargeType": 1
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": true,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 250982,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 31546893,
+        "sq": {
+          "br": 916079,
+          "fid": 0,
+          "size": 28740023,
+          "vd": -47973.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1429632000000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10041513,
+          "vd": -47600.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/onh_PZ5xFarv0wAyU9mWIQ==/2926899953762176.jpg",
+          "name": "都给你",
+          "tns": [],
+          "id": 3121422,
+          "pic": 2926899953762176
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4016631,
+          "vd": -43448.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6024925,
+          "vd": -45050.0,
+          "sr": 44100
+        },
+        "version": 22,
+        "cp": 754016,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 3348
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 56,
+        "name": "对不起, 我还爱你",
+        "mark": 17179877376
+      },
+      {
+        "no": 2,
+        "rt": "600902000007903945",
+        "copyright": 1,
+        "fee": 8,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 26260073,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 319586,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 26260073,
+        "sq": {
+          "br": 689789,
+          "fid": 0,
+          "size": 27555886,
+          "vd": -14153.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1363795200007,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 12786460,
+          "vd": -14031.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/MI0u3fFDCfA35kP3sYA4AQ==/2278188092792053.jpg",
+          "name": "8:19AM",
+          "tns": [],
+          "id": 2437651,
+          "pic": 2278188092792053
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 5114610,
+          "vd": -9617.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 7671893,
+          "vd": -11392.0,
+          "sr": 44100
+        },
+        "version": 26,
+        "cp": 4587620,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 3348
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 60,
+        "name": "摇篮曲",
+        "mark": 8192
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 2,
+        "fee": 1,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 1,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 102187,
+          "sp": 0,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 1
+            },
+            {
+              "rate": 192000,
+              "chargeType": 1
+            },
+            {
+              "rate": 320000,
+              "chargeType": 1
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": true
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 60.0,
+        "dt": 321660,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 102187,
+        "sq": {
+          "br": 849877,
+          "fid": 0,
+          "size": 34171457,
+          "vd": -26065.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1324742400000,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 12869007,
+          "vd": -26070.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/UPiR5UztJQu4gnJ3SQpBYQ==/120946279056124.jpg",
+          "name": "疯子",
+          "tns": [],
+          "id": 10083,
+          "pic": 120946279056124
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 5147629,
+          "vd": -21818.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 7721422,
+          "vd": -23469.0,
+          "sr": 44100
+        },
+        "version": 33,
+        "cp": 29001,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 3348
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 67,
+        "name": "巷子里的童年",
+        "mark": 8192
+      },
+      {
+        "no": 2,
+        "copyright": 0,
+        "fee": 1,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 31546888,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 1
+            },
+            {
+              "rate": 192000,
+              "chargeType": 1
+            },
+            {
+              "rate": 320000,
+              "chargeType": 1
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": true,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 229982,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 31546888,
+        "sq": {
+          "br": 800993,
+          "fid": 0,
+          "size": 23026816,
+          "vd": -48088.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1429632000000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 9202460,
+          "vd": -48118.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/onh_PZ5xFarv0wAyU9mWIQ==/2926899953762176.jpg",
+          "name": "都给你",
+          "tns": [],
+          "id": 3121422,
+          "pic": 2926899953762176
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3681010,
+          "vd": -43774.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 5521493,
+          "vd": -45513.0,
+          "sr": 44100
+        },
+        "version": 25,
+        "cp": 754016,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 3348
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 59,
+        "name": "你的配角",
+        "mark": 17179877376
+      },
+      {
+        "no": 5,
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 523045150,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 222208,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 523045150,
+        "sq": {
+          "br": 843081,
+          "fid": 0,
+          "size": 23417475,
+          "vd": -23717.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1512921600007,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8891080,
+          "vd": -23723.0,
+          "sr": 44100
+        },
+        "mv": 5917797,
+        "al": {
+          "picUrl": "http://p1.music.126.net/hZ6oo0PQnn6OFmHVxrsG_g==/109951163100918733.jpg",
+          "name": "长不小的大人",
+          "tns": [],
+          "pic_str": "109951163100918733",
+          "id": 37179075,
+          "pic": 109951163100918733
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3556458,
+          "vd": -19416.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5334666,
+          "vd": -21124.0,
+          "sr": 44100
+        },
+        "version": 24,
+        "cp": 4587620,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 3348
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 58,
+        "name": "时荒",
+        "tns": [
+          "Time Hungriness"
+        ],
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 2,
+        "fee": 0,
+        "privilege": {
+          "flag": 256,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 27588486,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 256052,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 27588486,
+        "sq": {
+          "br": 1686682,
+          "fid": 0,
+          "size": 53984855,
+          "vd": -47973.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1376496000007,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320001,
+          "fid": 0,
+          "size": 10244223,
+          "vd": -47980.0,
+          "sr": 44100
+        },
+        "mv": 193017,
+        "al": {
+          "picUrl": "http://p1.music.126.net/vmgod36GTCRqT8Iz3eb5EQ==/5689972673812060.jpg",
+          "name": "陪我看日出",
+          "tns": [],
+          "id": 2643058,
+          "pic": 5689972673812060
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "蔡淳佳",
+              "id": 7221
+            }
+          ],
+          "name": "陪我看日出",
+          "songId": 2081851252,
+          "albumMeta": {
+            "name": "等一个晴天(新歌+精选) (内地版)",
+            "id": 174691844
+          }
+        },
+        "l": {
+          "br": 128001,
+          "fid": 0,
+          "size": 4097715,
+          "vd": -43646.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192001,
+          "fid": 0,
+          "size": 6146551,
+          "vd": -45372.0,
+          "sr": 44100
+        },
+        "version": 13,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 3348
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 47,
+        "name": "陪我看日出",
+        "mark": 0
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 1,
+        "fee": 1,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 27694145,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 1
+            },
+            {
+              "rate": 192000,
+              "chargeType": 1
+            },
+            {
+              "rate": 320000,
+              "chargeType": 1
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": true,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 90.0,
+        "dt": 250070,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 27694145,
+        "sq": {
+          "br": 1689163,
+          "fid": 0,
+          "size": 52801171,
+          "vd": -55320.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1378310400007,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320001,
+          "fid": 0,
+          "size": 10004942,
+          "vd": -55339.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/JL5hqYyx7siWenM6-xEcQQ==/109951166118699451.jpg",
+          "name": "重定义",
+          "tns": [],
+          "pic_str": "109951166118699451",
+          "id": 2659173,
+          "pic": 109951166118699451
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "林俊杰",
+              "id": 3684
+            }
+          ],
+          "name": "当你",
+          "songId": 108251,
+          "albumMeta": {
+            "name": "她说 概念自选辑",
+            "id": 10755
+          }
+        },
+        "l": {
+          "br": 128001,
+          "fid": 0,
+          "size": 4002003,
+          "vd": -51188.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192001,
+          "fid": 0,
+          "size": 6002982,
+          "vd": -52796.0,
+          "sr": 44100
+        },
+        "version": 32,
+        "cp": 22036,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 3348
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 66,
+        "name": "当你",
+        "mark": 17179877376
+      },
+      {
+        "no": 3,
+        "rt": "",
+        "copyright": 1,
+        "fee": 1,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 27694143,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 1
+            },
+            {
+              "rate": 192000,
+              "chargeType": 1
+            },
+            {
+              "rate": 320000,
+              "chargeType": 1
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": true,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 30.0,
+        "dt": 214073,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 27694143,
+        "sq": {
+          "br": 1696742,
+          "fid": 0,
+          "size": 45403435,
+          "vd": -44478.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1378310400007,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 8565072,
+          "vd": -44461.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/JL5hqYyx7siWenM6-xEcQQ==/109951166118699451.jpg",
+          "name": "重定义",
+          "tns": [],
+          "pic_str": "109951166118699451",
+          "id": 2659173,
+          "pic": 109951166118699451
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3426055,
+          "vd": -40176.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 5139061,
+          "vd": -41863.0,
+          "sr": 44100
+        },
+        "version": 26,
+        "cp": 22036,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 3348
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 60,
+        "name": "工体北",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 1,
+        "fee": 1,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 27694142,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 1
+            },
+            {
+              "rate": 192000,
+              "chargeType": 1
+            },
+            {
+              "rate": 320000,
+              "chargeType": 1
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": true,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 229067,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 27694142,
+        "sq": {
+          "br": 1680522,
+          "fid": 0,
+          "size": 48119203,
+          "vd": -38634.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1378310400007,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 9164844,
+          "vd": -38646.0,
+          "sr": 44100
+        },
+        "mv": 193128,
+        "al": {
+          "picUrl": "http://p1.music.126.net/JL5hqYyx7siWenM6-xEcQQ==/109951166118699451.jpg",
+          "name": "重定义",
+          "tns": [],
+          "pic_str": "109951166118699451",
+          "id": 2659173,
+          "pic": 109951166118699451
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3665964,
+          "vd": -34415.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 5498924,
+          "vd": -36071.0,
+          "sr": 44100
+        },
+        "version": 41,
+        "cp": 22036,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 3348
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 75,
+        "name": "他和她",
+        "mark": 17179877376
+      },
+      {
+        "no": 10,
+        "copyright": 0,
+        "fee": 1,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 31546896,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 1
+            },
+            {
+              "rate": 192000,
+              "chargeType": 1
+            },
+            {
+              "rate": 320000,
+              "chargeType": 1
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": true,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 60.0,
+        "dt": 218982,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 31546896,
+        "sq": {
+          "br": 816314,
+          "fid": 0,
+          "size": 22344841,
+          "vd": -22211.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1429632000000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8761513,
+          "vd": -22215.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/onh_PZ5xFarv0wAyU9mWIQ==/2926899953762176.jpg",
+          "name": "都给你",
+          "tns": [],
+          "id": 3121422,
+          "pic": 2926899953762176
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3504631,
+          "vd": -17826.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5256925,
+          "vd": -19582.0,
+          "sr": 44100
+        },
+        "version": 18,
+        "cp": 754016,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 3348
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 52,
+        "name": "陪你走过",
+        "mark": 17179877376
+      },
+      {
+        "no": 9,
+        "copyright": 0,
+        "fee": 1,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 31546895,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 1
+            },
+            {
+              "rate": 192000,
+              "chargeType": 1
+            },
+            {
+              "rate": 320000,
+              "chargeType": 1
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": true,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 75.0,
+        "dt": 227982,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 31546895,
+        "sq": {
+          "br": 873500,
+          "fid": 0,
+          "size": 24892883,
+          "vd": -34213.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1429632000000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9122003,
+          "vd": -34243.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/onh_PZ5xFarv0wAyU9mWIQ==/2926899953762176.jpg",
+          "name": "都给你",
+          "tns": [],
+          "id": 3121422,
+          "pic": 2926899953762176
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3648827,
+          "vd": -29928.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5473219,
+          "vd": -31647.0,
+          "sr": 44100
+        },
+        "version": 18,
+        "cp": 754016,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 3348
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 52,
+        "name": "泪绕",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "copyright": 0,
+        "fee": 1,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 31546887,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 1
+            },
+            {
+              "rate": 192000,
+              "chargeType": 1
+            },
+            {
+              "rate": 320000,
+              "chargeType": 1
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": true,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 50.0,
+        "dt": 234982,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 31546887,
+        "sq": {
+          "br": 981042,
+          "fid": 0,
+          "size": 28815998,
+          "vd": -51554.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1429632000000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9402036,
+          "vd": -51547.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/onh_PZ5xFarv0wAyU9mWIQ==/2926899953762176.jpg",
+          "name": "都给你",
+          "tns": [],
+          "id": 3121422,
+          "pic": 2926899953762176
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3760840,
+          "vd": -47129.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5641239,
+          "vd": -48976.0,
+          "sr": 44100
+        },
+        "version": 18,
+        "cp": 754016,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 3348
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 52,
+        "name": "都给你",
+        "mark": 17179877376
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "standard",
+          "subp": 1,
+          "fl": 128000,
+          "fee": 0,
+          "dl": 128000,
+          "plLevel": "standard",
+          "maxBrLevel": "standard",
+          "rightSource": 0,
+          "maxbr": 128000,
+          "id": 2736204332,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 128000,
+          "downloadMaxBrLevel": "standard",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "standard",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 128000,
+          "flLevel": "standard",
+          "pl": 128000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 236797,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2736204332,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 3,
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/mIYPD-X1ncWL_LB85_cWWg==/109951171865855787.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951171865855787",
+          "id": 0,
+          "pic": 109951171865855787
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3788844,
+          "vd": -34557.0,
+          "sr": 44100
+        },
+        "version": 1,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "夏婉安",
+            "tns": [],
+            "alias": [],
+            "id": 905476
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 35,
+        "name": "芊芊  - 婉安 (女生版，力挺回音哥|女生版,力挺回音哥)",
+        "mark": 0
+      },
+      {
+        "no": 11,
+        "rt": "600902000009328526",
+        "copyright": 2,
+        "fee": 0,
+        "privilege": {
+          "flag": 256,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 102138,
+          "sp": 0,
+          "payed": 0,
+          "rscl": 10,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 239786,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 102138,
+        "sq": {
+          "br": 915041,
+          "fid": 0,
+          "size": 27426845,
+          "vd": -57345.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1342886400000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9594296,
+          "vd": -57358.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/eWPnftA1ng9ptHzTfnZ0cg==/117647744172815.jpg",
+          "name": "回音Echo",
+          "tns": [],
+          "id": 10078,
+          "pic": 117647744172815
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3837744,
+          "vd": -53311.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5756594,
+          "vd": -54822.0,
+          "sr": 44100
+        },
+        "version": 35,
+        "cp": 29001,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 0,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 3348
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 69,
+        "name": "芊芊",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "standard",
+          "rightSource": 0,
+          "maxbr": 128000,
+          "id": 2159493568,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 128000,
+          "downloadMaxBrLevel": "standard",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "standard",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 128000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 244558,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2159493568,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/0ju8ET1ApZSXfWacc4w49w==/109951169484091680.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951169484091680",
+          "id": 0,
+          "pic": 109951169484091680
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3913813,
+          "vd": -39830.0,
+          "sr": 44100
+        },
+        "version": 1,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 35,
+        "name": "芊芊 (Live)",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 2159497370,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 238106,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2159497370,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 9526378,
+          "vd": -21901.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/0ju8ET1ApZSXfWacc4w49w==/109951169484091680.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951169484091680",
+          "id": 0,
+          "pic": 109951169484091680
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3810577,
+          "vd": -17763.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 5715844,
+          "vd": -19324.0,
+          "sr": 44100
+        },
+        "version": 1,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 35,
+        "name": "芊芊 (木偶专属)",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1663973,
+          "fid": 0,
+          "size": 51198080,
+          "vd": -27600.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2163286336,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 246126,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2163286336,
+        "sq": {
+          "br": 894480,
+          "fid": 0,
+          "size": 27523962,
+          "vd": -27600.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320001,
+          "fid": 0,
+          "size": 9847725,
+          "vd": -27608.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/tuWVGdBTohRVCsCmp8n0dQ==/109951169654971504.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951169654971504",
+          "id": 0,
+          "pic": 109951169654971504
+        },
+        "l": {
+          "br": 128001,
+          "fid": 0,
+          "size": 3939117,
+          "vd": -23450.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192001,
+          "fid": 0,
+          "size": 5908653,
+          "vd": -25047.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "回音哥",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "芊芊 (十周年复刻版伴奏)",
+        "mark": 536870912
+      },
+      {
+        "no": 1,
+        "copyright": 2,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 571566183,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 239856,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 571566183,
+        "sq": {
+          "br": 900082,
+          "fid": 0,
+          "size": 26986314,
+          "vd": -48207.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1460563200000,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9596387,
+          "vd": -48207.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/QImmngIN0tVojUTQ1bZI-A==/109951164312826930.jpg",
+          "name": "翻唱合辑",
+          "tns": [],
+          "pic_str": "109951164312826930",
+          "id": 35548638,
+          "pic": 109951164312826930
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3838581,
+          "vd": -48207.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5757849,
+          "vd": -48207.0,
+          "sr": 44100
+        },
+        "version": 55,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 0,
+        "ar": [
+          {
+            "name": "佑旻yomi",
+            "tns": [],
+            "alias": [],
+            "id": 12433364
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 89,
+        "name": "芊芊（翻自 回音哥）",
+        "mark": 0
+      },
+      {
+        "no": 15,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 536781778,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 239928,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 536781778,
+        "sq": {
+          "br": 786401,
+          "fid": 0,
+          "size": 23584976,
+          "vd": 8700.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1518113684151,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9599521,
+          "vd": 7799.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/c7dvOUoXyC64NhFOrGJ4ZA==/109951164003003526.jpg",
+          "name": "梅坞寻茶",
+          "tns": [],
+          "pic_str": "109951164003003526",
+          "id": 78536672,
+          "pic": 109951164003003526
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3839835,
+          "vd": 12200.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5759730,
+          "vd": 10400.0,
+          "sr": 44100
+        },
+        "version": 14,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 0,
+        "ar": [
+          {
+            "name": "南朝烟雨原创音乐",
+            "tns": [],
+            "alias": [
+              "小南菌"
+            ],
+            "id": 12494603,
+            "alia": [
+              "小南菌"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 48,
+        "name": "芊芊（翻自 回音哥）",
+        "mark": 0
+      },
+      {
+        "no": 1,
+        "copyright": 2,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 544134793,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 239836,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 544134793,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1520474068583,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9603701,
+          "vd": -26700.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/_qNODpxHB8uPlFTWUBam4Q==/109951163179060697.jpg",
+          "name": "古风集",
+          "tns": [],
+          "pic_str": "109951163179060697",
+          "id": 37875155,
+          "pic": 109951163179060697
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3841506,
+          "vd": -22400.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5762238,
+          "vd": -24100.0,
+          "sr": 44100
+        },
+        "version": 19,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 0,
+        "ar": [
+          {
+            "name": "曹珅",
+            "tns": [],
+            "alias": [],
+            "id": 12578582
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 53,
+        "name": "芊芊（翻自 回音哥）",
+        "mark": 0
+      },
+      {
+        "no": 1,
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 546755146,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 239705,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 546755146,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1521530990442,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9598476,
+          "vd": 0.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/tA-4KRFQ1pM6NACCD8CISA==/109951163198906408.jpg",
+          "name": "芊芊",
+          "tns": [],
+          "pic_str": "109951163198906408",
+          "id": 37961812,
+          "pic": 109951163198906408
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3839417,
+          "vd": 0.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5759103,
+          "vd": 0.0,
+          "sr": 44100
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 0,
+        "ar": [
+          {
+            "name": "Retro复归",
+            "tns": [],
+            "alias": [],
+            "id": 12128705
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "芊芊（翻自 回音哥）",
+        "mark": 0
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1857671707,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 240039,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1857671707,
+        "sq": {
+          "br": 1426124,
+          "fid": 0,
+          "size": 42790707,
+          "vd": -43093.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 9603701,
+          "vd": -43092.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/jHAvRKEYS1UglDDqPvFh5Q==/109951166045996296.jpg",
+          "name": "翻唱合集",
+          "tns": [],
+          "pic_str": "109951166045996296",
+          "id": 128193733,
+          "pic": 109951166045996296
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "回音哥",
+              "id": 3348
+            }
+          ],
+          "name": "芊芊",
+          "songId": 102138,
+          "albumMeta": {
+            "name": "回音Echo",
+            "id": 10078
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3841506,
+          "vd": -38704.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 5762238,
+          "vd": -40480.0,
+          "sr": 44100
+        },
+        "version": 8,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "陈甸甸",
+            "tns": [],
+            "alias": [
+              "Brian",
+              "小寒冰",
+              "陈甸甸"
+            ],
+            "id": 47963942,
+            "alia": [
+              "Brian",
+              "小寒冰",
+              "陈甸甸"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 42,
+        "name": "芊芊（翻自 回音哥）",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 0,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2139332456,
+          "sp": 0,
+          "payed": 0,
+          "rscl": 10,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 135356,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2139332456,
+        "sq": {
+          "br": 1577648,
+          "fid": 0,
+          "size": 26693034,
+          "vd": -30830.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1711382400000,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 5416795,
+          "vd": -30836.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/1Gv9PuI0-uUbqYJb0GXFjA==/109951169443252466.jpg",
+          "name": "芊芊",
+          "tns": [],
+          "pic_str": "109951169443252466",
+          "id": 190106827,
+          "pic": 109951169443252466
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "回音哥",
+              "id": 3348
+            }
+          ],
+          "name": "芊芊",
+          "songId": 102138,
+          "albumMeta": {
+            "name": "回音Echo",
+            "id": 10078
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2166744,
+          "vd": -26514.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3250094,
+          "vd": -28216.0,
+          "sr": 44100
+        },
+        "version": 4,
+        "cp": 2713520,
+        "alia": [
+          "原版热播"
+        ],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 0,
+        "ar": [
+          {
+            "name": "回响哥",
+            "tns": [],
+            "alias": [],
+            "id": 60947981
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "芊芊",
+        "mark": 0
+      },
+      {
+        "no": 19,
+        "copyright": 2,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 1331674107,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 240250,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1331674107,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1536768000000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9620419,
+          "vd": -2437.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/mruTR8Oh7k1VTn1zJmXY9A==/109951163547837184.jpg",
+          "name": "聆晨的国风翻唱合辑一",
+          "tns": [],
+          "pic_str": "109951163547837184",
+          "id": 73297667,
+          "pic": 109951163547837184
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3848194,
+          "vd": 1762.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5772269,
+          "vd": 139.0,
+          "sr": 44100
+        },
+        "version": 36,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "聆晨",
+            "tns": [],
+            "alias": [],
+            "id": 28632893
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 70,
+        "name": "芊芊（翻自 回音哥）",
+        "mark": 0
+      },
+      {
+        "no": 1,
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 464091265,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 239882,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 464091265,
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1488895866456,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9597431,
+          "vd": -36200.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/GtyTlF6xVnFCNWk7v0-EyA==/109951162872636593.jpg",
+          "name": "古韵。风",
+          "tns": [],
+          "pic_str": "109951162872636593",
+          "id": 35248909,
+          "pic": 109951162872636593
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3838999,
+          "vd": -31800.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5758476,
+          "vd": -33700.0,
+          "sr": 44100
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "丸丸啦",
+            "tns": [],
+            "alias": [],
+            "id": 12277023
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "芊芊（翻自 回音哥）",
+        "mark": 524288
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 257,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1852003359,
+          "sp": 0,
+          "payed": 0,
+          "rscl": 10,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 239995,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1852003359,
+        "sq": {
+          "br": 1552710,
+          "fid": 0,
+          "size": 46580435,
+          "vd": -38013.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 9602656,
+          "vd": -38024.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/3YdPsgPVkjgnvCT2TrUt8g==/109951166074190826.jpg",
+          "name": "芊芊",
+          "tns": [],
+          "pic_str": "109951166074190826",
+          "id": 128736782,
+          "pic": 109951166074190826
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "回音哥",
+              "id": 3348
+            }
+          ],
+          "name": "芊芊",
+          "songId": 102138,
+          "albumMeta": {
+            "name": "回音Echo",
+            "id": 10078
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3841088,
+          "vd": -33749.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 5761611,
+          "vd": -35430.0,
+          "sr": 44100
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "许仙大官人",
+            "tns": [],
+            "alias": [],
+            "id": 47826764
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "芊芊（翻自 回音哥）",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1400027720,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 239931,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1400027720,
+        "sq": {
+          "br": 1411000,
+          "fid": 0,
+          "size": 23417405,
+          "vd": -25501.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9599521,
+          "vd": -25507.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/F3T2lO3ItUTITAdyTh2woA==/109951164350467147.jpg",
+          "name": "Gc艾。",
+          "tns": [],
+          "pic_str": "109951164350467147",
+          "id": 81418842,
+          "pic": 109951164350467147
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3839835,
+          "vd": -21314.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5759730,
+          "vd": -22917.0,
+          "sr": 44100
+        },
+        "version": 12,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 0,
+        "ar": [
+          {
+            "name": "秀白Gc",
+            "tns": [],
+            "alias": [],
+            "id": 33166290
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 46,
+        "name": "芊芊（翻自 回音哥）",
+        "mark": 0
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1400030364,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 239931,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1400030364,
+        "sq": {
+          "br": 1411000,
+          "fid": 0,
+          "size": 23417405,
+          "vd": -25501.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9599521,
+          "vd": -25507.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/F3T2lO3ItUTITAdyTh2woA==/109951164350467147.jpg",
+          "name": "Gc艾。",
+          "tns": [],
+          "pic_str": "109951164350467147",
+          "id": 81418842,
+          "pic": 109951164350467147
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3839835,
+          "vd": -21314.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5759730,
+          "vd": -22917.0,
+          "sr": 44100
+        },
+        "version": 8,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 0,
+        "ar": [
+          {
+            "name": "秀白Gc",
+            "tns": [],
+            "alias": [],
+            "id": 33166290
+          },
+          {
+            "name": "丫头",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          },
+          {
+            "name": "小艾",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 42,
+        "name": "芊芊（翻自 回音哥）",
+        "mark": 0
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1937731912,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 80.0,
+        "dt": 239925,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1937731912,
+        "sq": {
+          "br": 989807,
+          "fid": 0,
+          "size": 29684933,
+          "vd": -34675.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9599521,
+          "vd": -34595.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/F7nx4aHfTyk6YaadrycdSw==/109951167286293727.jpg",
+          "name": "芊芊（原唱 回音哥）",
+          "tns": [],
+          "pic_str": "109951167286293727",
+          "id": 143409587,
+          "pic": 109951167286293727
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "回音哥",
+              "id": 3348
+            }
+          ],
+          "name": "芊芊",
+          "songId": 102138,
+          "albumMeta": {
+            "name": "回音Echo",
+            "id": 10078
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3839835,
+          "vd": -30382.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5759730,
+          "vd": -32036.0,
+          "sr": 44100
+        },
+        "version": 8,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 0,
+        "ar": [
+          {
+            "name": "慵狐",
+            "tns": [],
+            "alias": [],
+            "id": 30647536
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 42,
+        "name": "芊芊（cover 回音哥）",
+        "mark": 0
+      },
+      {
+        "no": 1,
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 450715033,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 239731,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 450715033,
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1483263425963,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9599521,
+          "vd": -2.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/8e9VDmtWwywcFuVMly3yGg==/109951162835046601.jpg",
+          "name": "芊芊",
+          "tns": [],
+          "pic_str": "109951162835046601",
+          "id": 35103593,
+          "pic": 109951162835046601
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3839835,
+          "vd": -2.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5759730,
+          "vd": -2.0,
+          "sr": 44100
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 0,
+        "ar": [
+          {
+            "name": "猫六",
+            "tns": [],
+            "alias": [],
+            "id": 12258323
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "芊芊（翻自 回音哥）",
+        "mark": 0
+      },
+      {
+        "no": 9,
+        "copyright": 2,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 467292853,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 15.0,
+        "dt": 237771,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 467292853,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1487580108272,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9521154,
+          "vd": -15160.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/yELQ3RcFOIZfrpQFvB-X1A==/109951162863717502.jpg",
+          "name": "一束束的翻唱",
+          "tns": [],
+          "pic_str": "109951162863717502",
+          "id": 35190884,
+          "pic": 109951162863717502
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3808488,
+          "vd": -10911.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5712710,
+          "vd": -12574.0,
+          "sr": 44100
+        },
+        "version": 19,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "Eshu",
+            "tns": [],
+            "alias": [],
+            "id": 12293770
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 53,
+        "name": "芊芊（翻自 回音哥）",
+        "mark": 524288
+      },
+      {
+        "no": 1,
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 545605373,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 239702,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 545605373,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1521102782216,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9598476,
+          "vd": -2.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/sUzeOXBiU9vEDJL8ZEcLQw==/109951163190313027.jpg",
+          "name": "芊芊",
+          "tns": [],
+          "pic_str": "109951163190313027",
+          "id": 37927177,
+          "pic": 109951163190313027
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3839417,
+          "vd": -2.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5759103,
+          "vd": -2.0,
+          "sr": 44100
+        },
+        "version": 14,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "noCopyrightRcmd": {
+          "typeDesc": "其它版本可播",
+          "type": 2
+        },
+        "single": 0,
+        "ar": [
+          {
+            "name": "芪岚",
+            "tns": [],
+            "alias": [],
+            "id": 12938066
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 48,
+        "name": "芊芊（翻自 回音哥）",
+        "mark": 0
+      }
+    ],
+    "songCount": 165
+  },
+  "code": 200,
+  "trp": {
+    "rules": [
+      "search_tab_song::3373531563::searchAlg$isGlobalQuality$1",
+      "search_tab_song::102187::searchAlg$isGlobalQuality$1",
+      "search_tab_song::31546896::searchAlg$isGlobalQuality$1",
+      "search_tab_song::26260073::searchAlg$isGlobalQuality$1",
+      "search_tab_song::31546887::searchAlg$isGlobalQuality$1",
+      "search_tab_song::31546888::searchAlg$isGlobalQuality$1",
+      "search_tab_song::31546893::searchAlg$isGlobalQuality$1",
+      "search_tab_song::31546895::searchAlg$isGlobalQuality$1",
+      "search_tab_song::27694142::searchAlg$isGlobalQuality$1",
+      "search_tab_song::3370502085::searchAlg$isGlobalQuality$1",
+      "search_tab_song::27694145::searchAlg$isGlobalQuality$1",
+      "search_tab_song::1443050965::searchAlg$isGlobalQuality$1",
+      "search_tab_song::3401131393::searchAlg$isGlobalQuality$1",
+      "search_tab_song::27694144::searchAlg$isGlobalQuality$1",
+      "search_tab_song::2733486654::searchAlg$isGlobalQuality$1",
+      "search_tab_song::102138::searchAlg$isGlobalQuality$1",
+      "search_tab_song::3400729217::searchAlg$isGlobalQuality$1",
+      "search_tab_song::2093312916::searchAlg$isGlobalQuality$1"
+    ]
+  }
+}

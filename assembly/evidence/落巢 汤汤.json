@@ -1,0 +1,486 @@
+{
+  "result": {
+    "searchQcReminder": null,
+    "songs": [
+      {
+        "name": "落巢",
+        "id": 2722064669,
+        "pst": 0,
+        "t": 0,
+        "ar": [
+          {
+            "id": 0,
+            "name": "汤汤",
+            "tns": [],
+            "alias": []
+          },
+          {
+            "id": 49103473,
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": []
+          }
+        ],
+        "alia": [
+          "《纸嫁衣8千子树》主题曲"
+        ],
+        "pop": 75.0,
+        "st": 0,
+        "rt": "",
+        "fee": 8,
+        "v": 39,
+        "crbt": null,
+        "cf": "",
+        "al": {
+          "id": 277158656,
+          "name": "无间梦境|纸嫁衣8千子树",
+          "picUrl": "http://p1.music.126.net/lmetTYZgd7JsqNByOU2SlA==/109951171396835442.jpg",
+          "tns": [],
+          "pic_str": "109951171396835442",
+          "pic": 109951171396835442
+        },
+        "dt": 264363,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10577325,
+          "vd": 25005.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6346413,
+          "vd": 27652.0,
+          "sr": 48000
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4230957,
+          "vd": 29406.0,
+          "sr": 48000
+        },
+        "sq": {
+          "br": 722098,
+          "fid": 0,
+          "size": 23866870,
+          "vd": 25096.0,
+          "sr": 48000
+        },
+        "hr": {
+          "br": 1490585,
+          "fid": 0,
+          "size": 49261856,
+          "vd": 25096.0,
+          "sr": 48000
+        },
+        "a": null,
+        "cd": "01",
+        "no": 1,
+        "rtUrl": null,
+        "ftype": 0,
+        "rtUrls": [],
+        "djId": 0,
+        "copyright": 0,
+        "s_id": 0,
+        "mark": 17716748288,
+        "originCoverType": 0,
+        "originSongSimpleData": null,
+        "tagPicList": null,
+        "resourceState": true,
+        "version": 5,
+        "songJumpInfo": null,
+        "entertainmentTags": null,
+        "single": 0,
+        "noCopyrightRcmd": null,
+        "rtype": 0,
+        "rurl": null,
+        "mst": 9,
+        "cp": 0,
+        "mv": 0,
+        "publishTime": 1751558400000,
+        "privilege": {
+          "id": 2722064669,
+          "fee": 0,
+          "payed": 0,
+          "st": -100,
+          "pl": 0,
+          "dl": 0,
+          "sp": 7,
+          "cp": 1,
+          "subp": 1,
+          "cs": false,
+          "maxbr": 999000,
+          "fl": 0,
+          "toast": false,
+          "flag": 4,
+          "preSell": false,
+          "playMaxbr": 999000,
+          "downloadMaxbr": 999000,
+          "maxBrLevel": "hires",
+          "playMaxBrLevel": "hires",
+          "downloadMaxBrLevel": "hires",
+          "plLevel": "none",
+          "dlLevel": "none",
+          "flLevel": "none",
+          "rscl": 0,
+          "freeTrialPrivilege": {
+            "resConsumable": false,
+            "userConsumable": false,
+            "listenType": null,
+            "cannotListenReason": 1,
+            "playReason": null,
+            "freeLimitTagType": null
+          },
+          "rightSource": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 1
+            }
+          ],
+          "code": 0,
+          "message": null,
+          "plLevels": null,
+          "dlLevels": null,
+          "ignoreCache": null,
+          "bd": null
+        }
+      },
+      {
+        "name": "千年风雅",
+        "id": 33875825,
+        "pst": 0,
+        "t": 0,
+        "ar": [
+          {
+            "id": 906118,
+            "name": "洛天依Official",
+            "tns": [],
+            "alias": []
+          }
+        ],
+        "alia": [],
+        "pop": 25.0,
+        "st": 0,
+        "rt": null,
+        "fee": 0,
+        "v": 268,
+        "crbt": null,
+        "cf": "",
+        "al": {
+          "id": 3054014,
+          "name": "洛天依作品集",
+          "picUrl": "http://p1.music.126.net/vkoQqphGwk6TyRFai3ZBdw==/3238061743857732.jpg",
+          "tns": [],
+          "pic": 3238061743857732
+        },
+        "dt": 259787,
+        "h": null,
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6235576,
+          "vd": -41977.0,
+          "sr": 44100
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4157065,
+          "vd": -40338.0,
+          "sr": 44100
+        },
+        "sq": null,
+        "hr": null,
+        "a": null,
+        "cd": "01",
+        "no": 1,
+        "rtUrl": null,
+        "ftype": 0,
+        "rtUrls": [],
+        "djId": 0,
+        "copyright": 2,
+        "s_id": 0,
+        "mark": 0,
+        "originCoverType": 0,
+        "originSongSimpleData": null,
+        "tagPicList": null,
+        "resourceState": true,
+        "version": 234,
+        "songJumpInfo": null,
+        "entertainmentTags": null,
+        "single": 0,
+        "noCopyrightRcmd": {
+          "type": 2,
+          "typeDesc": "其它版本可播",
+          "songId": null
+        },
+        "rtype": 0,
+        "rurl": null,
+        "mst": 9,
+        "cp": 0,
+        "mv": 0,
+        "publishTime": 1388505600004,
+        "privilege": {
+          "id": 33875825,
+          "fee": 0,
+          "payed": 0,
+          "st": -200,
+          "pl": 0,
+          "dl": 0,
+          "sp": 0,
+          "cp": 0,
+          "subp": 0,
+          "cs": false,
+          "maxbr": 192000,
+          "fl": 0,
+          "toast": false,
+          "flag": 128,
+          "preSell": false,
+          "playMaxbr": 192000,
+          "downloadMaxbr": 192000,
+          "maxBrLevel": "higher",
+          "playMaxBrLevel": "higher",
+          "downloadMaxBrLevel": "higher",
+          "plLevel": "none",
+          "dlLevel": "none",
+          "flLevel": "none",
+          "rscl": null,
+          "freeTrialPrivilege": {
+            "resConsumable": false,
+            "userConsumable": false,
+            "listenType": null,
+            "cannotListenReason": 1,
+            "playReason": null,
+            "freeLimitTagType": null
+          },
+          "rightSource": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 1
+            }
+          ],
+          "code": 0,
+          "message": null,
+          "plLevels": null,
+          "dlLevels": null,
+          "ignoreCache": null,
+          "bd": null
+        },
+        "lyrics": [
+          "<b>落汤汤</b> 知东去何往",
+          "尘世间消长 何必枉悲伤",
+          "云上流光 寒夜正凄惶"
+        ]
+      },
+      {
+        "name": "断魂",
+        "id": 1404798473,
+        "pst": 0,
+        "t": 0,
+        "ar": [
+          {
+            "id": 906118,
+            "name": "洛天依Official",
+            "tns": [],
+            "alias": []
+          }
+        ],
+        "alia": [],
+        "pop": 10.0,
+        "st": 0,
+        "rt": "",
+        "fee": 0,
+        "v": 50,
+        "crbt": null,
+        "cf": "",
+        "al": {
+          "id": 83523481,
+          "name": "Vsinger作品集-6",
+          "picUrl": "http://p1.music.126.net/tY9iVdt5nBI9gksZUju6Eg==/109951164541049670.jpg",
+          "tns": [],
+          "pic_str": "109951164541049670",
+          "pic": 109951164541049670
+        },
+        "dt": 200964,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8041578,
+          "vd": -9637.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4824964,
+          "vd": -7014.0,
+          "sr": 44100
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3216657,
+          "vd": -5291.0,
+          "sr": 44100
+        },
+        "sq": {
+          "br": 1411000,
+          "fid": 0,
+          "size": 21098316,
+          "vd": -9644.0,
+          "sr": 44100
+        },
+        "hr": null,
+        "a": null,
+        "cd": "01",
+        "no": 68,
+        "rtUrl": null,
+        "ftype": 0,
+        "rtUrls": [],
+        "djId": 0,
+        "copyright": 1,
+        "s_id": 0,
+        "mark": 0,
+        "originCoverType": 0,
+        "originSongSimpleData": null,
+        "tagPicList": null,
+        "resourceState": true,
+        "version": 16,
+        "songJumpInfo": null,
+        "entertainmentTags": null,
+        "single": 0,
+        "noCopyrightRcmd": null,
+        "rtype": 0,
+        "rurl": null,
+        "mst": 9,
+        "cp": 1416549,
+        "mv": 0,
+        "publishTime": 1546272000000,
+        "privilege": {
+          "id": 1404798473,
+          "fee": 0,
+          "payed": 0,
+          "st": -100,
+          "pl": 0,
+          "dl": 0,
+          "sp": 7,
+          "cp": 0,
+          "subp": 0,
+          "cs": false,
+          "maxbr": 999000,
+          "fl": 0,
+          "toast": false,
+          "flag": 256,
+          "preSell": false,
+          "playMaxbr": 999000,
+          "downloadMaxbr": 999000,
+          "maxBrLevel": "lossless",
+          "playMaxBrLevel": "lossless",
+          "downloadMaxBrLevel": "lossless",
+          "plLevel": "none",
+          "dlLevel": "none",
+          "flLevel": "none",
+          "rscl": 0,
+          "freeTrialPrivilege": {
+            "resConsumable": false,
+            "userConsumable": false,
+            "listenType": null,
+            "cannotListenReason": 1,
+            "playReason": null,
+            "freeLimitTagType": null
+          },
+          "rightSource": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeUrl": null,
+              "chargeMessage": null,
+              "chargeType": 1
+            }
+          ],
+          "code": 0,
+          "message": null,
+          "plLevels": null,
+          "dlLevels": null,
+          "ignoreCache": null,
+          "bd": null
+        },
+        "lyrics": [
+          "<b>落汤汤</b>\r",
+          "死生赴衷肠\r",
+          "胜余生如常\r"
+        ]
+      }
+    ],
+    "songCount": 3
+  },
+  "code": 200
+}

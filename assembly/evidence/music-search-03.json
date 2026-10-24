@@ -1,0 +1,4193 @@
+{
+  "result": {
+    "songs": [
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1911377814,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 147000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1911377814,
+        "sq": {
+          "br": 1685692,
+          "fid": 0,
+          "size": 30974595,
+          "vd": -25046.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320003,
+          "fid": 0,
+          "size": 5881965,
+          "vd": -25057.0,
+          "sr": 48000
+        },
+        "mv": 14494459,
+        "al": {
+          "picUrl": "http://p2.music.126.net/ZrWgJqLD75XvALUIT7E9TQ==/109951166924195228.jpg",
+          "name": "纸嫁衣3鸳鸯债",
+          "tns": [],
+          "pic_str": "109951166924195228",
+          "id": 138761048,
+          "pic": 109951166924195228
+        },
+        "l": {
+          "br": 128003,
+          "fid": 0,
+          "size": 2352813,
+          "vd": -21196.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192003,
+          "fid": 0,
+          "size": 3529197,
+          "vd": -22539.0,
+          "sr": 48000
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "Uri",
+            "tns": [],
+            "alias": [],
+            "id": 12184584
+          },
+          {
+            "name": "喵☆酱",
+            "tns": [],
+            "alias": [],
+            "id": 12373281
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "鸳鸯债",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3417271377,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 112796,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3417271377,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 4512958,
+          "vd": -73959.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/UqVhWmSP_uMj5GbOmzOBIQ==/109951173704529892.jpg",
+          "name": "鸳鸯债",
+          "tns": [],
+          "pic_str": "109951173704529892",
+          "id": 391126146,
+          "pic": 109951173704529892
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1805209,
+          "vd": -69792.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 2707792,
+          "vd": -71380.0,
+          "sr": 44100
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [
+          "DJ版"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "DJ大大怪",
+            "tns": [],
+            "alias": [],
+            "id": 122581382
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "鸳鸯债",
+        "mark": 17179877376
+      },
+      {
+        "no": 7,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3410288327,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 80.0,
+        "dt": 182764,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3410288327,
+        "sq": {
+          "br": 989090,
+          "fid": 0,
+          "size": 22599679,
+          "vd": -42134.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7313325,
+          "vd": -42143.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/mLuVkzYLqn22W80yezEtfQ==/109951173501794195.jpg",
+          "name": "dj降速",
+          "tns": [],
+          "pic_str": "109951173501794195",
+          "id": 385098541,
+          "pic": 109951173501794195
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2925357,
+          "vd": -38005.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4388013,
+          "vd": -39575.0,
+          "sr": 48000
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "Caspian",
+            "tns": [],
+            "alias": [
+              "芙蕾雅"
+            ],
+            "id": 123356605,
+            "alia": [
+              "芙蕾雅"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "鸳鸯债（何物似情浓）",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 862156,
+          "fid": 0,
+          "size": 9800962,
+          "vd": -53947.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3411195378,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 90.0,
+        "dt": 90927,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3411195378,
+        "sq": {
+          "br": 475070,
+          "fid": 0,
+          "size": 5401354,
+          "vd": -53947.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 3639405,
+          "vd": -53948.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/mCaAEy5djNiW2iYB-NFbrw==/109951173633919156.jpg",
+          "name": "鸳鸯债",
+          "tns": [],
+          "pic_str": "109951173633919156",
+          "id": 388943074,
+          "pic": 109951173633919156
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 2183661,
+          "vd": -51303.0,
+          "sr": 48000
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [
+          "天造地设 终不过是 谁重蹈谁覆辙"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "小雪",
+            "tns": [],
+            "alias": [],
+            "id": 99383667
+          },
+          {
+            "name": "7wiz",
+            "tns": [],
+            "alias": [],
+            "id": 59099939
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "鸳鸯债",
+        "mark": 536879104
+      },
+      {
+        "no": 8,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 257,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 2099278264,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 163440,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2099278264,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 6538605,
+          "vd": -23815.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/vEFMzeC1A0WVaKhhwPWDcQ==/109951173887969107.jpg",
+          "name": "抖音热门歌曲",
+          "tns": [],
+          "pic_str": "109951173887969107",
+          "id": 178396469,
+          "pic": 109951173887969107
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "Uri",
+              "id": 12184584
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "鸳鸯债",
+          "songId": 1911377814,
+          "albumMeta": {
+            "name": "纸嫁衣3鸳鸯债",
+            "id": 138761048
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2615469,
+          "vd": -19733.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3923181,
+          "vd": -21255.0,
+          "sr": 48000
+        },
+        "version": 7,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "屈雪森",
+            "tns": [],
+            "alias": [],
+            "id": 56787734
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "鸳鸯债（0.9x）",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3404266634,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 55.0,
+        "dt": 138269,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3404266634,
+        "sq": {
+          "br": 1598781,
+          "fid": 0,
+          "size": 27635472,
+          "vd": -29979.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 5533823,
+          "vd": -29987.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/4duYF-mahzRYRyay3qY0Xg==/109951173532213415.jpg",
+          "name": "鸳鸯债",
+          "tns": [],
+          "pic_str": "109951173532213415",
+          "id": 386152808,
+          "pic": 109951173532213415
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2213555,
+          "vd": -25908.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3320311,
+          "vd": -27404.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [
+          "抖音热播"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "陈与默",
+            "tns": [],
+            "alias": [],
+            "id": 122345919
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "鸳鸯债",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1733123,
+          "fid": 0,
+          "size": 31846145,
+          "vd": -54401.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1950840068,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 70.0,
+        "dt": 147000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1950840068,
+        "sq": {
+          "br": 963788,
+          "fid": 0,
+          "size": 17709608,
+          "vd": -54397.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320003,
+          "fid": 0,
+          "size": 5881965,
+          "vd": -54413.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/9Jpcp3fRm1CwkGQDElVWBg==/109951167477561687.jpg",
+          "name": "鸳鸯债",
+          "tns": [],
+          "pic_str": "109951167477561687",
+          "id": 145574654,
+          "pic": 109951167477561687
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "Uri",
+              "id": 12184584
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "鸳鸯债",
+          "songId": 1911377814,
+          "albumMeta": {
+            "name": "纸嫁衣3鸳鸯债",
+            "id": 138761048
+          }
+        },
+        "l": {
+          "br": 128003,
+          "fid": 0,
+          "size": 2352813,
+          "vd": -50340.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192003,
+          "fid": 0,
+          "size": 3529197,
+          "vd": -51880.0,
+          "sr": 48000
+        },
+        "version": 13,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "张承煜（小魂）",
+            "tns": [],
+            "alias": [],
+            "id": 1047088
+          },
+          {
+            "name": "叶里",
+            "tns": [],
+            "alias": [],
+            "id": 1039314
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 47,
+        "name": "鸳鸯债",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 1965359989,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 65.0,
+        "dt": 140256,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1965359989,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 5612205,
+          "vd": -33940.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/EazK3tjptOTd472n6ITJkA==/109951167693576874.jpg",
+          "name": "鸳鸯债—《纸嫁衣3》主题曲",
+          "tns": [],
+          "pic_str": "109951167693576874",
+          "id": 148346932,
+          "pic": 109951167693576874
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "Uri",
+              "id": 12184584
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "鸳鸯债",
+          "songId": 1911377814,
+          "albumMeta": {
+            "name": "纸嫁衣3鸳鸯债",
+            "id": 138761048
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2244909,
+          "vd": -30042.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3367341,
+          "vd": -31427.0,
+          "sr": 48000
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "兰音Reine",
+            "tns": [],
+            "alias": [],
+            "id": 46424022
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "鸳鸯债",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3398296439,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 85.0,
+        "dt": 153321,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3398296439,
+        "sq": {
+          "br": 1528696,
+          "fid": 0,
+          "size": 29300604,
+          "vd": -43026.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 6135685,
+          "vd": -43043.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/sFkJWDhji12ogpHtn3JQ7g==/109951173459964690.jpg",
+          "name": "鸳鸯债 DJ",
+          "tns": [],
+          "pic_str": "109951173459964690",
+          "id": 383795099,
+          "pic": 109951173459964690
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2454300,
+          "vd": -39112.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3681428,
+          "vd": -40531.0,
+          "sr": 44100
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [
+          "抖音热播DJ版"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "阿杰",
+            "tns": [],
+            "alias": [],
+            "id": 122593472
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "鸳鸯债",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "hr": {
+          "br": 1346209,
+          "fid": 0,
+          "size": 14858821,
+          "vd": -29703.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3413284649,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 88290,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3413284649,
+        "sq": {
+          "br": 642489,
+          "fid": 0,
+          "size": 7092375,
+          "vd": -29703.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1785254400000,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 3533805,
+          "vd": -29704.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/orLKik9e8kORKBC4dYv8Qg==/109951173658943782.jpg",
+          "name": "鸳鸯债（R&B版）",
+          "tns": [],
+          "pic_str": "109951173658943782",
+          "id": 389700331,
+          "pic": 109951173658943782
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1413549,
+          "vd": -25306.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 2120301,
+          "vd": -27068.0,
+          "sr": 48000
+        },
+        "version": 2,
+        "cp": 1416692,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "魏爱梓欣",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "鸳鸯债（R&B版）",
+        "mark": 536879104
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 257,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1925791384,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 65.0,
+        "dt": 147100,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1925791384,
+        "sq": {
+          "br": 1018711,
+          "fid": 0,
+          "size": 18731601,
+          "vd": -46139.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 5886999,
+          "vd": -46163.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/aWY5x8NiBN-LHClkWSBgIQ==/109951167119775444.jpg",
+          "name": "《纸嫁衣》游戏系列歌曲",
+          "tns": [],
+          "pic_str": "109951167119775444",
+          "id": 141371917,
+          "pic": 109951167119775444
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "Uri",
+              "id": 12184584
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "鸳鸯债",
+          "songId": 1911377814,
+          "albumMeta": {
+            "name": "纸嫁衣3鸳鸯债",
+            "id": 138761048
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 2354826,
+          "vd": -42239.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 3532217,
+          "vd": -43650.0,
+          "sr": 44100
+        },
+        "version": 13,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "鱼眠",
+            "tns": [],
+            "alias": [],
+            "id": 30475745
+          },
+          {
+            "name": "南偿",
+            "tns": [],
+            "alias": [],
+            "id": 12085330
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 47,
+        "name": "鸳鸯债(双御姐版)",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1758909,
+          "fid": 0,
+          "size": 32330517,
+          "vd": -44887.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1982656244,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 147048,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1982656244,
+        "sq": {
+          "br": 989959,
+          "fid": 0,
+          "size": 18196447,
+          "vd": -44887.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320003,
+          "fid": 0,
+          "size": 5883885,
+          "vd": -44910.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/fZTevpcwgGlxq6VJHGRoBw==/109951167890744039.jpg",
+          "name": "鸳鸯债",
+          "tns": [],
+          "pic_str": "109951167890744039",
+          "id": 151833887,
+          "pic": 109951167890744039
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "Uri",
+              "id": 12184584
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "鸳鸯债",
+          "songId": 1911377814,
+          "albumMeta": {
+            "name": "纸嫁衣3鸳鸯债",
+            "id": 138761048
+          }
+        },
+        "l": {
+          "br": 128003,
+          "fid": 0,
+          "size": 2353581,
+          "vd": -41019.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192003,
+          "fid": 0,
+          "size": 3530349,
+          "vd": -42415.0,
+          "sr": 48000
+        },
+        "version": 23,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "千千晚不安",
+            "tns": [],
+            "alias": [
+              "陈千Chen"
+            ],
+            "id": 31960495,
+            "alia": [
+              "陈千Chen"
+            ]
+          },
+          {
+            "name": "老陈",
+            "tns": [],
+            "alias": [],
+            "id": 46830272
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 57,
+        "name": "鸳鸯债（超攻男声x温柔戏腔）",
+        "mark": 536871040
+      },
+      {
+        "no": 8,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3404414009,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 155285,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3404414009,
+        "sq": {
+          "br": 758512,
+          "fid": 0,
+          "size": 14726130,
+          "vd": -41542.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 6214052,
+          "vd": -41544.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/K--EdstMXavjix_tSFewzA==/109951173533438001.jpg",
+          "name": "偷开的翅膀",
+          "tns": [],
+          "pic_str": "109951173533438001",
+          "id": 386174377,
+          "pic": 109951173533438001
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2485647,
+          "vd": -37257.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3728449,
+          "vd": -38925.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "百艺艺",
+            "tns": [],
+            "alias": [],
+            "id": 98961907
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "鸳鸯债 (琵琶旋律DJ版)",
+        "mark": 131200
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 6,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 2054973734,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 135720,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2054973734,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 5429805,
+          "vd": 31783.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/-iJkcAgSxvNc0ZscgEc5ZA==/109951167568205278.jpg",
+          "name": "愚心",
+          "tns": [],
+          "pic_str": "109951167568205278",
+          "id": 146769868,
+          "pic": 109951167568205278
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2171949,
+          "vd": 36223.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3257901,
+          "vd": 34428.0,
+          "sr": 48000
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "怣",
+            "tns": [],
+            "alias": [],
+            "id": 53094408
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "鸳鸯债（钢琴版-完整）",
+        "mark": 139328
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1920747756,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 145654,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1920747756,
+        "sq": {
+          "br": 966196,
+          "fid": 0,
+          "size": 17591403,
+          "vd": -31864.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 5828485,
+          "vd": -31874.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/Gt7GrKtF1H4VbriEzp5lTQ==/109951167055599208.jpg",
+          "name": "鸳鸯债（莫得感情独唱版）",
+          "tns": [],
+          "pic_str": "109951167055599208",
+          "id": 140451924,
+          "pic": 109951167055599208
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "Uri",
+              "id": 12184584
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "鸳鸯债",
+          "songId": 1911377814,
+          "albumMeta": {
+            "name": "纸嫁衣3鸳鸯债",
+            "id": 138761048
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2331420,
+          "vd": -27712.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3497108,
+          "vd": -29324.0,
+          "sr": 44100
+        },
+        "version": 7,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "心宸er",
+            "tns": [],
+            "alias": [],
+            "id": 34361916
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "鸳鸯债（莫得感情的独唱版）",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1914138519,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 147080,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1914138519,
+        "sq": {
+          "br": 986416,
+          "fid": 0,
+          "size": 18135375,
+          "vd": -30583.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 5885954,
+          "vd": -30600.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/illTZHnAlGlo1m7Sy7Rf8A==/109951166966507957.jpg",
+          "name": "纸嫁衣3鸳鸯债",
+          "tns": [],
+          "pic_str": "109951166966507957",
+          "id": 139257504,
+          "pic": 109951166966507957
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "Uri",
+              "id": 12184584
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "鸳鸯债",
+          "songId": 1911377814,
+          "albumMeta": {
+            "name": "纸嫁衣3鸳鸯债",
+            "id": 138761048
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 2354408,
+          "vd": -26692.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 3531590,
+          "vd": -28109.0,
+          "sr": 44100
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "管莫书",
+            "tns": [],
+            "alias": [],
+            "id": 12606352
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "鸳鸯债",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2014769229,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 147000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2014769229,
+        "sq": {
+          "br": 852271,
+          "fid": 0,
+          "size": 15660491,
+          "vd": -25030.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 5882819,
+          "vd": -24734.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/Lbc0V4UTrx-_AKMJhOj3mQ==/109951168237041989.jpg",
+          "name": "鸳鸯债，鸳鸯债纸嫁衣",
+          "tns": [],
+          "pic_str": "109951168237041989",
+          "id": 158272301,
+          "pic": 109951168237041989
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "Uri",
+              "id": 12184584
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "鸳鸯债",
+          "songId": 1911377814,
+          "albumMeta": {
+            "name": "纸嫁衣3鸳鸯债",
+            "id": 138761048
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 2353154,
+          "vd": -20773.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 3529709,
+          "vd": -22213.0,
+          "sr": 44100
+        },
+        "version": 7,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "鸳鸯债",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 2029656037,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 50.0,
+        "dt": 131424,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2029656037,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 5257965,
+          "vd": -72434.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/Wn_Y0YjadDImRjgngZ8bAg==/109951168262144300.jpg",
+          "name": "白老师的粗制滥造（们？）",
+          "tns": [],
+          "pic_str": "109951168262144300",
+          "id": 158828683,
+          "pic": 109951168262144300
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "Uri",
+              "id": 12184584
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "鸳鸯债",
+          "songId": 1911377814,
+          "albumMeta": {
+            "name": "纸嫁衣3鸳鸯债",
+            "id": 138761048
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2103213,
+          "vd": -67982.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3154797,
+          "vd": -69790.0,
+          "sr": 48000
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "白青青",
+            "tns": [],
+            "alias": [
+              "赖床"
+            ],
+            "id": 55168960,
+            "alia": [
+              "赖床"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "鸳鸯债",
+        "mark": 128
+      },
+      {
+        "no": 3,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3412109116,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 50.0,
+        "dt": 91336,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3412109116,
+        "sq": {
+          "br": 951775,
+          "fid": 0,
+          "size": 10868237,
+          "vd": -66579.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 3656142,
+          "vd": -66586.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/wWldvkphiAm-4mcZ5CTduA==/109951173647457800.jpg",
+          "name": "鸳鸯债(天造地设 终不过是 谁重蹈谁覆辙)",
+          "tns": [],
+          "pic_str": "109951173647457800",
+          "id": 389253685,
+          "pic": 109951173647457800
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1462483,
+          "vd": -62574.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 2193702,
+          "vd": -64022.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "小酒",
+            "tns": [],
+            "alias": [
+              "小柒.S"
+            ],
+            "id": 61954421,
+            "alia": [
+              "小柒.S"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "鸳鸯债(天造地设 终不过是)",
+        "mark": 128
+      },
+      {
+        "no": 48,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3400737783,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 60.0,
+        "dt": 77749,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3400737783,
+        "sq": {
+          "br": 488215,
+          "fid": 0,
+          "size": 4746316,
+          "vd": -63442.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 3112365,
+          "vd": -63442.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/VjE7YpTbXOWzYtyqomYF1w==/109951172857600320.jpg",
+          "name": "想看你笑，想看你闹",
+          "tns": [],
+          "pic_str": "109951172857600320",
+          "id": 365255259,
+          "pic": 109951172857600320
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1244973,
+          "vd": -59080.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 1867437,
+          "vd": -60770.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "Dear(挚爱)",
+            "tns": [],
+            "alias": [],
+            "id": 122017645
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "鸳鸯债Dj(纸嫁衣)",
+        "mark": 131200
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1912110468,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 45.0,
+        "dt": 147000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1912110468,
+        "sq": {
+          "br": 1553691,
+          "fid": 0,
+          "size": 28549078,
+          "vd": 24804.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320003,
+          "fid": 0,
+          "size": 5881965,
+          "vd": 24788.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/ZrWgJqLD75XvALUIT7E9TQ==/109951166924195228.jpg",
+          "name": "纸嫁衣3鸳鸯债",
+          "tns": [],
+          "pic_str": "109951166924195228",
+          "id": 138761048,
+          "pic": 109951166924195228
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "Uri",
+              "id": 12184584
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "鸳鸯债",
+          "songId": 1911377814,
+          "albumMeta": {
+            "name": "纸嫁衣3鸳鸯债",
+            "id": 138761048
+          }
+        },
+        "l": {
+          "br": 128003,
+          "fid": 0,
+          "size": 2352813,
+          "vd": 28840.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192003,
+          "fid": 0,
+          "size": 3529197,
+          "vd": 27335.0,
+          "sr": 48000
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "Uri",
+            "tns": [],
+            "alias": [],
+            "id": 12184584
+          },
+          {
+            "name": "喵☆酱",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "鸳鸯债 伴奏",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1588934,
+          "fid": 0,
+          "size": 24221804,
+          "vd": -24833.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3397534094,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 65.0,
+        "dt": 121940,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3397534094,
+        "sq": {
+          "br": 825131,
+          "fid": 0,
+          "size": 12579448,
+          "vd": -24833.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 4879725,
+          "vd": -24834.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/UXbLyigWPcyeKN277b_zfw==/109951173449867772.jpg",
+          "name": "鸳鸯债dj版",
+          "tns": [],
+          "pic_str": "109951173449867772",
+          "id": 383435028,
+          "pic": 109951173449867772
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1951917,
+          "vd": -20618.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 2927853,
+          "vd": -22221.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [
+          "怎么两清 怎么做回甲乙丙丁"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "DJ冷冰冰",
+            "tns": [],
+            "alias": [],
+            "id": 62020225
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "鸳鸯债dj版",
+        "mark": 17716879360
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1709538,
+          "fid": 0,
+          "size": 31436333,
+          "vd": -17945.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1962886314,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 147110,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1962886314,
+        "sq": {
+          "br": 939546,
+          "fid": 0,
+          "size": 17277126,
+          "vd": -17945.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320003,
+          "fid": 0,
+          "size": 5886765,
+          "vd": -17956.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/mLC5xvo1SkF8JZNIcK6d7A==/109951167652728094.jpg",
+          "name": "鸳鸯债",
+          "tns": [],
+          "pic_str": "109951167652728094",
+          "id": 147906797,
+          "pic": 109951167652728094
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "Uri",
+              "id": 12184584
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "鸳鸯债",
+          "songId": 1911377814,
+          "albumMeta": {
+            "name": "纸嫁衣3鸳鸯债",
+            "id": 138761048
+          }
+        },
+        "l": {
+          "br": 128003,
+          "fid": 0,
+          "size": 2354733,
+          "vd": -14007.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192003,
+          "fid": 0,
+          "size": 3532077,
+          "vd": -15439.0,
+          "sr": 48000
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "孤光Studio",
+            "tns": [],
+            "alias": [],
+            "id": 53212398
+          },
+          {
+            "name": "苏源安",
+            "tns": [],
+            "alias": [],
+            "id": 28071559
+          },
+          {
+            "name": "羽樾",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "鸳鸯债",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 257,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 1970870397,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 20.0,
+        "dt": 27000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1970870397,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 1081005,
+          "vd": -62528.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/0IYIb0D4LCxSZiyxINwV8A==/109951167168816604.jpg",
+          "name": "糖糖的一些翻唱",
+          "tns": [],
+          "pic_str": "109951167168816604",
+          "id": 142088382,
+          "pic": 109951167168816604
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "Uri",
+              "id": 12184584
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "鸳鸯债",
+          "songId": 1911377814,
+          "albumMeta": {
+            "name": "纸嫁衣3鸳鸯债",
+            "id": 138761048
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 432429,
+          "vd": -58117.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 648621,
+          "vd": -59889.0,
+          "sr": 48000
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "白盏糖糖",
+            "tns": [],
+            "alias": [],
+            "id": 51868003
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "鸳鸯债(清唱版)",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1926340661,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 139050,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1926340661,
+        "sq": {
+          "br": 1110646,
+          "fid": 0,
+          "size": 19304509,
+          "vd": -54663.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320003,
+          "fid": 0,
+          "size": 5564205,
+          "vd": -54675.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/Vyi4OCHWJMzVgbMXEzivNg==/109951167126497987.jpg",
+          "name": "纸嫁衣3鸳鸯债",
+          "tns": [],
+          "pic_str": "109951167126497987",
+          "id": 141446374,
+          "pic": 109951167126497987
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "Uri",
+              "id": 12184584
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "鸳鸯债",
+          "songId": 1911377814,
+          "albumMeta": {
+            "name": "纸嫁衣3鸳鸯债",
+            "id": 138761048
+          }
+        },
+        "l": {
+          "br": 128003,
+          "fid": 0,
+          "size": 2225709,
+          "vd": -50507.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192003,
+          "fid": 0,
+          "size": 3338541,
+          "vd": -52114.0,
+          "sr": 48000
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "硕猗",
+            "tns": [],
+            "alias": [],
+            "id": 33297570
+          },
+          {
+            "name": "卜贰",
+            "tns": [],
+            "alias": [],
+            "id": 51656825
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "鸳鸯债（《纸嫁衣3鸳鸯债》主题曲）",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3417921783,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 112796,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3417921783,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 4512958,
+          "vd": -73959.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/6_bVm9F93vopbNXTHoEEjw==/109951173711937750.jpg",
+          "name": "鸳鸯债",
+          "tns": [],
+          "pic_str": "109951173711937750",
+          "id": 391349886,
+          "pic": 109951173711937750
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1805209,
+          "vd": -69792.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 2707792,
+          "vd": -71380.0,
+          "sr": 44100
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [
+          "DJ版"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "DJ大大怪",
+            "tns": [],
+            "alias": [],
+            "id": 122581382
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "鸳鸯债",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1923314031,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 147000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1923314031,
+        "sq": {
+          "br": 1039254,
+          "fid": 0,
+          "size": 19096297,
+          "vd": -19865.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320003,
+          "fid": 0,
+          "size": 5881965,
+          "vd": -19879.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/A62NV_uPWp6jZhtm50TBuQ==/109951167089176452.jpg",
+          "name": "鸳鸯债",
+          "tns": [],
+          "pic_str": "109951167089176452",
+          "id": 140938716,
+          "pic": 109951167089176452
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "Uri",
+              "id": 12184584
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "鸳鸯债",
+          "songId": 1911377814,
+          "albumMeta": {
+            "name": "纸嫁衣3鸳鸯债",
+            "id": 138761048
+          }
+        },
+        "l": {
+          "br": 128003,
+          "fid": 0,
+          "size": 2352813,
+          "vd": -15643.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192003,
+          "fid": 0,
+          "size": 3529197,
+          "vd": -17298.0,
+          "sr": 48000
+        },
+        "version": 10,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "RuiM_太阳吖",
+            "tns": [],
+            "alias": [],
+            "id": 35516119
+          },
+          {
+            "name": "折仙Sama",
+            "tns": [],
+            "alias": [
+              "扇扇",
+              "仙儿",
+              "仙仙",
+              "扇子"
+            ],
+            "id": 46698512,
+            "alia": [
+              "扇扇",
+              "仙儿",
+              "仙仙",
+              "扇子"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 44,
+        "name": "鸳鸯债",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1688898,
+          "fid": 0,
+          "size": 14539214,
+          "vd": -16530.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 257,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2058971813,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 15.0,
+        "dt": 68869,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2058971813,
+        "sq": {
+          "br": 921788,
+          "fid": 0,
+          "size": 7935399,
+          "vd": -17770.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 2757165,
+          "vd": -16508.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/ujxfWNtjg33OWrIK2bZVFg==/109951168410888658.jpg",
+          "name": "花小楼2023翻唱合集",
+          "tns": [],
+          "pic_str": "109951168410888658",
+          "id": 160684165,
+          "pic": 109951168410888658
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1102893,
+          "vd": -12363.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 1654317,
+          "vd": -13922.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "花小楼",
+            "tns": [],
+            "alias": [],
+            "id": 49042385
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "鸳鸯债",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 837707,
+          "fid": 0,
+          "size": 3102193,
+          "vd": -1488.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1977313847,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 29625,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1977313847,
+        "sq": {
+          "br": 400079,
+          "fid": 0,
+          "size": 1481572,
+          "vd": -1486.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 1187565,
+          "vd": -1488.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/DJHA43jUzcg-cH_utAotYQ==/109951166943195186.jpg",
+          "name": "祥嘞嘞翻唱2",
+          "tns": [],
+          "pic_str": "109951166943195186",
+          "id": 138985581,
+          "pic": 109951166943195186
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "Uri",
+              "id": 12184584
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "鸳鸯债",
+          "songId": 1911377814,
+          "albumMeta": {
+            "name": "纸嫁衣3鸳鸯债",
+            "id": 138761048
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 475053,
+          "vd": 2961.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 712557,
+          "vd": 1156.0,
+          "sr": 48000
+        },
+        "version": 7,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "祥嘞嘞",
+            "tns": [],
+            "alias": [],
+            "id": 47467835
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "鸳鸯债",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3411257030,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 117406,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3411257030,
+        "sq": {
+          "br": 1135081,
+          "fid": 0,
+          "size": 16660506,
+          "vd": -113900.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 4698285,
+          "vd": -113872.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/1zqvhGtvGzp58IlU5fxGjQ==/109951173634738888.jpg",
+          "name": "鸳鸯债(只为你温热)男生版",
+          "tns": [],
+          "pic_str": "109951173634738888",
+          "id": 388878939,
+          "pic": 109951173634738888
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1879341,
+          "vd": -109697.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 2818989,
+          "vd": -111299.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "小酒",
+            "tns": [],
+            "alias": [
+              "小柒.S"
+            ],
+            "id": 61954421,
+            "alia": [
+              "小柒.S"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "鸳鸯债(只为你温热)男生版",
+        "mark": 128
+      }
+    ],
+    "songCount": 301
+  },
+  "code": 200,
+  "trp": {
+    "rules": [
+      "search_tab_song::3411195378::searchAlg$isGlobalQuality$1",
+      "search_tab_song::3397534094::searchAlg$isGlobalQuality$1",
+      "search_tab_song::3417271377::searchAlg$isGlobalQuality$1",
+      "search_tab_song::3410288327::searchAlg$isGlobalQuality$1",
+      "search_tab_song::1965359989::searchAlg$isGlobalQuality$1",
+      "search_tab_song::1912110468::searchAlg$isGlobalQuality$1",
+      "search_tab_song::1925791384::searchAlg$isGlobalQuality$1",
+      "search_tab_song::1911377814::searchAlg$isGlobalQuality$1",
+      "search_tab_song::1923314031::searchAlg$isGlobalQuality$2",
+      "search_tab_song::2029656037::searchAlg$isGlobalQuality$1",
+      "search_tab_song::1950840068::searchAlg$isGlobalQuality$1",
+      "search_tab_song::2014769229::searchAlg$isGlobalQuality$1",
+      "search_tab_song::3398296439::searchAlg$isGlobalQuality$1",
+      "search_tab_song::1926340661::searchAlg$isGlobalQuality$2"
+    ]
+  }
+}

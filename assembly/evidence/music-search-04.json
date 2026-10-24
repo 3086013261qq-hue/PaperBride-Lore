@@ -1,0 +1,2893 @@
+{
+  "result": {
+    "songs": [
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1970855116,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 90.0,
+        "dt": 207700,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1970855116,
+        "sq": {
+          "br": 926137,
+          "fid": 0,
+          "size": 24044928,
+          "vd": -50394.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1660233600000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8311162,
+          "vd": -50406.0,
+          "sr": 44100
+        },
+        "mv": 14556259,
+        "al": {
+          "picUrl": "http://p1.music.126.net/X3xTons6DTbL5reeaI8nlA==/109951167763469363.jpg",
+          "name": "纸嫁衣4红丝缠 (游戏《纸嫁衣4红丝缠》主题曲)",
+          "tns": [],
+          "pic_str": "109951167763469363",
+          "id": 149429991,
+          "pic": 109951167763469363
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3324491,
+          "vd": -46233.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4986715,
+          "vd": -47852.0,
+          "sr": 44100
+        },
+        "version": 9,
+        "cp": 1416618,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          },
+          {
+            "name": "喵☆酱",
+            "tns": [],
+            "alias": [],
+            "id": 12373281
+          },
+          {
+            "name": "朱剑",
+            "tns": [],
+            "alias": [],
+            "id": 33393756
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "道不得经 (游戏《纸嫁衣4红丝缠》主题曲)",
+        "mark": 17179877376
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1970855117,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 207598,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1970855117,
+        "sq": {
+          "br": 894387,
+          "fid": 0,
+          "size": 23209160,
+          "vd": -31424.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1660233600000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8306982,
+          "vd": -31438.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/X3xTons6DTbL5reeaI8nlA==/109951167763469363.jpg",
+          "name": "纸嫁衣4红丝缠 (游戏《纸嫁衣4红丝缠》主题曲)",
+          "tns": [],
+          "pic_str": "109951167763469363",
+          "id": 149429991,
+          "pic": 109951167763469363
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3322819,
+          "vd": -27485.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4984207,
+          "vd": -28914.0,
+          "sr": 44100
+        },
+        "version": 6,
+        "cp": 1416618,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          },
+          {
+            "name": "喵☆酱",
+            "tns": [],
+            "alias": [],
+            "id": 12373281
+          },
+          {
+            "name": "朱剑",
+            "tns": [],
+            "alias": [],
+            "id": 33393756
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 40,
+        "name": "道不得经 (游戏《纸嫁衣4红丝缠》主题曲伴奏)",
+        "mark": 17180008448
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1725655,
+          "fid": 0,
+          "size": 44780366,
+          "vd": -46503.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2079680854,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 207598,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2079680854,
+        "sq": {
+          "br": 956315,
+          "fid": 0,
+          "size": 24816156,
+          "vd": -46745.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8305965,
+          "vd": -46510.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/PA9CXkdH6pN6weFPzwY7_g==/109951168895259443.jpg",
+          "name": "道德不经【疯狂口胡版】",
+          "tns": [],
+          "pic_str": "109951168895259443",
+          "id": 174074024,
+          "pic": 109951168895259443
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            }
+          ],
+          "name": "道不得经 (游戏《纸嫁衣4红丝缠》主题曲)",
+          "songId": 1970855116,
+          "albumMeta": {
+            "name": "纸嫁衣4红丝缠 (游戏《纸嫁衣4红丝缠》主题曲)",
+            "id": 149429991
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3322413,
+          "vd": -42489.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4983597,
+          "vd": -43990.0,
+          "sr": 48000
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [
+          "游戏《纸嫁衣4红丝缠》主题曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "韩穆死活都要娶我（叶韶雪）",
+            "tns": [],
+            "alias": [
+              "叶韶雪",
+              "小九"
+            ],
+            "id": 34335528,
+            "alia": [
+              "叶韶雪",
+              "小九"
+            ]
+          },
+          {
+            "name": "雀河崽的狗闪亮登场v",
+            "tns": [],
+            "alias": [
+              "加一"
+            ],
+            "id": 34196985,
+            "alia": [
+              "加一"
+            ]
+          },
+          {
+            "name": "展林霏",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "道不得经",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2116532677,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 206495,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2116532677,
+        "sq": {
+          "br": 500818,
+          "fid": 0,
+          "size": 12927075,
+          "vd": -32044.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8262052,
+          "vd": -32085.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/SNH0spKBXzNMLIbovuEuMg==/109951169251859317.jpg",
+          "name": "道不得经",
+          "tns": [],
+          "pic_str": "109951169251859317",
+          "id": 182933377,
+          "pic": 109951169251859317
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            }
+          ],
+          "name": "道不得经 (游戏《纸嫁衣4红丝缠》主题曲)",
+          "songId": 1970855116,
+          "albumMeta": {
+            "name": "纸嫁衣4红丝缠 (游戏《纸嫁衣4红丝缠》主题曲)",
+            "id": 149429991
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3304847,
+          "vd": -27819.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4957249,
+          "vd": -29482.0,
+          "sr": 44100
+        },
+        "version": 12,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "亚奇文化",
+            "tns": [],
+            "alias": [
+              "亚奇网络音乐传媒工作室",
+              "亚奇文化传媒工作室",
+              "亚奇音乐传媒工作室"
+            ],
+            "id": 59732465,
+            "alia": [
+              "亚奇网络音乐传媒工作室",
+              "亚奇文化传媒工作室",
+              "亚奇音乐传媒工作室"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 46,
+        "name": "道不得经",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1829794,
+          "fid": 0,
+          "size": 47360806,
+          "vd": -57629.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1972515283,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 207096,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1972515283,
+        "sq": {
+          "br": 1059259,
+          "fid": 0,
+          "size": 27416951,
+          "vd": -57639.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 8284845,
+          "vd": -57651.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/6Vum8souS6A65kw3F0gg4w==/109951167784739770.jpg",
+          "name": "道不得经",
+          "tns": [],
+          "pic_str": "109951167784739770",
+          "id": 149748932,
+          "pic": 109951167784739770
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            }
+          ],
+          "name": "道不得经 (游戏《纸嫁衣4红丝缠》主题曲)",
+          "songId": 1970855116,
+          "albumMeta": {
+            "name": "纸嫁衣4红丝缠 (游戏《纸嫁衣4红丝缠》主题曲)",
+            "id": 149429991
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3313965,
+          "vd": -53502.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4970925,
+          "vd": -55126.0,
+          "sr": 48000
+        },
+        "version": 16,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "苏源安",
+            "tns": [],
+            "alias": [],
+            "id": 28071559
+          },
+          {
+            "name": "巫羯",
+            "tns": [],
+            "alias": [],
+            "id": 49754366
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 50,
+        "name": "道不得经",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1974283520,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 209313,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1974283520,
+        "sq": {
+          "br": 899580,
+          "fid": 0,
+          "size": 23536812,
+          "vd": -32022.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8374901,
+          "vd": -32354.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/xsGtZCUeovGOdENcOFrH_A==/109951167803861240.jpg",
+          "name": "纸嫁衣4",
+          "tns": [],
+          "pic_str": "109951167803861240",
+          "id": 150103540,
+          "pic": 109951167803861240
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            }
+          ],
+          "name": "道不得经 (游戏《纸嫁衣4红丝缠》主题曲)",
+          "songId": 1970855116,
+          "albumMeta": {
+            "name": "纸嫁衣4红丝缠 (游戏《纸嫁衣4红丝缠》主题曲)",
+            "id": 149429991
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3349986,
+          "vd": -28182.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5024958,
+          "vd": -29766.0,
+          "sr": 44100
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "秦无关",
+            "tns": [],
+            "alias": [],
+            "id": 14585159
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "道不得经",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2007715240,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 209740,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2007715240,
+        "sq": {
+          "br": 1620293,
+          "fid": 0,
+          "size": 42480115,
+          "vd": -77777.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8392664,
+          "vd": -77781.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/cM2eY07KadPJITj8AdoxFw==/109951168156518351.jpg",
+          "name": "道不得经",
+          "tns": [],
+          "pic_str": "109951168156518351",
+          "id": 156742837,
+          "pic": 109951168156518351
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            }
+          ],
+          "name": "道不得经 (游戏《纸嫁衣4红丝缠》主题曲)",
+          "songId": 1970855116,
+          "albumMeta": {
+            "name": "纸嫁衣4红丝缠 (游戏《纸嫁衣4红丝缠》主题曲)",
+            "id": 149429991
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3357092,
+          "vd": -73616.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5035616,
+          "vd": -75246.0,
+          "sr": 44100
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "是我呀卡司宝贝",
+            "tns": [],
+            "alias": [],
+            "id": 47189014
+          },
+          {
+            "name": "张生",
+            "tns": [],
+            "alias": [],
+            "id": 37199133
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "道不得经【双女声】",
+        "mark": 128
+      },
+      {
+        "no": 13,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1731340,
+          "fid": 0,
+          "size": 44646554,
+          "vd": -68231.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2654164354,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 206298,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2654164354,
+        "sq": {
+          "br": 966383,
+          "fid": 0,
+          "size": 24920408,
+          "vd": -68251.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8254125,
+          "vd": -68241.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/ohAJm05Ir0DwXmWUQj0HjQ==/109951170233232219.jpg",
+          "name": "白白的翻唱",
+          "tns": [],
+          "pic_str": "109951170233232219",
+          "id": 125412238,
+          "pic": 109951170233232219
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            }
+          ],
+          "name": "道不得经 (游戏《纸嫁衣4红丝缠》主题曲伴奏)",
+          "songId": 1970855117,
+          "albumMeta": {
+            "name": "纸嫁衣4红丝缠 (游戏《纸嫁衣4红丝缠》主题曲)",
+            "id": 149429991
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3301677,
+          "vd": -64139.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4952493,
+          "vd": -65726.0,
+          "sr": 48000
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "白祉",
+            "tns": [],
+            "alias": [],
+            "id": 46663601
+          },
+          {
+            "name": "七瑞",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "道不得经",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1983555744,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 207046,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1983555744,
+        "sq": {
+          "br": 1596094,
+          "fid": 0,
+          "size": 41298946,
+          "vd": -16237.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 8282950,
+          "vd": -16251.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/0CS0agzVGGWhqlVSRFtiOg==/109951167899000247.jpg",
+          "name": "2022翻唱",
+          "tns": [],
+          "pic_str": "109951167899000247",
+          "id": 146093718,
+          "pic": 109951167899000247
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            }
+          ],
+          "name": "道不得经 (游戏《纸嫁衣4红丝缠》主题曲)",
+          "songId": 1970855116,
+          "albumMeta": {
+            "name": "纸嫁衣4红丝缠 (游戏《纸嫁衣4红丝缠》主题曲)",
+            "id": 149429991
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3313206,
+          "vd": -12366.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4969787,
+          "vd": -13732.0,
+          "sr": 44100
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "百川We",
+            "tns": [],
+            "alias": [],
+            "id": 33989922
+          },
+          {
+            "name": "钧玥。",
+            "tns": [],
+            "alias": [
+              "淑芬儿 ",
+              "皮咕咕",
+              "奶奶",
+              "貔貅"
+            ],
+            "id": 32675987,
+            "alia": [
+              "淑芬儿 ",
+              "皮咕咕",
+              "奶奶",
+              "貔貅"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "道不得经",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1751853,
+          "fid": 0,
+          "size": 45482673,
+          "vd": -50956.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2041615142,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 207700,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2041615142,
+        "sq": {
+          "br": 983449,
+          "fid": 0,
+          "size": 25532899,
+          "vd": -49827.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8310765,
+          "vd": -50965.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/_xKXBVt3oGCQRnRFLu5Tag==/109951168563380617.jpg",
+          "name": "【纸嫁衣4红丝缠】道不得经（游戏《纸嫁衣4红丝缠》主题曲）",
+          "tns": [],
+          "pic_str": "109951168563380617",
+          "id": 164227339,
+          "pic": 109951168563380617
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            }
+          ],
+          "name": "道不得经 (游戏《纸嫁衣4红丝缠》主题曲)",
+          "songId": 1970855116,
+          "albumMeta": {
+            "name": "纸嫁衣4红丝缠 (游戏《纸嫁衣4红丝缠》主题曲)",
+            "id": 149429991
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3324333,
+          "vd": -46839.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4986477,
+          "vd": -48403.0,
+          "sr": 48000
+        },
+        "version": 15,
+        "cp": 0,
+        "alia": [
+          "游戏《纸嫁衣4红丝缠》主题曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "LY_夕木",
+            "tns": [],
+            "alias": [],
+            "id": 15381037
+          },
+          {
+            "name": "幻荒",
+            "tns": [],
+            "alias": [
+              "皇幻荒"
+            ],
+            "id": 33349476,
+            "alia": [
+              "皇幻荒"
+            ]
+          },
+          {
+            "name": "以鸿鹄之名",
+            "tns": [],
+            "alias": [],
+            "id": 34559969
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 49,
+        "name": "道不得经",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1725955,
+          "fid": 0,
+          "size": 44788179,
+          "vd": -40082.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1979398762,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 207624,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1979398762,
+        "sq": {
+          "br": 957444,
+          "fid": 0,
+          "size": 24845473,
+          "vd": -39941.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8305965,
+          "vd": -40099.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/uTfBGYeuRvZmPcFOQwrvEA==/109951167853943621.jpg",
+          "name": "纸嫁衣4",
+          "tns": [],
+          "pic_str": "109951167853943621",
+          "id": 151153721,
+          "pic": 109951167853943621
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            }
+          ],
+          "name": "道不得经 (游戏《纸嫁衣4红丝缠》主题曲)",
+          "songId": 1970855116,
+          "albumMeta": {
+            "name": "纸嫁衣4红丝缠 (游戏《纸嫁衣4红丝缠》主题曲)",
+            "id": 149429991
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3322413,
+          "vd": -36000.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4983597,
+          "vd": -37546.0,
+          "sr": 48000
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "橙汁久久c100",
+            "tns": [],
+            "alias": [
+              "橙雕dio",
+              "Stephanie"
+            ],
+            "id": 34319688,
+            "alia": [
+              "橙雕dio",
+              "Stephanie"
+            ]
+          },
+          {
+            "name": "凌子崎",
+            "tns": [],
+            "alias": [],
+            "id": 13791121
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "道不得经·纸嫁衣4",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1971715103,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 207597,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1971715103,
+        "sq": {
+          "br": 1627300,
+          "fid": 0,
+          "size": 42228020,
+          "vd": -54010.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8306982,
+          "vd": -54020.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/59dr9ocN3Egm05xWhg4mgQ==/109951167773766122.jpg",
+          "name": "纸嫁衣4红丝缠",
+          "tns": [],
+          "pic_str": "109951167773766122",
+          "id": 149618848,
+          "pic": 109951167773766122
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            }
+          ],
+          "name": "道不得经 (游戏《纸嫁衣4红丝缠》主题曲)",
+          "songId": 1970855116,
+          "albumMeta": {
+            "name": "纸嫁衣4红丝缠 (游戏《纸嫁衣4红丝缠》主题曲)",
+            "id": 149429991
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3322819,
+          "vd": -50146.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4984207,
+          "vd": -51486.0,
+          "sr": 44100
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [
+          "主题曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "小歌Sugar",
+            "tns": [],
+            "alias": [],
+            "id": 33949395
+          },
+          {
+            "name": "清寒clair",
+            "tns": [],
+            "alias": [],
+            "id": 47842312
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "道不得经《纸嫁衣4红丝缠》",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1971798731,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 205468,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1971798731,
+        "sq": {
+          "br": 964836,
+          "fid": 0,
+          "size": 24780446,
+          "vd": -50006.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8221301,
+          "vd": -50019.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/3vJrxtTPbbRpgv7123Z_Iw==/109951167774919764.jpg",
+          "name": "《纸嫁衣4红丝缠》主题曲翻唱",
+          "tns": [],
+          "pic_str": "109951167774919764",
+          "id": 149636016,
+          "pic": 109951167774919764
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            }
+          ],
+          "name": "道不得经 (游戏《纸嫁衣4红丝缠》主题曲)",
+          "songId": 1970855116,
+          "albumMeta": {
+            "name": "纸嫁衣4红丝缠 (游戏《纸嫁衣4红丝缠》主题曲)",
+            "id": 149429991
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3288546,
+          "vd": -46028.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4932798,
+          "vd": -47500.0,
+          "sr": 44100
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "昕子Xinxi",
+            "tns": [],
+            "alias": [],
+            "id": 46355330
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "道不得经《纸嫁衣4红丝缠》主题曲",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1740487,
+          "fid": 0,
+          "size": 45003046,
+          "vd": -56856.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1995827993,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 206852,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1995827993,
+        "sq": {
+          "br": 972199,
+          "fid": 0,
+          "size": 25137749,
+          "vd": -56856.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8276205,
+          "vd": -56869.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/Vyi4OCHWJMzVgbMXEzivNg==/109951167126497987.jpg",
+          "name": "纸嫁衣3鸳鸯债",
+          "tns": [],
+          "pic_str": "109951167126497987",
+          "id": 141446374,
+          "pic": 109951167126497987
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            }
+          ],
+          "name": "道不得经 (游戏《纸嫁衣4红丝缠》主题曲)",
+          "songId": 1970855116,
+          "albumMeta": {
+            "name": "纸嫁衣4红丝缠 (游戏《纸嫁衣4红丝缠》主题曲)",
+            "id": 149429991
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3310509,
+          "vd": -52697.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4965741,
+          "vd": -54348.0,
+          "sr": 48000
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [
+          "主题曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "硕猗",
+            "tns": [],
+            "alias": [],
+            "id": 33297570
+          },
+          {
+            "name": "卜贰",
+            "tns": [],
+            "alias": [],
+            "id": 51656825
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "道不得经《纸嫁衣4红丝缠》",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2062904952,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 207792,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2062904952,
+        "sq": {
+          "br": 1579107,
+          "fid": 0,
+          "size": 41015745,
+          "vd": -7954.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8314297,
+          "vd": -7977.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/BnO7m3j6-sJOOZ-WZfcWbg==/109951168730555561.jpg",
+          "name": "道不得经（《纸嫁衣4红丝缠》主题曲）",
+          "tns": [],
+          "pic_str": "109951168730555561",
+          "id": 169281270,
+          "pic": 109951168730555561
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            },
+            {
+              "name": "朱剑",
+              "id": 33393756
+            }
+          ],
+          "name": "道不得经 (游戏《纸嫁衣4红丝缠》主题曲)",
+          "songId": 1970855116,
+          "albumMeta": {
+            "name": "纸嫁衣4红丝缠 (游戏《纸嫁衣4红丝缠》主题曲)",
+            "id": 149429991
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3325745,
+          "vd": -4017.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4988595,
+          "vd": -5483.0,
+          "sr": 44100
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [
+          "主题曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "叶韶雪死活要嫁给我（韩穆）",
+            "tns": [],
+            "alias": [
+              "韩穆"
+            ],
+            "id": 48768392,
+            "alia": [
+              "韩穆"
+            ]
+          },
+          {
+            "name": "晒太阳黑猫丶",
+            "tns": [],
+            "alias": [
+              "小黑猫"
+            ],
+            "id": 34828026,
+            "alia": [
+              "小黑猫"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "道不得经《纸嫁衣4红丝缠》",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3448154858,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 50.0,
+        "dt": 192000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3448154858,
+        "sq": {
+          "br": 519681,
+          "fid": 0,
+          "size": 12475884,
+          "vd": -9997.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7682133,
+          "vd": -9998.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/d2GNTWk93ld4yjjozMUpXQ==/109951174107443298.jpg",
+          "name": "错季",
+          "tns": [],
+          "pic_str": "109951174107443298",
+          "id": 403898653,
+          "pic": 109951174107443298
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3072879,
+          "vd": -5584.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4609297,
+          "vd": -7360.0,
+          "sr": 44100
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [
+          "春的颜色不走进秋季"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "苏也莉",
+            "tns": [],
+            "alias": [],
+            "id": 121623006
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "错季",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 2742931,
+          "fid": 0,
+          "size": 20573294,
+          "vd": -50009.0,
+          "sr": 88200
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2680357434,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 60000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2680357434,
+        "sq": {
+          "br": 974879,
+          "fid": 0,
+          "size": 7312821,
+          "vd": -50060.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320006,
+          "fid": 0,
+          "size": 2402264,
+          "vd": -50068.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/IVN3OHyWtACkKo5FfwV1xw==/109951170533981446.jpg",
+          "name": "玩一下智能手机",
+          "tns": [],
+          "pic_str": "109951170533981446",
+          "id": 264474978,
+          "pic": 109951170533981446
+        },
+        "l": {
+          "br": 128006,
+          "fid": 0,
+          "size": 960932,
+          "vd": -46198.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192006,
+          "fid": 0,
+          "size": 1441376,
+          "vd": -47526.0,
+          "sr": 44100
+        },
+        "version": 10,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "绝对的稳定",
+            "tns": [],
+            "alias": [],
+            "id": 46318874
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 44,
+        "name": "我已经知道你家的地址了",
+        "mark": 537010176
+      },
+      {
+        "no": 135,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 3016871,
+          "fid": 0,
+          "size": 5394337,
+          "vd": -64923.0,
+          "sr": 96000
+        },
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3449088526,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 14303,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3449088526,
+        "sq": {
+          "br": 1005731,
+          "fid": 0,
+          "size": 1798545,
+          "vd": -64912.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 574125,
+          "vd": -64920.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/Ty-x0N7Syw35UF8bOVvMIg==/109951174110840135.jpg",
+          "name": "004",
+          "tns": [],
+          "pic_str": "109951174110840135",
+          "id": 403951458,
+          "pic": 109951174110840135
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 229677,
+          "vd": -60911.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 344493,
+          "vd": -62337.0,
+          "sr": 48000
+        },
+        "version": 7,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "张小楠",
+            "tns": [],
+            "alias": [],
+            "id": 128530915
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "其实那天我知道 我的眼泪已经砸不进你的心里了 但我还是舍不得",
+        "mark": 536871040
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 0,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "standard",
+          "rightSource": 0,
+          "maxbr": 128000,
+          "id": 2164354844,
+          "sp": 0,
+          "payed": 0,
+          "st": -200,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 128000,
+          "downloadMaxBrLevel": "standard",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "standard",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 128000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 106109,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2164354844,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/0ju8ET1ApZSXfWacc4w49w==/109951169484091680.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951169484091680",
+          "id": 0,
+          "pic": 109951169484091680
+        },
+        "l": {
+          "br": 128003,
+          "fid": 0,
+          "size": 1698212,
+          "vd": 144864.0,
+          "sr": 44100
+        },
+        "version": 1,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "WhyCrowblack",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 35,
+        "name": "纸嫁衣4主题曲-《道不得经》",
+        "mark": 0
+      }
+    ],
+    "songCount": 19
+  },
+  "code": 200,
+  "trp": {
+    "rules": [
+      "search_tab_song::1970855116::searchAlg$isGlobalQuality$1"
+    ]
+  }
+}

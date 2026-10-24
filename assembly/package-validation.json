@@ -1,0 +1,18 @@
+{
+  "pngCharaCcv3ExactJsonEquality": true,
+  "allPngChunkCrcPass": true,
+  "coverRgbPixelEqualityWithUploadedJpeg": true,
+  "coverDimensions": [
+    864,
+    1536
+  ],
+  "originalBodyExactEquality": 152,
+  "protectedFilesUnchanged": 97,
+  "worldbookEntries": 172,
+  "storyNodes": 939,
+  "stableSandboxTails": 9,
+  "onlyOneMainEnabled": true,
+  "chineseNamesSeparateIdentities": true,
+  "musicStatus": "PARTIAL_VERIFICATION_BLOCKED",
+  "androidSillyTavernDevice": "NOT_EXECUTED"
+}

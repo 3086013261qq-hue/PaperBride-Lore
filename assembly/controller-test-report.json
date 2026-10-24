@@ -1,0 +1,421 @@
+{
+  "environment": "Node mock helper worldbook API, not SillyTavern integration",
+  "tests": [
+    {
+      "name": "initial one MAIN01 enabled",
+      "pass": true
+    },
+    {
+      "name": "MAIN01 single transaction",
+      "pass": true
+    },
+    {
+      "name": "MAIN01 ACTIVE/enabled sync",
+      "pass": true
+    },
+    {
+      "name": "MAIN01沙盒模式过渡 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN01至 沙盒模式过渡 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN01过渡到沙盒模式 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN01即将进入沙盒 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN01SANDBOX_PENDING no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN01 active plot lock blocks switch",
+      "pass": true
+    },
+    {
+      "name": "MAIN01 stable sandbox unlock only",
+      "pass": true
+    },
+    {
+      "name": "MAIN02 single transaction",
+      "pass": true
+    },
+    {
+      "name": "MAIN02 ACTIVE/enabled sync",
+      "pass": true
+    },
+    {
+      "name": "MAIN02沙盒模式过渡 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN02至 沙盒模式过渡 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN02过渡到沙盒模式 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN02即将进入沙盒 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN02SANDBOX_PENDING no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN02 active plot lock blocks switch",
+      "pass": true
+    },
+    {
+      "name": "MAIN02 stable sandbox unlock only",
+      "pass": true
+    },
+    {
+      "name": "MAIN03 single transaction",
+      "pass": true
+    },
+    {
+      "name": "MAIN03 ACTIVE/enabled sync",
+      "pass": true
+    },
+    {
+      "name": "MAIN03沙盒模式过渡 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN03至 沙盒模式过渡 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN03过渡到沙盒模式 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN03即将进入沙盒 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN03SANDBOX_PENDING no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN03 active plot lock blocks switch",
+      "pass": true
+    },
+    {
+      "name": "MAIN03 stable sandbox unlock only",
+      "pass": true
+    },
+    {
+      "name": "MAIN04 single transaction",
+      "pass": true
+    },
+    {
+      "name": "MAIN04 ACTIVE/enabled sync",
+      "pass": true
+    },
+    {
+      "name": "MAIN04沙盒模式过渡 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN04至 沙盒模式过渡 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN04过渡到沙盒模式 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN04即将进入沙盒 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN04SANDBOX_PENDING no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN04 active plot lock blocks switch",
+      "pass": true
+    },
+    {
+      "name": "MAIN04 stable sandbox unlock only",
+      "pass": true
+    },
+    {
+      "name": "MAIN05 single transaction",
+      "pass": true
+    },
+    {
+      "name": "MAIN05 ACTIVE/enabled sync",
+      "pass": true
+    },
+    {
+      "name": "MAIN05沙盒模式过渡 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN05至 沙盒模式过渡 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN05过渡到沙盒模式 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN05即将进入沙盒 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN05SANDBOX_PENDING no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN05 active plot lock blocks switch",
+      "pass": true
+    },
+    {
+      "name": "MAIN05 stable sandbox unlock only",
+      "pass": true
+    },
+    {
+      "name": "MAIN06 single transaction",
+      "pass": true
+    },
+    {
+      "name": "MAIN06 ACTIVE/enabled sync",
+      "pass": true
+    },
+    {
+      "name": "MAIN06沙盒模式过渡 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN06至 沙盒模式过渡 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN06过渡到沙盒模式 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN06即将进入沙盒 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN06SANDBOX_PENDING no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN06 active plot lock blocks switch",
+      "pass": true
+    },
+    {
+      "name": "MAIN06 stable sandbox unlock only",
+      "pass": true
+    },
+    {
+      "name": "MAIN07 single transaction",
+      "pass": true
+    },
+    {
+      "name": "MAIN07 ACTIVE/enabled sync",
+      "pass": true
+    },
+    {
+      "name": "MAIN07沙盒模式过渡 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN07至 沙盒模式过渡 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN07过渡到沙盒模式 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN07即将进入沙盒 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN07SANDBOX_PENDING no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN07 active plot lock blocks switch",
+      "pass": true
+    },
+    {
+      "name": "MAIN07 stable sandbox unlock only",
+      "pass": true
+    },
+    {
+      "name": "MAIN08 single transaction",
+      "pass": true
+    },
+    {
+      "name": "MAIN08 ACTIVE/enabled sync",
+      "pass": true
+    },
+    {
+      "name": "MAIN08沙盒模式过渡 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN08至 沙盒模式过渡 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN08过渡到沙盒模式 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN08即将进入沙盒 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN08SANDBOX_PENDING no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN08 active plot lock blocks switch",
+      "pass": true
+    },
+    {
+      "name": "MAIN08 stable sandbox unlock only",
+      "pass": true
+    },
+    {
+      "name": "MAIN09 single transaction",
+      "pass": true
+    },
+    {
+      "name": "MAIN09 ACTIVE/enabled sync",
+      "pass": true
+    },
+    {
+      "name": "MAIN09沙盒模式过渡 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN09至 沙盒模式过渡 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN09过渡到沙盒模式 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN09即将进入沙盒 no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN09SANDBOX_PENDING no handoff",
+      "pass": true
+    },
+    {
+      "name": "MAIN09 active plot lock blocks switch",
+      "pass": true
+    },
+    {
+      "name": "MAIN09 stable sandbox unlock only",
+      "pass": true
+    },
+    {
+      "name": "rebase never rolls date back",
+      "pass": true
+    },
+    {
+      "name": "relative timeline shift preserves facts",
+      "pass": true
+    },
+    {
+      "name": "failed write rolls back full worldbook",
+      "pass": true
+    },
+    {
+      "name": "readback mismatch rolls back full book",
+      "pass": true
+    },
+    {
+      "name": "concurrent requests serialized",
+      "pass": true
+    },
+    {
+      "name": "every full write has one enabled MAIN",
+      "pass": true
+    },
+    {
+      "name": "every full write has one enabled MAIN",
+      "pass": true
+    },
+    {
+      "name": "every full write has one enabled MAIN",
+      "pass": true
+    },
+    {
+      "name": "every full write has one enabled MAIN",
+      "pass": true
+    },
+    {
+      "name": "every full write has one enabled MAIN",
+      "pass": true
+    },
+    {
+      "name": "every full write has one enabled MAIN",
+      "pass": true
+    },
+    {
+      "name": "every full write has one enabled MAIN",
+      "pass": true
+    },
+    {
+      "name": "every full write has one enabled MAIN",
+      "pass": true
+    },
+    {
+      "name": "every full write has one enabled MAIN",
+      "pass": true
+    },
+    {
+      "name": "every full write has one enabled MAIN",
+      "pass": true
+    },
+    {
+      "name": "every full write has one enabled MAIN",
+      "pass": true
+    },
+    {
+      "name": "every full write has one enabled MAIN",
+      "pass": true
+    },
+    {
+      "name": "every full write has one enabled MAIN",
+      "pass": true
+    },
+    {
+      "name": "every full write has one enabled MAIN",
+      "pass": true
+    },
+    {
+      "name": "every full write has one enabled MAIN",
+      "pass": true
+    },
+    {
+      "name": "historical Cui does not recall modern Cui",
+      "pass": true
+    },
+    {
+      "name": "new ghost merchant does not recall original",
+      "pass": true
+    }
+  ]
+}

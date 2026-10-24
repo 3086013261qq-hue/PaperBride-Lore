@@ -1,0 +1,914 @@
+[
+  {
+    "name": "角色：宁子服",
+    "kind": "major",
+    "source": "characters/p0/P0-01_C01-C05.md",
+    "sha256": "8defcc329467cfef0e1853cb6bedef69551f19379090a5e9a6ed3db51bb0a776"
+  },
+  {
+    "name": "角色：聂莫琪",
+    "kind": "major",
+    "source": "characters/p0/P0-01_C01-C05.md",
+    "sha256": "a569d7ff53d1bd0b105afa61b4838b27f73b0e95d4b1bad8b77beb5b5de6134b"
+  },
+  {
+    "name": "角色：聂莫黎",
+    "kind": "major",
+    "source": "characters/p0/P0-01_C01-C05.md",
+    "sha256": "093a5d60cc490ad9d2208dd85507f41761a9663dc47f7de4e343a1deea567b9e"
+  },
+  {
+    "name": "角色：汤婆婆",
+    "kind": "major",
+    "source": "characters/p0/P0-01_C01-C05.md",
+    "sha256": "e8c2284662b442a95133eb311ed2c9ae1d213ac34b739d222ebb178830a6a83a"
+  },
+  {
+    "name": "角色：陶梦嫣",
+    "kind": "major",
+    "source": "characters/p0/P0-01_C01-C05.md",
+    "sha256": "9e03a8782e3b2b03de58566eb5ea9d93cdaab7b1e047dc9655d066078599aca9"
+  },
+  {
+    "name": "角色：梁少平",
+    "kind": "major",
+    "source": "characters/p0/P0-02_C06-C10.md",
+    "sha256": "2d5f627fc4e84d77e904ed58ef52224739fdc64d51a126f31098f8fdf7ab7b64"
+  },
+  {
+    "name": "角色：祝小红",
+    "kind": "major",
+    "source": "characters/p0/P0-02_C06-C10.md",
+    "sha256": "73826ba9f759e737d2ab3f9c89e37e231a18bea2727b80b32e190f769b24c3ef"
+  },
+  {
+    "name": "角色：肖驰",
+    "kind": "major",
+    "source": "characters/p0/P0-02_C06-C10.md",
+    "sha256": "0e99d8287125df9be4516891b05e97bd0af7332946b854f627400872e6cd139b"
+  },
+  {
+    "name": "角色：奚月遥",
+    "kind": "major",
+    "source": "characters/p0/P0-02_C06-C10.md",
+    "sha256": "2e30d2a2adb5caf78931327ef48bb34338370327e5a90d426fee925c9b608421"
+  },
+  {
+    "name": "角色：申墨卿",
+    "kind": "major",
+    "source": "characters/p0/P0-02_C06-C10.md",
+    "sha256": "bf2b54e5bf83c1b065805792907ce3b8bc0a5b92583e3ceece2679dfe61ec190"
+  },
+  {
+    "name": "角色：王娇彤",
+    "kind": "major",
+    "source": "characters/p0/P0-03_C11-C15.md",
+    "sha256": "92b74fbd7c0dd926a3111eb20f20a9c69b1fcbf8f822c35911342aafd4c7cb64"
+  },
+  {
+    "name": "角色：荀元丰",
+    "kind": "major",
+    "source": "characters/p0/P0-03_C11-C15.md",
+    "sha256": "6e2eeab231e092c4cf9c5f7a74968facac698242bd0c69ab0e55728b3886d47c"
+  },
+  {
+    "name": "角色：钟梓萓",
+    "kind": "major",
+    "source": "characters/p0/P0-03_C11-C15.md",
+    "sha256": "17e944cb7ae417837c0b9655e4b8c0111984651d55efff7f9cea9104a60593bb"
+  },
+  {
+    "name": "角色：张辰瑞",
+    "kind": "major",
+    "source": "characters/p0/P0-03_C11-C15.md",
+    "sha256": "23730cb893c18012e85321a8521bea3ccca03610de45eb74f023624c90d80e22"
+  },
+  {
+    "name": "角色：崔婉莺",
+    "kind": "major",
+    "source": "characters/p0/P0-03_C11-C15.md",
+    "sha256": "5a438f22eb693989e44f5ec011cec82f1023c7d3067108feb8cc8a952d7f3e50"
+  },
+  {
+    "name": "角色：屠浮生",
+    "kind": "major",
+    "source": "characters/p0/P0-04_C16-C20.md",
+    "sha256": "8b32cd70a33436e361031035aa70f239fce234705413f7862be8840faac8f209"
+  },
+  {
+    "name": "角色：灵哥",
+    "kind": "major",
+    "source": "characters/p0/P0-04_C16-C20.md",
+    "sha256": "6ae998a721cd6a3c5dcd9354f83bd83f6c4999bdf9e3a81c82325e822e6cfe8b"
+  },
+  {
+    "name": "角色：灵妹",
+    "kind": "major",
+    "source": "characters/p0/P0-04_C16-C20.md",
+    "sha256": "5e647307fc92fee92c2c46b1048009977e9ebd82788523dc23e51dcb0c25d7cd"
+  },
+  {
+    "name": "角色：李逢泽",
+    "kind": "major",
+    "source": "characters/p0/P0-04_C16-C20.md",
+    "sha256": "2293e67f3be28d2b06fe3305b4dc02547f9dc194bed6f77e8977b5927ea5b71a"
+  },
+  {
+    "name": "角色：杜言她",
+    "kind": "major",
+    "source": "characters/p0/P0-04_C16-C20.md",
+    "sha256": "0e6adde6fc6c5442c3648c5be7885b4a257d9c728ad6985484f8eeb7541af784"
+  },
+  {
+    "name": "角色：瞎师婆",
+    "kind": "major",
+    "source": "characters/p0/P0-05_C21-C25.md",
+    "sha256": "072100405bffd1e41a6a9c2afe9898599d96ce6a1573af16ee30d31bd57dc7c7"
+  },
+  {
+    "name": "角色：明梅",
+    "kind": "major",
+    "source": "characters/p0/P0-05_C21-C25.md",
+    "sha256": "994c895c42d36edcf91876a0285d583d201a9824f1a32c1a4ce51924027c914c"
+  },
+  {
+    "name": "角色：魕娘子",
+    "kind": "major",
+    "source": "characters/p0/P0-05_C21-C25.md",
+    "sha256": "d045dea7b877b0062c1f3a545650d0648fba917c529aed706518c934a7b8dca6"
+  },
+  {
+    "name": "角色：赵暮寻",
+    "kind": "major",
+    "source": "characters/p0/P0-05_C21-C25.md",
+    "sha256": "87d208c5f2fb72d938c39c962d3efd70511ac70430a4aa9ab510190ec9f2bf1c"
+  },
+  {
+    "name": "角色：昙露凝",
+    "kind": "major",
+    "source": "characters/p0/P0-05_C21-C25.md",
+    "sha256": "d4cf79e6c908a234690f43b44e2865cc2c3b21e18e94aea1c2880f2bd7c9eca6"
+  },
+  {
+    "name": "角色：道士",
+    "kind": "other",
+    "source": "characters/p1/P1-01_C26-C31.md",
+    "sha256": "b590eee26f35af7d1aebd2577cfc3925cffcc7000fed96b3c924ccecaf1d07fd"
+  },
+  {
+    "name": "角色：申旺宗",
+    "kind": "other",
+    "source": "characters/p1/P1-01_C26-C31.md",
+    "sha256": "2092acbf125bb244cdc8fd08d67d1fe57786eef19503ac9b39274a87248eb851"
+  },
+  {
+    "name": "角色：纸媒婆",
+    "kind": "other",
+    "source": "characters/p1/P1-01_C26-C31.md",
+    "sha256": "86d12d8a0fd171f672e4b8dcae8d7f9ee864c8753c54074ea4493c7088326c89"
+  },
+  {
+    "name": "角色：千子娘",
+    "kind": "other",
+    "source": "characters/p1/P1-01_C26-C31.md",
+    "sha256": "e8145c4a68bb60841fb57886a1a8f516bc0d9b33f894805a10256f8f222cc01a"
+  },
+  {
+    "name": "角色：崔茜姝",
+    "kind": "other",
+    "source": "characters/p1/P1-01_C26-C31.md",
+    "sha256": "60407ba6f16cae17b06cdc45ce807ba5470093759b8de9257a8c3315d563ba7f"
+  },
+  {
+    "name": "角色：郑厚仁",
+    "kind": "other",
+    "source": "characters/p1/P1-01_C26-C31.md",
+    "sha256": "6703a54192e51b60e5c850d5001b242b12799b85aa538e5ccabc87276713903f"
+  },
+  {
+    "name": "角色：郑枚曲",
+    "kind": "other",
+    "source": "characters/p1/P1-02_C32-C36.md",
+    "sha256": "152e396e11b9ec84af9cda2b98ef8558ef2a0ef7eb874e26737697a960078bfb"
+  },
+  {
+    "name": "角色：八不郎",
+    "kind": "other",
+    "source": "characters/p1/P1-02_C32-C36.md",
+    "sha256": "d51be51addec3a7d149a892bb4a3c141c96934907c806c3387f2de11b1351e12"
+  },
+  {
+    "name": "角色：谛听",
+    "kind": "other",
+    "source": "characters/p1/P1-02_C32-C36.md",
+    "sha256": "6f1fe7cae2a95965800fd632c14de57e885f9d544c9be42c8d6c7669aa12e297"
+  },
+  {
+    "name": "角色：昙父",
+    "kind": "other",
+    "source": "characters/p1/P1-02_C32-C36.md",
+    "sha256": "b34b0d8c6ccd77a390bcfc548c4aa1947619c59447d514b677d2658d6c93cffb"
+  },
+  {
+    "name": "角色：昙母",
+    "kind": "other",
+    "source": "characters/p1/P1-02_C32-C36.md",
+    "sha256": "9b1b6be07dfacb932f4251208f7369953e933ccd8d7885532d2afc5d6409d9a5"
+  },
+  {
+    "name": "角色：鬼老头",
+    "kind": "other",
+    "source": "characters/p2/P2_C37-C44.md",
+    "sha256": "e32bf36aae795fa0be48a009d4372bca6f2d69dff0045f13f32119085f95ef39"
+  },
+  {
+    "name": "角色：陶母",
+    "kind": "other",
+    "source": "characters/p2/P2_C37-C44.md",
+    "sha256": "22d896acfac005b75446487ba8454d656b37fc187d277a75995571c9ad616495"
+  },
+  {
+    "name": "角色：崔婉莺（民国）",
+    "kind": "other",
+    "source": "characters/p2/P2_C37-C44.md",
+    "sha256": "ed766a3550d55506d94421c5507d2749d39c3eac9ee635bfdd39b80ba7ee4640"
+  },
+  {
+    "name": "角色：肖父",
+    "kind": "other",
+    "source": "characters/p2/P2_C37-C44.md",
+    "sha256": "cfdfd1f01ad8f5c929ca7bcbe9a0451f15a771f2c2808aafdd8bfb688809b07d"
+  },
+  {
+    "name": "角色：奚母",
+    "kind": "other",
+    "source": "characters/p2/P2_C37-C44.md",
+    "sha256": "e6b993944b01b6013108d15dba2e9285ffd902768d1b14f88122db20d9cbadb3"
+  },
+  {
+    "name": "角色：鲍大人",
+    "kind": "other",
+    "source": "characters/p2/P2_C37-C44.md",
+    "sha256": "d2c45fd0ab8f738cbf9160ca0a1117bf1625ca6c6a7528070808c4167a3cb671"
+  },
+  {
+    "name": "角色：柳大师",
+    "kind": "other",
+    "source": "characters/p2/P2_C37-C44.md",
+    "sha256": "6881e7e7ce119fbc3493597c14715e79c86a757a2ed0583957219cf0b68a0d27"
+  },
+  {
+    "name": "角色：赵暮寻叔叔",
+    "kind": "other",
+    "source": "characters/p2/P2_C37-C44.md",
+    "sha256": "1c221d1ee83ad6d19d6ed752c4dd0235666791c19bf8bc8724ee74665030b57d"
+  },
+  {
+    "name": "核心设定：聂莫黎·能力",
+    "kind": "ability",
+    "source": "characters/p0/P0_能力条目_v1.md",
+    "sha256": "01ebc30bee86e78cde54b9505f0f0aaa6d7c7650fce297ad59a890e5350a830c"
+  },
+  {
+    "name": "核心设定：汤婆婆·能力",
+    "kind": "ability",
+    "source": "characters/p0/P0_能力条目_v1.md",
+    "sha256": "a5901050294e48f30e10c955ae2e7d9114b24f98f3d47e4c8eadd4b55d52ecdc"
+  },
+  {
+    "name": "核心设定：陶梦嫣·能力",
+    "kind": "ability",
+    "source": "characters/p0/P0_能力条目_v1.md",
+    "sha256": "751be1a6446a75cba3c4b57bbe49d14c3c48ef6f985bdb903a3dd91e334abcc5"
+  },
+  {
+    "name": "核心设定：王娇彤·能力",
+    "kind": "ability",
+    "source": "characters/p0/P0_能力条目_v1.md",
+    "sha256": "2b7c722f249f41519c7fa6144ac0b68c4fc19e8943af0b04450c8ed05f9c02d9"
+  },
+  {
+    "name": "核心设定：屠浮生·能力",
+    "kind": "ability",
+    "source": "characters/p0/P0_能力条目_v1.md",
+    "sha256": "4987c3a09ca973cf716ec51ff19d0489a5af97f6f0ae9936b3f76b9c1658560f"
+  },
+  {
+    "name": "核心设定：杜言她·能力",
+    "kind": "ability",
+    "source": "characters/p0/P0_能力条目_v1.md",
+    "sha256": "62452cef169a2683f6e84400c150b82ab246c99e782de1427bf18b72a2566978"
+  },
+  {
+    "name": "核心设定：瞎师婆·能力",
+    "kind": "ability",
+    "source": "characters/p0/P0_能力条目_v1.md",
+    "sha256": "7b51b5919821bcda16239aaaed94203ef4969709ff6cd35b5dfd427e8adba252"
+  },
+  {
+    "name": "核心设定：魕娘子·能力",
+    "kind": "ability",
+    "source": "characters/p0/P0_能力条目_v1.md",
+    "sha256": "7383ec15234b21ced54bad3d010154f63e54d04f87dff7fede4433d7c4158c8d"
+  },
+  {
+    "name": "核心设定：道士·能力",
+    "kind": "ability",
+    "source": "characters/p1/P1_能力条目_v1.md",
+    "sha256": "9cb0ef4b9ef0f81f3060ea79f582598cff67b87c10a05c68f6e7e4592eaa44a6"
+  },
+  {
+    "name": "核心设定：纸媒婆·能力",
+    "kind": "ability",
+    "source": "characters/p1/P1_能力条目_v1.md",
+    "sha256": "5f23a2eb887dcb860a58b7de0c8dbbd3e41d49aad06277bddba307edb8ce2362"
+  },
+  {
+    "name": "核心设定：千子娘·能力",
+    "kind": "ability",
+    "source": "characters/p1/P1_能力条目_v1.md",
+    "sha256": "39191db0250b1e6a8e7179411df6ecbcc9e821a1279992efa6e1bbc881232053"
+  },
+  {
+    "name": "核心设定：崔茜姝·能力",
+    "kind": "ability",
+    "source": "characters/p1/P1_能力条目_v1.md",
+    "sha256": "5dd88d46e1162f1e0d9724e6e7cc6e62b039418cceed29a6030c286b8e056263"
+  },
+  {
+    "name": "核心设定：郑厚仁·能力",
+    "kind": "ability",
+    "source": "characters/p1/P1_能力条目_v1.md",
+    "sha256": "fad6d4f24dae4961139b23f0e69925488cf5a7230b21e11f82b9606839a2d9fe"
+  },
+  {
+    "name": "核心设定：八不郎·能力",
+    "kind": "ability",
+    "source": "characters/p1/P1_能力条目_v1.md",
+    "sha256": "f6e378c8484aecff2e75511afffe564bd9d2bfdd53f33eb22e0b74477474da21"
+  },
+  {
+    "name": "核心设定：谛听·能力",
+    "kind": "ability",
+    "source": "characters/p1/P1_能力条目_v1.md",
+    "sha256": "11116f4d84b2eede7ad224fca515433b0bf71ed4ba43d15f406af98a67467aa6"
+  },
+  {
+    "name": "核心设定：昙父·能力",
+    "kind": "ability",
+    "source": "characters/p1/P1_能力条目_v1.md",
+    "sha256": "6f2daf1eec598e98753249abe96b94ccf65b259ffa407fe80017888d42d58540"
+  },
+  {
+    "name": "核心设定：昙母·能力",
+    "kind": "ability",
+    "source": "characters/p1/P1_能力条目_v1.md",
+    "sha256": "18be1d536085043d6a6c6d866391d5429b3031ff819d618566a3335bbaefa507"
+  },
+  {
+    "name": "核心设定：柳大师·能力",
+    "kind": "ability",
+    "source": "characters/p2/P2_能力条目_v1.md",
+    "sha256": "955615f6713662f0dc81056570e3588c5082bf940c2223b919755f2dc88ca14c"
+  },
+  {
+    "name": "核心设定：六藏与六葬源流",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-01_F01-F09.md",
+    "sha256": "04a041170c07075f277be138b534dd534bb675f4cc259119253e7d03d500084d"
+  },
+  {
+    "name": "核心设定：六葬菩萨与葬尊",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-01_F01-F09.md",
+    "sha256": "5849c4e28cd3eede590440393e4749c570904900ace221da636567081581de76"
+  },
+  {
+    "name": "核心设定：大巫贤制度",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-01_F01-F09.md",
+    "sha256": "6753687dd9d39be0313efcf363c74d55eba2ac99ee977d49e590fb0827d6f22c"
+  },
+  {
+    "name": "核心设定：六葬真经与残卷",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-01_F01-F09.md",
+    "sha256": "8d174b2620052fd4d35ce4901cb90ba991eae1f272e2b02139a599c30f4a56b2"
+  },
+  {
+    "name": "核心设定：纸新娘婚祭",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-01_F01-F09.md",
+    "sha256": "dfc9c53a2041352eef4f3e20b7c98261d0e3569cc7e5161a9287cca2efdafc0e"
+  },
+  {
+    "name": "核心设定：阴童子",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-01_F01-F09.md",
+    "sha256": "1745f887dc8de389b29c42afd55c92916070c2b4f99f22b8c93f1fa11fee226b"
+  },
+  {
+    "name": "核心设定：煞金刚",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-01_F01-F09.md",
+    "sha256": "1a1cb6222616852de7f2fa70eb8eea700f90434409e197272b277d6947458672"
+  },
+  {
+    "name": "核心设定：幽刹陀罗",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-01_F01-F09.md",
+    "sha256": "6d930f122df08e6e4b1202d7b4bd5b7b1dc1e8abd1de335302225943ebac3276"
+  },
+  {
+    "name": "核心设定：魕娘子与鸳鸯债",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-01_F01-F09.md",
+    "sha256": "d4262f4d952f6da6d70f9b53f7e8e1fa5e2fa5e37c0c8831dc132bdde48a99ae"
+  },
+  {
+    "name": "核心设定：六王爷与六老太爷",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-02_F10-F14.md",
+    "sha256": "9c3155213e4220b10afcfca8271271c3b559d4bc964d10b1d38065478d5f3464"
+  },
+  {
+    "name": "核心设定：太一水脉与水神煞",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-02_F10-F14.md",
+    "sha256": "9263f376e31555638228d293664a73e327213086a1d2817e66979617ea46e7aa"
+  },
+  {
+    "name": "核心设定：千子娘与千子树",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-02_F10-F14.md",
+    "sha256": "1c9272584cb34028ea042e5c86cca3f85a9735f2cc4168d00a4dff4f49a94489"
+  },
+  {
+    "name": "核心设定：樟柳神",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-02_F10-F14.md",
+    "sha256": "6631b79394cdaed22a1669bfaa459fa166876961f5c7511ce19322fd22a5cb05"
+  },
+  {
+    "name": "核心设定：阴命与阴命双生",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-02_F10-F14.md",
+    "sha256": "c7429a83447413fca695de6fe3b23ac2aa6ff6572403a5e3875fa0fff2b520b0"
+  },
+  {
+    "name": "核心设定：阳魂离体",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-03_F15-F29.md",
+    "sha256": "f198ebfc443fadcf0b888c136a0a06db9708122332622e69b487d4665048a2de"
+  },
+  {
+    "name": "核心设定：招阴之物",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-03_F15-F29.md",
+    "sha256": "879f682055fa54f4023dab32fae33aa3a112c2c5e4233484520d3aaa0081283a"
+  },
+  {
+    "name": "核心设定：纸扎烧送",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-03_F15-F29.md",
+    "sha256": "38df00cfdd074afa6d051d5809a78ddf0ec9faa43836334dde1bca4a72fa8a2c"
+  },
+  {
+    "name": "核心设定：招魂与回魂",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-03_F15-F29.md",
+    "sha256": "90f40430d2c79469ad62ca11567530be64701c96214b8fff2ace90d3c52dfd9d"
+  },
+  {
+    "name": "核心设定：离魂术",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-03_F15-F29.md",
+    "sha256": "d01da3d16f7fc008bed42c883e2728839f3e655a58120621947da50f398ad27e"
+  },
+  {
+    "name": "核心设定：阴阳界与两间口",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-03_F15-F29.md",
+    "sha256": "211224d8834f2312e0586ee440e31a761f6972bc49caff734348bd4629914f9f"
+  },
+  {
+    "name": "核心设定：鬼门与阴司",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-03_F15-F29.md",
+    "sha256": "b47be9ee03872760a0b56b7a397aaec217994bb6bb9b77da17e74a1fd658a035"
+  },
+  {
+    "name": "核心设定：黑白无常",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-03_F15-F29.md",
+    "sha256": "ae957af3fad90ff2c083003d4b770208c2028213ec1156ab554d30d297772ae3"
+  },
+  {
+    "name": "核心设定：八不郎与鬼货郎身份",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-03_F15-F29.md",
+    "sha256": "611ae93ce7906d634241815a8552c2d9f6cb8b1d688ac37951f4ccb0ea109082"
+  },
+  {
+    "name": "核心设定：无字谶",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-03_F15-F29.md",
+    "sha256": "97858c7f81be85c32a0dca9c5ece5029cb39251a56db4a50b54c5d7ab98aa6b6"
+  },
+  {
+    "name": "核心设定：谛听辨妄",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-03_F15-F29.md",
+    "sha256": "fd78baf78f82b360f27f053d1dcbe52754d01b3f6ffa2446933fc66e59a6301e"
+  },
+  {
+    "name": "核心设定：阴间交易、路引与冥籍",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-03_F15-F29.md",
+    "sha256": "07cf2ce67fd4cbe1ea0cee2266406a5502f68a396e77ebd6d18cc54d05b40b4f"
+  },
+  {
+    "name": "核心设定：孟婆汤与遗忘",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-03_F15-F29.md",
+    "sha256": "38df3076fa7c319f6162cbfa002851cf9923337926c955e34e0c35de00907ce7"
+  },
+  {
+    "name": "核心设定：善秤与业判",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-03_F15-F29.md",
+    "sha256": "0351c43dc87a43dda78b0cd5a0c7951def5b0c557f8cdd2909fde499ec3c58f2"
+  },
+  {
+    "name": "核心设定：金童玉女祭祀",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-03_F15-F29.md",
+    "sha256": "df5f35604af082156e13ff234c30c2868d3f1e1565fe01fc77a8a0e16d93a9b8"
+  },
+  {
+    "name": "核心设定：冥陀兰",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-04_F30-F35.md",
+    "sha256": "920810b7492108bab0fc2a0619f6493ccbe15b0ac26cb740c6bdf6022eed5341"
+  },
+  {
+    "name": "核心设定：鬼戏与地支鬼儡法",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-04_F30-F35.md",
+    "sha256": "72a2e5ba874fdf71a82d7ade7ba3e318b42b97cc7a2d15e1cb354a36e46c17a2"
+  },
+  {
+    "name": "核心设定：灵府魇魅术",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-04_F30-F35.md",
+    "sha256": "0f08c5ac1dfc0b8ed2fa6f4591cdd22fc4f0936111dca7f456dee31eea5fa6bc"
+  },
+  {
+    "name": "核心设定：斩煞刀",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-04_F30-F35.md",
+    "sha256": "8640ad588fd0555725aa67e57d56aa31fb974473de997a1c67323c75a16eefa3"
+  },
+  {
+    "name": "核心设定：夺煞与鬼仙渡劫",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-04_F30-F35.md",
+    "sha256": "0f01d8dd886e74c78f2c10e2d4f97837e6b84ce4e18c8493941d66ddfd71f65c"
+  },
+  {
+    "name": "核心设定：半刹鬼仙",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-04_F30-F35.md",
+    "sha256": "cba7004c6880a19000d70a0a341d28f08dd469386e857139f6ccf752718c8216"
+  },
+  {
+    "name": "核心设定：罗浮入梦",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-05_F36-F38.md",
+    "sha256": "b174ac63728b43b74809f85db8bea98605f0b6cebda36214a054fd91e3ba7dd6"
+  },
+  {
+    "name": "核心设定：禳僖游仙正法",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-05_F36-F38.md",
+    "sha256": "dd20022d484e1d611f18eab9b40e30f94f915063c279bfb2d47bc326c6dd09f5"
+  },
+  {
+    "name": "核心设定：断缘",
+    "kind": "folklore",
+    "source": "folklore/cards/FOL-05_F36-F38.md",
+    "sha256": "20048a7d0cd0cfd126d0894fc5edfbe35b79059484e036b0c22d3211a7ebbfbb"
+  },
+  {
+    "name": "地点：奘铃村",
+    "kind": "location",
+    "source": "locations/cards/LOC-01_L01-L11.md",
+    "sha256": "61daf724fba9eea5fc1e2ea0ce5bc374317b69df8ee419bc39a1d760e83aefbb"
+  },
+  {
+    "name": "地点：聂家旧宅",
+    "kind": "location",
+    "source": "locations/cards/LOC-01_L01-L11.md",
+    "sha256": "4be0fbe6561ef47a819b2899e8685bfc93dcd203af18dc222c1695f82ef70df6"
+  },
+  {
+    "name": "地点：奘铃村祠堂",
+    "kind": "location",
+    "source": "locations/cards/LOC-01_L01-L11.md",
+    "sha256": "47b1fda7162967fd4dd33e2027e7742b2ce71adca1bbcc495eaa6494ace63eb0"
+  },
+  {
+    "name": "地点：奘铃村后山坟场",
+    "kind": "location",
+    "source": "locations/cards/LOC-01_L01-L11.md",
+    "sha256": "39a2b4c3ecc3927348b48e52a97757b72a5812ed6a739f962524a968ce4c9fdd"
+  },
+  {
+    "name": "地点：陶家旧宅",
+    "kind": "location",
+    "source": "locations/cards/LOC-01_L01-L11.md",
+    "sha256": "6b9c864ade47000f04fa31c20a66f1a5f7451834e87b526675afd0027faa7caa"
+  },
+  {
+    "name": "地点：葬宫",
+    "kind": "location",
+    "source": "locations/cards/LOC-01_L01-L11.md",
+    "sha256": "ff06e36f370333960c299a21a14f8a394976dded358c0a278b5601bd86984028"
+  },
+  {
+    "name": "地点：鬼戏楼",
+    "kind": "location",
+    "source": "locations/cards/LOC-01_L01-L11.md",
+    "sha256": "e00df06ed97afff0f5c44970c6cc8cc841f57c9f64a60da16f17b6e241b4feb0"
+  },
+  {
+    "name": "地点：肖家旧宅",
+    "kind": "location",
+    "source": "locations/cards/LOC-01_L01-L11.md",
+    "sha256": "ed9592dd6bc95b4b89ee98541dc177767d225f972cad3f8db75349c9bed55ebb"
+  },
+  {
+    "name": "地点：奚家旧宅",
+    "kind": "location",
+    "source": "locations/cards/LOC-01_L01-L11.md",
+    "sha256": "bedc328f8fac98e59e9e4d5007ba8645c4b393d8f9396a1e84a05299a4e08382"
+  },
+  {
+    "name": "地点：六葬灵塔",
+    "kind": "location",
+    "source": "locations/cards/LOC-01_L01-L11.md",
+    "sha256": "967625590e74fd0f6f2f7b57c4410433d6c180657e2642a46bd158964e71d6e3"
+  },
+  {
+    "name": "地点：浊土洞天",
+    "kind": "location",
+    "source": "locations/cards/LOC-01_L01-L11.md",
+    "sha256": "e459275f6eb5d87738b405f3ad6300d37fe92f204c0e07609e65ea7c04032b50"
+  },
+  {
+    "name": "地点：末水村",
+    "kind": "location",
+    "source": "locations/cards/LOC-02_L12-L22.md",
+    "sha256": "ff76a955c0c979b050155f21f988612bdbfd4bfd0f094cad8b639551a69d73c4"
+  },
+  {
+    "name": "地点：申家老宅",
+    "kind": "location",
+    "source": "locations/cards/LOC-02_L12-L22.md",
+    "sha256": "3d1a752c65da09a5acbc3e96a652aacc05fc2e3e1174f473b1a60da133df5003"
+  },
+  {
+    "name": "地点：申墨卿与王娇彤住处",
+    "kind": "location",
+    "source": "locations/cards/LOC-02_L12-L22.md",
+    "sha256": "f49f7ea0983b8092857432485e04130c025589ce9c14d5d83f4328081b83bede"
+  },
+  {
+    "name": "地点：鬼打墙纸扎街区",
+    "kind": "location",
+    "source": "locations/cards/LOC-02_L12-L22.md",
+    "sha256": "a385bcdf540d831e8f82414ea3a8fe80893e427e0be0bbd7c785ebd048837984"
+  },
+  {
+    "name": "地点：益昌镇",
+    "kind": "location",
+    "source": "locations/cards/LOC-02_L12-L22.md",
+    "sha256": "c39fdcc1bc1ef3d78a910803fc92fb392c13797fab160d2c4aac4df7cff3041c"
+  },
+  {
+    "name": "地点：益昌废弃公交站",
+    "kind": "location",
+    "source": "locations/cards/LOC-02_L12-L22.md",
+    "sha256": "f8c569530c05a2f31c6a71448e1c483001807d8d985f229aea6c1cc0795f2469"
+  },
+  {
+    "name": "地点：中元庙会街",
+    "kind": "location",
+    "source": "locations/cards/LOC-02_L12-L22.md",
+    "sha256": "bee8b545e9dc4a35e18288bc12bd6af731d3087b371570d8af06ce4b60b61e58"
+  },
+  {
+    "name": "地点：郑家大宅",
+    "kind": "location",
+    "source": "locations/cards/LOC-02_L12-L22.md",
+    "sha256": "3ec6ca0275f91e5992e76f1b9a696f1a909d59288c72d3bc601b880d139ae68f"
+  },
+  {
+    "name": "地点：太一水脉",
+    "kind": "location",
+    "source": "locations/cards/LOC-02_L12-L22.md",
+    "sha256": "12ec2c21829ce4e68a00494e72128a7fe9109a59db2d9ae2cec91244fa930510"
+  },
+  {
+    "name": "地点：来生戏戏院",
+    "kind": "location",
+    "source": "locations/cards/LOC-02_L12-L22.md",
+    "sha256": "084690d93b9d242903ffca0b7438a472a01239a99b6862ee1050bc7adfb22ae7"
+  },
+  {
+    "name": "地点：鬼儡木偶空间",
+    "kind": "location",
+    "source": "locations/cards/LOC-02_L12-L22.md",
+    "sha256": "b79ea4db9836a695a00f9f267397ee91a1a1ce985d20988699764b1e3668daf4"
+  },
+  {
+    "name": "地点：灵府魇魅幻境",
+    "kind": "location",
+    "source": "locations/cards/LOC-03_L23-L32.md",
+    "sha256": "dcb0feac8a1d05552f9e5885cefeebf9a485745ef8210c40c3f557524d4d2bf7"
+  },
+  {
+    "name": "地点：浮路市第十三医院",
+    "kind": "location",
+    "source": "locations/cards/LOC-03_L23-L32.md",
+    "sha256": "8d513ff3da69dccb7fa7dc1a2157f92e079ff9493f695605775234dd60569949"
+  },
+  {
+    "name": "地点：旧二医院",
+    "kind": "location",
+    "source": "locations/cards/LOC-03_L23-L32.md",
+    "sha256": "5380226f6f187ff643a10576a196627ffb3f771bb2b81057811f4b7ff9286657"
+  },
+  {
+    "name": "地点：福婴塔",
+    "kind": "location",
+    "source": "locations/cards/LOC-03_L23-L32.md",
+    "sha256": "3363083e45963d95eba9bcc11e0b5ea0b222900c0a1fc541e44dea49223621b3"
+  },
+  {
+    "name": "地点：纸人庙",
+    "kind": "location",
+    "source": "locations/cards/LOC-03_L23-L32.md",
+    "sha256": "f547ded97b0fa3ed92ccbc29e4d1e7583e629b86fe074abd1297464c491f8b96"
+  },
+  {
+    "name": "地点：六礼轩",
+    "kind": "location",
+    "source": "locations/cards/LOC-03_L23-L32.md",
+    "sha256": "685d40bbbc4b2196fdf85cec23fa18401d6afd028d3cd97c767160c25f85e6f2"
+  },
+  {
+    "name": "地点：奉奘祠",
+    "kind": "location",
+    "source": "locations/cards/LOC-03_L23-L32.md",
+    "sha256": "b4caef01c479e0a0739a3179cabe4a0767bcf66997d6398d5d4f0ebd93706464"
+  },
+  {
+    "name": "地点：千子树",
+    "kind": "location",
+    "source": "locations/cards/LOC-03_L23-L32.md",
+    "sha256": "1fa50eafc2cea7baedcc222464cd6b437e1db6fa41882c2f8e2089a240c97b12"
+  },
+  {
+    "name": "地点：两间口",
+    "kind": "location",
+    "source": "locations/cards/LOC-03_L23-L32.md",
+    "sha256": "e3eb844601ff58aaeb379fc207ad46e845eff78a69e94e3f3b1814a24f964a22"
+  },
+  {
+    "name": "地点：魁阙关",
+    "kind": "location",
+    "source": "locations/cards/LOC-03_L23-L32.md",
+    "sha256": "55dcd979ec202f029b83bd1c39867776d83227f5c74d54f8f3e0409a2b9044c3"
+  },
+  {
+    "name": "地点：孟婆咖啡",
+    "kind": "location",
+    "source": "locations/cards/LOC-04_L33-L42.md",
+    "sha256": "0049b380cd5c06229e1364837f8468ebac11cae9a096c2f966a5d9d4618ad914"
+  },
+  {
+    "name": "地点：地藏王菩萨庙",
+    "kind": "location",
+    "source": "locations/cards/LOC-04_L33-L42.md",
+    "sha256": "6cc7153a3b899b12e33705149689f6a7e3e82963ae2b1324e83f0856893d15a0"
+  },
+  {
+    "name": "地点：故垣",
+    "kind": "location",
+    "source": "locations/cards/LOC-04_L33-L42.md",
+    "sha256": "8c254b4cf5aafa096795ed757cbee64e468436339aab2821dd67d94fb258b766"
+  },
+  {
+    "name": "地点：南柯居",
+    "kind": "location",
+    "source": "locations/cards/LOC-04_L33-L42.md",
+    "sha256": "58fad91f9bc89c0d4e6e2240e8e17b818edd8c71692f9f373409a229729c6f1e"
+  },
+  {
+    "name": "地点：罗浮纸人列车",
+    "kind": "location",
+    "source": "locations/cards/LOC-04_L33-L42.md",
+    "sha256": "c49c846335d3baf34c45415ff960276c51b5fd51cb5d181f1084c32a60564e4a"
+  },
+  {
+    "name": "地点：益昌北站",
+    "kind": "location",
+    "source": "locations/cards/LOC-04_L33-L42.md",
+    "sha256": "a6d6a6228615133710f143c7e67b0d871601bd1aa2ae2a596acd3e401c98253a"
+  },
+  {
+    "name": "地点：昙宅",
+    "kind": "location",
+    "source": "locations/cards/LOC-04_L33-L42.md",
+    "sha256": "6c9dcd6eb45a9a8fa7d1b5ee9ce62be2f996b5d8a025311df0320ada9c8971dd"
+  },
+  {
+    "name": "地点：牵缘街与月老庙",
+    "kind": "location",
+    "source": "locations/cards/LOC-04_L33-L42.md",
+    "sha256": "6e23a11133efaf3fb7b0f9531fb6ddcab2ef067316b5ea6a11fabdb922c409f2"
+  },
+  {
+    "name": "地点：宁子服与聂莫琪新房",
+    "kind": "location",
+    "source": "locations/cards/LOC-04_L33-L42.md",
+    "sha256": "4554df3c59b361381a6db78bf976a0e9cc166f2d3c7e2d0d339cafe82bf1b0a2"
+  },
+  {
+    "name": "地点：殡仪用品店地下密室",
+    "kind": "location",
+    "source": "locations/cards/LOC-04_L33-L42.md",
+    "sha256": "28bf9f7ef117db70acc3e68c21c06c3696ac61ebab01b68c83b9c494696aced5"
+  },
+  {
+    "name": "地点：浮路市",
+    "kind": "location",
+    "source": "locations/cards/LOC-05_L43.md",
+    "sha256": "5eef308d8ac1c4fa7aec964dbbe828a06e379a99d5c72fc9a34f6baf4a7afada"
+  },
+  {
+    "name": "时间线-MAIN01｜纸嫁衣",
+    "kind": "timeline",
+    "source": "timeline/fullstack/MAIN01_game-01_纸嫁衣.md",
+    "sha256": "e21d7efc0eefd51bdab6475b03a63f9a4576af6246cb81581290c04d7f6404b5"
+  },
+  {
+    "name": "时间线-MAIN02｜纸嫁衣2：奘铃村",
+    "kind": "timeline",
+    "source": "timeline/fullstack/MAIN02_game-02_纸嫁衣2_奘铃村.md",
+    "sha256": "223775241d7f6223903e16e57cb86e17f630f3c5ac6f0f82bbb255168fbbe561"
+  },
+  {
+    "name": "时间线-MAIN03｜纸嫁衣3：鸳鸯债",
+    "kind": "timeline",
+    "source": "timeline/fullstack/MAIN03_game-03_纸嫁衣3_鸳鸯债.md",
+    "sha256": "c2f2e7456c2b79524b88eb0c035effb8e9b662b6ec503e29ce2417767916aef8"
+  },
+  {
+    "name": "时间线-MAIN04｜纸嫁衣4：红丝缠",
+    "kind": "timeline",
+    "source": "timeline/fullstack/MAIN04_game-04_纸嫁衣4_红丝缠.md",
+    "sha256": "981fd508d77721c1e42a94d4dd809df0c5b025fac7590bb9c69c1755d10fb4d8"
+  },
+  {
+    "name": "时间线-MAIN05｜纸嫁衣5：来生戏",
+    "kind": "timeline",
+    "source": "timeline/fullstack/MAIN05_game-05_纸嫁衣5_来生戏.md",
+    "sha256": "a528e5e169e44fd25cb56044d9cfea75fd0691d59d088c606cbfa6bab07e6640"
+  },
+  {
+    "name": "时间线-MAIN06｜纸嫁衣6：千秋魇",
+    "kind": "timeline",
+    "source": "timeline/fullstack/MAIN06_game-06_纸嫁衣6_千秋魇.md",
+    "sha256": "a010f53c539c84441832270d34d5d5c01c6c685a1daf95482d8c6992dec74cab"
+  },
+  {
+    "name": "时间线-MAIN07｜纸嫁衣7：卿不负",
+    "kind": "timeline",
+    "source": "timeline/fullstack/MAIN07_game-07_纸嫁衣7_卿不负.md",
+    "sha256": "62191edb10b4515c544fe700113bd082ee7741855b9adb8efe65bfc4dc8d3e48"
+  },
+  {
+    "name": "时间线-MAIN08｜纸嫁衣8：千子树",
+    "kind": "timeline",
+    "source": "timeline/fullstack/MAIN08_game-08_纸嫁衣8_千子树.md",
+    "sha256": "7513025008ca04ec66aa167cf9a454e1d6fe54906da554f1988a97e1c16731c2"
+  },
+  {
+    "name": "时间线-MAIN09｜纸嫁衣9：罗浮梦",
+    "kind": "timeline",
+    "source": "timeline/fullstack/MAIN09_game-09_纸嫁衣9_罗浮梦.md",
+    "sha256": "c1fb414b8ebe9c6f3426f7ea5e11f77a9b03d3e1ca403d98b9d0950d1d5ed236"
+  }
+]

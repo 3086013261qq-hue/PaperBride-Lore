@@ -1,0 +1,1943 @@
+{
+  "result": {
+    "songs": [
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1622506,
+          "fid": 0,
+          "size": 38787535,
+          "vd": -9575.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3406955304,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 191230,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3406955304,
+        "sq": {
+          "br": 857828,
+          "fid": 0,
+          "size": 20508862,
+          "vd": -9575.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1784131200000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7651245,
+          "vd": -9555.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/c4gPS6T3nC2cee_cTPjuFA==/109951173564245598.jpg",
+          "name": "无间梦境|纸嫁衣9罗浮梦",
+          "tns": [],
+          "pic_str": "109951173564245598",
+          "id": 387200480,
+          "pic": 109951173564245598
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3060525,
+          "vd": -5165.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4590765,
+          "vd": -6946.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [
+          "《纸嫁衣9罗浮梦》主题曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "吴轶飞",
+            "tns": [],
+            "alias": [
+              "哇哇"
+            ],
+            "id": 12462097,
+            "alia": [
+              "哇哇"
+            ]
+          },
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          },
+          {
+            "name": "Uri",
+            "tns": [],
+            "alias": [],
+            "id": 12184584
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "罗浮站台",
+        "mark": 17716748288
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1673483,
+          "fid": 0,
+          "size": 40006093,
+          "vd": -31103.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3417958598,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 191230,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3417958598,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7651245,
+          "vd": -31089.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/5IbAHEq1_FLisxGsJOLPFg==/109951173712401069.jpg",
+          "name": "罗浮站台",
+          "tns": [],
+          "pic_str": "109951173712401069",
+          "id": 391298024,
+          "pic": 109951173712401069
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "Uri",
+              "id": 12184584
+            }
+          ],
+          "name": "罗浮站台",
+          "songId": 3406955304,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣9罗浮梦",
+            "id": 387200480
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3060525,
+          "vd": -26710.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4590765,
+          "vd": -28506.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "朔小踹",
+            "tns": [],
+            "alias": [],
+            "id": 33579809
+          },
+          {
+            "name": "张远韬",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "罗浮站台（feat.张远韬）",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3419513527,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 191280,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3419513527,
+        "sq": {
+          "br": 1466578,
+          "fid": 0,
+          "size": 35069419,
+          "vd": 27317.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7653921,
+          "vd": 27308.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/ffZgrjdbJKwx3Lfc-fTdiA==/109951173729463931.jpg",
+          "name": "罗浮站台",
+          "tns": [],
+          "pic_str": "109951173729463931",
+          "id": 391828468,
+          "pic": 109951173729463931
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "Uri",
+              "id": 12184584
+            }
+          ],
+          "name": "罗浮站台",
+          "songId": 3406955304,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣9罗浮梦",
+            "id": 387200480
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3061595,
+          "vd": 31619.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4592370,
+          "vd": 29914.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [
+          "《纸嫁衣9罗浮站台》主题曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "知下",
+            "tns": [],
+            "alias": [],
+            "id": 14115139
+          },
+          {
+            "name": "九琛kikyou",
+            "tns": [],
+            "alias": [
+              "星野千莺"
+            ],
+            "id": 31341070,
+            "alia": [
+              "星野千莺"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "罗浮站台",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1643388,
+          "fid": 0,
+          "size": 39286630,
+          "vd": 8684.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3407795441,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 191229,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3407795441,
+        "sq": {
+          "br": 874385,
+          "fid": 0,
+          "size": 20904600,
+          "vd": 8684.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7651245,
+          "vd": 8673.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/_tVFHuzGoZkCezAOHoUNcQ==/109951173577240886.jpg",
+          "name": "罗浮站台",
+          "tns": [],
+          "pic_str": "109951173577240886",
+          "id": 387533298,
+          "pic": 109951173577240886
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "Uri",
+              "id": 12184584
+            }
+          ],
+          "name": "罗浮站台",
+          "songId": 3406955304,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣9罗浮梦",
+            "id": 387200480
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3060525,
+          "vd": 12947.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4590765,
+          "vd": 11243.0,
+          "sr": 48000
+        },
+        "version": 6,
+        "cp": 0,
+        "alia": [
+          "《纸嫁衣9罗浮梦》主题曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "清殷sain",
+            "tns": [],
+            "alias": [],
+            "id": 35726428
+          },
+          {
+            "name": "小歌Sugar",
+            "tns": [],
+            "alias": [],
+            "id": 33949395
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 40,
+        "name": "罗浮站台",
+        "mark": 536871040
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3411813562,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 189590,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3411813562,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1784851202000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7587048,
+          "vd": 7904.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/-HHtKJwziD6YP7qB3KzmEg==/109951173643447568.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173643447568",
+          "id": 0,
+          "pic": 109951173643447568
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3034845,
+          "vd": 12129.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4552246,
+          "vd": 10509.0,
+          "sr": 44100
+        },
+        "version": 2,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "云青",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "罗浮站台",
+        "mark": 0
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3417279204,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 198994,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3417279204,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1785456002000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7963211,
+          "vd": -11209.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/l4Bs0V3NBWb5DsQi1Y65Pg==/109951173704908364.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173704908364",
+          "id": 0,
+          "pic": 109951173704908364
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3185311,
+          "vd": -7002.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4777944,
+          "vd": -8628.0,
+          "sr": 44100
+        },
+        "version": 2,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "慕清婉",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "罗浮站台",
+        "mark": 0
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1632588,
+          "fid": 0,
+          "size": 39028759,
+          "vd": -11481.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3428024075,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 191231,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3428024075,
+        "sq": {
+          "br": 865493,
+          "fid": 0,
+          "size": 20692203,
+          "vd": -11481.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7651245,
+          "vd": -11493.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/UVZC3YQnOLFIRevoy-KVTA==/109951173851613289.jpg",
+          "name": "罗浮站台",
+          "tns": [],
+          "pic_str": "109951173851613289",
+          "id": 395319171,
+          "pic": 109951173851613289
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "Uri",
+              "id": 12184584
+            }
+          ],
+          "name": "罗浮站台",
+          "songId": 3406955304,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣9罗浮梦",
+            "id": 387200480
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3060525,
+          "vd": -7196.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4590765,
+          "vd": -8914.0,
+          "sr": 48000
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "楼闻羽",
+            "tns": [],
+            "alias": [
+              "鹿央"
+            ],
+            "id": 33017281,
+            "alia": [
+              "鹿央"
+            ]
+          },
+          {
+            "name": "白椐",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "罗浮站台",
+        "mark": 536871040
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 128,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3419013277,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 191146,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3419013277,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1784764802000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7649742,
+          "vd": 11637.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/Z7pbLpibU4Mr4ZSGWqM1zg==/109951173723013152.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951173723013152",
+          "id": 0,
+          "pic": 109951173723013152
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3059923,
+          "vd": 15895.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4589862,
+          "vd": 14257.0,
+          "sr": 44100
+        },
+        "version": 2,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "大头针Offlcial",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "罗浮站台",
+        "mark": 0
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3407841609,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 177188,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3407841609,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7089676,
+          "vd": -40636.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/rDDNUfVndURP_-da8ftOcA==/109951173578363346.jpg",
+          "name": "罗浮站台",
+          "tns": [],
+          "pic_str": "109951173578363346",
+          "id": 387562100,
+          "pic": 109951173578363346
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2835897,
+          "vd": -36517.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4253823,
+          "vd": -38099.0,
+          "sr": 44100
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "Ericcc",
+            "tns": [],
+            "alias": [],
+            "id": 122078343
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "罗浮站台",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3407841546,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 177684,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3407841546,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7109529,
+          "vd": -40843.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/DNzIHe4ueF_r986waefrlQ==/109951173578362311.jpg",
+          "name": "罗浮站台",
+          "tns": [],
+          "pic_str": "109951173578362311",
+          "id": 387562060,
+          "pic": 109951173578362311
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2843838,
+          "vd": -36783.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4265735,
+          "vd": -38318.0,
+          "sr": 44100
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [
+          "R&B福音版"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "砍爷",
+            "tns": [],
+            "alias": [],
+            "id": 122577714
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "罗浮站台",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3407962254,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 178755,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3407962254,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7152370,
+          "vd": -40089.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/oyFgsMqFnUSzGCcjbbQwKg==/109951173581124750.jpg",
+          "name": "罗浮站台",
+          "tns": [],
+          "pic_str": "109951173581124750",
+          "id": 387613032,
+          "pic": 109951173581124750
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2860974,
+          "vd": -35996.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4291440,
+          "vd": -37539.0,
+          "sr": 44100
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "阿杰",
+            "tns": [],
+            "alias": [],
+            "id": 123533139
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "罗浮站台",
+        "mark": 8192
+      },
+      {
+        "no": 6,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3408519685,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 180600,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3408519685,
+        "sq": {
+          "br": 1215887,
+          "fid": 0,
+          "size": 27451987,
+          "vd": 55745.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7226558,
+          "vd": 55744.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/MAzdbVeAhWpOoc9Bsp1L7Q==/109951170679367083.jpg",
+          "name": "《纸嫁衣》音乐钢琴合集",
+          "tns": [],
+          "pic_str": "109951170679367083",
+          "id": 267709225,
+          "pic": 109951170679367083
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2890649,
+          "vd": 60151.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4335952,
+          "vd": 58387.0,
+          "sr": 44100
+        },
+        "version": 2,
+        "cp": 0,
+        "alia": [
+          "主题曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "声不可测",
+            "tns": [],
+            "alias": [
+              "声叔"
+            ],
+            "id": 61358273,
+            "alia": [
+              "声叔"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "罗浮站台《纸嫁衣9》(钢琴版)",
+        "mark": 131200
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1724704,
+          "fid": 0,
+          "size": 56187638,
+          "vd": -31008.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2613414580,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 260625,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2613414580,
+        "sq": {
+          "br": 955325,
+          "fid": 0,
+          "size": 31122719,
+          "vd": -31517.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1722441600000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10427565,
+          "vd": -30769.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/yc_PbOsNbs58ZrfIoL_pww==/109951169835766563.jpg",
+          "name": "无间梦境|纸嫁衣系列",
+          "tns": [],
+          "pic_str": "109951169835766563",
+          "id": 243712941,
+          "pic": 109951169835766563
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4171053,
+          "vd": -26402.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6256557,
+          "vd": -28142.0,
+          "sr": 48000
+        },
+        "version": 8,
+        "cp": 0,
+        "alia": [
+          "纸嫁衣系列2024推广曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          },
+          {
+            "name": "喵☆酱",
+            "tns": [],
+            "alias": [],
+            "id": 12373281
+          },
+          {
+            "name": "Uri",
+            "tns": [],
+            "alias": [],
+            "id": 12184584
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 42,
+        "name": "相思莫负",
+        "mark": 536879104
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1396801,
+          "fid": 0,
+          "size": 22829912,
+          "vd": 655.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3408903338,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 130741,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3408903338,
+        "sq": {
+          "br": 631392,
+          "fid": 0,
+          "size": 10321076,
+          "vd": 655.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 5232045,
+          "vd": 653.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/WRIjf0qUmFAsrqdSvO_Ahg==/109951173597837573.jpg",
+          "name": "纸嫁衣9罗浮站台（钢琴）",
+          "tns": [],
+          "pic_str": "109951173597837573",
+          "id": 387967924,
+          "pic": 109951173597837573
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2092845,
+          "vd": 5083.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3139245,
+          "vd": 3299.0,
+          "sr": 48000
+        },
+        "version": 7,
+        "cp": 0,
+        "alia": [
+          "主题曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "一依酱",
+            "tns": [],
+            "alias": [],
+            "id": 60977843
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "纸嫁衣9《罗浮站台》钢琴",
+        "mark": 537002112
+      }
+    ],
+    "songCount": 14
+  },
+  "code": 200,
+  "trp": {
+    "rules": [
+      "search_tab_song::2613414580::searchAlg$isGlobalQuality$2"
+    ]
+  }
+}

@@ -1,0 +1,4558 @@
+{
+  "result": {
+    "songs": [
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1518134,
+          "fid": 0,
+          "size": 36055686,
+          "vd": -1136.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2117875423,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 190000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2117875423,
+        "sq": {
+          "br": 750311,
+          "fid": 0,
+          "size": 17819894,
+          "vd": -1056.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7602285,
+          "vd": -1138.0,
+          "sr": 48000
+        },
+        "mv": 14690104,
+        "al": {
+          "picUrl": "http://p1.music.126.net/tJnVKcmHRQASBl0NfasK-w==/109951169263809185.jpg",
+          "name": "无间梦境|纸嫁衣6千秋魇",
+          "tns": [],
+          "pic_str": "109951169263809185",
+          "id": 183266251,
+          "pic": 109951169263809185
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3040941,
+          "vd": 3209.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4561389,
+          "vd": 1491.0,
+          "sr": 48000
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "吴轶飞",
+            "tns": [],
+            "alias": [
+              "哇哇"
+            ],
+            "id": 12462097,
+            "alia": [
+              "哇哇"
+            ]
+          },
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
+        "mark": 17716748288
+      },
+      {
+        "no": 3,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2120900743,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 50.0,
+        "dt": 189720,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2120900743,
+        "sq": {
+          "br": 1488551,
+          "fid": 0,
+          "size": 35301007,
+          "vd": 22849.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7591227,
+          "vd": 22156.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/uww_SKZromHs9Owz3kbuPg==/109951169288001613.jpg",
+          "name": "【双视角】你离开的村落（《纸嫁衣6无间梦境千秋魇》主题曲》翻唱）",
+          "tns": [],
+          "pic_str": "109951169288001613",
+          "id": 184069844,
+          "pic": 109951169288001613
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
+          "songId": 2117875423,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3036517,
+          "vd": 26264.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4554754,
+          "vd": 24729.0,
+          "sr": 44100
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "盐酸",
+            "tns": [],
+            "alias": [
+              "酸崽"
+            ],
+            "id": 12077117,
+            "alia": [
+              "酸崽"
+            ]
+          },
+          {
+            "name": "猫爪疼（刘浩辉）",
+            "tns": [],
+            "alias": [],
+            "id": 35122289
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "【双声道】你离开的村落",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1545352,
+          "fid": 0,
+          "size": 36676366,
+          "vd": -21656.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2127346766,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 20.0,
+        "dt": 189866,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2127346766,
+        "sq": {
+          "br": 778998,
+          "fid": 0,
+          "size": 18488231,
+          "vd": -21227.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7597485,
+          "vd": -21930.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/Z7L2uJ_piDKgY66V7565Dg==/109951169344681967.jpg",
+          "name": "你离开的村落",
+          "tns": [],
+          "pic_str": "109951169344681967",
+          "id": 186100789,
+          "pic": 109951169344681967
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
+          "songId": 2117875423,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3039021,
+          "vd": -17523.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4558509,
+          "vd": -19271.0,
+          "sr": 48000
+        },
+        "version": 8,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "浔漪",
+            "tns": [],
+            "alias": [],
+            "id": 35731239
+          },
+          {
+            "name": "一只柯基",
+            "tns": [],
+            "alias": [],
+            "id": 57857954
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 42,
+        "name": "你离开的村落",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1607420,
+          "fid": 0,
+          "size": 37797060,
+          "vd": -18994.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2698165154,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 188095,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2698165154,
+        "sq": {
+          "br": 841467,
+          "fid": 0,
+          "size": 19788019,
+          "vd": -18994.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7526445,
+          "vd": -18999.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/EmjVx5gtn7fmDF6ZV_3nuA==/109951170836564845.jpg",
+          "name": "【纸嫁衣】你离开的村落",
+          "tns": [],
+          "pic_str": "109951170836564845",
+          "id": 269911299,
+          "pic": 109951170836564845
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3010605,
+          "vd": -14718.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4515885,
+          "vd": -16390.0,
+          "sr": 48000
+        },
+        "version": 8,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "鱼柒",
+            "tns": [],
+            "alias": [],
+            "id": 48423308
+          },
+          {
+            "name": "子幕",
+            "tns": [],
+            "alias": [],
+            "id": 28869752
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 42,
+        "name": "你离开的村落",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 2125134076,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 190066,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2125134076,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7604811,
+          "vd": -44395.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/o6VckISd8krYxceFVYTc7Q==/109951169323245139.jpg",
+          "name": "《你离开的村落》--纸嫁衣6无间梦境千秋魇主题曲",
+          "tns": [],
+          "pic_str": "109951169323245139",
+          "id": 185456185,
+          "pic": 109951169323245139
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3041951,
+          "vd": -40068.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4562904,
+          "vd": -41788.0,
+          "sr": 44100
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "岁枝",
+            "tns": [],
+            "alias": [],
+            "id": 53257680
+          },
+          {
+            "name": "芪岚",
+            "tns": [],
+            "alias": [],
+            "id": 12938066
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "你离开的村落",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 2118912025,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 190066,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2118912025,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7604811,
+          "vd": -22816.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/uCla4gUgkvdVQ0ZB544mcQ==/109951169271754325.jpg",
+          "name": "你离开的村落（《纸嫁衣 6 千秋魇》主题曲）",
+          "tns": [],
+          "pic_str": "109951169271754325",
+          "id": 183509706,
+          "pic": 109951169271754325
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
+          "songId": 2117875423,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3041951,
+          "vd": -18548.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4562904,
+          "vd": -20195.0,
+          "sr": 44100
+        },
+        "version": 8,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "小歌Sugar",
+            "tns": [],
+            "alias": [],
+            "id": 33949395
+          },
+          {
+            "name": "清寒clair",
+            "tns": [],
+            "alias": [],
+            "id": 47842312
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 42,
+        "name": "你离开的村落 （男女和声对唱版）",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2607958515,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 190000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2607958515,
+        "sq": {
+          "br": 846648,
+          "fid": 0,
+          "size": 20107893,
+          "vd": -12041.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7602285,
+          "vd": -12092.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/LZlh9GjkKpp0RPRJs0LomA==/109951169781618011.jpg",
+          "name": "你离开的村落",
+          "tns": [],
+          "pic_str": "109951169781618011",
+          "id": 242123150,
+          "pic": 109951169781618011
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
+          "songId": 2117875423,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3040941,
+          "vd": -7713.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4561389,
+          "vd": -9461.0,
+          "sr": 48000
+        },
+        "version": 6,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "口虚辰",
+            "tns": [],
+            "alias": [],
+            "id": 46551945
+          },
+          {
+            "name": "_又四日_",
+            "tns": [],
+            "alias": [],
+            "id": 52026008
+          },
+          {
+            "name": "忘了看",
+            "tns": [],
+            "alias": [],
+            "id": 49300300
+          },
+          {
+            "name": "持火制作组",
+            "tns": [],
+            "alias": [],
+            "id": 54271337
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 40,
+        "name": "你离开的村落",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2118838664,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 190259,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2118838664,
+        "sq": {
+          "br": 762577,
+          "fid": 0,
+          "size": 18135909,
+          "vd": -25777.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7613170,
+          "vd": -26326.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/nLIv0UZ5lZYq5HkdJ19tmg==/109951169271229168.jpg",
+          "name": "你离开的村落【纸嫁衣6】",
+          "tns": [],
+          "pic_str": "109951169271229168",
+          "id": 183527322,
+          "pic": 109951169271229168
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
+          "songId": 2117875423,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3045294,
+          "vd": -21952.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4567920,
+          "vd": -23739.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "颂宵",
+            "tns": [],
+            "alias": [],
+            "id": 34235637
+          },
+          {
+            "name": "宇先生Ryan",
+            "tns": [],
+            "alias": [
+              "宇先生"
+            ],
+            "id": 53038264,
+            "alia": [
+              "宇先生"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "你离开的村落（纸嫁衣6千秋魇主题曲）",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1519141,
+          "fid": 0,
+          "size": 36090247,
+          "vd": -669.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2119892053,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 190056,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2119892053,
+        "sq": {
+          "br": 752742,
+          "fid": 0,
+          "size": 17882900,
+          "vd": -239.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7604205,
+          "vd": -1224.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/E55l8kYBgp7dKDEh2UxH4Q==/109951169278947647.jpg",
+          "name": "你离开的村落",
+          "tns": [],
+          "pic_str": "109951169278947647",
+          "id": 183791915,
+          "pic": 109951169278947647
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
+          "songId": 2117875423,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3041709,
+          "vd": 3137.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4562541,
+          "vd": 1400.0,
+          "sr": 48000
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "幻荒",
+            "tns": [],
+            "alias": [
+              "皇幻荒"
+            ],
+            "id": 33349476,
+            "alia": [
+              "皇幻荒"
+            ]
+          },
+          {
+            "name": "南时叙",
+            "tns": [],
+            "alias": [],
+            "id": 33166408
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "你离开的村落",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1553778,
+          "fid": 0,
+          "size": 36905727,
+          "vd": -39177.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2694739077,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 190000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2694739077,
+        "sq": {
+          "br": 786453,
+          "fid": 0,
+          "size": 18681772,
+          "vd": -39177.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7602285,
+          "vd": -39177.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/S-8kYUTIX4vvCvvmRFA-IQ==/109951170722470839.jpg",
+          "name": "你离开的村落——纸嫁衣6主题曲",
+          "tns": [],
+          "pic_str": "109951170722470839",
+          "id": 268911631,
+          "pic": 109951170722470839
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
+          "songId": 2117875423,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3040941,
+          "vd": -34809.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4561389,
+          "vd": -36542.0,
+          "sr": 48000
+        },
+        "version": 6,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "南宫游仙",
+            "tns": [],
+            "alias": [],
+            "id": 28176197
+          },
+          {
+            "name": "夏侯泠",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 40,
+        "name": "你离开的村落",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 760302,
+          "fid": 0,
+          "size": 18075608,
+          "vd": 1615.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2119383881,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 190193,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2119383881,
+        "sq": {
+          "br": 377254,
+          "fid": 0,
+          "size": 8968945,
+          "vd": 898.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7609965,
+          "vd": 1603.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/Kqyeks232ol6F2G4XILxyQ==/109951169275099597.jpg",
+          "name": "你离开的村落",
+          "tns": [],
+          "pic_str": "109951169275099597",
+          "id": 183632763,
+          "pic": 109951169275099597
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
+          "songId": 2117875423,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3044013,
+          "vd": 6047.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4565997,
+          "vd": 4248.0,
+          "sr": 48000
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [
+          "主题曲"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "嬴小政",
+            "tns": [],
+            "alias": [],
+            "id": 57333930
+          },
+          {
+            "name": "薄荷er",
+            "tns": [],
+            "alias": [],
+            "id": 35425361
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "你离开的村落--《纸嫁衣6千秋魇》",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2121985405,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 186107,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2121985405,
+        "sq": {
+          "br": 780893,
+          "fid": 0,
+          "size": 18166309,
+          "vd": 16986.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1706716800000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7447031,
+          "vd": 20039.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/SNjx27F82x8AhSJ6jWJehA==/109951169295466212.jpg",
+          "name": "你离开的村落 (温暖女生版)",
+          "tns": [],
+          "pic_str": "109951169295466212",
+          "id": 184521310,
+          "pic": 109951169295466212
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 2978839,
+          "vd": 24233.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4468236,
+          "vd": 22622.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 1416618,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "减速带",
+            "tns": [],
+            "alias": [],
+            "id": 59572459
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "你离开的村落 (温暖女生版)",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1597667,
+          "fid": 0,
+          "size": 38347552,
+          "vd": -13581.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3440712102,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 192000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3440712102,
+        "sq": {
+          "br": 831320,
+          "fid": 0,
+          "size": 19955215,
+          "vd": -13581.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7681965,
+          "vd": -13580.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/IQQ7UpSdBwIQP-u43N4Xtw==/109951173994683321.jpg",
+          "name": "你离开的村落（纸嫁衣6千秋魇）主题曲",
+          "tns": [],
+          "pic_str": "109951173994683321",
+          "id": 400341478,
+          "pic": 109951173994683321
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3072813,
+          "vd": -9306.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4609197,
+          "vd": -10952.0,
+          "sr": 48000
+        },
+        "version": 7,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "乐天",
+            "tns": [],
+            "alias": [],
+            "id": 34660034
+          },
+          {
+            "name": "可可其实你很好の",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "你离开的村落",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2600452740,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 190000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2600452740,
+        "sq": {
+          "br": 745896,
+          "fid": 0,
+          "size": 17715040,
+          "vd": -15713.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7602721,
+          "vd": -17315.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/YxJTUVZndpR9jA6myU9bsg==/109951169703136291.jpg",
+          "name": "你离开的村落《纸嫁衣6千秋魇》",
+          "tns": [],
+          "pic_str": "109951169703136291",
+          "id": 239725403,
+          "pic": 109951169703136291
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "徐波",
+              "id": 0
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落 伴奏",
+          "songId": 2117877657,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3041115,
+          "vd": -12991.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4561650,
+          "vd": -14686.0,
+          "sr": 44100
+        },
+        "version": 6,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "婷婷吖",
+            "tns": [],
+            "alias": [],
+            "id": 29235073
+          },
+          {
+            "name": "大家D朋友",
+            "tns": [],
+            "alias": [
+              "DD"
+            ],
+            "id": 34269908,
+            "alia": [
+              "DD"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 40,
+        "name": "你离开的村落",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1642494,
+          "fid": 0,
+          "size": 39070694,
+          "vd": -10765.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2650908179,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 190299,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2650908179,
+        "sq": {
+          "br": 872864,
+          "fid": 0,
+          "size": 20763194,
+          "vd": -10846.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7614765,
+          "vd": -10700.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/nhzJZReRUbWtuyugQ1ARSA==/109951170194669498.jpg",
+          "name": "你离开的村落",
+          "tns": [],
+          "pic_str": "109951170194669498",
+          "id": 255126316,
+          "pic": 109951170194669498
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
+          "songId": 2117875423,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3045933,
+          "vd": -6552.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4568877,
+          "vd": -8119.0,
+          "sr": 48000
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "一盘回锅肉",
+            "tns": [],
+            "alias": [],
+            "id": 46311447
+          },
+          {
+            "name": "州舟虾",
+            "tns": [],
+            "alias": [
+              "小舟"
+            ],
+            "id": 60333612,
+            "alia": [
+              "小舟"
+            ]
+          },
+          {
+            "name": "又约锅虾肉工作室",
+            "tns": [],
+            "alias": [
+              "祁七玖"
+            ],
+            "id": 96053113,
+            "alia": [
+              "祁七玖"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "(双声道)你离开的村落",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1524400,
+          "fid": 0,
+          "size": 36215175,
+          "vd": -8362.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2611339798,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 190055,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2611339798,
+        "sq": {
+          "br": 758307,
+          "fid": 0,
+          "size": 18015112,
+          "vd": -6576.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7604205,
+          "vd": -8424.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/MjeHqxgk6y34kmprjeG9mg==/109951169816128832.jpg",
+          "name": "你离开的村落",
+          "tns": [],
+          "pic_str": "109951169816128832",
+          "id": 243113637,
+          "pic": 109951169816128832
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
+          "songId": 2117875423,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3041709,
+          "vd": -4029.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4562541,
+          "vd": -5790.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "一颗小辣子",
+            "tns": [],
+            "alias": [
+              "辣子",
+              "辣妹"
+            ],
+            "id": 34202180,
+            "alia": [
+              "辣子",
+              "辣妹"
+            ]
+          },
+          {
+            "name": "海豹Azrs",
+            "tns": [],
+            "alias": [],
+            "id": 32078968
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "你离开的村落",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2166198630,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 188999,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2166198630,
+        "sq": {
+          "br": 804526,
+          "fid": 0,
+          "size": 19006935,
+          "vd": 5912.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7561965,
+          "vd": 3920.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/prnV8xOBZ55HZ_MLcTXzfQ==/109951169683005351.jpg",
+          "name": "你离开的村落",
+          "tns": [],
+          "pic_str": "109951169683005351",
+          "id": 199149595,
+          "pic": 109951169683005351
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "徐波",
+              "id": 0
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落 伴奏",
+          "songId": 2117877657,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3024813,
+          "vd": 8272.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4537197,
+          "vd": 6542.0,
+          "sr": 48000
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "是我呀卡司宝贝",
+            "tns": [],
+            "alias": [],
+            "id": 47189014
+          },
+          {
+            "name": "张生",
+            "tns": [],
+            "alias": [],
+            "id": 37199133
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "你离开的村落",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2122374059,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 186493,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2122374059,
+        "sq": {
+          "br": 1408339,
+          "fid": 0,
+          "size": 32830683,
+          "vd": -12238.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7462705,
+          "vd": -12240.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/wXi7EVIIJUx-OqOR8ePqIg==/109951169298263929.jpg",
+          "name": "你离开的村落（《纸嫁衣》6千秋魇主题曲翻唱）",
+          "tns": [],
+          "pic_str": "109951169298263929",
+          "id": 184606233,
+          "pic": 109951169298263929
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
+          "songId": 2117875423,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2985108,
+          "vd": -7829.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4477640,
+          "vd": -9606.0,
+          "sr": 44100
+        },
+        "version": 6,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "墨雪卿颜",
+            "tns": [],
+            "alias": [],
+            "id": 13448509
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 40,
+        "name": "你离开的村落",
+        "mark": 128
+      },
+      {
+        "no": 4,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2164092923,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 42655,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2164092923,
+        "sq": {
+          "br": 371228,
+          "fid": 0,
+          "size": 1979349,
+          "vd": -7131.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 1708452,
+          "vd": -6420.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/0sGcpESf1dqcPmxOrNj8oQ==/109951169660217981.jpg",
+          "name": "失约",
+          "tns": [],
+          "pic_str": "109951169660217981",
+          "id": 196799105,
+          "pic": 109951169660217981
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 683407,
+          "vd": -1961.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 1025089,
+          "vd": -3772.0,
+          "sr": 44100
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "小气泡",
+            "tns": [],
+            "alias": [],
+            "id": 62209558
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "你离开的村落",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2127274589,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 179049,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2127274589,
+        "sq": {
+          "br": 430600,
+          "fid": 0,
+          "size": 9637328,
+          "vd": 21054.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7164909,
+          "vd": 24711.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/aIYzJF2W-KV8ABxmzd_ARw==/109951169344173072.jpg",
+          "name": "你离开的村落",
+          "tns": [],
+          "pic_str": "109951169344173072",
+          "id": 186163320,
+          "pic": 109951169344173072
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "徐波",
+              "id": 0
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落 伴奏",
+          "songId": 2117877657,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 2865990,
+          "vd": 29260.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4298963,
+          "vd": 27372.0,
+          "sr": 44100
+        },
+        "version": 10,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "亚奇文化",
+            "tns": [],
+            "alias": [
+              "亚奇网络音乐传媒工作室",
+              "亚奇文化传媒工作室",
+              "亚奇音乐传媒工作室"
+            ],
+            "id": 59732465,
+            "alia": [
+              "亚奇网络音乐传媒工作室",
+              "亚奇文化传媒工作室",
+              "亚奇音乐传媒工作室"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 44,
+        "name": "你离开的村落",
+        "mark": 128
+      },
+      {
+        "no": 11,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 2725592868,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 190119,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2725592868,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7605856,
+          "vd": -39545.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/5cxtDhOsYmV3EKy00WpOSA==/109951164387721882.jpg",
+          "name": "夏白橙专属",
+          "tns": [],
+          "pic_str": "109951164387721882",
+          "id": 81854105,
+          "pic": 109951164387721882
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
+          "songId": 2117875423,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3042368,
+          "vd": -35162.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4563531,
+          "vd": -36921.0,
+          "sr": 44100
+        },
+        "version": 6,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "山山的狐狸狗",
+            "tns": [],
+            "alias": [
+              "山不落_Shanbro"
+            ],
+            "id": 33289205,
+            "alia": [
+              "山不落_Shanbro"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 40,
+        "name": "你离开的村落(纸嫁衣)",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3337527495,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 188467,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3337527495,
+        "sq": {
+          "br": 1350005,
+          "fid": 0,
+          "size": 31807412,
+          "vd": 2108.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7541072,
+          "vd": 2107.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/wNC3JoKyLIXfYI4BmX0zow==/109951172560267233.jpg",
+          "name": "你离开的村落《纸嫁衣6千秋魇》主题曲",
+          "tns": [],
+          "pic_str": "109951172560267233",
+          "id": 357728190,
+          "pic": 109951172560267233
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "徐波",
+              "id": 0
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落 伴奏",
+          "songId": 2117877657,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3016455,
+          "vd": 6500.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4524661,
+          "vd": 4744.0,
+          "sr": 44100
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "沉香-YA",
+            "tns": [],
+            "alias": [],
+            "id": 30548413
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "你离开的村落",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1633412,
+          "fid": 0,
+          "size": 38793534,
+          "vd": -34136.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2135644980,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 189999,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2135644980,
+        "sq": {
+          "br": 863741,
+          "fid": 0,
+          "size": 20513859,
+          "vd": -36736.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7602285,
+          "vd": -34137.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/r9tV8RTnWpfdeebiQe3Vnw==/109951169411559897.jpg",
+          "name": "你离开的村落",
+          "tns": [],
+          "pic_str": "109951169411559897",
+          "id": 188851599,
+          "pic": 109951169411559897
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "徐波",
+              "id": 0
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落 伴奏",
+          "songId": 2117877657,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3040941,
+          "vd": -29800.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4561389,
+          "vd": -31512.0,
+          "sr": 48000
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "你睿机智",
+            "tns": [],
+            "alias": [],
+            "id": 36024736
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "你离开的村落",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1552499,
+          "fid": 0,
+          "size": 36882740,
+          "vd": -7877.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2134576235,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 190056,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2134576235,
+        "sq": {
+          "br": 790757,
+          "fid": 0,
+          "size": 18786028,
+          "vd": -7260.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7605165,
+          "vd": -7573.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/X2hnayJh6qdu4bKsPUNvwg==/109951169403753439.jpg",
+          "name": "你离开的村落",
+          "tns": [],
+          "pic_str": "109951169403753439",
+          "id": 188539481,
+          "pic": 109951169403753439
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "徐波",
+              "id": 0
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落 伴奏",
+          "songId": 2117877657,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3042093,
+          "vd": -3247.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4563117,
+          "vd": -4943.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "高三三",
+            "tns": [],
+            "alias": [],
+            "id": 12905432
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "你离开的村落",
+        "mark": 536871040
+      },
+      {
+        "no": 9,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1584575,
+          "fid": 0,
+          "size": 37650255,
+          "vd": -19512.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2679450291,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 190065,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2679450291,
+        "sq": {
+          "br": 816903,
+          "fid": 0,
+          "size": 19411710,
+          "vd": -19512.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7605165,
+          "vd": -19513.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/mcnib8tTPbxIrgzjO4KeXg==/109951170523278668.jpg",
+          "name": "颜音【2025】",
+          "tns": [],
+          "pic_str": "109951170523278668",
+          "id": 264233593,
+          "pic": 109951170523278668
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
+          "songId": 2117875423,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3042093,
+          "vd": -15138.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4563117,
+          "vd": -16884.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "竾颜音",
+            "tns": [],
+            "alias": [],
+            "id": 13196310
+          },
+          {
+            "name": "梁梓逸",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "你离开的村落",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1643489,
+          "fid": 0,
+          "size": 39016385,
+          "vd": -32374.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2646309623,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 189919,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2646309623,
+        "sq": {
+          "br": 873654,
+          "fid": 0,
+          "size": 20740535,
+          "vd": -32585.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7599405,
+          "vd": -32558.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/89_9VEhu685NI_UKzXMLCQ==/109951170149773762.jpg",
+          "name": "你离开的村落",
+          "tns": [],
+          "pic_str": "109951170149773762",
+          "id": 253664882,
+          "pic": 109951170149773762
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
+          "songId": 2117875423,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3039789,
+          "vd": -28231.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4559661,
+          "vd": -29930.0,
+          "sr": 48000
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "小阔乐",
+            "tns": [],
+            "alias": [],
+            "id": 28419845
+          },
+          {
+            "name": "立秋",
+            "tns": [],
+            "alias": [],
+            "id": 29265743
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "你离开的村落",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1623661,
+          "fid": 0,
+          "size": 38572932,
+          "vd": -27841.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2138031089,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 190054,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2138031089,
+        "sq": {
+          "br": 855239,
+          "fid": 0,
+          "size": 20317725,
+          "vd": -27757.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7604205,
+          "vd": -27899.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/ZkdX3O6DpUIutZZ7zGXiSg==/109951169432087490.jpg",
+          "name": "你离开的村落",
+          "tns": [],
+          "pic_str": "109951169432087490",
+          "id": 189617484,
+          "pic": 109951169432087490
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
+          "songId": 2117875423,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3041709,
+          "vd": -23704.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4562541,
+          "vd": -25308.0,
+          "sr": 48000
+        },
+        "version": 7,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "事儿精",
+            "tns": [],
+            "alias": [],
+            "id": 34093474
+          },
+          {
+            "name": "流光Hesh",
+            "tns": [],
+            "alias": [],
+            "id": 34317301
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "你离开的村落",
+        "mark": 536871040
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1431211,
+          "fid": 0,
+          "size": 33991267,
+          "vd": 20073.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2117877657,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 30.0,
+        "dt": 190000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2117877657,
+        "sq": {
+          "br": 664337,
+          "fid": 0,
+          "size": 15778017,
+          "vd": 20752.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7602285,
+          "vd": 20004.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/tJnVKcmHRQASBl0NfasK-w==/109951169263809185.jpg",
+          "name": "无间梦境|纸嫁衣6千秋魇",
+          "tns": [],
+          "pic_str": "109951169263809185",
+          "id": 183266251,
+          "pic": 109951169263809185
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3040941,
+          "vd": 24391.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4561389,
+          "vd": 22638.0,
+          "sr": 48000
+        },
+        "version": 7,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "吴轶飞",
+            "tns": [],
+            "alias": [
+              "哇哇"
+            ],
+            "id": 12462097,
+            "alia": [
+              "哇哇"
+            ]
+          },
+          {
+            "name": "徐波",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          },
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "你离开的村落 伴奏",
+        "mark": 17716748288
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2120900750,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 189720,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2120900750,
+        "sq": {
+          "br": 1504034,
+          "fid": 0,
+          "size": 35668178,
+          "vd": -27765.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7591227,
+          "vd": -27766.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/uww_SKZromHs9Owz3kbuPg==/109951169288001613.jpg",
+          "name": "【双视角】你离开的村落（《纸嫁衣6无间梦境千秋魇》主题曲》翻唱）",
+          "tns": [],
+          "pic_str": "109951169288001613",
+          "id": 184069844,
+          "pic": 109951169288001613
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
+          "songId": 2117875423,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3036517,
+          "vd": -23428.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4554754,
+          "vd": -25129.0,
+          "sr": 44100
+        },
+        "version": 10,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "猫爪疼（刘浩辉）",
+            "tns": [],
+            "alias": [],
+            "id": 35122289
+          },
+          {
+            "name": "盐酸",
+            "tns": [],
+            "alias": [
+              "酸崽"
+            ],
+            "id": 12077117,
+            "alia": [
+              "酸崽"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 44,
+        "name": "【老肖视角】你离开的村落",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2120901665,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 189720,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2120901665,
+        "sq": {
+          "br": 1513057,
+          "fid": 0,
+          "size": 35882153,
+          "vd": -28983.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7591227,
+          "vd": -29005.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/uww_SKZromHs9Owz3kbuPg==/109951169288001613.jpg",
+          "name": "【双视角】你离开的村落（《纸嫁衣6无间梦境千秋魇》主题曲》翻唱）",
+          "tns": [],
+          "pic_str": "109951169288001613",
+          "id": 184069844,
+          "pic": 109951169288001613
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            },
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            }
+          ],
+          "name": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
+          "songId": 2117875423,
+          "albumMeta": {
+            "name": "无间梦境|纸嫁衣6千秋魇",
+            "id": 183266251
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3036517,
+          "vd": -24672.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4554754,
+          "vd": -26374.0,
+          "sr": 44100
+        },
+        "version": 8,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "盐酸",
+            "tns": [],
+            "alias": [
+              "酸崽"
+            ],
+            "id": 12077117,
+            "alia": [
+              "酸崽"
+            ]
+          },
+          {
+            "name": "猫爪疼（刘浩辉）",
+            "tns": [],
+            "alias": [],
+            "id": 35122289
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 42,
+        "name": "【小奚视角】你离开的村落",
+        "mark": 128
+      }
+    ],
+    "songCount": 36
+  },
+  "code": 200,
+  "trp": {
+    "rules": [
+      "search_tab_song::2117875423::searchAlg$isGlobalQuality$1",
+      "search_tab_song::2120900743::searchAlg$isGlobalQuality$1"
+    ]
+  }
+}

@@ -1,0 +1,4140 @@
+{
+  "result": {
+    "searchQcReminder": {
+      "qcReminders": [
+        {
+          "highLight": false,
+          "qcReminderPart": "已包含"
+        },
+        {
+          "highLight": true,
+          "qcReminderPart": "来生缘"
+        },
+        {
+          "highLight": false,
+          "qcReminderPart": "，仍然搜："
+        },
+        {
+          "highLight": true,
+          "qcReminderPart": "来生戏"
+        }
+      ],
+      "qcReminderChannel": "correct_3"
+    },
+    "songs": [
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1769439,
+          "fid": 0,
+          "size": 47244043,
+          "vd": -68732.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2065906413,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 213600,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2065906413,
+        "sq": {
+          "br": 999870,
+          "fid": 0,
+          "size": 26696553,
+          "vd": -68752.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8545965,
+          "vd": -68737.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/itXD7Th2vEQAVKObSYDWcw==/109951168753608819.jpg",
+          "name": "纸嫁衣第5部无间梦境",
+          "tns": [],
+          "pic_str": "109951168753608819",
+          "id": 169958827,
+          "pic": 109951168753608819
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3418413,
+          "vd": -64523.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5127597,
+          "vd": -66162.0,
+          "sr": 48000
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          },
+          {
+            "name": "喵☆酱",
+            "tns": [],
+            "alias": [],
+            "id": 12373281
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "来生戏--无间梦境主题曲",
+        "mark": 17716748288
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1695500,
+          "fid": 0,
+          "size": 45248656,
+          "vd": -16220.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2077270759,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 45.0,
+        "dt": 213499,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2077270759,
+        "sq": {
+          "br": 926582,
+          "fid": 0,
+          "size": 24728166,
+          "vd": -16563.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8542125,
+          "vd": -16222.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/8R_aSek2u3DhzxU_taUm0Q==/109951168874842107.jpg",
+          "name": "【纸嫁衣5·无间梦境】来生戏",
+          "tns": [],
+          "pic_str": "109951168874842107",
+          "id": 173462282,
+          "pic": 109951168874842107
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "来生戏--无间梦境主题曲",
+          "songId": 2065906413,
+          "albumMeta": {
+            "name": "纸嫁衣第5部无间梦境",
+            "id": 169958827
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3416877,
+          "vd": -11993.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5125293,
+          "vd": -13633.0,
+          "sr": 48000
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "妖橙Yumo",
+            "tns": [],
+            "alias": [
+              "妖橙"
+            ],
+            "id": 31344437,
+            "alia": [
+              "妖橙"
+            ]
+          },
+          {
+            "name": "瞳槿",
+            "tns": [],
+            "alias": [],
+            "id": 34318605
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "来生戏（《纸嫁衣5·无间梦境》主题曲）",
+        "mark": 536871040
+      },
+      {
+        "no": 0,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 256,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "standard",
+          "rightSource": 0,
+          "maxbr": 128000,
+          "id": 2737751132,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 128000,
+          "downloadMaxBrLevel": "standard",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "standard",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 128000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 20.0,
+        "dt": 229552,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2737751132,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/0ju8ET1ApZSXfWacc4w49w==/109951169484091680.jpg",
+          "name": "",
+          "tns": [],
+          "pic_str": "109951169484091680",
+          "id": 0,
+          "pic": 109951169484091680
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "刘德华",
+              "id": 3691
+            }
+          ],
+          "name": "来生缘",
+          "songId": 112908,
+          "albumMeta": {
+            "name": "来生缘",
+            "id": 11105
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3672651,
+          "vd": 25200.0,
+          "sr": 44100
+        },
+        "version": 1,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 1,
+        "ar": [
+          {
+            "name": "蓝兰澜",
+            "tns": [],
+            "alias": [],
+            "id": 12316615
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 35,
+        "name": "来生缘 (女声版)",
+        "mark": 0
+      },
+      {
+        "no": 11,
+        "rt": "",
+        "copyright": 2,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 364593,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 90.0,
+        "dt": 229666,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 364593,
+        "sq": {
+          "br": 789451,
+          "fid": 0,
+          "size": 22663827,
+          "vd": 21993.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1444752000007,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9188876,
+          "vd": 21991.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/PCbQZZ5TaWWtxuIpxUxS2A==/18895107323515561.jpg",
+          "name": "我的90年代-国语流行畅销经典1",
+          "tns": [],
+          "pic_str": "18895107323515561",
+          "id": 36066,
+          "pic": 18895107323515561
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3675577,
+          "vd": 26337.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5513343,
+          "vd": 24612.0,
+          "sr": 44100
+        },
+        "version": 216,
+        "cp": 1416066,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "流行4℃",
+            "tns": [],
+            "alias": [],
+            "id": 12159
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 250,
+        "name": "来生缘",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 1,
+        "fee": 1,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1945058708,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 1
+            },
+            {
+              "rate": 192000,
+              "chargeType": 1
+            },
+            {
+              "rate": 320000,
+              "chargeType": 1
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": true,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 55.0,
+        "dt": 231333,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1945058708,
+        "sq": {
+          "br": 927882,
+          "fid": 0,
+          "size": 26831272,
+          "vd": -40626.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1651766400000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9255750,
+          "vd": -41156.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/mFMeyUD0sSZA2hDU-Rx0qA==/109951167903077651.jpg",
+          "name": "刘德华金曲第二辑",
+          "tns": [],
+          "pic_str": "109951167903077651",
+          "id": 144572106,
+          "pic": 109951167903077651
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3702326,
+          "vd": -36868.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5553467,
+          "vd": -38555.0,
+          "sr": 44100
+        },
+        "version": 7,
+        "cp": 7003,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "刘德华",
+            "tns": [],
+            "alias": [
+              "Andy Lau",
+              "华仔"
+            ],
+            "id": 3691,
+            "alia": [
+              "Andy Lau",
+              "华仔"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "来生缘",
+        "mark": 17179877376
+      },
+      {
+        "no": 16,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 5242762,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 80.0,
+        "dt": 236878,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 5242762,
+        "sq": {
+          "br": 808292,
+          "fid": 0,
+          "size": 23933378,
+          "vd": 17436.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1262275200000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9477268,
+          "vd": 17430.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/iOMq19HAq67_4IgKOsOtpg==/109951163066623247.jpg",
+          "name": "70老男孩",
+          "tns": [],
+          "pic_str": "109951163066623247",
+          "id": 511362,
+          "pic": 109951163066623247
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3790933,
+          "vd": 21703.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5686378,
+          "vd": 20029.0,
+          "sr": 44100
+        },
+        "version": 1388,
+        "cp": 7003,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "刘德华",
+            "tns": [],
+            "alias": [
+              "Andy Lau",
+              "华仔"
+            ],
+            "id": 3691,
+            "alia": [
+              "Andy Lau",
+              "华仔"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 1422,
+        "name": "来生缘",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1764853,
+          "fid": 0,
+          "size": 47134691,
+          "vd": -56021.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2071053825,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 213659,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2071053825,
+        "sq": {
+          "br": 995719,
+          "fid": 0,
+          "size": 26593113,
+          "vd": -56063.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8548845,
+          "vd": -56030.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/sjusGkENAG8L1YodvQOcTQ==/109951168820071858.jpg",
+          "name": "来生戏",
+          "tns": [],
+          "pic_str": "109951168820071858",
+          "id": 171611096,
+          "pic": 109951168820071858
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "来生戏--无间梦境主题曲",
+          "songId": 2065906413,
+          "albumMeta": {
+            "name": "纸嫁衣第5部无间梦境",
+            "id": 169958827
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3419565,
+          "vd": -51790.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5129325,
+          "vd": -53454.0,
+          "sr": 48000
+        },
+        "version": 10,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "南时叙",
+            "tns": [],
+            "alias": [],
+            "id": 33166408
+          },
+          {
+            "name": "幻荒",
+            "tns": [],
+            "alias": [
+              "皇幻荒"
+            ],
+            "id": 33349476,
+            "alia": [
+              "皇幻荒"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 44,
+        "name": "来生戏（剧情版）",
+        "mark": 536871040
+      },
+      {
+        "no": 5,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1468777716,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 65.0,
+        "dt": 346645,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1468777716,
+        "sq": {
+          "br": 753367,
+          "fid": 0,
+          "size": 32643912,
+          "vd": -4264.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1596729600000,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 13868974,
+          "vd": -4265.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/Ne-iDoSmISCRAtm4gR4pCA==/109951165208323693.jpg",
+          "name": "忘不了",
+          "tns": [],
+          "pic_str": "109951165208323693",
+          "id": 93566782,
+          "pic": 109951165208323693
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "刘德华",
+              "id": 3691
+            }
+          ],
+          "name": "来生缘",
+          "songId": 112908,
+          "albumMeta": {
+            "name": "来生缘",
+            "id": 11105
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 5547616,
+          "vd": 116.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 8321402,
+          "vd": -1635.0,
+          "sr": 44100
+        },
+        "version": 6,
+        "cp": 7003,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "陈楚生",
+            "tns": [],
+            "alias": [],
+            "id": 2124
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 40,
+        "name": "来生缘",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1646900,
+          "fid": 0,
+          "size": 46581410,
+          "vd": -40509.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 257,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2736581069,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 226254,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2736581069,
+        "sq": {
+          "br": 878253,
+          "fid": 0,
+          "size": 24842725,
+          "vd": -40509.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1742313600000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9052845,
+          "vd": -40511.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/_r0mMpEleXRLNeOl5tDCeQ==/109951171872681213.jpg",
+          "name": "来生缘",
+          "tns": [],
+          "pic_str": "109951171872681213",
+          "id": 281681199,
+          "pic": 109951171872681213
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3621165,
+          "vd": -36171.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5431725,
+          "vd": -37888.0,
+          "sr": 48000
+        },
+        "version": 2,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "方大树",
+            "tns": [],
+            "alias": [],
+            "id": 35169404
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "来生缘 (方大树版)",
+        "mark": 536871040
+      },
+      {
+        "no": 5,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2086328481,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 231333,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2086328481,
+        "sq": {
+          "br": 927882,
+          "fid": 0,
+          "size": 26831272,
+          "vd": -41763.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1695916800000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9255750,
+          "vd": -41156.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/nyD3Sn7FGyGp0bjx_GwqZA==/109951168948283390.jpg",
+          "name": "月圆情意缘",
+          "tns": [],
+          "pic_str": "109951168948283390",
+          "id": 175806523,
+          "pic": 109951168948283390
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3702326,
+          "vd": -36868.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5553467,
+          "vd": -38555.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 7003,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "刘德华",
+            "tns": [],
+            "alias": [
+              "Andy Lau",
+              "华仔"
+            ],
+            "id": 3691,
+            "alia": [
+              "Andy Lau",
+              "华仔"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "来生缘",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1741908,
+          "fid": 0,
+          "size": 46481918,
+          "vd": -37028.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2069443768,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 15.0,
+        "dt": 213475,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2069443768,
+        "sq": {
+          "br": 975003,
+          "fid": 0,
+          "size": 26017463,
+          "vd": -37049.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8541165,
+          "vd": -36950.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/Vyi4OCHWJMzVgbMXEzivNg==/109951167126497987.jpg",
+          "name": "纸嫁衣3鸳鸯债",
+          "tns": [],
+          "pic_str": "109951167126497987",
+          "id": 141446374,
+          "pic": 109951167126497987
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "来生戏--无间梦境主题曲",
+          "songId": 2065906413,
+          "albumMeta": {
+            "name": "纸嫁衣第5部无间梦境",
+            "id": 169958827
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3416493,
+          "vd": -32738.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5124717,
+          "vd": -34355.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "硕猗",
+            "tns": [],
+            "alias": [],
+            "id": 33297570
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "来生戏（《纸嫁衣5无间梦境》主题曲）",
+        "mark": 536871040
+      },
+      {
+        "no": 13,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2049465842,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 15.0,
+        "dt": 346645,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2049465842,
+        "sq": {
+          "br": 750901,
+          "fid": 0,
+          "size": 32537086,
+          "vd": -4405.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1684684800000,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 13868974,
+          "vd": -4270.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/Hupu_evlYIadFejTe7zvyw==/109951168630522960.jpg",
+          "name": "华语经典 | 历久弥新",
+          "tns": [],
+          "pic_str": "109951168630522960",
+          "id": 166139616,
+          "pic": 109951168630522960
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "刘德华",
+              "id": 3691
+            }
+          ],
+          "name": "来生缘",
+          "songId": 112908,
+          "albumMeta": {
+            "name": "来生缘",
+            "id": 11105
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 5547616,
+          "vd": 135.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 8321402,
+          "vd": -1638.0,
+          "sr": 44100
+        },
+        "version": 2,
+        "cp": 7003,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "陈楚生",
+            "tns": [],
+            "alias": [],
+            "id": 2124
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "来生缘",
+        "mark": 17179877376
+      },
+      {
+        "no": 4,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 236376,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 70.0,
+        "dt": 258866,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 236376,
+        "sq": {
+          "br": 812669,
+          "fid": 0,
+          "size": 26296630,
+          "vd": 7677.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 694195200000,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10357072,
+          "vd": 9213.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/7iw-NUtIDjGXgcjNn0ZudA==/109951167387939221.jpg",
+          "name": "经典金选3 如果你是我的传说",
+          "tns": [],
+          "pic_str": "109951167387939221",
+          "id": 23683,
+          "pic": 109951167387939221
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "刘德华",
+              "id": 3691
+            }
+          ],
+          "name": "来生缘",
+          "songId": 112908,
+          "albumMeta": {
+            "name": "来生缘",
+            "id": 11105
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4142855,
+          "vd": 13542.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6214261,
+          "vd": 11831.0,
+          "sr": 44100
+        },
+        "version": 19,
+        "cp": 7003,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "高胜美",
+            "tns": [],
+            "alias": [
+              "Sammi Kao"
+            ],
+            "id": 7777,
+            "alia": [
+              "Sammi Kao"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 53,
+        "name": "来生缘",
+        "mark": 17179877376
+      },
+      {
+        "no": 49,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 25638462,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 75.0,
+        "dt": 236800,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 25638462,
+        "sq": {
+          "br": 815146,
+          "fid": 0,
+          "size": 24128331,
+          "vd": 17388.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1344528000007,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9475178,
+          "vd": 17362.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/Fo51TTF1Hz65MyteuktYcA==/109951165909198540.jpg",
+          "name": "我们的刘德华 Greatest Hits 2012 (国语版)",
+          "tns": [],
+          "pic_str": "109951165909198540",
+          "id": 2261148,
+          "pic": 109951165909198540
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3790097,
+          "vd": 21656.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5685124,
+          "vd": 19982.0,
+          "sr": 44100
+        },
+        "version": 16,
+        "cp": 7003,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "刘德华",
+            "tns": [],
+            "alias": [
+              "Andy Lau",
+              "华仔"
+            ],
+            "id": 3691,
+            "alia": [
+              "Andy Lau",
+              "华仔"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 50,
+        "name": "来生缘",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "privilege": {
+          "flag": 261,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3402936381,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 247617,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3402936381,
+        "sq": {
+          "br": 870297,
+          "fid": 0,
+          "size": 26942149,
+          "vd": 868.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1784736000000,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9907766,
+          "vd": 863.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/ZTU5zt13Ajmbtd_bqSgieQ==/109951173521556458.jpg",
+          "name": "来生缘",
+          "tns": [],
+          "pic_str": "109951173521556458",
+          "id": 385760502,
+          "pic": 109951173521556458
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3963133,
+          "vd": 5170.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5944677,
+          "vd": 3455.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 743010,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "落日微笑",
+            "tns": [],
+            "alias": [],
+            "id": 124899206
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "来生缘",
+        "mark": 8320
+      },
+      {
+        "no": 5,
+        "rt": "",
+        "copyright": 2,
+        "fee": 8,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 359086,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 85.0,
+        "dt": 231600,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 359086,
+        "sq": {
+          "br": 883519,
+          "fid": 0,
+          "size": 25577881,
+          "vd": -39329.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1104508800000,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9266199,
+          "vd": -39255.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/bG8ECWTr4PZEE-z2h7iM-A==/102254581399132.jpg",
+          "name": "伴你二十年Ⅲ",
+          "tns": [],
+          "id": 35464,
+          "pic": 102254581399132
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3706506,
+          "vd": -35037.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5559737,
+          "vd": -36679.0,
+          "sr": 44100
+        },
+        "version": 17,
+        "cp": 563015,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "黑鸭子",
+            "tns": [],
+            "alias": [],
+            "id": 11776
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 51,
+        "name": "来生缘",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 257,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 2627349158,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 80.0,
+        "dt": 271699,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2627349158,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10870117,
+          "vd": -64938.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/B-JuBC-YC47iMuKiek9PWQ==/109951169962069767.jpg",
+          "name": "来生缘（DJ小祖Remix）",
+          "tns": [],
+          "pic_str": "109951169962069767",
+          "id": 247915921,
+          "pic": 109951169962069767
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4348073,
+          "vd": -60860.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6522088,
+          "vd": -62440.0,
+          "sr": 44100
+        },
+        "version": 10,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "DJ小祖",
+            "tns": [],
+            "alias": [
+              "缘为祖"
+            ],
+            "id": 61511366,
+            "alia": [
+              "缘为祖"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 44,
+        "name": "来生缘",
+        "mark": 128
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1592375,
+          "fid": 0,
+          "size": 45039344,
+          "vd": -14946.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2736580140,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 226254,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2736580140,
+        "sq": {
+          "br": 824802,
+          "fid": 0,
+          "size": 23331024,
+          "vd": -14946.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1742313600000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9052845,
+          "vd": -14949.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/_r0mMpEleXRLNeOl5tDCeQ==/109951171872681213.jpg",
+          "name": "来生缘",
+          "tns": [],
+          "pic_str": "109951171872681213",
+          "id": 281681199,
+          "pic": 109951171872681213
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3621165,
+          "vd": -10597.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5431725,
+          "vd": -12325.0,
+          "sr": 48000
+        },
+        "version": 2,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "方大树",
+            "tns": [],
+            "alias": [],
+            "id": 35169404
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "来生缘 (方大树版伴奏)",
+        "mark": 536871040
+      },
+      {
+        "no": 18,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 5242876,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 45.0,
+        "dt": 236800,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 5242876,
+        "sq": {
+          "br": 815146,
+          "fid": 0,
+          "size": 24128331,
+          "vd": 17388.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1261411200000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9475178,
+          "vd": 17362.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/JXdXFWh4t-8EKzG1yrpGMA==/64871186055884.jpg",
+          "name": "青梅竹马101",
+          "tns": [],
+          "id": 511372,
+          "pic": 64871186055884
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3790097,
+          "vd": 21656.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5685124,
+          "vd": 19982.0,
+          "sr": 44100
+        },
+        "version": 671,
+        "cp": 7003,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "刘德华",
+            "tns": [],
+            "alias": [
+              "Andy Lau",
+              "华仔"
+            ],
+            "id": 3691,
+            "alia": [
+              "Andy Lau",
+              "华仔"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 705,
+        "name": "来生缘",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 3843106,
+          "fid": 0,
+          "size": 186433814,
+          "vd": -50360.0,
+          "sr": 96000
+        },
+        "privilege": {
+          "flag": 257,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2730164168,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 388075,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2730164168,
+        "sq": {
+          "br": 1197976,
+          "fid": 0,
+          "size": 58120188,
+          "vd": -49729.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320001,
+          "fid": 0,
+          "size": 15525165,
+          "vd": -49753.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/RSgSmcHUcstHVkXNQCO9pA==/109951171524979412.jpg",
+          "name": "车载音乐 DJ 专属对白 5正式版",
+          "tns": [],
+          "pic_str": "109951171524979412",
+          "id": 279647129,
+          "pic": 109951171524979412
+        },
+        "l": {
+          "br": 128001,
+          "fid": 0,
+          "size": 6210093,
+          "vd": -45382.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192001,
+          "fid": 0,
+          "size": 9315117,
+          "vd": -47329.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "DJ Du",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "来生缘 (DJ Du remix)",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1806122,
+          "fid": 0,
+          "size": 47862240,
+          "vd": -63401.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2075349282,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 212000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2075349282,
+        "sq": {
+          "br": 1036688,
+          "fid": 0,
+          "size": 27472244,
+          "vd": -64218.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 8482605,
+          "vd": -63395.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/-tjnS9bHjS9pn3lW_Tf7Pw==/109951168858319318.jpg",
+          "name": "纸嫁衣5主题曲《来生戏》",
+          "tns": [],
+          "pic_str": "109951168858319318",
+          "id": 172971260,
+          "pic": 109951168858319318
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "来生戏--无间梦境主题曲",
+          "songId": 2065906413,
+          "albumMeta": {
+            "name": "纸嫁衣第5部无间梦境",
+            "id": 169958827
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3393069,
+          "vd": -59160.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 5089581,
+          "vd": -60813.0,
+          "sr": 48000
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "兰音Reine",
+            "tns": [],
+            "alias": [],
+            "id": 46424022
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "来生戏【兰音翻唱】",
+        "mark": 536871040
+      },
+      {
+        "no": 6,
+        "rt": "",
+        "copyright": 2,
+        "fee": 0,
+        "privilege": {
+          "flag": 256,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "standard",
+          "rightSource": 0,
+          "maxbr": 128000,
+          "id": 79466,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 128000,
+          "downloadMaxBrLevel": "standard",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "standard",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 128000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 45.0,
+        "dt": 253000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 79466,
+        "st": 0,
+        "cd": "1",
+        "publishTime": 912441600000,
+        "cf": "",
+        "originCoverType": 0,
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/2PmY9AUvWIvtfzv3gZMDlg==/131941395350328.jpg",
+          "name": "竹笛恋曲-弯弯的月亮",
+          "tns": [],
+          "id": 7782,
+          "pic": 131941395350328
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4059783,
+          "vd": 22604.0,
+          "sr": 44100
+        },
+        "version": 8,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "杜聪",
+            "tns": [],
+            "alias": [],
+            "id": 2548
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 42,
+        "name": "来生缘",
+        "mark": 131072
+      },
+      {
+        "no": 16,
+        "rt": "600902000005373870",
+        "copyright": 1,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 112220,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 236800,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 112220,
+        "sq": {
+          "br": 820149,
+          "fid": 0,
+          "size": 24276429,
+          "vd": 15678.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "1",
+        "publishTime": 730915200000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9475178,
+          "vd": 17362.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/3kxyz_omCeLvTDfhZ8uflw==/48378511634406.jpg",
+          "name": "永远爱你",
+          "tns": [],
+          "id": 11050,
+          "pic": 48378511634406
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3790097,
+          "vd": 21644.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5685124,
+          "vd": 19957.0,
+          "sr": 44100
+        },
+        "version": 16,
+        "cp": 7003,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "刘德华",
+            "tns": [],
+            "alias": [
+              "Andy Lau",
+              "华仔"
+            ],
+            "id": 3691,
+            "alia": [
+              "Andy Lau",
+              "华仔"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 50,
+        "name": "来生缘",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3366046895,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 15.0,
+        "dt": 252799,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3366046895,
+        "sq": {
+          "br": 709852,
+          "fid": 0,
+          "size": 22435957,
+          "vd": 13123.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10114605,
+          "vd": 13123.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/bK7CDiQ628GnsfcjxUg3cg==/109951172984433018.jpg",
+          "name": "来生缘",
+          "tns": [],
+          "pic_str": "109951172984433018",
+          "id": 369073097,
+          "pic": 109951172984433018
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4045869,
+          "vd": 17499.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6068781,
+          "vd": 15760.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 7390423,
+        "alia": [
+          "R&B"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "江越",
+            "tns": [],
+            "alias": [
+              "故事与酒"
+            ],
+            "id": 122076387,
+            "alia": [
+              "故事与酒"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "来生缘",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 257,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2628064941,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 20.0,
+        "dt": 366942,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2628064941,
+        "sq": {
+          "br": 1031573,
+          "fid": 0,
+          "size": 47315991,
+          "vd": -60852.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 14680860,
+          "vd": -60700.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/TyN3a3afr4N-X7Ne9AARJA==/109951169969254564.jpg",
+          "name": "来生缘",
+          "tns": [],
+          "pic_str": "109951169969254564",
+          "id": 248137343,
+          "pic": 109951169969254564
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 5872370,
+          "vd": -56690.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 8808533,
+          "vd": -58227.0,
+          "sr": 44100
+        },
+        "version": 10,
+        "cp": 0,
+        "alia": [
+          "DJ版"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "DJ金先森",
+            "tns": [],
+            "alias": [
+              "HVK"
+            ],
+            "id": 61131599,
+            "alia": [
+              "HVK"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 44,
+        "name": "来生缘",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 256,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1406082185,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 60.0,
+        "dt": 88208,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1406082185,
+        "sq": {
+          "br": 1411000,
+          "fid": 0,
+          "size": 4376386,
+          "vd": 88306.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 3530754,
+          "vd": 88308.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/8JQx9ZPnFzH1YeKSTmp3Pw==/109951164402408148.jpg",
+          "name": "浪漫钢琴",
+          "tns": [],
+          "pic_str": "109951164402408148",
+          "id": 82002776,
+          "pic": 109951164402408148
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "刘德华",
+              "id": 3691
+            }
+          ],
+          "name": "来生缘",
+          "songId": 25638462,
+          "albumMeta": {
+            "name": "我们的刘德华 Greatest Hits 2012 (国语版)",
+            "id": 2261148
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1412328,
+          "vd": 92755.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 2118470,
+          "vd": 90952.0,
+          "sr": 44100
+        },
+        "version": 12,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "谢少华",
+            "tns": [],
+            "alias": [],
+            "id": 12336053
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 46,
+        "name": "来生缘（浪漫钢琴）",
+        "mark": 131072
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1718961,
+          "fid": 0,
+          "size": 35671512,
+          "vd": -56114.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 257,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2738136410,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 20.0,
+        "dt": 166000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2738136410,
+        "sq": {
+          "br": 948896,
+          "fid": 0,
+          "size": 19692668,
+          "vd": -56114.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1693756800000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 6642285,
+          "vd": -56120.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/bXkQ1iOThvZAr9awbVX3fA==/109951171901802948.jpg",
+          "name": "来生缘 (吉他版)",
+          "tns": [],
+          "pic_str": "109951171901802948",
+          "id": 282224308,
+          "pic": 109951171901802948
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 2656941,
+          "vd": -51795.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 3985389,
+          "vd": -53502.0,
+          "sr": 48000
+        },
+        "version": 2,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "曲木老表",
+            "tns": [],
+            "alias": [
+              "邱伍里"
+            ],
+            "id": 32563386,
+            "alia": [
+              "邱伍里"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "来生缘 (吉他版)",
+        "mark": 536871040
+      },
+      {
+        "no": 3,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2650348207,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 20.0,
+        "dt": 234506,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2650348207,
+        "sq": {
+          "br": 825855,
+          "fid": 0,
+          "size": 24208585,
+          "vd": 17299.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 757353600000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9383227,
+          "vd": 17400.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/65d5IU7oY09Wd4piXia4RQ==/109951170190434970.jpg",
+          "name": "劲歌精选",
+          "tns": [],
+          "pic_str": "109951170190434970",
+          "id": 254971137,
+          "pic": 109951170190434970
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3753317,
+          "vd": 21672.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5629954,
+          "vd": 19997.0,
+          "sr": 44100
+        },
+        "version": 4,
+        "cp": 7003,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "刘德华",
+            "tns": [],
+            "alias": [
+              "Andy Lau",
+              "华仔"
+            ],
+            "id": 3691,
+            "alia": [
+              "Andy Lau",
+              "华仔"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "来生缘",
+        "mark": 17179877376
+      },
+      {
+        "no": 8,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 235669,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 255480,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 235669,
+        "sq": {
+          "br": 907102,
+          "fid": 0,
+          "size": 28968334,
+          "vd": -33748.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "02",
+        "publishTime": 1293811200000,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10222280,
+          "vd": -33802.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/0zJXiinzOmQM0HbVwNNl1Q==/109951166299902028.jpg",
+          "name": "美不胜收",
+          "tns": [],
+          "pic_str": "109951166299902028",
+          "id": 23626,
+          "pic": 109951166299902028
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "刘德华",
+              "id": 3691
+            }
+          ],
+          "name": "来生缘",
+          "songId": 112908,
+          "albumMeta": {
+            "name": "来生缘",
+            "id": 11105
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4088938,
+          "vd": -29515.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6133386,
+          "vd": -31194.0,
+          "sr": 44100
+        },
+        "version": 15,
+        "cp": 7003,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "高胜美",
+            "tns": [],
+            "alias": [
+              "Sammi Kao"
+            ],
+            "id": 7777,
+            "alia": [
+              "Sammi Kao"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 49,
+        "name": "来生缘",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 257,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2648487015,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 216711,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2648487015,
+        "sq": {
+          "br": 1067164,
+          "fid": 0,
+          "size": 28908397,
+          "vd": -59391.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8670607,
+          "vd": -59316.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/tEuFiCtMLqTasRuQbzSxFA==/109951170171864057.jpg",
+          "name": "来生缘",
+          "tns": [],
+          "pic_str": "109951170171864057",
+          "id": 254337387,
+          "pic": 109951170171864057
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3468269,
+          "vd": -55414.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5202382,
+          "vd": -56875.0,
+          "sr": 44100
+        },
+        "version": 8,
+        "cp": 0,
+        "alia": [
+          "翻唱版"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "南辞",
+            "tns": [],
+            "alias": [],
+            "id": 52038944
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 42,
+        "name": "来生缘",
+        "mark": 128
+      }
+    ],
+    "queryRewriteInfo": {
+      "rewriteQuery": "来生缘",
+      "type": "suggest_complete",
+      "keyword": "来生戏"
+    },
+    "songCount": 198
+  },
+  "code": 200,
+  "trp": {
+    "rules": [
+      "search_tab_song::364593::searchAlg$isGlobalQuality$1",
+      "search_tab_song::236376::searchAlg$isGlobalQuality$1",
+      "search_tab_song::5242762::searchAlg$isGlobalQuality$1",
+      "search_tab_song::25638462::searchAlg$isGlobalQuality$1",
+      "search_tab_song::5242876::searchAlg$isGlobalQuality$1",
+      "search_tab_song::2065906413::searchAlg$isGlobalQuality$1",
+      "search_tab_song::2086328481::searchAlg$isGlobalQuality$1",
+      "search_tab_song::2627349158::searchAlg$isGlobalQuality$1",
+      "search_tab_song::79466::searchAlg$isGlobalQuality$1",
+      "search_tab_song::1945058708::searchAlg$isQuality$2$isGlobalQuality$2",
+      "search_tab_song::112220::searchAlg$isGlobalQuality$1",
+      "search_tab_song::2077270759::searchAlg$isGlobalQuality$1",
+      "search_tab_song::359086::searchAlg$isGlobalQuality$1",
+      "search_tab_song::1406082185::searchAlg$isGlobalQuality$1"
+    ]
+  }
+}

@@ -1,0 +1,7550 @@
+{
+  "artist": {
+    "img1v1Id": 109951168639277504,
+    "topicPerson": 0,
+    "picId": 109951169068074205,
+    "musicSize": 83,
+    "albumSize": 24,
+    "briefDesc": "戴上耳机，听见我的梦。",
+    "picUrl": "https://p1.music.126.net/Q5pp3T4UYVJ7z4aybiVk3A==/109951169068074205.jpg",
+    "img1v1Url": "https://p1.music.126.net/I-s9dXSQ-f7iCgKEAVJNyw==/109951168639277504.jpg",
+    "followed": false,
+    "trans": "",
+    "alias": [],
+    "name": "Uri",
+    "id": 12184584,
+    "publishTime": 1531276317006,
+    "accountId": 300515886,
+    "picId_str": "109951169068074205",
+    "img1v1Id_str": "109951168639277504",
+    "mvSize": 0
+  },
+  "hotSongs": [
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 12373281,
+          "name": "喵☆酱"
+        }
+      ],
+      "al": {
+        "id": 138761048,
+        "name": "纸嫁衣3鸳鸯债",
+        "picUrl": "https://p1.music.126.net/ZrWgJqLD75XvALUIT7E9TQ==/109951166924195228.jpg",
+        "pic_str": "109951166924195228",
+        "pic": 109951166924195228
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 0,
+      "mv": 14494459,
+      "cd": "01",
+      "t": 0,
+      "v": 11,
+      "dt": 147000,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320003,
+        "fid": 0,
+        "size": 5881965,
+        "vd": -25057.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1685692,
+        "fid": 0,
+        "size": 30974595,
+        "vd": -25046.0,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128003,
+        "fid": 0,
+        "size": 2352813,
+        "vd": -21196.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 128,
+      "a": null,
+      "m": {
+        "br": 192003,
+        "fid": 0,
+        "size": 3529197,
+        "vd": -22539.0,
+        "sr": 48000
+      },
+      "name": "鸳鸯债",
+      "id": 1911377814,
+      "privilege": {
+        "id": 1911377814,
+        "fee": 0,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 999000,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "lossless",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 49103473,
+          "name": "纸嫁衣"
+        },
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 138761048,
+        "name": "纸嫁衣3鸳鸯债",
+        "picUrl": "https://p1.music.126.net/ZrWgJqLD75XvALUIT7E9TQ==/109951166924195228.jpg",
+        "pic_str": "109951166924195228",
+        "pic": 109951166924195228
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 8,
+      "dt": 109183,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 4369965,
+        "vd": 1725.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1332081,
+        "fid": 0,
+        "size": 18180202,
+        "vd": 1729.0,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1748013,
+        "vd": 6002.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 128,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 2621997,
+        "vd": 4355.0,
+        "sr": 48000
+      },
+      "name": "你在哪里",
+      "id": 1911370575,
+      "privilege": {
+        "id": 1911370575,
+        "fee": 0,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 999000,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "lossless",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12462097,
+          "name": "吴轶飞",
+          "alia": [
+            "哇哇"
+          ]
+        },
+        {
+          "id": 49103473,
+          "name": "纸嫁衣"
+        },
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 387200480,
+        "name": "无间梦境|纸嫁衣9罗浮梦",
+        "picUrl": "https://p1.music.126.net/c4gPS6T3nC2cee_cTPjuFA==/109951173564245598.jpg",
+        "pic_str": "109951173564245598",
+        "pic": 109951173564245598,
+        "alia": [
+          "纸嫁衣9罗浮梦游"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 191230,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [
+        "《纸嫁衣9罗浮梦》主题曲"
+      ],
+      "pop": 95.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7651245,
+        "vd": -9555.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 857828,
+        "fid": 0,
+        "size": 20508862,
+        "vd": -9575.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1622506,
+        "fid": 0,
+        "size": 38787535,
+        "vd": -9575.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3060525,
+        "vd": -5165.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4590765,
+        "vd": -6946.0,
+        "sr": 48000
+      },
+      "name": "罗浮站台",
+      "id": 3406955304,
+      "privilege": {
+        "id": 3406955304,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 49103473,
+          "name": "纸嫁衣"
+        },
+        {
+          "id": 12373281,
+          "name": "喵☆酱"
+        },
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 243712941,
+        "name": "无间梦境|纸嫁衣系列",
+        "picUrl": "https://p1.music.126.net/yc_PbOsNbs58ZrfIoL_pww==/109951169835766563.jpg",
+        "pic_str": "109951169835766563",
+        "pic": 109951169835766563
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 8,
+      "dt": 260625,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [
+        "纸嫁衣系列2024推广曲"
+      ],
+      "pop": 95.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10427565,
+        "vd": -30769.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 955325,
+        "fid": 0,
+        "size": 31122719,
+        "vd": -31517.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1724704,
+        "fid": 0,
+        "size": 56187638,
+        "vd": -31008.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4171053,
+        "vd": -26402.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 536879104,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6256557,
+        "vd": -28142.0,
+        "sr": 48000
+      },
+      "name": "相思莫负",
+      "id": 2613414580,
+      "privilege": {
+        "id": 2613414580,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12373281,
+          "name": "喵☆酱"
+        },
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 49103473,
+          "name": "纸嫁衣"
+        }
+      ],
+      "al": {
+        "id": 355200236,
+        "name": "纸嫁衣7卿不负",
+        "picUrl": "https://p1.music.126.net/G1X7rkha6a6RwmUOpLgchg==/109951172454265206.jpg",
+        "pic_str": "109951172454265206",
+        "pic": 109951172454265206,
+        "alia": [
+          "纸嫁衣7"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 196285,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [
+        "《纸嫁衣7卿不负》李逢泽&杜言她专属主题曲"
+      ],
+      "pop": 90.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7853805,
+        "vd": -28658.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 901350,
+        "fid": 0,
+        "size": 22118902,
+        "vd": -28656.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1670593,
+        "fid": 0,
+        "size": 40992818,
+        "vd": -28656.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3141549,
+        "vd": -24279.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4712301,
+        "vd": -26028.0,
+        "sr": 48000
+      },
+      "name": "以鸩为媒",
+      "id": 3330096402,
+      "privilege": {
+        "id": 3330096402,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 123779640,
+          "name": "零创游戏"
+        },
+        {
+          "id": 0,
+          "name": "喵☆酱"
+        },
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 369364572,
+        "name": "《哀鸿：城破十日记》游戏主题曲",
+        "picUrl": "https://p1.music.126.net/XvOstqlH9-IK-dYU04GUHw==/109951172996163371.jpg",
+        "pic_str": "109951172996163371",
+        "pic": 109951172996163371
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 274590,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10986285,
+        "vd": -37828.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 817346,
+        "fid": 0,
+        "size": 28059422,
+        "vd": -37808.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1583144,
+        "fid": 0,
+        "size": 54344484,
+        "vd": -37808.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4394541,
+        "vd": -33543.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 536871040,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6591789,
+        "vd": -35224.0,
+        "sr": 48000
+      },
+      "name": "哀鸿",
+      "id": 3366702980,
+      "privilege": {
+        "id": 3366702980,
+        "fee": 0,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 320000,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "exhigh",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12462097,
+          "name": "吴轶飞",
+          "alia": [
+            "哇哇"
+          ]
+        },
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 49103473,
+          "name": "纸嫁衣"
+        }
+      ],
+      "al": {
+        "id": 283219439,
+        "name": "无间梦境|纸嫁衣系列",
+        "picUrl": "https://p1.music.126.net/d9LLPDomtlo9P588UpdOZw==/109951171943049951.jpg",
+        "pic_str": "109951171943049951",
+        "pic": 109951171943049951
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 352941,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 80.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 14119725,
+        "vd": -30707.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 945926,
+        "fid": 0,
+        "size": 41738455,
+        "vd": -30704.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1714957,
+        "fid": 0,
+        "size": 75666334,
+        "vd": -30704.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 5647917,
+        "vd": -26476.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 8471853,
+        "vd": -28105.0,
+        "sr": 48000
+      },
+      "name": "爱逢琪时",
+      "id": 2740900839,
+      "privilege": {
+        "id": 2740900839,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 33284971,
+          "name": "阿秋"
+        },
+        {
+          "id": 49103473,
+          "name": "纸嫁衣"
+        },
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 387200480,
+        "name": "无间梦境|纸嫁衣9罗浮梦",
+        "picUrl": "https://p1.music.126.net/c4gPS6T3nC2cee_cTPjuFA==/109951173564245598.jpg",
+        "pic_str": "109951173564245598",
+        "pic": 109951173564245598,
+        "alia": [
+          "纸嫁衣9罗浮梦游"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 116038,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [
+        "《纸嫁衣9罗浮梦》最终战BGM"
+      ],
+      "pop": 75.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320003,
+        "fid": 0,
+        "size": 4643565,
+        "vd": -23731.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 861730,
+        "fid": 0,
+        "size": 12501405,
+        "vd": -23728.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1629039,
+        "fid": 0,
+        "size": 23631065,
+        "vd": -23728.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128003,
+        "fid": 0,
+        "size": 1857453,
+        "vd": -19572.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716879360,
+      "a": null,
+      "m": {
+        "br": 192003,
+        "fid": 0,
+        "size": 2786157,
+        "vd": -21161.0,
+        "sr": 48000
+      },
+      "name": "六僖天尊两途赐福渡鸳妙经",
+      "id": 3407455574,
+      "privilege": {
+        "id": 3407455574,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 0,
+          "name": "喵☆酱"
+        }
+      ],
+      "al": {
+        "id": 138761048,
+        "name": "纸嫁衣3鸳鸯债",
+        "picUrl": "https://p1.music.126.net/ZrWgJqLD75XvALUIT7E9TQ==/109951166924195228.jpg",
+        "pic_str": "109951166924195228",
+        "pic": 109951166924195228
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 9,
+      "dt": 147000,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 45.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320003,
+        "fid": 0,
+        "size": 5881965,
+        "vd": 24788.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1553691,
+        "fid": 0,
+        "size": 28549078,
+        "vd": 24804.0,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128003,
+        "fid": 0,
+        "size": 2352813,
+        "vd": 28840.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17179877376,
+      "a": null,
+      "m": {
+        "br": 192003,
+        "fid": 0,
+        "size": 3529197,
+        "vd": 27335.0,
+        "sr": 48000
+      },
+      "name": "鸳鸯债 伴奏",
+      "id": 1912110468,
+      "privilege": {
+        "id": 1912110468,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 49103473,
+          "name": "纸嫁衣"
+        },
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 138761048,
+        "name": "纸嫁衣3鸳鸯债",
+        "picUrl": "https://p1.music.126.net/ZrWgJqLD75XvALUIT7E9TQ==/109951166924195228.jpg",
+        "pic_str": "109951166924195228",
+        "pic": 109951166924195228
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 11,
+      "dt": 107775,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 25.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 4313325,
+        "vd": 40619.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1004531,
+        "fid": 0,
+        "size": 13532959,
+        "vd": 40620.0,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1725357,
+        "vd": 45045.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17180008448,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 2588013,
+        "vd": 43264.0,
+        "sr": 48000
+      },
+      "name": "你在哪里 伴奏",
+      "id": 1912115981,
+      "privilege": {
+        "id": 1912115981,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 266000928,
+        "name": "化作海",
+        "picUrl": "https://p1.music.126.net/fgvTeQA8FpW5uikc9gd5rg==/109951170615918240.jpg",
+        "pic_str": "109951170615918240",
+        "pic": 109951170615918240
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 190086,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 25.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 7606125,
+        "vd": -48742.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 925299,
+        "fid": 0,
+        "size": 21989429,
+        "vd": -48696.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1692999,
+        "fid": 0,
+        "size": 40230623,
+        "vd": -48696.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3042477,
+        "vd": -44883.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 536871040,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4563693,
+        "vd": -46260.0,
+        "sr": 48000
+      },
+      "name": "化作海",
+      "id": 2685017542,
+      "privilege": {
+        "id": 2685017542,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 1,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 123779640,
+          "name": "零创游戏"
+        },
+        {
+          "id": 0,
+          "name": "喵☆酱"
+        },
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 369364572,
+        "name": "《哀鸿：城破十日记》游戏主题曲",
+        "picUrl": "https://p1.music.126.net/XvOstqlH9-IK-dYU04GUHw==/109951172996163371.jpg",
+        "pic_str": "109951172996163371",
+        "pic": 109951172996163371
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 9,
+      "dt": 274590,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 20.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10986285,
+        "vd": 3475.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 735604,
+        "fid": 0,
+        "size": 25253728,
+        "vd": 3477.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1495000,
+        "fid": 0,
+        "size": 51319050,
+        "vd": 3477.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4394541,
+        "vd": 7772.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 536871040,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6591789,
+        "vd": 6099.0,
+        "sr": 48000
+      },
+      "name": "哀鸿 伴奏",
+      "id": 3366706813,
+      "privilege": {
+        "id": 3366706813,
+        "fee": 0,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 320000,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "exhigh",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 92206354,
+        "name": "十月 (吉他版)",
+        "picUrl": "https://p2.music.126.net/P2_9cZbK-OnDrf4BbrIoRQ==/109951165125490986.jpg",
+        "pic_str": "109951165125490986",
+        "pic": 109951165125490986
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 8,
+      "dt": 125592,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 15.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 1416735,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5025645,
+        "vd": -15165.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1452115,
+        "fid": 0,
+        "size": 22796756,
+        "vd": -15165.0,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2010285,
+        "vd": -10762.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17179877376,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3015405,
+        "vd": -12530.0,
+        "sr": 48000
+      },
+      "name": "十月 (吉他版)",
+      "id": 1461644445,
+      "privilege": {
+        "id": 1461644445,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 35200378,
+        "name": "2017",
+        "picUrl": "https://p1.music.126.net/oV7vYW3ZrJXbFBd9cjWT5A==/109951162864924702.jpg",
+        "pic_str": "109951162864924702",
+        "pic": 109951162864924702
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 28,
+      "dt": 198997,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 15.0,
+      "rt": null,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7962166,
+        "vd": -28102.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 886906,
+        "fid": 0,
+        "size": 22061514,
+        "vd": -28102.0,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3184893,
+        "vd": -23812.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 64,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4777317,
+        "vd": -25501.0,
+        "sr": 44100
+      },
+      "name": "朝闻道",
+      "id": 481140272,
+      "privilege": {
+        "id": 481140272,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 258,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 185416552,
+        "name": "一世之尊动画原声带",
+        "picUrl": "https://p1.music.126.net/ANgUOfXythHeFlXCA4Az1g==/109951169644536442.jpg",
+        "pic_str": "109951169644536442",
+        "pic": 109951169644536442
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 15,
+      "dt": 249386,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [
+        "《一世之尊》动画片尾曲"
+      ],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9978285,
+        "vd": -37891.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 831760,
+        "fid": 0,
+        "size": 25928735,
+        "vd": -37997.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1599464,
+        "fid": 0,
+        "size": 49860628,
+        "vd": -37815.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3991341,
+        "vd": -33555.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5986989,
+        "vd": -35263.0,
+        "sr": 48000
+      },
+      "name": "野火",
+      "id": 2124925526,
+      "privilege": {
+        "id": 2124925526,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 74996224,
+        "name": "Covers with Style",
+        "picUrl": "https://p1.music.126.net/H4qBNtZpRpI7pD3xZ2D-Ig==/109951163763957249.jpg",
+        "pic_str": "109951163763957249",
+        "pic": 109951163763957249
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 40,
+      "dt": 150883,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": null,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6036419,
+        "vd": -12700.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 914841,
+        "fid": 0,
+        "size": 17251234,
+        "vd": -12000.0,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2414594,
+        "vd": -8400.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3621869,
+        "vd": -10200.0,
+        "sr": 44100
+      },
+      "name": "红色高跟鞋",
+      "id": 1336181180,
+      "privilege": {
+        "id": 1336181180,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 256,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 37622387,
+        "name": "河流",
+        "picUrl": "https://p1.music.126.net/90fhlBYSrTVzqLQWpGqFnQ==/109951163147518822.jpg",
+        "pic_str": "109951163147518822",
+        "pic": 109951163147518822
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 14,
+      "dt": 221910,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": null,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8877497,
+        "vd": 28751.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 735889,
+        "fid": 0,
+        "size": 20408681,
+        "vd": 29997.0,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3551025,
+        "vd": 29631.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 64,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5326515,
+        "vd": 29601.0,
+        "sr": 44100
+      },
+      "name": "河流",
+      "id": 538431246,
+      "privilege": {
+        "id": 538431246,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 258,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 35200378,
+        "name": "2017",
+        "picUrl": "https://p1.music.126.net/oV7vYW3ZrJXbFBd9cjWT5A==/109951162864924702.jpg",
+        "pic_str": "109951162864924702",
+        "pic": 109951162864924702
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 29,
+      "dt": 204486,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": null,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8180550,
+        "vd": -2.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 768053,
+        "fid": 0,
+        "size": 19629406,
+        "vd": 989.0,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3272246,
+        "vd": -2.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 64,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4908347,
+        "vd": -2.0,
+        "sr": 44100
+      },
+      "name": "给心情放一个假",
+      "id": 461550661,
+      "privilege": {
+        "id": 461550661,
+        "fee": 0,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 999000,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 258,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "lossless",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 85842573,
+        "name": "绣光景",
+        "picUrl": "https://p1.music.126.net/HhrGuEFfCUmayQwObUEkLg==/109951164726563795.jpg",
+        "pic_str": "109951164726563795",
+        "pic": 109951164726563795
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 14,
+      "dt": 173064,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6923565,
+        "vd": -28320.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 2304000,
+        "fid": 0,
+        "size": 32747014,
+        "vd": -28318.0,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2769453,
+        "vd": -23919.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 8256,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4154157,
+        "vd": -25693.0,
+        "sr": 48000
+      },
+      "name": "绣光景",
+      "id": 1424846481,
+      "privilege": {
+        "id": 1424846481,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 262,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 75143779,
+        "name": "云·间",
+        "picUrl": "https://p1.music.126.net/eblKg688r1B_NqFJt8G9lw==/109951163788670843.jpg",
+        "pic_str": "109951163788670843",
+        "pic": 109951163788670843
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 33,
+      "dt": 137508,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": null,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5501431,
+        "vd": 9533.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 747081,
+        "fid": 0,
+        "size": 12836518,
+        "vd": 9524.0,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2200599,
+        "vd": 11877.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 139328,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3300876,
+        "vd": 11359.0,
+        "sr": 44100
+      },
+      "name": "云·间",
+      "id": 1339105989,
+      "privilege": {
+        "id": 1339105989,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 262,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 89979689,
+        "name": "Pieces",
+        "picUrl": "https://p1.music.126.net/-laNdTnnWuSVVho_YgAyXg==/109951165019716872.jpg",
+        "pic_str": "109951165019716872",
+        "pic": 109951165019716872
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 9,
+      "dt": 46236,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 1851603,
+        "vd": -32706.0,
+        "sr": 44100
+      },
+      "sq": null,
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 740667,
+        "vd": -28293.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 8256,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 1110979,
+        "vd": -30041.0,
+        "sr": 44100
+      },
+      "name": "不要烦躁",
+      "id": 1451200882,
+      "privilege": {
+        "id": 1451200882,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 262,
+        "preSell": false,
+        "playMaxbr": 320000,
+        "downloadMaxbr": 320000,
+        "maxBrLevel": "exhigh",
+        "playMaxBrLevel": "exhigh",
+        "downloadMaxBrLevel": "exhigh",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 79990603,
+        "name": "两个我",
+        "picUrl": "https://p1.music.126.net/CRqkhSzi1110iLz_gzgwPA==/109951164181110526.jpg",
+        "pic_str": "109951164181110526",
+        "pic": 109951164181110526
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 14,
+      "dt": 196949,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7880685,
+        "vd": 11214.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 2304000,
+        "fid": 0,
+        "size": 40321845,
+        "vd": 11218.0,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3152301,
+        "vd": 15430.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17179877440,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4728429,
+        "vd": 13792.0,
+        "sr": 48000
+      },
+      "name": "两个我",
+      "id": 1374804474,
+      "privilege": {
+        "id": 1374804474,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 262,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 89979689,
+        "name": "Pieces",
+        "picUrl": "https://p1.music.126.net/-laNdTnnWuSVVho_YgAyXg==/109951165019716872.jpg",
+        "pic_str": "109951165019716872",
+        "pic": 109951165019716872
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 8,
+      "dt": 88868,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 3556876,
+        "vd": -21006.0,
+        "sr": 44100
+      },
+      "sq": null,
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1422777,
+        "vd": -16545.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 8256,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 2134143,
+        "vd": -18362.0,
+        "sr": 44100
+      },
+      "name": "5-3",
+      "id": 1451200883,
+      "privilege": {
+        "id": 1451200883,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 262,
+        "preSell": false,
+        "playMaxbr": 320000,
+        "downloadMaxbr": 320000,
+        "maxBrLevel": "exhigh",
+        "playMaxBrLevel": "exhigh",
+        "downloadMaxBrLevel": "exhigh",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 35200378,
+        "name": "2017",
+        "picUrl": "https://p1.music.126.net/oV7vYW3ZrJXbFBd9cjWT5A==/109951162864924702.jpg",
+        "pic_str": "109951162864924702",
+        "pic": 109951162864924702
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 4,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 15,
+      "dt": 249075,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": null,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9965236,
+        "vd": 10407.0,
+        "sr": 44100
+      },
+      "sq": null,
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3986120,
+        "vd": 13966.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 64,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5979159,
+        "vd": 13133.0,
+        "sr": 44100
+      },
+      "name": "梦",
+      "id": 529939724,
+      "privilege": {
+        "id": 529939724,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 0,
+        "toast": false,
+        "flag": 258,
+        "preSell": false,
+        "playMaxbr": 320000,
+        "downloadMaxbr": 320000,
+        "maxBrLevel": "exhigh",
+        "playMaxBrLevel": "exhigh",
+        "downloadMaxBrLevel": "exhigh",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 92138629,
+        "name": "蓝宝宝 (正式版)",
+        "picUrl": "https://p1.music.126.net/SEMu7VYtI1pgUkBoVgifNA==/109951165123062737.jpg",
+        "pic_str": "109951165123062737",
+        "pic": 109951165123062737
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 159216,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 1416735,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6369645,
+        "vd": -9938.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 753690,
+        "fid": 0,
+        "size": 14997678,
+        "vd": -9933.0,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2547885,
+        "vd": -5601.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 139264,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3821805,
+        "vd": -7325.0,
+        "sr": 48000
+      },
+      "name": "蓝宝宝 (伴奏)",
+      "id": 1461375856,
+      "privilege": {
+        "id": 1461375856,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 199025979,
+        "name": "《从姑获鸟开始之龙城风云》动画原声带",
+        "picUrl": "https://p1.music.126.net/e-rq_TbL1jSxjFEN2Pg6_Q==/109951172369889652.jpg",
+        "pic_str": "109951172369889652",
+        "pic": 109951172369889652
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 12,
+      "dt": 177857,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [
+        "《从姑获鸟开始之龙城风云》动画片尾曲"
+      ],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7116525,
+        "vd": -49731.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1070366,
+        "fid": 0,
+        "size": 23799828,
+        "vd": -49700.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1840744,
+        "fid": 0,
+        "size": 40926982,
+        "vd": -49700.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2846637,
+        "vd": -45599.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4269933,
+        "vd": -47276.0,
+        "sr": 48000
+      },
+      "name": "醍醐",
+      "id": 2165512146,
+      "privilege": {
+        "id": 2165512146,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 140259600,
+        "name": "叙事诗",
+        "picUrl": "https://p1.music.126.net/iRbcGkPD4Z81JHDHOStGnw==/109951168308938405.jpg",
+        "pic_str": "109951168308938405",
+        "pic": 109951168308938405
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 24,
+      "dt": 180812,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7234605,
+        "vd": -19435.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 854565,
+        "fid": 0,
+        "size": 19314549,
+        "vd": -19316.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1623626,
+        "fid": 0,
+        "size": 36696570,
+        "vd": -19482.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2893869,
+        "vd": -15070.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748352,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4340781,
+        "vd": -16834.0,
+        "sr": 48000
+      },
+      "name": "量化",
+      "id": 1919517235,
+      "privilege": {
+        "id": 1919517235,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 262,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 129326781,
+        "name": "You Will Be Fine",
+        "picUrl": "https://p1.music.126.net/CuYgo2zZLiBxDfkHx0Qpmw==/109951166109541724.jpg",
+        "pic_str": "109951166109541724",
+        "pic": 109951166109541724
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 10,
+      "dt": 186624,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7467885,
+        "vd": -3033.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 801431,
+        "fid": 0,
+        "size": 18695860,
+        "vd": -2977.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1569787,
+        "fid": 0,
+        "size": 36620144,
+        "vd": -3031.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2987181,
+        "vd": 1300.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 536871104,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4480749,
+        "vd": -424.0,
+        "sr": 48000
+      },
+      "name": "You will be fine",
+      "id": 1855220834,
+      "privilege": {
+        "id": 1855220834,
+        "fee": 0,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 999000,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 259,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "hires",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 1194011,
+          "name": "汤汤"
+        },
+        {
+          "id": 31964964,
+          "name": "陈一哲"
+        },
+        {
+          "id": 33393756,
+          "name": "朱剑"
+        }
+      ],
+      "al": {
+        "id": 251512690,
+        "name": "《从姑获鸟开始之龙城风云》动画原声带",
+        "picUrl": "https://p1.music.126.net/HhTvZyd_ZNQpiVazmPchAg==/109951172369971729.jpg",
+        "pic_str": "109951172369971729",
+        "pic": 109951172369971729,
+        "alia": [
+          "《从姑获鸟开始之龙城风云》动画原声带"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 96850,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 3876615,
+        "vd": 32856.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 568480,
+        "fid": 0,
+        "size": 6884027,
+        "vd": 32858.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1550672,
+        "vd": 37293.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17180008448,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 2325986,
+        "vd": 35502.0,
+        "sr": 44100
+      },
+      "name": "暧昧(《从姑获鸟开始之龙城风云》动画原声带)",
+      "id": 2639003054,
+      "privilege": {
+        "id": 2639003054,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 89979689,
+        "name": "Pieces",
+        "picUrl": "https://p1.music.126.net/-laNdTnnWuSVVho_YgAyXg==/109951165019716872.jpg",
+        "pic_str": "109951165019716872",
+        "pic": 109951165019716872
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 77040,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320005,
+        "fid": 0,
+        "size": 3082605,
+        "vd": -7637.0,
+        "sr": 48000
+      },
+      "sq": null,
+      "hr": null,
+      "l": {
+        "br": 128005,
+        "fid": 0,
+        "size": 1233069,
+        "vd": -3275.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 139328,
+      "a": null,
+      "m": {
+        "br": 192005,
+        "fid": 0,
+        "size": 1849581,
+        "vd": -5003.0,
+        "sr": 48000
+      },
+      "name": "Clue",
+      "id": 1918358762,
+      "privilege": {
+        "id": 1918358762,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 262,
+        "preSell": false,
+        "playMaxbr": 320000,
+        "downloadMaxbr": 320000,
+        "maxBrLevel": "exhigh",
+        "playMaxBrLevel": "exhigh",
+        "downloadMaxBrLevel": "exhigh",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 185416552,
+        "name": "一世之尊动画原声带",
+        "picUrl": "https://p1.music.126.net/ANgUOfXythHeFlXCA4Az1g==/109951169644536442.jpg",
+        "pic_str": "109951169644536442",
+        "pic": 109951169644536442
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 3,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 18,
+      "dt": 241904,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9678765,
+        "vd": -53987.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1003254,
+        "fid": 0,
+        "size": 30336499,
+        "vd": -54255.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1771687,
+        "fid": 0,
+        "size": 53572472,
+        "vd": -54002.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3871533,
+        "vd": -49763.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5807277,
+        "vd": -51394.0,
+        "sr": 48000
+      },
+      "name": "莫负年少",
+      "id": 2110404320,
+      "privilege": {
+        "id": 2110404320,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 89979689,
+        "name": "Pieces",
+        "picUrl": "https://p1.music.126.net/-laNdTnnWuSVVho_YgAyXg==/109951165019716872.jpg",
+        "pic_str": "109951165019716872",
+        "pic": 109951165019716872
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 3,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 94736,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 3792045,
+        "vd": -70358.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1040857,
+        "fid": 0,
+        "size": 12327735,
+        "vd": -70366.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1805625,
+        "fid": 0,
+        "size": 21384197,
+        "vd": -70366.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1516845,
+        "vd": -66110.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 537010176,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 2275245,
+        "vd": -67820.0,
+        "sr": 48000
+      },
+      "name": "蛇·shé",
+      "id": 2675716011,
+      "privilege": {
+        "id": 2675716011,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 284735617,
+        "name": "藏",
+        "picUrl": "https://p1.music.126.net/lLwPZrZhEYGee4zb25eSiw==/109951172003481525.jpg",
+        "pic_str": "109951172003481525",
+        "pic": 109951172003481525
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 175609,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7027245,
+        "vd": -34244.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 885392,
+        "fid": 0,
+        "size": 19438697,
+        "vd": -34238.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1654561,
+        "fid": 0,
+        "size": 36322890,
+        "vd": -34238.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2810925,
+        "vd": -29918.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 536879104,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4216365,
+        "vd": -31631.0,
+        "sr": 48000
+      },
+      "name": "藏",
+      "id": 2745485014,
+      "privilege": {
+        "id": 2745485014,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        }
+      ],
+      "al": {
+        "id": 368026580,
+        "name": "大道独行之蝶龙变 动画原声带",
+        "picUrl": "https://p1.music.126.net/RUT4iNm8BU-NJG-IoZphQQ==/109951172947292436.jpg",
+        "pic_str": "109951172947292436",
+        "pic": 109951172947292436
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 242000,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [
+        "《大道独行之蝶龙变》动画片头曲"
+      ],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 1416618,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 9682605,
+        "vd": -42981.0,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 968581,
+        "fid": 0,
+        "size": 29304023,
+        "vd": -42981.0,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1738189,
+        "fid": 0,
+        "size": 52584672,
+        "vd": -42981.0,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3873069,
+        "vd": -38677.0,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 5809581,
+        "vd": -40372.0,
+        "sr": 48000
+      },
+      "name": "一步登天",
+      "id": 3363615603,
+      "privilege": {
+        "id": 3363615603,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 1194011,
+          "name": "汤汤"
+        },
+        {
+          "id": 31964964,
+          "name": "陈一哲"
+        },
+        {
+          "id": 33393756,
+          "name": "朱剑"
+        }
+      ],
+      "al": {
+        "id": 251512690,
+        "name": "《从姑获鸟开始之龙城风云》动画原声带",
+        "picUrl": "https://p1.music.126.net/HhTvZyd_ZNQpiVazmPchAg==/109951172369971729.jpg",
+        "pic_str": "109951172369971729",
+        "pic": 109951172369971729,
+        "alia": [
+          "《从姑获鸟开始之龙城风云》动画原声带"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 26,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 111111,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320003,
+        "fid": 0,
+        "size": 4447129,
+        "vd": -41932.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 744947,
+        "fid": 0,
+        "size": 10348593,
+        "vd": -41929.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128003,
+        "fid": 0,
+        "size": 1778878,
+        "vd": -37621.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17180008448,
+      "a": null,
+      "m": {
+        "br": 192003,
+        "fid": 0,
+        "size": 2668295,
+        "vd": -39315.0,
+        "sr": 44100
+      },
+      "name": "太子乐(《从姑获鸟开始之龙城风云》动画原声带)",
+      "id": 2639003064,
+      "privilege": {
+        "id": 2639003064,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 1194011,
+          "name": "汤汤"
+        },
+        {
+          "id": 31964964,
+          "name": "陈一哲"
+        },
+        {
+          "id": 33393756,
+          "name": "朱剑"
+        }
+      ],
+      "al": {
+        "id": 251512690,
+        "name": "《从姑获鸟开始之龙城风云》动画原声带",
+        "picUrl": "https://p1.music.126.net/HhTvZyd_ZNQpiVazmPchAg==/109951172369971729.jpg",
+        "pic_str": "109951172369971729",
+        "pic": 109951172369971729,
+        "alia": [
+          "《从姑获鸟开始之龙城风云》动画原声带"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 3,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 64800,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 2594525,
+        "vd": -35717.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 526756,
+        "fid": 0,
+        "size": 4267980,
+        "vd": -35716.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1037836,
+        "vd": -31268.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17180008448,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 1556733,
+        "vd": -33073.0,
+        "sr": 44100
+      },
+      "name": "暗藏杀机(《从姑获鸟开始之龙城风云》动画原声带)",
+      "id": 2639003713,
+      "privilege": {
+        "id": 2639003713,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 1194011,
+          "name": "汤汤"
+        },
+        {
+          "id": 31964964,
+          "name": "陈一哲"
+        },
+        {
+          "id": 33393756,
+          "name": "朱剑"
+        }
+      ],
+      "al": {
+        "id": 251512690,
+        "name": "《从姑获鸟开始之龙城风云》动画原声带",
+        "picUrl": "https://p1.music.126.net/HhTvZyd_ZNQpiVazmPchAg==/109951172369971729.jpg",
+        "pic_str": "109951172369971729",
+        "pic": 109951172369971729,
+        "alia": [
+          "《从姑获鸟开始之龙城风云》动画原声带"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 12,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 61714,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 2471227,
+        "vd": -27750.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 698662,
+        "fid": 0,
+        "size": 5390883,
+        "vd": -27747.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 988517,
+        "vd": -23483.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17180008448,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 1482754,
+        "vd": -25125.0,
+        "sr": 44100
+      },
+      "name": "姑获鸟(《从姑获鸟开始之龙城风云》动画原声带)",
+      "id": 2639003719,
+      "privilege": {
+        "id": 2639003719,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 1194011,
+          "name": "汤汤"
+        },
+        {
+          "id": 31964964,
+          "name": "陈一哲"
+        },
+        {
+          "id": 33393756,
+          "name": "朱剑"
+        }
+      ],
+      "al": {
+        "id": 251512690,
+        "name": "《从姑获鸟开始之龙城风云》动画原声带",
+        "picUrl": "https://p2.music.126.net/HhTvZyd_ZNQpiVazmPchAg==/109951172369971729.jpg",
+        "pic_str": "109951172369971729",
+        "pic": 109951172369971729,
+        "alia": [
+          "《从姑获鸟开始之龙城风云》动画原声带"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 14,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 85000,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320004,
+        "fid": 0,
+        "size": 3402231,
+        "vd": -16503.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 660539,
+        "fid": 0,
+        "size": 7019851,
+        "vd": -16502.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128004,
+        "fid": 0,
+        "size": 1360919,
+        "vd": -12082.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17180008448,
+      "a": null,
+      "m": {
+        "br": 192004,
+        "fid": 0,
+        "size": 2041356,
+        "vd": -13862.0,
+        "sr": 44100
+      },
+      "name": "诡异(《从姑获鸟开始之龙城风云》动画原声带)",
+      "id": 2639003720,
+      "privilege": {
+        "id": 2639003720,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 1194011,
+          "name": "汤汤"
+        },
+        {
+          "id": 31964964,
+          "name": "陈一哲"
+        },
+        {
+          "id": 33393756,
+          "name": "朱剑"
+        }
+      ],
+      "al": {
+        "id": 251512690,
+        "name": "《从姑获鸟开始之龙城风云》动画原声带",
+        "picUrl": "https://p1.music.126.net/HhTvZyd_ZNQpiVazmPchAg==/109951172369971729.jpg",
+        "pic_str": "109951172369971729",
+        "pic": 109951172369971729,
+        "alia": [
+          "《从姑获鸟开始之龙城风云》动画原声带"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 19,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 152658,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6108517,
+        "vd": -32131.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 912242,
+        "fid": 0,
+        "size": 17410491,
+        "vd": -32119.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2443433,
+        "vd": -27919.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17180008448,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3665128,
+        "vd": -29547.0,
+        "sr": 44100
+      },
+      "name": "擂台赛(《从姑获鸟开始之龙城风云》动画原声带)",
+      "id": 2639003723,
+      "privilege": {
+        "id": 2639003723,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 1194011,
+          "name": "汤汤"
+        },
+        {
+          "id": 31964964,
+          "name": "陈一哲"
+        },
+        {
+          "id": 33393756,
+          "name": "朱剑"
+        }
+      ],
+      "al": {
+        "id": 251512690,
+        "name": "《从姑获鸟开始之龙城风云》动画原声带",
+        "picUrl": "https://p1.music.126.net/HhTvZyd_ZNQpiVazmPchAg==/109951172369971729.jpg",
+        "pic_str": "109951172369971729",
+        "pic": 109951172369971729,
+        "alia": [
+          "《从姑获鸟开始之龙城风云》动画原声带"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 28,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 58421,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 2339570,
+        "vd": 105809.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 507583,
+        "fid": 0,
+        "size": 3707846,
+        "vd": 105826.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 935854,
+        "vd": 109707.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17180008448,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 1403760,
+        "vd": 108310.0,
+        "sr": 44100
+      },
+      "name": "系统(《从姑获鸟开始之龙城风云》动画原声带)",
+      "id": 2639003728,
+      "privilege": {
+        "id": 2639003728,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 1194011,
+          "name": "汤汤"
+        },
+        {
+          "id": 31964964,
+          "name": "陈一哲"
+        },
+        {
+          "id": 33393756,
+          "name": "朱剑"
+        }
+      ],
+      "al": {
+        "id": 251512690,
+        "name": "《从姑获鸟开始之龙城风云》动画原声带",
+        "picUrl": "https://p1.music.126.net/HhTvZyd_ZNQpiVazmPchAg==/109951172369971729.jpg",
+        "pic_str": "109951172369971729",
+        "pic": 109951172369971729,
+        "alia": [
+          "《从姑获鸟开始之龙城风云》动画原声带"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 13,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 129000,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320003,
+        "fid": 0,
+        "size": 5162885,
+        "vd": -23143.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 728612,
+        "fid": 0,
+        "size": 11751279,
+        "vd": -23147.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128003,
+        "fid": 0,
+        "size": 2065180,
+        "vd": -18719.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17180008448,
+      "a": null,
+      "m": {
+        "br": 192003,
+        "fid": 0,
+        "size": 3097748,
+        "vd": -20513.0,
+        "sr": 44100
+      },
+      "name": "诡斗(《从姑获鸟开始之龙城风云》动画原声带)",
+      "id": 2639003059,
+      "privilege": {
+        "id": 2639003059,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 1194011,
+          "name": "汤汤"
+        },
+        {
+          "id": 31964964,
+          "name": "陈一哲"
+        },
+        {
+          "id": 33393756,
+          "name": "朱剑"
+        }
+      ],
+      "al": {
+        "id": 251512690,
+        "name": "《从姑获鸟开始之龙城风云》动画原声带",
+        "picUrl": "https://p1.music.126.net/HhTvZyd_ZNQpiVazmPchAg==/109951172369971729.jpg",
+        "pic_str": "109951172369971729",
+        "pic": 109951172369971729,
+        "alia": [
+          "《从姑获鸟开始之龙城风云》动画原声带"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 18,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 99818,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 3995733,
+        "vd": -67283.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 951060,
+        "fid": 0,
+        "size": 11868526,
+        "vd": -67276.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1598319,
+        "vd": -63216.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17180008448,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 2397457,
+        "vd": -64727.0,
+        "sr": 44100
+      },
+      "name": "九头凶煞(《从姑获鸟开始之龙城风云》动画原声带)",
+      "id": 2639003061,
+      "privilege": {
+        "id": 2639003061,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 1194011,
+          "name": "汤汤"
+        },
+        {
+          "id": 31964964,
+          "name": "陈一哲"
+        },
+        {
+          "id": 33393756,
+          "name": "朱剑"
+        }
+      ],
+      "al": {
+        "id": 251512690,
+        "name": "《从姑获鸟开始之龙城风云》动画原声带",
+        "picUrl": "https://p1.music.126.net/HhTvZyd_ZNQpiVazmPchAg==/109951172369971729.jpg",
+        "pic_str": "109951172369971729",
+        "pic": 109951172369971729,
+        "alia": [
+          "《从姑获鸟开始之龙城风云》动画原声带"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 23,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 90995,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320004,
+        "fid": 0,
+        "size": 3642558,
+        "vd": 6292.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 469336,
+        "fid": 0,
+        "size": 5340167,
+        "vd": 6290.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128004,
+        "fid": 0,
+        "size": 1457049,
+        "vd": 10742.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17180008448,
+      "a": null,
+      "m": {
+        "br": 192004,
+        "fid": 0,
+        "size": 2185552,
+        "vd": 8934.0,
+        "sr": 44100
+      },
+      "name": "潜入(《从姑获鸟开始之龙城风云》动画原声带)",
+      "id": 2639003062,
+      "privilege": {
+        "id": 2639003062,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 1194011,
+          "name": "汤汤"
+        },
+        {
+          "id": 31964964,
+          "name": "陈一哲"
+        },
+        {
+          "id": 33393756,
+          "name": "朱剑"
+        }
+      ],
+      "al": {
+        "id": 251512690,
+        "name": "《从姑获鸟开始之龙城风云》动画原声带",
+        "picUrl": "https://p1.music.126.net/HhTvZyd_ZNQpiVazmPchAg==/109951172369971729.jpg",
+        "pic_str": "109951172369971729",
+        "pic": 109951172369971729,
+        "alia": [
+          "《从姑获鸟开始之龙城风云》动画原声带"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 27,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 147631,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5907897,
+        "vd": 71829.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 369533,
+        "fid": 0,
+        "size": 6822104,
+        "vd": 71828.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2363185,
+        "vd": 76258.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17180008448,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3544755,
+        "vd": 74476.0,
+        "sr": 44100
+      },
+      "name": "温情(《从姑获鸟开始之龙城风云》动画原声带)",
+      "id": 2639003065,
+      "privilege": {
+        "id": 2639003065,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 1194011,
+          "name": "汤汤"
+        },
+        {
+          "id": 31964964,
+          "name": "陈一哲"
+        },
+        {
+          "id": 33393756,
+          "name": "朱剑"
+        }
+      ],
+      "al": {
+        "id": 251512690,
+        "name": "《从姑获鸟开始之龙城风云》动画原声带",
+        "picUrl": "https://p1.music.126.net/HhTvZyd_ZNQpiVazmPchAg==/109951172369971729.jpg",
+        "pic_str": "109951172369971729",
+        "pic": 109951172369971729,
+        "alia": [
+          "《从姑获鸟开始之龙城风云》动画原声带"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 8,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 110869,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 4437725,
+        "vd": -28919.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 778716,
+        "fid": 0,
+        "size": 10794074,
+        "vd": -28915.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1775116,
+        "vd": -24602.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17180008448,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 2662653,
+        "vd": -26314.0,
+        "sr": 44100
+      },
+      "name": "福义(《从姑获鸟开始之龙城风云》动画原声带)",
+      "id": 2639003717,
+      "privilege": {
+        "id": 2639003717,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 1194011,
+          "name": "汤汤"
+        },
+        {
+          "id": 31964964,
+          "name": "陈一哲"
+        },
+        {
+          "id": 33393756,
+          "name": "朱剑"
+        }
+      ],
+      "al": {
+        "id": 251512690,
+        "name": "《从姑获鸟开始之龙城风云》动画原声带",
+        "picUrl": "https://p1.music.126.net/HhTvZyd_ZNQpiVazmPchAg==/109951172369971729.jpg",
+        "pic_str": "109951172369971729",
+        "pic": 109951172369971729,
+        "alia": [
+          "《从姑获鸟开始之龙城风云》动画原声带"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 10,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 127850,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5116909,
+        "vd": 42500.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 715070,
+        "fid": 0,
+        "size": 11430154,
+        "vd": 42507.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2046790,
+        "vd": 46895.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17180008448,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3070163,
+        "vd": 45128.0,
+        "sr": 44100
+      },
+      "name": "港式情歌2(《从姑获鸟开始之龙城风云》动画原声带)",
+      "id": 2639003718,
+      "privilege": {
+        "id": 2639003718,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 1194011,
+          "name": "汤汤"
+        },
+        {
+          "id": 31964964,
+          "name": "陈一哲"
+        },
+        {
+          "id": 33393756,
+          "name": "朱剑"
+        }
+      ],
+      "al": {
+        "id": 251512690,
+        "name": "《从姑获鸟开始之龙城风云》动画原声带",
+        "picUrl": "https://p1.music.126.net/HhTvZyd_ZNQpiVazmPchAg==/109951172369971729.jpg",
+        "pic_str": "109951172369971729",
+        "pic": 109951172369971729,
+        "alia": [
+          "《从姑获鸟开始之龙城风云》动画原声带"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 32,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 155250,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6213007,
+        "vd": 7005.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 720041,
+        "fid": 0,
+        "size": 13976188,
+        "vd": 7007.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2485229,
+        "vd": 11391.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17180008448,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3727822,
+        "vd": 9629.0,
+        "sr": 44100
+      },
+      "name": "阎浮世界(《从姑获鸟开始之龙城风云》动画原声带)",
+      "id": 2639003731,
+      "privilege": {
+        "id": 2639003731,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 1194011,
+          "name": "汤汤"
+        },
+        {
+          "id": 31964964,
+          "name": "陈一哲"
+        },
+        {
+          "id": 33393756,
+          "name": "朱剑"
+        }
+      ],
+      "al": {
+        "id": 251512690,
+        "name": "《从姑获鸟开始之龙城风云》动画原声带",
+        "picUrl": "https://p1.music.126.net/HhTvZyd_ZNQpiVazmPchAg==/109951172369971729.jpg",
+        "pic_str": "109951172369971729",
+        "pic": 109951172369971729,
+        "alia": [
+          "《从姑获鸟开始之龙城风云》动画原声带"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 7,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 69296,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 2774248,
+        "vd": 39434.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 565084,
+        "fid": 0,
+        "size": 4896160,
+        "vd": 39430.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1109725,
+        "vd": 43896.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17180008448,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 1664566,
+        "vd": 41996.0,
+        "sr": 44100
+      },
+      "name": "对峙(《从姑获鸟开始之龙城风云》动画原声带)",
+      "id": 2639003056,
+      "privilege": {
+        "id": 2639003056,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 1194011,
+          "name": "汤汤"
+        },
+        {
+          "id": 31964964,
+          "name": "陈一哲"
+        },
+        {
+          "id": 33393756,
+          "name": "朱剑"
+        }
+      ],
+      "al": {
+        "id": 251512690,
+        "name": "《从姑获鸟开始之龙城风云》动画原声带",
+        "picUrl": "https://p1.music.126.net/HhTvZyd_ZNQpiVazmPchAg==/109951172369971729.jpg",
+        "pic_str": "109951172369971729",
+        "pic": 109951172369971729,
+        "alia": [
+          "《从姑获鸟开始之龙城风云》动画原声带"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 9,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 124687,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 4990476,
+        "vd": 42782.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 713515,
+        "fid": 0,
+        "size": 11123144,
+        "vd": 42785.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1996217,
+        "vd": 47218.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17180008448,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 2994303,
+        "vd": 45397.0,
+        "sr": 44100
+      },
+      "name": "港式情歌(《从姑获鸟开始之龙城风云》动画原声带)",
+      "id": 2639003057,
+      "privilege": {
+        "id": 2639003057,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12184584,
+          "name": "Uri"
+        },
+        {
+          "id": 1194011,
+          "name": "汤汤"
+        },
+        {
+          "id": 31964964,
+          "name": "陈一哲"
+        },
+        {
+          "id": 33393756,
+          "name": "朱剑"
+        }
+      ],
+      "al": {
+        "id": 251512690,
+        "name": "《从姑获鸟开始之龙城风云》动画原声带",
+        "picUrl": "https://p1.music.126.net/HhTvZyd_ZNQpiVazmPchAg==/109951172369971729.jpg",
+        "pic_str": "109951172369971729",
+        "pic": 109951172369971729,
+        "alia": [
+          "《从姑获鸟开始之龙城风云》动画原声带"
+        ]
+      },
+      "st": -1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 11,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 59142,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 2368827,
+        "vd": -55530.0,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 606228,
+        "fid": 0,
+        "size": 4482931,
+        "vd": -55535.0,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 947557,
+        "vd": -51081.0,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17180008448,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 1421314,
+        "vd": -52890.0,
+        "sr": 44100
+      },
+      "name": "搞笑(《从姑获鸟开始之龙城风云》动画原声带)",
+      "id": 2639003058,
+      "privilege": {
+        "id": 2639003058,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": 1,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    }
+  ],
+  "more": true,
+  "code": 200
+}

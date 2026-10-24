@@ -1,0 +1,4005 @@
+{
+  "result": {
+    "searchQcReminder": {
+      "qcReminders": [
+        {
+          "highLight": false,
+          "qcReminderPart": "已展示“落差”，仍然搜："
+        },
+        {
+          "highLight": true,
+          "qcReminderPart": "落巢"
+        }
+      ],
+      "qcReminderChannel": "correct_4"
+    },
+    "songs": [
+      {
+        "no": 4,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2657562416,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 158000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2657562416,
+        "sq": {
+          "br": 897150,
+          "fid": 0,
+          "size": 17718730,
+          "vd": -52709.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1734710400000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 6322721,
+          "vd": -52777.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/tcCyYr4RRQ_sCHoWYanBaA==/109951170277055284.jpg",
+          "name": "纯白小背心",
+          "tns": [],
+          "pic_str": "109951170277055284",
+          "id": 257212319,
+          "pic": 109951170277055284
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 2529115,
+          "vd": -48566.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 3793650,
+          "vd": -50190.0,
+          "sr": 44100
+        },
+        "version": 4,
+        "cp": 7003,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "JinJiBeWater_隼",
+            "tns": [],
+            "alias": [],
+            "id": 13451886
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "落差",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3423918925,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 225640,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3423918925,
+        "sq": {
+          "br": 1763865,
+          "fid": 0,
+          "size": 49753958,
+          "vd": -62413.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9027962,
+          "vd": -62408.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/d0keJLCt6jPfIOQvTaO7lA==/109951173791685385.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951173791685385",
+          "id": 393767369,
+          "pic": 109951173791685385
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3611211,
+          "vd": -58011.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5416795,
+          "vd": -59800.0,
+          "sr": 44100
+        },
+        "version": 6,
+        "cp": 0,
+        "alia": [
+          "提莫队长正在待命DJ"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "DJ冷冰冰",
+            "tns": [],
+            "alias": [],
+            "id": 62020225
+          },
+          {
+            "name": "Kag Chuu",
+            "tns": [],
+            "alias": [],
+            "id": 33211729
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 40,
+        "name": "落差",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3420711549,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 241240,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3420711549,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9650721,
+          "vd": -63033.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/xZ1xy96_0sicUCYTwUOxjg==/109951173745312616.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951173745312616",
+          "id": 392380961,
+          "pic": 109951173745312616
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3860315,
+          "vd": -59245.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5790450,
+          "vd": -60527.0,
+          "sr": 44100
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [
+          "DJ版"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "DJ金木",
+            "tns": [],
+            "alias": [],
+            "id": 124624224
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "落差",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3433466906,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 50.0,
+        "dt": 66896,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3433466906,
+        "sq": {
+          "br": 627835,
+          "fid": 0,
+          "size": 5251305,
+          "vd": -59333.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 2678117,
+          "vd": -59333.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/Fr7YUpe-lPZ1v5K0auXYwA==/109951173905238904.jpg",
+          "name": "n",
+          "tns": [],
+          "pic_str": "109951173905238904",
+          "id": 397203458,
+          "pic": 109951173905238904
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1071273,
+          "vd": -54948.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 1606888,
+          "vd": -56695.0,
+          "sr": 44100
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "悲",
+            "tns": [],
+            "alias": [
+              "冰点"
+            ],
+            "id": 125964111,
+            "alia": [
+              "冰点"
+            ]
+          },
+          {
+            "name": "关我啥事",
+            "tns": [],
+            "alias": [],
+            "id": 121842314
+          },
+          {
+            "name": "baby",
+            "tns": [],
+            "alias": [],
+            "id": 121842309
+          },
+          {
+            "name": "风流",
+            "tns": [],
+            "alias": [],
+            "id": 123806960
+          },
+          {
+            "name": "浚浚",
+            "tns": [],
+            "alias": [],
+            "id": 124671415
+          },
+          {
+            "name": "许愿",
+            "tns": [],
+            "alias": [
+              "专辑"
+            ],
+            "id": 122711636,
+            "alia": [
+              "专辑"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "落差",
+        "mark": 131200
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3387540148,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 90.0,
+        "dt": 27240,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3387540148,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 1090605,
+          "vd": -47597.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/f_3jucUOEXbfeg4Lj5rf2Q==/109951173296600094.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951173296600094",
+          "id": 378877697,
+          "pic": 109951173296600094
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 436269,
+          "vd": -43328.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 654381,
+          "vd": -44977.0,
+          "sr": 48000
+        },
+        "version": 2,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "死亡",
+            "tns": [],
+            "alias": [],
+            "id": 122476657
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "落差",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1666823,
+          "fid": 0,
+          "size": 35237674,
+          "vd": -7269.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3440221518,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 169109,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3440221518,
+        "sq": {
+          "br": 897328,
+          "fid": 0,
+          "size": 18971517,
+          "vd": -7269.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 6767085,
+          "vd": -7282.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/bb5h7aTfhTK0jOWn56CQ-g==/109951173987460688.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951173987460688",
+          "id": 400136570,
+          "pic": 109951173987460688
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 2706861,
+          "vd": -2990.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4060269,
+          "vd": -4713.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [
+          "你的回答像天空彩虹迎来雨下"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "温栗",
+            "tns": [],
+            "alias": [],
+            "id": 121983493
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "落差",
+        "mark": 17716748288
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3425654261,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 35.0,
+        "dt": 212500,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3425654261,
+        "sq": {
+          "br": 1752976,
+          "fid": 0,
+          "size": 46567354,
+          "vd": -47852.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8502378,
+          "vd": -47869.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/bMmptDn4VgSYkqi7SVbm0Q==/109951173820585472.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951173820585472",
+          "id": 394447995,
+          "pic": 109951173820585472
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3400977,
+          "vd": -43902.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5101444,
+          "vd": -45375.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [
+          "你的回答像天空彩虹迎来雨下"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "陆锦舟",
+            "tns": [],
+            "alias": [],
+            "id": 122396456
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "落差",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3397020357,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 80.0,
+        "dt": 140410,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3397020357,
+        "sq": {
+          "br": 970918,
+          "fid": 0,
+          "size": 17043467,
+          "vd": 7485.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 5618925,
+          "vd": 7463.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/C8086l4OkNEG-EpZqJHbkw==/109951173444049183.jpg",
+          "name": "落差（抖音热播）",
+          "tns": [],
+          "pic_str": "109951173444049183",
+          "id": 383195656,
+          "pic": 109951173444049183
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2247597,
+          "vd": 11653.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3371373,
+          "vd": 10030.0,
+          "sr": 48000
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [
+          "我亲吻你额头 作别问候我就走"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "大碗小面",
+            "tns": [],
+            "alias": [],
+            "id": 121655800
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "落差",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3383308258,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 90.0,
+        "dt": 208096,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3383308258,
+        "sq": {
+          "br": 869638,
+          "fid": 0,
+          "size": 22624904,
+          "vd": -52926.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 8326836,
+          "vd": -52931.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/ujgys3VNBgTeNXSZOM3s8A==/109951173240270648.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951173240270648",
+          "id": 376975578,
+          "pic": 109951173240270648
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3330760,
+          "vd": -48622.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4996119,
+          "vd": -50334.0,
+          "sr": 44100
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [
+          "我们都不说话 任由眼泪落下"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "郭靖",
+            "tns": [],
+            "alias": [],
+            "id": 122378168
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "落差",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 1,
+        "hr": {
+          "br": 1686088,
+          "fid": 0,
+          "size": 36793627,
+          "vd": -56423.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 1,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3451962830,
+          "sp": 0,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 1
+            },
+            {
+              "rate": 192000,
+              "chargeType": 1
+            },
+            {
+              "rate": 320000,
+              "chargeType": 1
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": true
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 174559,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3451962830,
+        "sq": {
+          "br": 916936,
+          "fid": 0,
+          "size": 20010764,
+          "vd": -56423.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 6985005,
+          "vd": -56426.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/IoQJlOPyp8x9STCyWKPr5w==/109951174144791073.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951174144791073",
+          "id": 405174629,
+          "pic": 109951174144791073
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2794029,
+          "vd": -52141.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4191021,
+          "vd": -53827.0,
+          "sr": 48000
+        },
+        "version": 2,
+        "cp": 7391453,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "白允y",
+            "tns": [],
+            "alias": [
+              "允哥"
+            ],
+            "id": 33820047,
+            "alia": [
+              "允哥"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "落差",
+        "mark": 536879104
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 1,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3437714991,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 1
+            },
+            {
+              "rate": 192000,
+              "chargeType": 1
+            },
+            {
+              "rate": 320000,
+              "chargeType": 1
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": true,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 55.0,
+        "dt": 180000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3437714991,
+        "sq": {
+          "br": 1044452,
+          "fid": 0,
+          "size": 23503504,
+          "vd": -60199.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1789833600000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7201965,
+          "vd": -60205.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/9KymyMBDA8ynYh2vIrpV2A==/109951173956208411.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951173956208411",
+          "id": 398964339,
+          "pic": 109951173956208411
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 2880813,
+          "vd": -56058.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4321197,
+          "vd": -57621.0,
+          "sr": 48000
+        },
+        "version": 2,
+        "cp": 4583656,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "叶淼淼",
+            "tns": [],
+            "alias": [],
+            "id": 127114112
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "落差",
+        "mark": 17179877376
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1874923151,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 172302,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1874923151,
+        "sq": {
+          "br": 1480522,
+          "fid": 0,
+          "size": 31887291,
+          "vd": -24375.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1630598400000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 6894280,
+          "vd": -24376.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/FWqh5-o-HwawpGxzIlqQew==/109951166350368668.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951166350368668",
+          "id": 132685038,
+          "pic": 109951166350368668
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2757738,
+          "vd": -19976.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4136586,
+          "vd": -21749.0,
+          "sr": 44100
+        },
+        "version": 7,
+        "cp": 1416618,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "苏星婕",
+            "tns": [],
+            "alias": [],
+            "id": 46966451
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "落差",
+        "mark": 17179877376
+      },
+      {
+        "no": 4,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3374284993,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 85.0,
+        "dt": 31686,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3374284993,
+        "sq": {
+          "br": 972366,
+          "fid": 0,
+          "size": 3852029,
+          "vd": -61101.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 1270125,
+          "vd": -61106.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/IuNBYuepZ-O4gEviPOYU6g==/109951173087744284.jpg",
+          "name": "清醒",
+          "tns": [],
+          "pic_str": "109951173087744284",
+          "id": 371785934,
+          "pic": 109951173087744284
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "h3R3",
+              "id": 12631485
+            }
+          ],
+          "name": "来不及爱你",
+          "songId": 2067368745,
+          "albumMeta": {
+            "name": "来不及爱你",
+            "id": 170493675
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 508077,
+          "vd": -56944.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 762093,
+          "vd": -58517.0,
+          "sr": 48000
+        },
+        "version": 8,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "醒",
+            "tns": [],
+            "alias": [
+              "主动太难"
+            ],
+            "id": 122841022,
+            "alia": [
+              "主动太难"
+            ]
+          },
+          {
+            "name": "Reue",
+            "tns": [],
+            "alias": [],
+            "id": 122950846
+          },
+          {
+            "name": "青年",
+            "tns": [],
+            "alias": [],
+            "id": 123433631
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 42,
+        "name": "落差",
+        "mark": 131200
+      },
+      {
+        "no": 7,
+        "rt": "",
+        "copyright": 0,
+        "fee": 1,
+        "hr": {
+          "br": 1687725,
+          "fid": 0,
+          "size": 21490040,
+          "vd": -62740.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2156918772,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 1
+            },
+            {
+              "rate": 192000,
+              "chargeType": 1
+            },
+            {
+              "rate": 320000,
+              "chargeType": 1
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": true,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 101865,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2156918772,
+        "sq": {
+          "br": 928451,
+          "fid": 0,
+          "size": 11822103,
+          "vd": -63110.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 4077165,
+          "vd": -62747.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/oH-ZEBg3EQ9aRdusjwartQ==/109951169598611469.jpg",
+          "name": "新说唱2024 第三期 (上)",
+          "tns": [],
+          "pic_str": "109951169598611469",
+          "id": 196258626,
+          "pic": 109951169598611469
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1630893,
+          "vd": -58458.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 2446317,
+          "vd": -60146.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 2717436,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "JinJiBeWater_隼",
+            "tns": [],
+            "alias": [],
+            "id": 13451886
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "落差 (Live)",
+        "mark": 17716748288
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2103826644,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 211278,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2103826644,
+        "sq": {
+          "br": 749281,
+          "fid": 0,
+          "size": 19788366,
+          "vd": -52421.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8454313,
+          "vd": -51853.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/fw6Ox6Y6Ippk5faMkaGz7w==/109951169104704897.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951169104704897",
+          "id": 179890604,
+          "pic": 109951169104704897
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3381751,
+          "vd": -47478.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5072605,
+          "vd": -49238.0,
+          "sr": 44100
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "Lonezy",
+            "tns": [],
+            "alias": [
+              "lonezy"
+            ],
+            "id": 57532038,
+            "alia": [
+              "lonezy"
+            ]
+          },
+          {
+            "name": "XXX.ARDrug",
+            "tns": [],
+            "alias": [],
+            "id": 59217605
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "落差",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 2562079,
+          "fid": 0,
+          "size": 45479436,
+          "vd": -32998.0,
+          "sr": 88200
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3325248604,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 50.0,
+        "dt": 141999,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3325248604,
+        "sq": {
+          "br": 846052,
+          "fid": 0,
+          "size": 15020043,
+          "vd": -33039.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320003,
+          "fid": 0,
+          "size": 5682199,
+          "vd": -33048.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/-QrclOEj2dFX5QnrcT9vgg==/109951172388207347.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951172388207347",
+          "id": 353308551,
+          "pic": 109951172388207347
+        },
+        "l": {
+          "br": 128003,
+          "fid": 0,
+          "size": 2272906,
+          "vd": -28842.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192003,
+          "fid": 0,
+          "size": 3409337,
+          "vd": -30467.0,
+          "sr": 44100
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "漫雪冬",
+            "tns": [],
+            "alias": [],
+            "id": 57112666
+          },
+          {
+            "name": "阴雨天",
+            "tns": [],
+            "alias": [
+              "天天"
+            ],
+            "id": 99045999,
+            "alia": [
+              "天天"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "落差",
+        "mark": 536879104
+      },
+      {
+        "no": 0,
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 489302178,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 20.0,
+        "dt": 264480,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 489302178,
+        "sq": {
+          "br": 777461,
+          "fid": 0,
+          "size": 25702887,
+          "vd": -40695.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1499356800007,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10581725,
+          "vd": -40700.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/caj8R1yjgGi-v3BvC6nOVA==/18883012695656526.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "18883012695656526",
+          "id": 35696843,
+          "pic": 18883012695656526
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4232716,
+          "vd": -36351.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6349053,
+          "vd": -38056.0,
+          "sr": 44100
+        },
+        "version": 37,
+        "cp": 1416503,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "香香",
+            "tns": [],
+            "alias": [
+              "王瑾玫"
+            ],
+            "id": 9959,
+            "alia": [
+              "王瑾玫"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 71,
+        "name": "落差",
+        "mark": 17179942912
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3390113739,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 65.0,
+        "dt": 121137,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3390113739,
+        "sq": {
+          "br": 980327,
+          "fid": 0,
+          "size": 14846563,
+          "vd": -46482.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 4848370,
+          "vd": -46506.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/_F89ALsSub_ztVZscIJVSA==/109951173331111559.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951173331111559",
+          "id": 379990777,
+          "pic": 109951173331111559
+        },
+        "l": {
+          "br": 128003,
+          "fid": 0,
+          "size": 1939374,
+          "vd": -42413.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192003,
+          "fid": 0,
+          "size": 2909040,
+          "vd": -43952.0,
+          "sr": 44100
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "空屿7hz",
+            "tns": [],
+            "alias": [
+              "小屿"
+            ],
+            "id": 35244903,
+            "alia": [
+              "小屿"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "落差",
+        "mark": 128
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 1,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3437712661,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 1
+            },
+            {
+              "rate": 192000,
+              "chargeType": 1
+            },
+            {
+              "rate": 320000,
+              "chargeType": 1
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": true,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 20.0,
+        "dt": 168750,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3437712661,
+        "sq": {
+          "br": 1049971,
+          "fid": 0,
+          "size": 22150956,
+          "vd": -60030.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1789833600000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 6752174,
+          "vd": -60045.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/9KymyMBDA8ynYh2vIrpV2A==/109951173956208411.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951173956208411",
+          "id": 398964339,
+          "pic": 109951173956208411
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2700896,
+          "vd": -55914.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4051322,
+          "vd": -57517.0,
+          "sr": 44100
+        },
+        "version": 2,
+        "cp": 4583656,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "叶淼淼",
+            "tns": [],
+            "alias": [],
+            "id": 127114112
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "落差（DJ版）",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 1,
+        "hr": {
+          "br": 1711947,
+          "fid": 0,
+          "size": 38022212,
+          "vd": -37622.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3435144397,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 1
+            },
+            {
+              "rate": 192000,
+              "chargeType": 1
+            },
+            {
+              "rate": 320000,
+              "chargeType": 1
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": true,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 0,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 20.0,
+        "dt": 177664,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3435144397,
+        "sq": {
+          "br": 942095,
+          "fid": 0,
+          "size": 20925350,
+          "vd": -37622.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1787155200000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7108845,
+          "vd": -37623.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/E4Z6_kIxcoOJ7mH6h5VtAw==/109951173924987148.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951173924987148",
+          "id": 397974339,
+          "pic": 109951173924987148
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2843565,
+          "vd": -33270.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4265325,
+          "vd": -34997.0,
+          "sr": 48000
+        },
+        "version": 1,
+        "cp": 7393437,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "格雷西西西",
+            "tns": [],
+            "alias": [],
+            "id": 29033124
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 35,
+        "name": "落差",
+        "mark": 536879104
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 6,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1821560813,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 264901,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1821560813,
+        "sq": {
+          "br": 846747,
+          "fid": 0,
+          "size": 28038047,
+          "vd": 16028.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10598444,
+          "vd": 16046.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/-GomJOJ3zzx_gzV1yJxlQg==/109951165741216924.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951165741216924",
+          "id": 123246053,
+          "pic": 109951165741216924
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4239404,
+          "vd": 20462.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6359084,
+          "vd": 18691.0,
+          "sr": 44100
+        },
+        "version": 12,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "忆如",
+            "tns": [],
+            "alias": [],
+            "id": 46528081
+          },
+          {
+            "name": "Joker",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 46,
+        "name": "落差",
+        "mark": 17179877440
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3440218597,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 15.0,
+        "dt": 124827,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3440218597,
+        "sq": {
+          "br": 1592892,
+          "fid": 0,
+          "size": 24856840,
+          "vd": -51487.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 4995701,
+          "vd": -51491.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/wx5l9s2Uadt6IVNOxnwvTQ==/109951173987430832.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951173987430832",
+          "id": 400135264,
+          "pic": 109951173987430832
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1998306,
+          "vd": -47252.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 2997438,
+          "vd": -48887.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [
+          "我亲吻你额头"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "陆锦舟",
+            "tns": [],
+            "alias": [],
+            "id": 122396456
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "落差",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1740640,
+          "fid": 0,
+          "size": 46721808,
+          "vd": -48393.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2716911384,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 35.0,
+        "dt": 214715,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2716911384,
+        "sq": {
+          "br": 971674,
+          "fid": 0,
+          "size": 26083178,
+          "vd": -48393.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8591085,
+          "vd": -48405.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/p50gZmRTuD45Ne2NYihZkg==/109951171328084213.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951171328084213",
+          "id": 275612074,
+          "pic": 109951171328084213
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3436461,
+          "vd": -44222.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5154669,
+          "vd": -45819.0,
+          "sr": 48000
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "Zakiya晴子",
+            "tns": [],
+            "alias": [],
+            "id": 34613596
+          },
+          {
+            "name": "Catstar",
+            "tns": [],
+            "alias": [],
+            "id": 46767523
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "落差",
+        "mark": 536879104
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2163920683,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 90232,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2163920683,
+        "sq": {
+          "br": 730012,
+          "fid": 0,
+          "size": 8233879,
+          "vd": -42600.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 3612256,
+          "vd": -42623.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/gXLEa6E9PLDa_M29Xzvxtw==/109951169660605510.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951169660605510",
+          "id": 197483179,
+          "pic": 109951169660605510
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "JinJiBeWater_隼",
+              "id": 13451886
+            }
+          ],
+          "name": "落差 (Live)",
+          "songId": 2156918772,
+          "albumMeta": {
+            "name": "新说唱2024 第三期 (上)",
+            "id": 196258626
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1444928,
+          "vd": -37651.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 2167371,
+          "vd": -39957.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "bilibili伊丽莎白鼠",
+            "tns": [],
+            "alias": [],
+            "id": 52296962
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "落差",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1711166,
+          "fid": 0,
+          "size": 45394566,
+          "vd": -30929.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3448801785,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 15.0,
+        "dt": 212209,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3448801785,
+        "sq": {
+          "br": 946443,
+          "fid": 0,
+          "size": 25109392,
+          "vd": -30929.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8491245,
+          "vd": -30944.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/P4_0gUY1BmEV0r0aU32f7w==/109951174113049708.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951174113049708",
+          "id": 404119294,
+          "pic": 109951174113049708
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3396525,
+          "vd": -26921.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5094765,
+          "vd": -28433.0,
+          "sr": 48000
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "余劲成",
+            "tns": [],
+            "alias": [],
+            "id": 35788983
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "落差",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1879822223,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 164500,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1879822223,
+        "sq": {
+          "br": 1511426,
+          "fid": 0,
+          "size": 31078708,
+          "vd": -29286.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 6582901,
+          "vd": -29288.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/ppZOgw42CfYxk4Th5BAgtQ==/109951166439576992.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951166439576992",
+          "id": 133519369,
+          "pic": 109951166439576992
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2633186,
+          "vd": -24979.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 3949758,
+          "vd": -26669.0,
+          "sr": 44100
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "CL blue",
+            "tns": [],
+            "alias": [],
+            "id": 33859486
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "落差",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 258,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 41648107,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 224417,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 41648107,
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1454024270142,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8977806,
+          "vd": 903.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/UoN9tXFEfg7yZD1V49lxcA==/109951163473582899.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951163473582899",
+          "id": 3449380,
+          "pic": 109951163473582899
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3591148,
+          "vd": 5295.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5386701,
+          "vd": 3474.0,
+          "sr": 44100
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "陈秋西",
+            "tns": [],
+            "alias": [],
+            "id": 1044131
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "落差",
+        "mark": 64
+      },
+      {
+        "no": 1,
+        "copyright": 2,
+        "fee": 0,
+        "privilege": {
+          "flag": 0,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1333562394,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 20.0,
+        "dt": 273152,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1333562394,
+        "sq": {
+          "br": 864785,
+          "fid": 0,
+          "size": 29527264,
+          "vd": -38010.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1544836640757,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10928631,
+          "vd": -38023.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/dF-qb9lqK-EGobAGeyuqNA==/109951163726833942.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951163726833942",
+          "id": 74848230,
+          "pic": 109951163726833942
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4371479,
+          "vd": -33771.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6557196,
+          "vd": -35437.0,
+          "sr": 44100
+        },
+        "version": 33,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "张铭津",
+            "tns": [],
+            "alias": [],
+            "id": 14020914
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 67,
+        "name": "落差",
+        "mark": 0
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 260,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1901318964,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 208153,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1901318964,
+        "sq": {
+          "br": 1621725,
+          "fid": 0,
+          "size": 42196044,
+          "vd": -40427.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8329005,
+          "vd": -40431.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/e8JK18nJV_SSxIBeJrq-kQ==/109951166702285520.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951166702285520",
+          "id": 137136431,
+          "pic": 109951166702285520
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3331629,
+          "vd": -36091.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4997421,
+          "vd": -37804.0,
+          "sr": 48000
+        },
+        "version": 8,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "王若楠",
+            "tns": [],
+            "alias": [],
+            "id": 49333209
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 42,
+        "name": "落差",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 3386183272,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 213263,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3386183272,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8532680,
+          "vd": -36709.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/qp0L1-0_kITN2xICH9032A==/109951173280330464.jpg",
+          "name": "落差",
+          "tns": [],
+          "pic_str": "109951173280330464",
+          "id": 378324324,
+          "pic": 109951173280330464
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3413098,
+          "vd": -32622.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5119626,
+          "vd": -34134.0,
+          "sr": 44100
+        },
+        "version": 2,
+        "cp": 0,
+        "alia": [
+          "DJ版"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "DJ大大怪",
+            "tns": [],
+            "alias": [],
+            "id": 122581382
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "落差",
+        "mark": 8192
+      }
+    ],
+    "queryRewriteInfo": {
+      "rewriteQuery": "落差",
+      "type": "query_correct",
+      "keyword": "落巢"
+    },
+    "songCount": 230
+  },
+  "code": 200,
+  "trp": {
+    "rules": [
+      "search_tab_song::2156918772::searchAlg$isGlobalQuality$1",
+      "search_tab_song::3387540148::searchAlg$isGlobalQuality$1",
+      "search_tab_song::3374284993::searchAlg$isGlobalQuality$1",
+      "search_tab_song::3423918925::searchAlg$isGlobalQuality$1",
+      "search_tab_song::3420711549::searchAlg$isGlobalQuality$1",
+      "search_tab_song::3440221518::searchAlg$isGlobalQuality$1",
+      "search_tab_song::2657562416::searchAlg$isQuality$2$isGlobalQuality$2",
+      "search_tab_song::3325248604::searchAlg$isGlobalQuality$1",
+      "search_tab_song::3390113739::searchAlg$isGlobalQuality$1",
+      "search_tab_song::3397020357::searchAlg$isGlobalQuality$1",
+      "search_tab_song::3437714991::searchAlg$isGlobalQuality$1",
+      "search_tab_song::3383308258::searchAlg$isGlobalQuality$1",
+      "search_tab_song::1874923151::searchAlg$isGlobalQuality$1"
+    ]
+  }
+}

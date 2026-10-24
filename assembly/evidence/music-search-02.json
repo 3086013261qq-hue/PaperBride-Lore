@@ -1,0 +1,4214 @@
+{
+  "result": {
+    "songs": [
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1866766544,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 182000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1866766544,
+        "sq": {
+          "br": 1145341,
+          "fid": 0,
+          "size": 26056528,
+          "vd": -1842.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7282982,
+          "vd": -1843.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/oLL8dmgfWHek85RbNtdx2Q==/109951166232820702.jpg",
+          "name": "《纸嫁衣2奘铃村》",
+          "tns": [],
+          "pic_str": "109951166232820702",
+          "id": 131124674,
+          "pic": 109951166232820702
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 2913219,
+          "vd": 2607.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4369807,
+          "vd": 801.0,
+          "sr": 44100
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          },
+          {
+            "name": "吴轶飞",
+            "tns": [],
+            "alias": [
+              "哇哇"
+            ],
+            "id": 12462097,
+            "alia": [
+              "哇哇"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "生生世世不分离（民国版）-插曲",
+        "mark": 128
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1866766554,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 189361,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1866766554,
+        "sq": {
+          "br": 1354041,
+          "fid": 0,
+          "size": 32050461,
+          "vd": 22844.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7577644,
+          "vd": 22842.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/oLL8dmgfWHek85RbNtdx2Q==/109951166232820702.jpg",
+          "name": "《纸嫁衣2奘铃村》",
+          "tns": [],
+          "pic_str": "109951166232820702",
+          "id": 131124674,
+          "pic": 109951166232820702
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3031084,
+          "vd": 27231.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4546604,
+          "vd": 25481.0,
+          "sr": 44100
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          },
+          {
+            "name": "喵☆酱",
+            "tns": [],
+            "alias": [],
+            "id": 12373281
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "生生世世不分离（现代版）-主题曲",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1867412640,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 60.0,
+        "dt": 180820,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1867412640,
+        "sq": {
+          "br": 1230488,
+          "fid": 0,
+          "size": 27812192,
+          "vd": 12571.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7235962,
+          "vd": 12570.0,
+          "sr": 44100
+        },
+        "mv": 14306060,
+        "al": {
+          "picUrl": "http://p1.music.126.net/SqIddi1RCcV-tbsL6N_m5w==/109951166257234498.jpg",
+          "name": "《纸嫁衣2奘铃村》主题曲",
+          "tns": [],
+          "pic_str": "109951166257234498",
+          "id": 131440102,
+          "pic": 109951166257234498
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 0
+            },
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            }
+          ],
+          "name": "生生世世不分离（民国版）-插曲",
+          "songId": 1866766544,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2894411,
+          "vd": 17013.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4341595,
+          "vd": 15216.0,
+          "sr": 44100
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "小年糕",
+            "tns": [],
+            "alias": [],
+            "id": 35138622
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "生生世世不分离（民国版）《纸嫁衣2奘铃村》插曲",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1886840915,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 40.0,
+        "dt": 182073,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1886840915,
+        "sq": {
+          "br": 740337,
+          "fid": 0,
+          "size": 16849466,
+          "vd": -23276.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7285072,
+          "vd": -23277.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/m1YXVGYCvQLWr3WxfTCUCA==/109951166542215794.jpg",
+          "name": "生生世世不分离",
+          "tns": [],
+          "pic_str": "109951166542215794",
+          "id": 134752486,
+          "pic": 109951166542215794
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 0
+            },
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            }
+          ],
+          "name": "生生世世不分离（民国版）-插曲",
+          "songId": 1866766544,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 2914055,
+          "vd": -18820.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4371061,
+          "vd": -20631.0,
+          "sr": 44100
+        },
+        "version": 8,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "慕思客MUSIC",
+            "tns": [],
+            "alias": [],
+            "id": 36285562
+          },
+          {
+            "name": "泠玥",
+            "tns": [],
+            "alias": [],
+            "id": 34531844
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 42,
+        "name": "生生世世不分离（民国版）",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 2738144244,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 20.0,
+        "dt": 171598,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2738144244,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1660406400000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 6865023,
+          "vd": -78958.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/GbgTiD5Gt8lBMbwYk5b3ZQ==/109951171901818003.jpg",
+          "name": "纸嫁衣·生生世世不分离  吴语版",
+          "tns": [],
+          "pic_str": "109951171901818003",
+          "id": 282227117,
+          "pic": 109951171901818003
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2746035,
+          "vd": -74447.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4119031,
+          "vd": -76312.0,
+          "sr": 44100
+        },
+        "version": 2,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "林清弄",
+            "tns": [],
+            "alias": [],
+            "id": 1047014
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "生生世世不分离（民国版）-插曲",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1945693262,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 182500,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1945693262,
+        "sq": {
+          "br": 576515,
+          "fid": 0,
+          "size": 13151749,
+          "vd": -17729.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7302836,
+          "vd": -17650.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/uVVk2dc-1mi3CICshy9GdA==/109951167391907069.jpg",
+          "name": "生生世世不分离",
+          "tns": [],
+          "pic_str": "109951167391907069",
+          "id": 144657938,
+          "pic": 109951167391907069
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 0
+            },
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            }
+          ],
+          "name": "生生世世不分离（民国版）-插曲",
+          "songId": 1866766544,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2921160,
+          "vd": -13195.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4381719,
+          "vd": -15005.0,
+          "sr": 44100
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "忆迟",
+            "tns": [],
+            "alias": [],
+            "id": 13152858
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "生生世世不分离",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1953317547,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 189419,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1953317547,
+        "sq": {
+          "br": 722659,
+          "fid": 0,
+          "size": 17110751,
+          "vd": -4809.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7579733,
+          "vd": -4810.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/ZS4SKGx_HD4ONbtUa6RZ5Q==/109951167511032773.jpg",
+          "name": "生生世世不分离",
+          "tns": [],
+          "pic_str": "109951167511032773",
+          "id": 146016435,
+          "pic": 109951167511032773
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "生生世世不分离（现代版）-主题曲",
+          "songId": 1866766554,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3031919,
+          "vd": -390.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4547857,
+          "vd": -2169.0,
+          "sr": 44100
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "白冰堂",
+            "tns": [],
+            "alias": [],
+            "id": 35179124
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "生生世世不分离【温柔男版】",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "hr": {
+          "br": 1159419,
+          "fid": 0,
+          "size": 26304337,
+          "vd": 105.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "hires",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1959139262,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 181499,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1959139262,
+        "sq": {
+          "br": 502152,
+          "fid": 0,
+          "size": 11392588,
+          "vd": 2.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7262445,
+          "vd": 105.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/AgywfXW-BVr9z7nbQ4T-pg==/109951167591128412.jpg",
+          "name": "纸嫁衣",
+          "tns": [],
+          "pic_str": "109951167591128412",
+          "id": 147108871,
+          "pic": 109951167591128412
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 0
+            },
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            }
+          ],
+          "name": "生生世世不分离（民国版）-插曲",
+          "songId": 1866766544,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2905005,
+          "vd": 4553.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4357485,
+          "vd": 2751.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "临潇",
+            "tns": [],
+            "alias": [
+              "大碴子",
+              "大削",
+              "圆潇"
+            ],
+            "id": 34853502,
+            "alia": [
+              "大碴子",
+              "大削",
+              "圆潇"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "生生世世不分离（民国版）",
+        "mark": 536871040
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 1972112709,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 25.0,
+        "dt": 171576,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1972112709,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 6865005,
+          "vd": -78878.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/xorkQ_hxY2bGDCB4xlL94Q==/109951167778929384.jpg",
+          "name": "生生世世不分离（吴语版）",
+          "tns": [],
+          "pic_str": "109951167778929384",
+          "id": 149695431,
+          "pic": 109951167778929384
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 0
+            },
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            }
+          ],
+          "name": "生生世世不分离（民国版）-插曲",
+          "songId": 1866766544,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2746029,
+          "vd": -74400.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4119021,
+          "vd": -76235.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "林清弄",
+            "tns": [],
+            "alias": [],
+            "id": 1047014
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "纸嫁衣·生生世世不分离 吴语版",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "hr": {
+          "br": 1408257,
+          "fid": 0,
+          "size": 32821796,
+          "vd": 9408.0,
+          "sr": 48000
+        },
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "hires",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2066996812,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            },
+            {
+              "rate": 1999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "hires",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "hires",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 90.0,
+        "dt": 186453,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2066996812,
+        "sq": {
+          "br": 643044,
+          "fid": 0,
+          "size": 14987226,
+          "vd": 3906.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7460205,
+          "vd": 9387.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/itXD7Th2vEQAVKObSYDWcw==/109951168753608819.jpg",
+          "name": "纸嫁衣第5部无间梦境",
+          "tns": [],
+          "pic_str": "109951168753608819",
+          "id": 169958827,
+          "pic": 109951168753608819
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2984109,
+          "vd": 13826.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4476141,
+          "vd": 12031.0,
+          "sr": 48000
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "纸嫁衣",
+            "tns": [],
+            "alias": [],
+            "id": 49103473
+          },
+          {
+            "name": "吴轶飞",
+            "tns": [],
+            "alias": [
+              "哇哇"
+            ],
+            "id": 12462097,
+            "alia": [
+              "哇哇"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "月缺花残_纸嫁衣第5部《无间梦境》插曲",
+        "mark": 17716748288
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1923600581,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 181931,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1923600581,
+        "sq": {
+          "br": 812649,
+          "fid": 0,
+          "size": 18480806,
+          "vd": -55673.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7279848,
+          "vd": -55677.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/AdkMPIHMiWxN4bG2RoqGcw==/109951167092600188.jpg",
+          "name": "生生世世不分离（民国版）",
+          "tns": [],
+          "pic_str": "109951167092600188",
+          "id": 140997940,
+          "pic": 109951167092600188
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 0
+            },
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            }
+          ],
+          "name": "生生世世不分离（民国版）-插曲",
+          "songId": 1866766544,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2911965,
+          "vd": -51233.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4367926,
+          "vd": -53031.0,
+          "sr": 44100
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "眠空音乐社团",
+            "tns": [],
+            "alias": [
+              "小孤街吖"
+            ],
+            "id": 33750065,
+            "alia": [
+              "小孤街吖"
+            ]
+          },
+          {
+            "name": "云胡",
+            "tns": [],
+            "alias": [
+              "呼呼"
+            ],
+            "id": 34158875,
+            "alia": [
+              "呼呼"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "生生世世不分离（民国版）",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2047601358,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 181000,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2047601358,
+        "sq": {
+          "br": 1224331,
+          "fid": 0,
+          "size": 27700495,
+          "vd": 21523.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7242231,
+          "vd": 21823.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/ngG-ZPx4UYRDz5E83v1qgQ==/109951168614742460.jpg",
+          "name": "生生世世不分离",
+          "tns": [],
+          "pic_str": "109951168614742460",
+          "id": 165659220,
+          "pic": 109951168614742460
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 0
+            },
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            }
+          ],
+          "name": "生生世世不分离（民国版）-插曲",
+          "songId": 1866766544,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 2896919,
+          "vd": 26270.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4345356,
+          "vd": 24467.0,
+          "sr": 44100
+        },
+        "version": 3,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "婷婷吖",
+            "tns": [],
+            "alias": [],
+            "id": 29235073
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 37,
+        "name": "生生世世不分离（民国版）",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 257,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 1932270976,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 67752,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1932270976,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 2711085,
+          "vd": -62243.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/0IYIb0D4LCxSZiyxINwV8A==/109951167168816604.jpg",
+          "name": "糖糖的一些翻唱",
+          "tns": [],
+          "pic_str": "109951167168816604",
+          "id": 142088382,
+          "pic": 109951167168816604
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 0
+            },
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            }
+          ],
+          "name": "生生世世不分离（民国版）-插曲",
+          "songId": 1866766544,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1084461,
+          "vd": -57796.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 1626669,
+          "vd": -59600.0,
+          "sr": 48000
+        },
+        "version": 7,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "白盏糖糖",
+            "tns": [],
+            "alias": [],
+            "id": 51868003
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "生生世世不分离",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1874389785,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 189438,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1874389785,
+        "sq": {
+          "br": 1548783,
+          "fid": 0,
+          "size": 36674995,
+          "vd": -10863.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7580205,
+          "vd": -10866.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/KGJSLEGB6R0V9-b8JplatQ==/109951164972974979.jpg",
+          "name": "中国绊爱的翻唱特辑",
+          "tns": [],
+          "pic_str": "109951164972974979",
+          "id": 89192632,
+          "pic": 109951164972974979
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "生生世世不分离（现代版）-主题曲",
+          "songId": 1866766554,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3032109,
+          "vd": -6513.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4548141,
+          "vd": -8238.0,
+          "sr": 48000
+        },
+        "version": 7,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "中国绊爱",
+            "tns": [],
+            "alias": [],
+            "id": 34783631
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 41,
+        "name": "生生世世不分离-（现代版）",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1934445056,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 188188,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1934445056,
+        "sq": {
+          "br": 902720,
+          "fid": 0,
+          "size": 21235226,
+          "vd": -21504.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7530285,
+          "vd": -21566.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/RL1ufn_HeuuiR4WU37HIGw==/109951167234446708.jpg",
+          "name": "【纸嫁衣2·奘铃村】生生世世不分离（现代&民国双版）",
+          "tns": [],
+          "pic_str": "109951167234446708",
+          "id": 142926288,
+          "pic": 109951167234446708
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "生生世世不分离（现代版）-主题曲",
+          "songId": 1866766554,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3012141,
+          "vd": -17144.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4518189,
+          "vd": -18926.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "妖橙Yumo",
+            "tns": [],
+            "alias": [
+              "妖橙"
+            ],
+            "id": 31344437,
+            "alia": [
+              "妖橙"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "生生世世不分离（现代版）",
+        "mark": 128
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1869097541,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 157143,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1869097541,
+        "sq": {
+          "br": 1450845,
+          "fid": 0,
+          "size": 28498819,
+          "vd": 67002.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 6288045,
+          "vd": 67002.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/bnKS_WZq3MX0WuN32OPpDA==/109951166278334246.jpg",
+          "name": "生生世世不分离",
+          "tns": [],
+          "pic_str": "109951166278334246",
+          "id": 131725529,
+          "pic": 109951166278334246
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "生生世世不分离（现代版）-主题曲",
+          "songId": 1866766554,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 2515245,
+          "vd": 71430.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 3772845,
+          "vd": 69636.0,
+          "sr": 48000
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "硕猗",
+            "tns": [],
+            "alias": [],
+            "id": 33297570
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "生生世世不分离（清唱版）",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1866072535,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 87675,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1866072535,
+        "sq": {
+          "br": 967143,
+          "fid": 0,
+          "size": 10599356,
+          "vd": 13122.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 3509856,
+          "vd": 13121.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/kCPf_ygzbgehMgYOB7AACg==/109951166241839856.jpg",
+          "name": "生生世世不分离—纸嫁衣2主题曲（钢琴版）",
+          "tns": [],
+          "pic_str": "109951166241839856",
+          "id": 131202304,
+          "pic": 109951166241839856
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 1403968,
+          "vd": 17575.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 2105931,
+          "vd": 15766.0,
+          "sr": 44100
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "蜡小笔QAQ",
+            "tns": [],
+            "alias": [],
+            "id": 48677183
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "【钢琴】生生世世不分离（翻自 喵☆酱）",
+        "mark": 131200
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1971523975,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 182981,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1971523975,
+        "sq": {
+          "br": 532041,
+          "fid": 0,
+          "size": 12169231,
+          "vd": -40996.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7321644,
+          "vd": -40997.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/yoWID12vy1lGAgDXknQ8QQ==/109951167771582639.jpg",
+          "name": "生生世世不分离",
+          "tns": [],
+          "pic_str": "109951167771582639",
+          "id": 149571948,
+          "pic": 109951167771582639
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 0
+            },
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            }
+          ],
+          "name": "生生世世不分离（民国版）-插曲",
+          "songId": 1866766544,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2928684,
+          "vd": -36552.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4393004,
+          "vd": -38352.0,
+          "sr": 44100
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "执素兮",
+            "tns": [],
+            "alias": [],
+            "id": 12084518
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "生生世世不分离",
+        "mark": 128
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 8,
+        "privilege": {
+          "flag": 4,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 8,
+          "dl": 0,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2066382688,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 197970,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2066382688,
+        "sq": {
+          "br": 1645126,
+          "fid": 0,
+          "size": 40710809,
+          "vd": -42937.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7921415,
+          "vd": -42904.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/nMg6f0rnaL4P6jIPcfu1Qg==/109951168757609321.jpg",
+          "name": "【纸嫁衣】生生世世不分离 爵士版",
+          "tns": [],
+          "pic_str": "109951168757609321",
+          "id": 170109754,
+          "pic": 109951168757609321
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3168592,
+          "vd": -38536.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4752866,
+          "vd": -40291.0,
+          "sr": 44100
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "大琴KoTo",
+            "tns": [],
+            "alias": [],
+            "id": 12452041
+          },
+          {
+            "name": "机械狐狸Fox",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          },
+          {
+            "name": "二胡妹",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          },
+          {
+            "name": "酋长Saxo",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "【纸嫁衣 同人】生生世世不分离 伴奏版",
+        "mark": 8192
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 256,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1867769080,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 189361,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1867769080,
+        "sq": {
+          "br": 1442346,
+          "fid": 0,
+          "size": 34140654,
+          "vd": -8342.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7577644,
+          "vd": -8344.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/YTlfO9fPPDhNfUzKrjFg7A==/109951166262180198.jpg",
+          "name": "生生世世不分离（现代版）",
+          "tns": [],
+          "pic_str": "109951166262180198",
+          "id": 131481699,
+          "pic": 109951166262180198
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "生生世世不分离（现代版）-主题曲",
+          "songId": 1866766554,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3031084,
+          "vd": -3953.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4546604,
+          "vd": -5711.0,
+          "sr": 44100
+        },
+        "version": 9,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "月漓",
+            "tns": [],
+            "alias": [],
+            "id": 34313348
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 43,
+        "name": "生生世世不分离(现代版)",
+        "mark": 0
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 257,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 2057142761,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 182047,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2057142761,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/m_45mwvBln-ErVpX9HPXJA==/109951168688672789.jpg",
+          "name": "生生世世不分离（完整版）",
+          "tns": [],
+          "pic_str": "109951168688672789",
+          "id": 167880625,
+          "pic": 109951168688672789
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 2913219,
+          "vd": -19348.0,
+          "sr": 44100
+        },
+        "version": 2,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "也许",
+            "tns": [],
+            "alias": [],
+            "id": 36029854
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "生生世世不分离(男生民国版)",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1869929750,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 189380,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1869929750,
+        "sq": {
+          "br": 1354046,
+          "fid": 0,
+          "size": 32053740,
+          "vd": -25306.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7577644,
+          "vd": -25308.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/iWy-yrUecY0kYrzN4wjuFg==/109951166288979258.jpg",
+          "name": "纸新娘",
+          "tns": [],
+          "pic_str": "109951166288979258",
+          "id": 131828071,
+          "pic": 109951166288979258
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "生生世世不分离（现代版）-主题曲",
+          "songId": 1866766554,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3031084,
+          "vd": -20898.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4546604,
+          "vd": -22671.0,
+          "sr": 44100
+        },
+        "version": 14,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "橙汁久久c100",
+            "tns": [],
+            "alias": [
+              "橙雕dio",
+              "Stephanie"
+            ],
+            "id": 34319688,
+            "alia": [
+              "橙雕dio",
+              "Stephanie"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 48,
+        "name": "生生世世不分离",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 257,
+          "code": 0,
+          "dlLevel": "none",
+          "subp": 1,
+          "fl": 0,
+          "fee": 0,
+          "dl": 0,
+          "plLevel": "none",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1870791689,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 0,
+          "st": -100,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false,
+            "cannotListenReason": 1
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "none",
+          "pl": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 189361,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1870791689,
+        "sq": {
+          "br": 1432045,
+          "fid": 0,
+          "size": 33896826,
+          "vd": -16590.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7577644,
+          "vd": -16593.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/ShIdJ_bficWIo6obtvOSwA==/109951166299045239.jpg",
+          "name": "《纸嫁衣2奘铃村》主题曲现代版",
+          "tns": [],
+          "pic_str": "109951166299045239",
+          "id": 131974718,
+          "pic": 109951166299045239
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "生生世世不分离（现代版）-主题曲",
+          "songId": 1866766554,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3031084,
+          "vd": -12124.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4546604,
+          "vd": -13954.0,
+          "sr": 44100
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "阿卡玻糖",
+            "tns": [],
+            "alias": [
+              "爬爬公生"
+            ],
+            "id": 32952554,
+            "alia": [
+              "爬爬公生"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "生生世世不分离(现代版)",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 1871596741,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 181104,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1871596741,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7245165,
+          "vd": -63116.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/SqYmdVB0xZPgqPqd_dPx6w==/109951166307615226.jpg",
+          "name": "纸嫁衣BGM",
+          "tns": [],
+          "pic_str": "109951166307615226",
+          "id": 132103549,
+          "pic": 109951166307615226
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 0
+            },
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            }
+          ],
+          "name": "生生世世不分离（民国版）-插曲",
+          "songId": 1866766544,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 2898093,
+          "vd": -58658.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4347117,
+          "vd": -60448.0,
+          "sr": 48000
+        },
+        "version": 6,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "凸凸凸凹条",
+            "tns": [],
+            "alias": [],
+            "id": 33350024
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 40,
+        "name": "生生世世不分离（民国版)",
+        "mark": 128
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2736330641,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 5.0,
+        "dt": 240298,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2736330641,
+        "sq": {
+          "br": 1049509,
+          "fid": 0,
+          "size": 31528868,
+          "vd": -70130.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1705161600000,
+        "cf": "",
+        "originCoverType": 3,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 9614150,
+          "vd": -70156.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/6W2IIqr7cWBP3Ia5vBzwqw==/109951171867661297.jpg",
+          "name": "生生世世不分离",
+          "tns": [],
+          "pic_str": "109951171867661297",
+          "id": 281568815,
+          "pic": 109951171867661297
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3845686,
+          "vd": -66385.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5768507,
+          "vd": -67709.0,
+          "sr": 44100
+        },
+        "version": 2,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "金艾娜",
+            "tns": [],
+            "alias": [],
+            "id": 34787915
+          },
+          {
+            "name": "汪志祥",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "生生世世不分离 (伴奏)",
+        "mark": 128
+      },
+      {
+        "no": 2,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "exhigh",
+          "rightSource": 0,
+          "maxbr": 320000,
+          "id": 1881006013,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 320000,
+          "downloadMaxBrLevel": "exhigh",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "exhigh",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 320000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 15.0,
+        "dt": 38208,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1881006013,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 1530285,
+          "vd": 73891.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/ReyMJc-z3obgf9aTGdJHlw==/109951166293433064.jpg",
+          "name": "②清弄的吴语改编翻唱系列",
+          "tns": [],
+          "pic_str": "109951166293433064",
+          "id": 131885066,
+          "pic": 109951166293433064
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 0
+            },
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            }
+          ],
+          "name": "生生世世不分离（民国版）-插曲",
+          "songId": 1866766544,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 612141,
+          "vd": 78316.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 918189,
+          "vd": 76532.0,
+          "sr": 48000
+        },
+        "version": 2,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "林清弄",
+            "tns": [],
+            "alias": [],
+            "id": 1047014
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 36,
+        "name": "生生世世不分离·吴语改编片段",
+        "mark": 128
+      },
+      {
+        "no": 14,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 129,
+          "code": 0,
+          "dlLevel": "exhigh",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 3439347632,
+          "sp": 7,
+          "payed": 0,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 185386,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 3439347632,
+        "sq": {
+          "br": 777313,
+          "fid": 0,
+          "size": 18016373,
+          "vd": -58896.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7417774,
+          "vd": -58897.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/p6y9cYP3gfXRe5N_XlQMQA==/109951173976687424.jpg",
+          "name": "20260914-20260920合集",
+          "tns": [],
+          "pic_str": "109951173976687424",
+          "id": 399581102,
+          "pic": 109951173976687424
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2967136,
+          "vd": -54496.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4450682,
+          "vd": -56265.0,
+          "sr": 44100
+        },
+        "version": 4,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "乃琳Eileen",
+            "tns": [],
+            "alias": [],
+            "id": 0
+          },
+          {
+            "name": "咬一口果丹皮",
+            "tns": [],
+            "alias": [],
+            "id": 122730352
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 38,
+        "name": "生生世世不分离",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 2025602875,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 190171,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 2025602875,
+        "sq": {
+          "br": 840215,
+          "fid": 0,
+          "size": 19973150,
+          "vd": 1267.0,
+          "sr": 48000
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7609005,
+          "vd": 1213.0,
+          "sr": 48000
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/sSgkSTcgpd9kQC0gxTKTdg==/109951168425120656.jpg",
+          "name": "生生世世不分离--《纸嫁衣2》片尾曲",
+          "tns": [],
+          "pic_str": "109951168425120656",
+          "id": 160750758,
+          "pic": 109951168425120656
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 0
+            },
+            {
+              "name": "吴轶飞",
+              "id": 12462097
+            }
+          ],
+          "name": "生生世世不分离（民国版）-插曲",
+          "songId": 1866766544,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3043629,
+          "vd": 5623.0,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4565421,
+          "vd": 3846.0,
+          "sr": 48000
+        },
+        "version": 6,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "鹿",
+            "tns": [],
+            "alias": [],
+            "id": 32899700
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 40,
+        "name": "生生世世不分离",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1871930213,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 185120,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1871930213,
+        "sq": {
+          "br": 1274581,
+          "fid": 0,
+          "size": 29493848,
+          "vd": 24571.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7407325,
+          "vd": 24570.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/Z317puEobioOYuSOj688IA==/109951167370907096.jpg",
+          "name": "翻唱合集",
+          "tns": [],
+          "pic_str": "109951167370907096",
+          "id": 132143246,
+          "pic": 109951167370907096
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "生生世世不分离（现代版）-主题曲",
+          "songId": 1866766554,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 2962956,
+          "vd": 28968.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4444413,
+          "vd": 27206.0,
+          "sr": 44100
+        },
+        "version": 11,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "三一",
+            "tns": [],
+            "alias": [],
+            "id": 13196730
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 45,
+        "name": "生生世世不分离（男声翻唱）",
+        "mark": 128
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 0,
+        "fee": 0,
+        "privilege": {
+          "flag": 1,
+          "code": 0,
+          "dlLevel": "lossless",
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "plLevel": "exhigh",
+          "maxBrLevel": "lossless",
+          "rightSource": 0,
+          "maxbr": 999000,
+          "id": 1885303502,
+          "sp": 7,
+          "payed": 0,
+          "rscl": 10,
+          "st": 0,
+          "chargeInfoList": [
+            {
+              "rate": 128000,
+              "chargeType": 0
+            },
+            {
+              "rate": 192000,
+              "chargeType": 0
+            },
+            {
+              "rate": 320000,
+              "chargeType": 0
+            },
+            {
+              "rate": 999000,
+              "chargeType": 1
+            }
+          ],
+          "freeTrialPrivilege": {
+            "userConsumable": false,
+            "resConsumable": false
+          },
+          "downloadMaxbr": 999000,
+          "downloadMaxBrLevel": "lossless",
+          "cp": 1,
+          "preSell": false,
+          "playMaxBrLevel": "lossless",
+          "cs": false,
+          "toast": false,
+          "playMaxbr": 999000,
+          "flLevel": "exhigh",
+          "pl": 320000
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 10.0,
+        "dt": 189360,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "resourceState": true,
+        "id": 1885303502,
+        "sq": {
+          "br": 1483402,
+          "fid": 0,
+          "size": 35112313,
+          "vd": -29763.0,
+          "sr": 44100
+        },
+        "st": 0,
+        "cd": "01",
+        "publishTime": 0,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7576599,
+          "vd": -29763.0,
+          "sr": 44100
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p1.music.126.net/HKta1iaC4v9-QObmGd9jsQ==/109951166502993224.jpg",
+          "name": "感受一下不一样的纸嫁衣",
+          "tns": [],
+          "pic_str": "109951166502993224",
+          "id": 134481384,
+          "pic": 109951166502993224
+        },
+        "originSongSimpleData": {
+          "artists": [
+            {
+              "name": "纸嫁衣",
+              "id": 49103473
+            },
+            {
+              "name": "喵☆酱",
+              "id": 12373281
+            }
+          ],
+          "name": "生生世世不分离（现代版）-主题曲",
+          "songId": 1866766554,
+          "albumMeta": {
+            "name": "《纸嫁衣2奘铃村》",
+            "id": 131124674
+          }
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3030666,
+          "vd": -25344.0,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4545977,
+          "vd": -27101.0,
+          "sr": 44100
+        },
+        "version": 5,
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "蛋挞Torta",
+            "tns": [],
+            "alias": [],
+            "id": 48852599
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 39,
+        "name": "生生世世不分离",
+        "mark": 128
+      }
+    ],
+    "songCount": 156
+  },
+  "code": 200,
+  "trp": {
+    "rules": [
+      "search_tab_song::1867412640::searchAlg$isGlobalQuality$1",
+      "search_tab_song::1866766544::searchAlg$isGlobalQuality$1",
+      "search_tab_song::1866766554::searchAlg$isGlobalQuality$1"
+    ]
+  }
+}
