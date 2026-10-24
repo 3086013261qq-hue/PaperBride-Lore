@@ -1,0 +1,107 @@
+{
+  "version": "1.0.0",
+  "name": "PaperBride MVU visual fidelity lock",
+  "status": "HARD_LOCK",
+  "inheritance": {
+    "interactionPattern": "DreamLantern + Arknights mature runtime",
+    "interactionEngine": "native-scroll-snap",
+    "previewRule": "swipe/arrow/dot only changes previewId; worldbook writes only on explicit enter",
+    "references": [
+      "3086013261qq-hue/DreamLantern-Media: docs/112_给静静的梦灯笼_MVU与远程媒体正式装配施工单_v1.0.md",
+      "3086013261qq-hue/Arknights-Lore: docs/mvu-mature-runtime-inheritance-v1.md",
+      "3086013261qq-hue/Arknights-Lore: docs/mvu-final-ui-spec-v1.md",
+      "3086013261qq-hue/Arknights-Lore: docs/mvu-arknights-visual-fidelity-v1.md"
+    ]
+  },
+  "palette": {
+    "ink": "#100B0C",
+    "lacquer": "#1A1012",
+    "deepRed": "#321317",
+    "bloodRed": "#64191C",
+    "cinnabar": "#9E332F",
+    "paper": "#E8DECB",
+    "bone": "#F1E8D9",
+    "oldGold": "#A88A59",
+    "ash": "#756A61"
+  },
+  "visualLanguage": [
+    "旧婚书",
+    "暗木与黑漆",
+    "朱砂印",
+    "红线姻缘",
+    "丧白纸页",
+    "旧金铜线",
+    "纸灰",
+    "灯影",
+    "墨晕",
+    "中式民俗悬疑"
+  ],
+  "layout": {
+    "maxWidthPx": 560,
+    "mobileWidthsPx": [360, 390, 412, 430],
+    "tabs": "thin-bookmark-tabs",
+    "chapterCarousel": {
+      "mode": "single-hero-with-neighbor-peek",
+      "engine": "css-scroll-snap",
+      "snapType": "x mandatory",
+      "snapAlign": "center",
+      "mobileSlideBasis": "86%",
+      "wideSlideBasis": "82%",
+      "mobileAspectRatio": "4 / 5",
+      "wideAspectRatio": "16 / 10",
+      "adjacentPreview": true,
+      "scrollbarVisible": false
+    },
+    "metadata": "thin-dark-strip",
+    "enterButton": "cinnabar-seal-action",
+    "currentBadge": "small-cinnabar-seal",
+    "music": "same-shell-singleton"
+  },
+  "required": [
+    "official illustrations dominate the chapter page",
+    "chapter image occupies the majority of the visible viewport",
+    "native horizontal swipe with scroll-snap",
+    "left/right neighboring slide edge remains visible",
+    "manifest objectPosition is applied per chapter",
+    "red thread / paper ash / lantern glow FX have real DOM nodes",
+    "FX layer uses pointer-events:none",
+    "prefers-reduced-motion degrades animation",
+    "music iframe persists across chapter/music tab navigation",
+    "mobile UI keeps the same visual fidelity instead of collapsing into generic rectangles"
+  ],
+  "forbidden": [
+    "two-column chapter card grid",
+    "three-column chapter card grid",
+    "large beige explanation panel",
+    "large beige card footer",
+    "black backend grid background",
+    "dashboard layout",
+    "app-store cover wall",
+    "equal-sized generic rectangular tabs",
+    "giant vertical current-chapter badge",
+    "glassmorphism",
+    "cyberpunk neon",
+    "material/bootstrap style cards",
+    "custom pointer-drag translate carousel when native scroll-snap is available"
+  ],
+  "fxBudget": {
+    "maxMobileNodes": 10,
+    "redThreads": 2,
+    "ash": 4,
+    "lanternGlow": 2,
+    "inkMist": 1
+  },
+  "visualQa": {
+    "hardRule": "Hide all title text: composition, image dominance, red-thread/seal/paper language must still read as Paper Bride folk-horror rather than a generic web dashboard.",
+    "screenshotsRequired": [
+      "360px chapter carousel",
+      "390px chapter carousel",
+      "412px music page",
+      "430px chapter carousel with neighbor peek"
+    ],
+    "failOnPrototypeLook": true,
+    "failOnTwoColumnCards": true,
+    "failOnLargeBeigePanels": true,
+    "failOnHorizontalPageOverflow": true
+  }
+}
