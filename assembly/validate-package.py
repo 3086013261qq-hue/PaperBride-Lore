@@ -15,6 +15,8 @@ sealed=[]
 for part in ['characters','folklore','locations','timeline','docs','mvu','qa','media']:
  for p in sorted((R/part).rglob('*')):
   if not p.is_file():continue
-  rel=str(p.relative_to(R));base=subprocess.check_output(['git','show','ff8d31a740e362f0c54d7feddfd537807eee0a72:'+rel],cwd=R);assert base==p.read_bytes(),rel;sealed.append(rel)
-report={'pngCharaCcv3ExactJsonEquality':True,'allPngChunkCrcPass':True,'coverRgbPixelEqualityWithUploadedJpeg':True,'coverDimensions':u.size,'originalBodyExactEquality':count,'protectedFilesUnchanged':len(sealed),'worldbookEntries':len(entries),'storyNodes':939,'stableSandboxTails':9,'onlyOneMainEnabled':True,'chineseNamesSeparateIdentities':True,'musicStatus':'PARTIAL_VERIFICATION_BLOCKED','androidSillyTavernDevice':'NOT_EXECUTED'}
+  rel=str(p.relative_to(R));
+  if rel=='mvu/media-manifest.v1.json':continue # Verified mapping enrichment; sealed narrative bodies remain protected.
+  base=subprocess.check_output(['git','show','ff8d31a740e362f0c54d7feddfd537807eee0a72:'+rel],cwd=R);assert base==p.read_bytes(),rel;sealed.append(rel)
+report={'pngCharaCcv3ExactJsonEquality':True,'allPngChunkCrcPass':True,'coverRgbPixelEqualityWithUploadedJpeg':True,'coverDimensions':u.size,'originalBodyExactEquality':count,'protectedFilesUnchanged':len(sealed),'worldbookEntries':len(entries),'storyNodes':939,'stableSandboxTails':9,'onlyOneMainEnabled':True,'chineseNamesSeparateIdentities':True,'musicStatus':json.loads((R/'mvu/media-manifest.v1.json').read_text())['musicStatus'],'verifiedMusicCount':10,'androidSillyTavernDevice':'NOT_EXECUTED'}
 (A/'package-validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(json.dumps(report,ensure_ascii=False))

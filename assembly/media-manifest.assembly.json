@@ -221,8 +221,14 @@
       "title": "芊芊",
       "artist": "回音哥",
       "classification": "user_extra",
-      "neteaseId": null,
-      "verify": "PENDING"
+      "neteaseId": "102138",
+      "verify": "VERIFIED",
+      "providerTitle": "芊芊",
+      "providerArtists": [
+        "回音哥"
+      ],
+      "providerAlbum": "回音Echo",
+      "evidence": "assembly/evidence/detail-102138.json"
     }
   ],
   "musicRules": {
@@ -232,5 +238,5 @@
     "finalBuildRequiresAllIdsVerified": true,
     "allowCoverOrRemixSubstitution": false
   },
-  "verifiedCount": 9
+  "verifiedCount": 10
 }

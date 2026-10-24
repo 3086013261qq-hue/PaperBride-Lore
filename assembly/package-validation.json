@@ -7,12 +7,13 @@
     1536
   ],
   "originalBodyExactEquality": 152,
-  "protectedFilesUnchanged": 97,
+  "protectedFilesUnchanged": 96,
   "worldbookEntries": 172,
   "storyNodes": 939,
   "stableSandboxTails": 9,
   "onlyOneMainEnabled": true,
   "chineseNamesSeparateIdentities": true,
   "musicStatus": "PARTIAL_VERIFICATION_BLOCKED",
+  "verifiedMusicCount": 10,
   "androidSillyTavernDevice": "NOT_EXECUTED"
 }

@@ -66,7 +66,7 @@ assert sum(len(re.findall(r'^-事件',v,re.M))-1 for v in baselines.values())==9
 assert sum(e['enabled'] for e in entries if e['comment'].startswith('时间线-'))==1
 assert all(e['keys'] for e in entries if not e['constant'])
 # Music verification is independently guarded. Exact details must exist, not guessed IDs.
-ids=[2740900839,1866766554,1911377814,1970855116,2065906413,2117875423,2615464956,2722064669,3406955304,None,None]
+ids=[int(t["neteaseId"]) if t["neteaseId"] else None for t in m["tracks"]]
 for t,id in zip(m['tracks'],ids):
  t['neteaseId']=str(id) if id else None;t['verify']='PENDING';
  if id:
@@ -76,7 +76,7 @@ for t,id in zip(m['tracks'],ids):
 for t in m['tracks']:
  if t['slot'] in [1,3,9]:t['verificationNote']='网易云署名Uri，施工单署名余力；同名身份需官方补证。'
  if t['slot']==6:t['verificationNote']='网易云主艺人仅列吴轶飞/纸嫁衣；施工单徐波署名需官方补证。'
- if t['slot'] not in [10,11]:t['verify']='VERIFIED'
+ if t['slot'] != 10:t['verify']='VERIFIED'
  if t['slot'] in [1,3,9]:t['verificationNote']='网易云Uri与署名余力对照：song3-credit-extract.json；共用艺人ID12184584。'
  if t['slot']==6:t['verificationNote']='官方视频BV16N4y1p7dn署名吴轶飞/徐波；网易云官方专辑主艺人仅列吴轶飞/纸嫁衣，保留两侧原始署名。'
 m['musicStatus']='PARTIAL_VERIFICATION_BLOCKED';m['verifiedCount']=sum(t['verify']=='VERIFIED' for t in m['tracks']);dump(A/'media-manifest.assembly.json',m)

@@ -86,6 +86,10 @@
       "pass": true
     },
     {
+      "name": "preview identifies inactive chapter",
+      "pass": true
+    },
+    {
       "name": "cancel no writes",
       "pass": true
     },
