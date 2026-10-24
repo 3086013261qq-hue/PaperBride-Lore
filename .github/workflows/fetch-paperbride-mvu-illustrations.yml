@@ -1,0 +1,63 @@
+name: Fetch PaperBride MVU Illustrations
+
+on:
+  push:
+    paths:
+      - '.github/workflows/fetch-paperbride-mvu-illustrations.yml'
+      - 'media/mvu/illustrations/source-map.v2.json'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-illustrations:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch selected official illustrations
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p media/mvu/illustrations
+          curl -fL --retry 3 --retry-delay 2 'https://img2-tc.tapimg.com/moment/etag/FqDYfeheHJswkxCBsQT1VEuSXptf.jpg/_tap_ugc.jpg' -o media/mvu/illustrations/MAIN01_ning-moqi-official.jpg
+          curl -fL --retry 3 --retry-delay 2 'https://media.9game.cn/gamebase/2021/8/2/228003968.jpg' -o media/mvu/illustrations/MAIN02_tao-official-promo.jpg
+          curl -fL --retry 3 --retry-delay 2 'https://img2-tc.tapimg.com/bbcode/images/fc7fb3a40bf5670109fdc237fc3f2045.jpg/_tap_ugc.jpg' -o media/mvu/illustrations/MAIN03_wang-official.jpg
+          curl -fL --retry 3 --retry-delay 2 'https://img2-tc.tapimg.com/moment/etag/Fh4rrtFkbsZNx1zvOEUIDtqF2W_l.png/_tap_ugc.jpg' -o media/mvu/illustrations/MAIN04_zhang-cui-official.jpg
+          curl -fL --retry 3 --retry-delay 2 'https://img2-tc.tapimg.com/moment/etag/FmWt0RcUzY6XvjYOEKFpDH74LQXe.png/_tap_ugc.jpg' -o media/mvu/illustrations/MAIN05_tao-xun-official.jpg
+          curl -fL --retry 3 --retry-delay 2 'https://img2-tc.tapimg.com/moment/etag/FsCZogcocLfAvtUA1I6Jm42-pdkd.jpg/_tap_ugc.jpg' -o media/mvu/illustrations/MAIN06_xi-xiao-official.jpg
+          curl -fL --retry 3 --retry-delay 2 'https://img2-tc.tapimg.com/moment/etag/Fp4QK4siTrNb65eNoKq17LKSgIXq.png/_tap_ugc.jpg' -o media/mvu/illustrations/MAIN07_li-du-official.jpg
+          curl -fL --retry 3 --retry-delay 2 'https://img2-tc.tapimg.com/moment/etag/FicahP0YTZv73FkSGhUeAYCMfLoZ.jpg/_tap_ugc.jpg' -o media/mvu/illustrations/MAIN08_twins-official.jpg
+          curl -fL --retry 3 --retry-delay 2 'https://img2-tc.tapimg.com/moment/etag/Fkj8qHKyUQUMXvEl62JXL1RfmZJp_20260528133243.jpg/_tap_ugc.jpg' -o media/mvu/illustrations/MAIN09_luofu-official.jpg
+
+      - name: Validate files
+        shell: bash
+        run: |
+          set -euo pipefail
+          count=0
+          for f in media/mvu/illustrations/MAIN0*.jpg; do
+            test -s "$f"
+            bytes=$(wc -c < "$f")
+            test "$bytes" -gt 15000
+            file "$f" | grep -Eiq 'JPEG image|PNG image|Web/P image'
+            count=$((count+1))
+          done
+          test "$count" -eq 9
+          echo '9/9 illustration validation PASS'
+
+      - name: Commit illustrations
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add media/mvu/illustrations/MAIN0*.jpg
+          if git diff --cached --quiet; then
+            echo 'Illustrations already current; no commit needed.'
+            exit 0
+          fi
+          git commit -m 'media: ingest nine official MVU illustrations [skip ci]'
+          git push origin HEAD:main
