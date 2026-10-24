@@ -1,0 +1,94 @@
+{
+  "version": "2.0.0",
+  "purpose": "MVU chapter illustration replacements; no app-store/icon covers",
+  "rules": [
+    "prefer official PaperBride/TapTap promotional wallpaper or official Steam promotional art",
+    "preserve protagonist recognizability and signature accessories",
+    "store repository copies and serve through jsDelivr",
+    "do not use AI redraws or fanart as chapter art"
+  ],
+  "items": {
+    "MAIN01": {
+      "title": "纸嫁衣",
+      "asset": "MAIN01_ning-moqi-official.jpg",
+      "sourceUrl": "https://img2-tc.tapimg.com/moment/etag/FqDYfeheHJswkxCBsQT1VEuSXptf.jpg/_tap_ugc.jpg",
+      "sourcePage": "https://www.taptap.cn/moment/710187476035047336",
+      "provenance": "official_taptap_wallpaper",
+      "subject": "宁子服×聂莫琪",
+      "objectPosition": "50% 48%"
+    },
+    "MAIN02": {
+      "title": "纸嫁衣2：奘铃村",
+      "asset": "MAIN02_tao-official-promo.jpg",
+      "sourceUrl": "https://media.9game.cn/gamebase/2021/8/2/228003968.jpg",
+      "sourcePage": "https://www.9game.cn/zjy2zlc/5372479.html",
+      "officialReleaseEvidence": "Paper Bride 2 official Steam/TapTap art collection explicitly includes promotional/4K original art",
+      "provenance": "official_promotional_art_public_mirror",
+      "subject": "陶梦嫣与纸嫁衣意象",
+      "objectPosition": "50% 45%"
+    },
+    "MAIN03": {
+      "title": "纸嫁衣3：鸳鸯债",
+      "asset": "MAIN03_wang-official.jpg",
+      "sourceUrl": "https://img2-tc.tapimg.com/bbcode/images/fc7fb3a40bf5670109fdc237fc3f2045.jpg/_tap_ugc.jpg",
+      "sourcePage": "https://www.taptap.cn/moment/232835670396109806",
+      "provenance": "official_taptap_hd_wallpaper",
+      "subject": "王娇彤与红白嫁衣意象",
+      "objectPosition": "42% 48%"
+    },
+    "MAIN04": {
+      "title": "纸嫁衣4：红丝缠",
+      "asset": "MAIN04_zhang-cui-official.jpg",
+      "sourceUrl": "https://img2-tc.tapimg.com/moment/etag/Fh4rrtFkbsZNx1zvOEUIDtqF2W_l.png/_tap_ugc.jpg",
+      "sourcePage": "https://www.taptap.cn/moment/308543761485398630",
+      "provenance": "official_taptap_couple_wallpaper",
+      "subject": "张辰瑞×崔婉莺婚服",
+      "objectPosition": "50% 48%"
+    },
+    "MAIN05": {
+      "title": "纸嫁衣5：来生戏",
+      "asset": "MAIN05_tao-xun-official.jpg",
+      "sourceUrl": "https://img2-tc.tapimg.com/moment/etag/FmWt0RcUzY6XvjYOEKFpDH74LQXe.png/_tap_ugc.jpg",
+      "sourcePage": "https://www.taptap.cn/moment/431751267417587875",
+      "provenance": "official_taptap_wallpaper",
+      "subject": "陶梦嫣×荀元丰",
+      "objectPosition": "50% 38%"
+    },
+    "MAIN06": {
+      "title": "纸嫁衣6：千秋魇",
+      "asset": "MAIN06_xi-xiao-official.jpg",
+      "sourceUrl": "https://img2-tc.tapimg.com/moment/etag/FsCZogcocLfAvtUA1I6Jm42-pdkd.jpg/_tap_ugc.jpg",
+      "sourcePage": "https://www.taptap.cn/moment/611524776346780296",
+      "provenance": "official_taptap_steam_special_art",
+      "subject": "奚月遥×肖驰Steam特供贺图",
+      "objectPosition": "20% 50%"
+    },
+    "MAIN07": {
+      "title": "纸嫁衣7：卿不负",
+      "asset": "MAIN07_li-du-official.jpg",
+      "sourceUrl": "https://img2-tc.tapimg.com/moment/etag/Fp4QK4siTrNb65eNoKq17LKSgIXq.png/_tap_ugc.jpg",
+      "sourcePage": "https://www.taptap.cn/moment/571025367125461681",
+      "provenance": "official_taptap_wallpaper",
+      "subject": "李逢泽×杜言她",
+      "objectPosition": "52% 48%"
+    },
+    "MAIN08": {
+      "title": "纸嫁衣8：千子树",
+      "asset": "MAIN08_twins-official.jpg",
+      "sourceUrl": "https://img2-tc.tapimg.com/moment/etag/FicahP0YTZv73FkSGhUeAYCMfLoZ.jpg/_tap_ugc.jpg",
+      "sourcePage": "https://www.taptap.cn/moment/690627356087289830",
+      "provenance": "official_taptap_commissioned_launch_wallpaper",
+      "subject": "聂莫黎×聂莫琪·半刹仙",
+      "objectPosition": "50% 48%"
+    },
+    "MAIN09": {
+      "title": "纸嫁衣9：罗浮梦",
+      "asset": "MAIN09_luofu-official.jpg",
+      "sourceUrl": "https://img2-tc.tapimg.com/moment/etag/Fkj8qHKyUQUMXvEl62JXL1RfmZJp_20260528133243.jpg/_tap_ugc.jpg",
+      "sourcePage": "https://www.taptap.cn/moment/809054731342187828",
+      "provenance": "official_taptap_watercolor_wallpaper",
+      "subject": "昙露凝与罗浮梦红白婚祭意象",
+      "objectPosition": "50% 55%"
+    }
+  }
+}
