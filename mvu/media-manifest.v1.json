@@ -1,7 +1,8 @@
 {
   "version": "1.0.0",
   "assetBase": "https://cdn.jsdelivr.net/gh/3086013261qq-hue/PaperBride-Lore@main/media/mvu/",
-  "coverStatus": "FETCH_PENDING",
+  "coverStatus": "VERIFIED_9_OF_9",
+  "coverCountVerified": 9,
   "musicStatus": "NETEASE_IDS_PENDING_VERIFICATION",
   "chapters": {
     "MAIN01": {"title": "纸嫁衣", "cover": "covers/MAIN01_paper-bride-1.png", "defaultStart": "2020-09-03"},
