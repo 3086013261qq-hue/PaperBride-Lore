@@ -1,242 +1,44 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "assetBase": "https://cdn.jsdelivr.net/gh/3086013261qq-hue/PaperBride-Lore@main/media/mvu/",
-  "coverStatus": "VERIFIED_9_OF_9",
+  "coverStatus": "VERIFIED_ILLUSTRATIONS_9_OF_9",
   "coverCountVerified": 9,
-  "musicStatus": "PARTIAL_VERIFICATION_BLOCKED",
+  "coverPolicy": "official promotional illustration / wallpaper; app-store icon covers deprecated",
+  "musicStatus": "VERIFIED_10_OF_10",
   "chapters": {
-    "MAIN01": {
-      "title": "纸嫁衣",
-      "cover": "covers/MAIN01_paper-bride-1.png",
-      "defaultStart": "2020-09-03"
-    },
-    "MAIN02": {
-      "title": "纸嫁衣2：奘铃村",
-      "cover": "covers/MAIN02_zangling-village.jpg",
-      "defaultStart": "2021-08-22"
-    },
-    "MAIN03": {
-      "title": "纸嫁衣3：鸳鸯债",
-      "cover": "covers/MAIN03_mandarin-duck-debt.jpg",
-      "defaultStart": "2022-01-15"
-    },
-    "MAIN04": {
-      "title": "纸嫁衣4：红丝缠",
-      "cover": "covers/MAIN04_red-silk.png",
-      "defaultStart": "2022-04-30"
-    },
-    "MAIN05": {
-      "title": "纸嫁衣5：来生戏",
-      "cover": "covers/MAIN05_endless-dream.png",
-      "defaultStart": "2022-08-06"
-    },
-    "MAIN06": {
-      "title": "纸嫁衣6：千秋魇",
-      "cover": "covers/MAIN06_eternal-nightmare.png",
-      "defaultStart": "2022-11-19"
-    },
-    "MAIN07": {
-      "title": "纸嫁衣7：卿不负",
-      "cover": "covers/MAIN07_qing-never-betrays.jpg",
-      "defaultStart": "2023-02-04"
-    },
-    "MAIN08": {
-      "title": "纸嫁衣8：千子树",
-      "cover": "covers/MAIN08_thousand-child-tree.jpg",
-      "defaultStart": "2023-09-03"
-    },
-    "MAIN09": {
-      "title": "纸嫁衣9：罗浮梦",
-      "cover": "covers/MAIN09_luofu-dream.jpg",
-      "defaultStart": "2024-11-15"
-    }
+    "MAIN01": {"title":"纸嫁衣","cover":"illustrations/MAIN01_ning-moqi-official.jpg","objectPosition":"50% 48%","defaultStart":"2020-09-03"},
+    "MAIN02": {"title":"纸嫁衣2：奘铃村","cover":"illustrations/MAIN02_tao-official-promo.jpg","objectPosition":"50% 45%","defaultStart":"2021-08-22"},
+    "MAIN03": {"title":"纸嫁衣3：鸳鸯债","cover":"illustrations/MAIN03_wang-official.jpg","objectPosition":"42% 48%","defaultStart":"2022-01-15"},
+    "MAIN04": {"title":"纸嫁衣4：红丝缠","cover":"illustrations/MAIN04_zhang-cui-official.jpg","objectPosition":"50% 48%","defaultStart":"2022-04-30"},
+    "MAIN05": {"title":"纸嫁衣5：来生戏","cover":"illustrations/MAIN05_tao-xun-official.jpg","objectPosition":"50% 38%","defaultStart":"2022-08-06"},
+    "MAIN06": {"title":"纸嫁衣6：千秋魇","cover":"illustrations/MAIN06_xi-xiao-official.jpg","objectPosition":"20% 50%","defaultStart":"2022-11-19"},
+    "MAIN07": {"title":"纸嫁衣7：卿不负","cover":"illustrations/MAIN07_li-du-official.jpg","objectPosition":"52% 48%","defaultStart":"2023-02-04"},
+    "MAIN08": {"title":"纸嫁衣8：千子树","cover":"illustrations/MAIN08_twins-official.jpg","objectPosition":"50% 48%","defaultStart":"2023-09-03"},
+    "MAIN09": {"title":"纸嫁衣9：罗浮梦","cover":"illustrations/MAIN09_luofu-official.jpg","objectPosition":"50% 55%","defaultStart":"2024-11-15"}
   },
   "tracks": [
-    {
-      "slot": 1,
-      "chapter": "MAIN01",
-      "title": "爱逢琪时",
-      "artist": "吴轶飞 / 余力",
-      "classification": "official_character_theme_used_as_game1_track",
-      "neteaseId": "2740900839",
-      "verify": "VERIFIED",
-      "providerTitle": "爱逢琪时",
-      "providerArtists": [
-        "吴轶飞",
-        "Uri",
-        "纸嫁衣"
-      ],
-      "providerAlbum": "无间梦境|纸嫁衣系列",
-      "evidence": "assembly/evidence/detail-2740900839.json",
-      "verificationNote": "网易云Uri与署名余力对照：song3-credit-extract.json；共用艺人ID12184584。"
-    },
-    {
-      "slot": 2,
-      "chapter": "MAIN02",
-      "title": "生生世世不分离",
-      "artist": "纸嫁衣官方版本",
-      "classification": "official_game_theme",
-      "neteaseId": "1866766554",
-      "verify": "VERIFIED",
-      "providerTitle": "生生世世不分离（现代版）-主题曲",
-      "providerArtists": [
-        "纸嫁衣",
-        "喵☆酱"
-      ],
-      "providerAlbum": "《纸嫁衣2奘铃村》",
-      "evidence": "assembly/evidence/detail-1866766554.json"
-    },
-    {
-      "slot": 3,
-      "chapter": "MAIN03",
-      "title": "鸳鸯债",
-      "artist": "喵☆酱 / 余力",
-      "classification": "official_game_theme",
-      "neteaseId": "1911377814",
-      "verify": "VERIFIED",
-      "providerTitle": "鸳鸯债",
-      "providerArtists": [
-        "Uri",
-        "喵☆酱"
-      ],
-      "providerAlbum": "纸嫁衣3鸳鸯债",
-      "evidence": "assembly/evidence/detail-1911377814.json",
-      "verificationNote": "网易云Uri与署名余力对照：song3-credit-extract.json；共用艺人ID12184584。"
-    },
-    {
-      "slot": 4,
-      "chapter": "MAIN04",
-      "title": "道不得经",
-      "artist": "喵酱 / 朱剑",
-      "classification": "official_game_theme",
-      "neteaseId": "1970855116",
-      "verify": "VERIFIED",
-      "providerTitle": "道不得经 (游戏《纸嫁衣4红丝缠》主题曲)",
-      "providerArtists": [
-        "纸嫁衣",
-        "喵☆酱",
-        "朱剑"
-      ],
-      "providerAlbum": "纸嫁衣4红丝缠 (游戏《纸嫁衣4红丝缠》主题曲)",
-      "evidence": "assembly/evidence/detail-1970855116.json"
-    },
-    {
-      "slot": 5,
-      "chapter": "MAIN05",
-      "title": "来生戏",
-      "artist": "喵酱",
-      "classification": "official_game_theme",
-      "neteaseId": "2065906413",
-      "verify": "VERIFIED",
-      "providerTitle": "来生戏--无间梦境主题曲",
-      "providerArtists": [
-        "纸嫁衣",
-        "喵☆酱"
-      ],
-      "providerAlbum": "纸嫁衣第5部无间梦境",
-      "evidence": "assembly/evidence/detail-2065906413.json"
-    },
-    {
-      "slot": 6,
-      "chapter": "MAIN06",
-      "title": "你离开的村落",
-      "artist": "吴轶飞 / 徐波",
-      "classification": "official_game_theme",
-      "neteaseId": "2117875423",
-      "verify": "VERIFIED",
-      "providerTitle": "你离开的村落--《纸嫁衣6千秋魇》主题曲",
-      "providerArtists": [
-        "吴轶飞",
-        "纸嫁衣"
-      ],
-      "providerAlbum": "无间梦境|纸嫁衣6千秋魇",
-      "evidence": "assembly/evidence/detail-2117875423.json",
-      "verificationNote": "官方视频BV16N4y1p7dn署名吴轶飞/徐波；网易云官方专辑主艺人仅列吴轶飞/纸嫁衣，保留两侧原始署名。"
-    },
-    {
-      "slot": 7,
-      "chapter": "MAIN07",
-      "title": "痴情客",
-      "artist": "吴轶飞 / 喵酱 / 朱剑 / 阿秋",
-      "classification": "official_game_theme",
-      "neteaseId": "2615464956",
-      "verify": "VERIFIED",
-      "providerTitle": "痴情客（《纸嫁衣7卿不负》游戏主题曲）",
-      "providerArtists": [
-        "吴轶飞",
-        "朱剑",
-        "纸嫁衣",
-        "喵☆酱",
-        "阿秋"
-      ],
-      "providerAlbum": "无间梦境|纸嫁衣7卿不负",
-      "evidence": "assembly/evidence/detail-2615464956.json"
-    },
-    {
-      "slot": 8,
-      "chapter": "MAIN08",
-      "title": "落巢",
-      "artist": "汤汤",
-      "classification": "official_game_theme",
-      "neteaseId": "2722064669",
-      "verify": "VERIFIED",
-      "providerTitle": "落巢",
-      "providerArtists": [
-        "汤汤",
-        "纸嫁衣"
-      ],
-      "providerAlbum": "无间梦境|纸嫁衣8千子树",
-      "evidence": "assembly/evidence/detail-2722064669.json"
-    },
-    {
-      "slot": 9,
-      "chapter": "MAIN09",
-      "title": "罗浮站台",
-      "artist": "余力 / 吴轶飞",
-      "classification": "official_game_theme",
-      "neteaseId": "3406955304",
-      "verify": "VERIFIED",
-      "providerTitle": "罗浮站台",
-      "providerArtists": [
-        "吴轶飞",
-        "纸嫁衣",
-        "Uri"
-      ],
-      "providerAlbum": "无间梦境|纸嫁衣9罗浮梦",
-      "evidence": "assembly/evidence/detail-3406955304.json",
-      "verificationNote": "网易云Uri与署名余力对照：song3-credit-extract.json；共用艺人ID12184584。"
-    },
-    {
-      "slot": 10,
-      "chapter": null,
-      "title": "海市蜃楼",
-      "artist": "三叔说",
-      "classification": "user_extra",
-      "neteaseId": null,
-      "verify": "PENDING"
-    },
-    {
-      "slot": 11,
-      "chapter": null,
-      "title": "芊芊",
-      "artist": "回音哥",
-      "classification": "user_extra",
-      "neteaseId": "102138",
-      "verify": "VERIFIED",
-      "providerTitle": "芊芊",
-      "providerArtists": [
-        "回音哥"
-      ],
-      "providerAlbum": "回音Echo",
-      "evidence": "assembly/evidence/detail-102138.json"
-    }
+    {"slot":1,"chapter":"MAIN01","title":"爱逢琪时","artist":"吴轶飞 / 余力","classification":"official_character_theme_used_as_game1_track","neteaseId":"2740900839","verify":"VERIFIED","providerTitle":"爱逢琪时","providerArtists":["吴轶飞","Uri","纸嫁衣"],"providerAlbum":"无间梦境|纸嫁衣系列","evidence":"assembly/evidence/detail-2740900839.json","verificationNote":"网易云Uri与署名余力对照：song3-credit-extract.json；共用艺人ID12184584。"},
+    {"slot":2,"chapter":"MAIN02","title":"生生世世不分离","artist":"纸嫁衣官方版本","classification":"official_game_theme","neteaseId":"1866766554","verify":"VERIFIED","providerTitle":"生生世世不分离（现代版）-主题曲","providerArtists":["纸嫁衣","喵☆酱"],"providerAlbum":"《纸嫁衣2奘铃村》","evidence":"assembly/evidence/detail-1866766554.json"},
+    {"slot":3,"chapter":"MAIN03","title":"鸳鸯债","artist":"喵☆酱 / 余力","classification":"official_game_theme","neteaseId":"1911377814","verify":"VERIFIED","providerTitle":"鸳鸯债","providerArtists":["Uri","喵☆酱"],"providerAlbum":"纸嫁衣3鸳鸯债","evidence":"assembly/evidence/detail-1911377814.json","verificationNote":"网易云Uri与署名余力对照：song3-credit-extract.json；共用艺人ID12184584。"},
+    {"slot":4,"chapter":"MAIN04","title":"道不得经","artist":"喵酱 / 朱剑","classification":"official_game_theme","neteaseId":"1970855116","verify":"VERIFIED","providerTitle":"道不得经 (游戏《纸嫁衣4红丝缠》主题曲)","providerArtists":["纸嫁衣","喵☆酱","朱剑"],"providerAlbum":"纸嫁衣4红丝缠 (游戏《纸嫁衣4红丝缠》主题曲)","evidence":"assembly/evidence/detail-1970855116.json"},
+    {"slot":5,"chapter":"MAIN05","title":"来生戏","artist":"喵酱","classification":"official_game_theme","neteaseId":"2065906413","verify":"VERIFIED","providerTitle":"来生戏--无间梦境主题曲","providerArtists":["纸嫁衣","喵☆酱"],"providerAlbum":"纸嫁衣第5部无间梦境","evidence":"assembly/evidence/detail-2065906413.json"},
+    {"slot":6,"chapter":"MAIN06","title":"你离开的村落","artist":"吴轶飞 / 徐波","classification":"official_game_theme","neteaseId":"2117875423","verify":"VERIFIED","providerTitle":"你离开的村落--《纸嫁衣6千秋魇》主题曲","providerArtists":["吴轶飞","纸嫁衣"],"providerAlbum":"无间梦境|纸嫁衣6千秋魇","evidence":"assembly/evidence/detail-2117875423.json","verificationNote":"官方视频BV16N4y1p7dn署名吴轶飞/徐波；网易云官方专辑主艺人仅列吴轶飞/纸嫁衣，保留两侧原始署名。"},
+    {"slot":7,"chapter":"MAIN07","title":"痴情客","artist":"吴轶飞 / 喵酱 / 朱剑 / 阿秋","classification":"official_game_theme","neteaseId":"2615464956","verify":"VERIFIED","providerTitle":"痴情客（《纸嫁衣7卿不负》游戏主题曲）","providerArtists":["吴轶飞","朱剑","纸嫁衣","喵☆酱","阿秋"],"providerAlbum":"无间梦境|纸嫁衣7卿不负","evidence":"assembly/evidence/detail-2615464956.json"},
+    {"slot":8,"chapter":"MAIN08","title":"落巢","artist":"汤汤","classification":"official_game_theme","neteaseId":"2722064669","verify":"VERIFIED","providerTitle":"落巢","providerArtists":["汤汤","纸嫁衣"],"providerAlbum":"无间梦境|纸嫁衣8千子树","evidence":"assembly/evidence/detail-2722064669.json"},
+    {"slot":9,"chapter":"MAIN09","title":"罗浮站台","artist":"余力 / 吴轶飞","classification":"official_game_theme","neteaseId":"3406955304","verify":"VERIFIED","providerTitle":"罗浮站台","providerArtists":["吴轶飞","纸嫁衣","Uri"],"providerAlbum":"无间梦境|纸嫁衣9罗浮梦","evidence":"assembly/evidence/detail-3406955304.json","verificationNote":"网易云Uri与署名余力对照：song3-credit-extract.json；共用艺人ID12184584。"},
+    {"slot":10,"chapter":null,"title":"芊芊","artist":"回音哥","classification":"user_extra","neteaseId":"102138","verify":"VERIFIED","providerTitle":"芊芊","providerArtists":["回音哥"],"providerAlbum":"回音Echo","evidence":"assembly/evidence/detail-102138.json"}
   ],
   "musicRules": {
     "autoPlay": false,
     "maxActivePlayers": 1,
     "provider": "netease",
     "finalBuildRequiresAllIdsVerified": true,
-    "allowCoverOrRemixSubstitution": false
+    "allowCoverOrRemixSubstitution": false,
+    "persistAcrossMvuViews": true,
+    "viewNavigationMustNotDestroyPlayer": true
   },
-  "verifiedCount": 10
+  "verifiedCount": 10,
+  "removedTracks": [
+    {"title":"海市蜃楼","artist":"三叔说","reason":"user requested removal after repeated provider unavailability"}
+  ]
 }
