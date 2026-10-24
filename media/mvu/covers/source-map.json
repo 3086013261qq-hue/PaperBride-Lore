@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "policy": "Store official/public app cover assets in this repository, then serve only through jsDelivr at runtime. Source URLs are provenance only and must not be hotlinked by MVU.",
+  "items": {
+    "MAIN01": {"title":"纸嫁衣","sourcePage":"https://www.taptap.cn/app/203666","sourceAsset":"https://img-tc.tapimg.com/market/images/8701fc4a532368dc2609702f145ac9ac.png","repoPath":"media/mvu/covers/MAIN01_paper-bride-1.png"},
+    "MAIN02": {"title":"纸嫁衣2：奘铃村","sourcePage":"https://www.taptap.cn/app/213906","sourceAsset":"https://img-tc.tapimg.com/market/images/b21509d89a8ba7e6ae58bbcf2e1f0623.jpg","repoPath":"media/mvu/covers/MAIN02_zangling-village.jpg"},
+    "MAIN03": {"title":"纸嫁衣3：鸳鸯债","sourcePage":"https://www.taptap.cn/app/225975","sourceAsset":"https://img-tc.tapimg.com/market/images/742326b93462de25050d2ec6fa414305.jpg","repoPath":"media/mvu/covers/MAIN03_mandarin-duck-debt.jpg"},
+    "MAIN04": {"title":"纸嫁衣4：红丝缠","sourcePage":"https://www.taptap.cn/app/761108","sourceAsset":"https://img.tapimg.com/market/images/cfb0ac4d4703a84031e7a45d2495e92c.png","repoPath":"media/mvu/covers/MAIN04_red-silk.png"},
+    "MAIN05": {"title":"纸嫁衣5：来生戏","sourcePage":"https://www.taptap.cn/app/713181","sourceAsset":"https://img-tc.tapimg.com/market/images/ea092c57e4e908ee2d1b6205deb57268.png","repoPath":"media/mvu/covers/MAIN05_endless-dream.png"},
+    "MAIN06": {"title":"纸嫁衣6：千秋魇","sourcePage":"https://www.taptap.cn/app/713210","sourceAsset":"https://img-tc.tapimg.com/market/images/a50ccdc0588f679ed248718157d22cf4.png","repoPath":"media/mvu/covers/MAIN06_eternal-nightmare.png"},
+    "MAIN07": {"title":"纸嫁衣7：卿不负","sourcePage":"https://www.taptap.cn/app/696482","sourceAsset":"https://img-tc.tapimg.com/market/images/be4770c96ec4d1a96ad6e137f15440fd.jpg","repoPath":"media/mvu/covers/MAIN07_qing-never-betrays.jpg"},
+    "MAIN08": {"title":"纸嫁衣8：千子树","sourcePage":"https://www.taptap.cn/app/749962","sourceAsset":"https://img-tc.tapimg.com/market/images/f2f867ec085ab0ca0198c884252d7a4c.jpg","repoPath":"media/mvu/covers/MAIN08_thousand-child-tree.jpg"},
+    "MAIN09": {"title":"纸嫁衣9：罗浮梦","sourcePage":"https://www.taptap.cn/app/845749","sourceAsset":"https://img-tc.tapimg.com/market/images/b683d5eb3168fd13e36abb76f9f50a81.jpg","repoPath":"media/mvu/covers/MAIN09_luofu-dream.jpg"}
+  }
+}
