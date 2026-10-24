@@ -4,10 +4,12 @@ on:
   push:
     paths:
       - '.github/workflows/fetch-paperbride-mvu-covers.yml'
+  workflow_dispatch:
 
 permissions:
   contents: write
 
+# One-shot media ingest helper. Cover files are committed with [skip ci], so the bot commit cannot recurse.
 jobs:
   fetch-covers:
     runs-on: ubuntu-latest
